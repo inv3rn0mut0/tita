@@ -1,0 +1,3366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tybir_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>598</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Gods, I hate this place. A man likes to see a nice blue sky over his head, possibly with several naked lads and lasses in the way, asking if I had a nice nap and would like a drink. Not... intestines and the like. Hope you're not planning a long stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Yes, lad?"</DefaultText>
+      <FemaleText>"Yes, lass?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Can't stop thinking about your Miel Avest. You know, you build up an impression of what a city of immortals might look like. Libraries and such. Maybe some tea shops." 
+
+"That wasn't a city. That was a prison, built by your Changing God, and your siblings *live there by choice*, bickering over who owns the cutlery while their executioner waits at the door. Why do all of you let him get away with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Gossip and backbiting is it? I'm always game for that. Ask away, lad."</DefaultText>
+      <FemaleText>"Gossip and backbiting is it? I'm always game for that. Ask away, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How are you holding up?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I think it's best we part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I had some questions about the people we're traveling with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What do you think of Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What do you think of Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What do you think of Satsada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What do you think of Riastrad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What do you think of Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What do you think of Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What do you think of Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Dour old son of a what-not, isn't he? You certainly didn't bring him along for laughs."
+
+{SCRIPT: Initial reaction = hate.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I have additional questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Not in the least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Poor fellow. Saw a lot like him in the Bashoon wars. Which reminds me of a... I say, is he alone? I could swear I saw someone with him. Weird."
+
+{SCRIPT: Initial reaction.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Don't like that little gadget of yours. Seems like it has a mind of its own sometimes."
+
+{SCRIPT: Initial reaction.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What foolish notion made you think it was right to bring a little girl with us? I've been called irresponsible before, but this..."
+
+{SCRIPT: Initial reaction.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"No more dangerous blade in all of Sagus Cliffs, but there's something about her that makes a man want to take her out of her shell and... Er, never mind, never mind. Talking to myself."
+
+{SCRIPT: Initial reaction.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Sh-she's actually there? Huh. I thought it was the booze."
+
+{SCRIPT: Initial reaction.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I knew her once, before she, er... diversified. Lovely girl, but I'm not sure if more is better in this case."
+{SCRIPT: Initial reaction = neutral.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Hmm? Oh, I'm well enough. But listen, lad. I've been feeling a bit... guilty, on account of some of the tall tales I've told you in the past. I... I'd like to set things straight."</DefaultText>
+      <FemaleText>"Hmm? Oh, I'm well enough. But listen, lass. I've been feeling a bit... guilty, on account of some of the tall tales I've told you in the past. I... I'd like to set things straight."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I'm fine, lad. I... I just hope you won't regret our friendship when the time comes to part ways."</DefaultText>
+      <FemaleText>"I'm fine, lass. I... I just hope you won't regret our friendship when the time comes to part ways."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Never better, lad. Don't you worry. I'm with you to the end!"</DefaultText>
+      <FemaleText>"Never better, lass. Don't you worry. I'm with you to the end!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Just grand, lad. Never happier than when I can help out a friend."</DefaultText>
+      <FemaleText>"Just grand, lass. Never happier than when I can help out a friend."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tip top, laddie! I was just thinking how lucky I am that fate brought us together like this!"</DefaultText>
+      <FemaleText>"Tip top, lassie! I was just thinking how lucky I am that fate brought us together like this!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I'm just a simple son of toil, lad. At least I was until the winds of war swept me up from my father's farm and tossed me into the big bad world. And those simple farmer's values have been both my downfall and my salvation, time and again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Parting ways? Damned sorry to hear it. It's been a pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Probably for the best, if we're being honest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You beat me to the punch, friend. I've been feeling this coming for a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"If you have need of me again, I'll be at {X, being wherever the CNPC will be}."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Only as long as it takes to find the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ah. So the rest of our short and painful lives, then. Fine, fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I want ask you about your exploits again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText> Follow-up PQ. 104</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Does that mean you were a soldier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Tell me again about your life as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText> Follow-up PQ. 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You say your simple values have given you trouble? How?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Explain again how your honesty has hurt you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I have other questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"That's all I wanted. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ask away, lad."</DefaultText>
+      <FemaleText>"Ask away, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Bank 192</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Indeed I was, and not the worst of 'em, either, if I do say so myself." He thumps his chest with his fist. "Never fought for a cause I didn't believe in. Never struck a blow that wasn't deserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>He chuckles. "How many hours can you spare?You don't really want to hear boring old war stories from a boring old soldier like myself, do you? All that's really important to a leader like you is, can I fight, and am I loyal? Correct?" 
+
+He puts a hand to his heart. "And the answers to that are, yes, and yes. I won't let you down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Bank 195</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Because I'm always taking people at face value. No matter how many times I get my fingers burned, I keep thinking that an honest face means an honest heart. Nothing could be further than the truth, but do I remember that?"
+
+He laughs bitterly. "Never!
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"By making a fool of me. I always think people are as open and honest as I am, and I end up agreeing to help them with things I shouldn't." He shakes his head ruefully. "Lands me in trouble every time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"What do you think of Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Isn't he a treasure. Do anything for you, he would. Do anything for *anybody*, if you made him think it was exciting enough."
+
+{SCRIPT: Initial reaction.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Optional Question 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Optional Question 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"You're being unfair to the castoffs. Everyone works with the life they're given."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Where's all this coming from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"That's the problem right there!" he declares, smacking his palm with his fist. "You're damn near immortal. You don't *make do* with a bad hand, Sorrow or no. You grab hold! You change things! You make a name for yourself..." He trails off, hearing his own words.  
+
+"Oh," he says, with a sad smile. "Listen to me. I doubt your Changing God would have phrased things much different, would he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"This isn't about me or the Changing God, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I don't let him get away with *anything*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Response 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Response 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"What else would it be about?" he declares, throwing his hands up in the air. They falter there, and fall back to his sides.
+
+"Oh," he says, looking past you. "Oh. You're right. It isn't." His lip quirks. "You bring out the honesty in me. I hate it."
+
+He massages his eyes. "And yes, being honest, I don't see much of a difference between your Changing God and me. Give or take immortality, mind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"No," he says, with a small smile. "No, you don't, do you?"
+
+He sweeps his hands through his hair with a heavy sign.. "I'm sorry. You're as new to all of this as I am. I..." He trails off, hearing his own words. 
+
+"No, that's not right, is it?" he says, with a smile tinged with sadness. "Give me a body that doesn't die, and I can't say I would have done better than your Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"I hope you got what you wanted out of the Heart, because that sacrifice is the last thing you will ever get out of me."
+
+{GAVIN: Write this after Heart is written.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Don't be angry. I wouldn't have done it if it wasn't absolutely necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"How many commanders have I had who said the very thing as they sent everyone but themselves to their deaths?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>He gapes at you.
+
+"How can you be calm?" he says, shaking his head. "Your brothers and sisters died in that valley, *slaughtered* by the monster chasing your father. That carnage was his fault, and is he suffering for it? Is he..." he trails off, hearing his own words. 
+
+"No," he says quietly. "He doesn't care, does he?  Because he got away, and damn the cost." He gives you a weary smile. "Don't know where I get off, judging *him*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"An all too common one in this day and age, I'm afraid. Ex-soldier, fallen on hard times, doing what he can to make a living while staying on the right side of the law... most of the time."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"My story? Ha. I've told so many I'm not sure which are mine anymore, but if you like I'll tell you the ones I remember today. What would you like to know? Where I'm from? What I've done with my life? Why I'm following you when I could be ruling a small kingdom in the Beyond?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>He smiles and opens his mouth, then frowns and closes it again. "I... I've had a lot of speeches prepared for if you asked me that, lad. Stories to make you love me, to make you think me a hero, or that I'm your friend, but..."
+
+He coughs. "Well, those are the stories I tell to people I'm planning to trick, and... No, let's call them what they really are, shall we? Those are the *lies* I tell to people I'm planning to trick, and believe me, I've been planning to trick you from the beginning. But... well, somewhere along the way, I changed my mind, and now... Now I don't know what to say."
+{ADAM: Can this happen before Tybir has a sucessful conversation with Auvigne?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"So, you're a con man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"I'm surprised you've admitted you're a con man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Are you conning me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Are you sure you're not conning me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"What wrongs have you done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Tell me again about your checkered past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Where did you grow up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"What were you saying about your home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"How were you planning to trick me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Tell me again how you were tricking me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"What made you change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"So why change now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Tybir sighs. "Too many to name, lad. With a ship load of regret attached to every one. Which is why I live right these days. I couldn't carry the weight anymore."</DefaultText>
+      <FemaleText>Tybir sighs. "Too many to name, lass. With a ship load of regret attached to every one. Which is why I live right these days. I couldn't carry the weight anymore."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Trying to trick me into telling tales, lad? No, no. I'll not glamorize sordid deeds by making grand adventures out of 'em."
+
+He grins. "You want a tale worth telling, wait until we're done with *this* little escapade. Now that'll be a story for a long night in the taproom!"</DefaultText>
+      <FemaleText>"Trying to trick me into telling tales, lass? No, no. I'll not glamorize sordid deeds by making grand adventures out of 'em."
+
+He grins. "You want a tale worth telling, wait until we're done with *this* little escapade. Now that'll be a story for a long night in the taproom!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Nowhere you've ever heard of or would ever like to go. A little farm in the Plowshares, about a days walk from absolutely nothing. Thought it was as dull as dust back then, but now..." He sighs. "Dull doesn't seem so bad after the life I've led."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"I was saying it was at the back end of nowhere." He grunts. "Probably isn't even there anymore, now that I think of it. What with the range wars and the collapse of the protectorate."
+
+He shrugs. "Well, it was a nice place to be from, and it would have been a nice place to grow old, but how likely is that to happen to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Well... I've given it up, but, aye. I have been, many times. Though I'd say I was conning myself as often as anyone else. Never could see the forest for the dreams."
+
+He looks at the ground, brow furrowing. "Truth is, I... I'm just not very good at anything else but talking. Terrible farmer, poor soldier, worse bodyguard. But when I spin a tale, the coin just falls into my hands. So I ask you, should I turn my back on my one true gift?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Well, I had to admit it to myself first, didn't I? And that took a fair amount of time. But you were the second to know, I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"You? No. Never. I've been on the level with you since we met. Honest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Welllll, I might have thought about it, when we were just starting out, but seeing as our goals lined up so perfectly, why, there was no need, was there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Oh, I didn't have anything definite in mind. I was just stringing you along, waiting for the right moment to capitalize on our association." He looks embarrassed. "Might have sold you to the Changing God, or the First, or pinched that Resonance Chamber thingy for myself, and seen what I could get for it on the open market. No opportunities arose, however, so I just kept letting you pay for my room and board and lived in hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I tricked you into thinking I was only tagging along because you were taking me to Auvigne." He holds up a hand. "That was certainly part of it - a great part - but I'm a lad who always keeps a hand in the game, and I've been lining up opportunities to sell you out from the very beginning. I... I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"After all you've done for me? Speaking for me to Auvigne. Showing me by your actions how dealing with people honestly and kindly pays better rewards than trying to trick one's way to happiness. How could I continue as I was in the face of all that?"
+
+He shakes his head. "It won't be easy letting go of my old ways, but I think I'm ready. I *hope* I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"It was time. I'd been planning from the beginning to sell you out once all this came to a head, to whoever offered me the best deal. But after how you helped me with Auvigne, I couldn't do it, and I wanted to square myself with you before we headed into our last stand. I wanted you to know everything so you could make up your own mind whether to trust me or not."
+
+He looks you in the eye. "Knowing what you know now, you've got every right not to believe anything I say, but I'll still say it. I'm with you. Auvigne's with you. Whatever you do next, we've got your back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I thought he was getting better, but I was wrong. He's still a boil on our collective buttocks."
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"I still don't know why you've brought him along. He's about as uplifting as quicksand."
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"D'you suppose it hurts, being so many places at once? Would she want to be cured of it, perhaps? Maybe settle down?"
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"All those dimensions she's in. Makes you wonder if she's actually in this one. Won't even talk to a fellow."
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Seems to have her head in the clouds these days, but she's still a fine girl, isn't she. I mean, just look at her."
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"A bit mean playing tricks on a simpleton, isn't it? It'd be different if he were a heel, but he ain't - sadly."
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"He's the perfect sort of fool to have around. Any dangerous work, give it to him. He'll thank you for it!"
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Endlessly entertaining, that boy. Not in the least bit sane, but just look at him go!"
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Anyone who devotes their life to keeping a mate safe is a saint in my book. Good on her."
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Anyone who devotes their life to keeping a mate safe is a fool in my book. She's a patsy."
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Are you sure she's actually there? Maybe we're all hallucinating her together."
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Well, he'll never be much to talk to, but he seems dependable at least."
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Can't get a read on him. I don't like that. I can read everybody."
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Well, he's certainly an imposing figure, but do you think he's... aware enough to be useful?"
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Seems to have come out of her mood now. Always been a bit moody, Mattie. It's one of her charms."
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Don't know why she's giving me the cold shoulder. I haven't done anything to her... lately."
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Poor thing. Wish she didn't think everyone was out to get her. Makes it hard for a man to get close."
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"I guess it has its uses."
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I gave that thing a chance, but I was right the first time. It's a menace."
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Just keep it well away from me and we'll get on fine."
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"I know I said she scares me, but she still deserves our protection, doesn't she?"
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Sh-she's certainly an uncanny little thing, isn't she?"
+
+{SCRIPT: Negative change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"The only innocents are children, I always say. I'll not be party to her losing hers."
+
+{SCRIPT: No change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"What do you think of Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"What do you think of Aligern now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"What do you think of Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"What do you think of Callistege now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"What do you think of Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"What do you think of Erritis now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"What do you think of Satsada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"What do you think of Satsada now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"What do you think of Riastrad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"What do you think of Riastrad now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"What do you think of Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"What do you think of Matkina now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"What do you think of Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"What do you think of Oom now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"What do you think of Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"What do you think of Rhin now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Not so bad, is he? I feel sorry for him. Wish he'd open up a bit, though. Let a man buy him a drink."
+
+{SCRIPT: Positive change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"I'm with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>He doesn't speak for a moment, but only eyes you, uncharacteristically grave. 
+{SCRIPT: Plays if Tybir was present during deal with Memovira.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"War makes villains of us all, but... what Herja did..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>After final battle with Memovira. 
+
+(That was terrfying!)
+
+NIX THIS ONE?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"I want to ask you about this place, and the people here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"It's a lower intestine the size of a city, and I don't miss the time I lived here."
+
+He relents with a smile. "Fine, fine. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"How do you feel about Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"What do you think of the Bloom itself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"What do you think of the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"You know Artaglio from before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"What do you know about murdens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"What do you know of Parsim Flint?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Giving up a memory (Before it happens)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"I have questions about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"How does an aneen feel about a jiraskar? I hope I can run faster than the rest of the aneen. That's how I feel about Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"If I'm being charitable?" Tybir looks around. "Everything's got the right at a chance to live. But this beast hates the people living in it." He shivers. 
+
+"There's a fortune to be made in here if you know what you're doing." He shakes his head. "But only the hardest operators last long down here. And the Bloom never misses a meal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"A fading power, but that doesn't mean she's not dangerous. She's like a cornered laak. Going to take as many with her as she can."
+
+He grunts. "I'd stay clear of her if you can. And if you can't, handle her like a crystal spine fish, as gently and as little as possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Oh, yes. Knew him during my brief stint in the Endless War. Did not cover himself with honor, but then no one did there, and if they had, no one would have noticed, what with the shrieking and madness."
+
+He frowns. "He's always been a bit morose and prone to drink. Might be because he cares. Or did once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"I know enough to stay well away." He shivers. "I like to think of myself as a open minded fellow. Live and let live, and all that. Never hated the whole of any one race or creed. But murdens, they're predators, plain and simple, and their prey is us. I see nothing wrong in taking some offence at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"He's a smiling parasite," Tybir says cheerfully. "He deals in despair, and has a lot of loyal customers. Can't stand the man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Well!" he says, eying you with fresh respect. "Congratulations are in order for getting out of an obligation with Dracogen with all your parts intact. I know many who haven't been so lucky."
+{SCRIPT: Plays if Tybir was present during Dracogen deal.}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Opening the Bloom's maws doesn't sound too difficult. Wager I could do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Tell me about Little Niliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Tell me about Brusca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"What is Grisseler's story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Listen laddie, I've put up with your slights and slaps for long enough. I think it's time I find another road to travel - one less traveled by, well, you, for instance. I'm taking my leave."
+
+{SCRIPT - Not sure when or how this happens, but when it does, this is the conversation.}</DefaultText>
+      <FemaleText>"Listen lassie, I've put up with your slights and slaps for long enough. I think it's time I find another road to travel - one less traveled by, well, you, for instance. I'm taking my leave."
+
+{SCRIPT - Not sure when or how this happens, but when it does, this is the conversation.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"If I have slighted you, or hurt you in anyway, it was unintentional. Please reconsider."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Very well, I'll stay. For now. But don't be surprised if I'm not here suddenly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Sorry, it's too late for that. Off I go."
+
+{SCRIPT: Tybir quits party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Ah, mutants," he says. "Life isn't easy for them, but the stories I have from parties in Nihliesh would peel your ears off."
+
+He shrugs. "But they're not all shameless hedonists. More's the pity. I was once mugged by a man with three arms eyes while his kneecap kept an eye on the alley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Brusca's all right, for a paid neckbreaker. You know where you are with her, at least. Does her job, cares for her people, keeps her word." He snorts. "That's more than I can say for a lot of the honest commanders I've known."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"He makes his living as a Bloom guide, navigating caravans through the various passages. He wears his wounds as proof of his experience. Personally, they do not fill me with confidence."
+
+"A harmless old talespinner, though, as long as you don't put yourself into his shaking hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Thanks for you advice on handling him. It was invaluable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"I'll keep an eye on her. Thanks for the warning."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>[Response and structure depending on desired gameplay for this point in the CNPC's arc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Thinking of adding a sentient city to your list of conquests, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"And war didn't make a villain of you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"It was nothing, lad. I'm just glad it helped."</DefaultText>
+      <FemaleText>"It was nothing, lass. I'm just glad it helped."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"That's what friends are for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>[Result]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Another one?" Tybir studies the dripping ceiling with a speculative eye. "Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Of course, but not like that. My crimes were... call it negligence or self preservation." His gaze is heavy, and focused past you. "But her... hate, and the atrocities she allowed it to excuse... no, I have much to be ashamed of, but nothing like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>[Short version of the Hate/Dislike story]
+
+{SCRIPT: This response happens if Tybir feels the same about you as he did the last time you talked. NO CONDITIONAL, GOES TO GHOST NODE 84, WHICH ALSO HAS NO CONDITIONAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>[Short version of the Neutral story]
+
+{SCRIPT: These responses happen when Tybir feels neutral toward you.NO CONDITIONAL, GOES TO GHOST NODE 215, WHICH ALSO HAS NO CONDITIONAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>[Short version of the Like story]
+
+{SCRIPT: These responses happen when Tybir likes you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>[Short version of the Love story]
+
+{SCRIPT: These responses happen when Tybir loves you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Always happy to talk about my favorite subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Why has your story changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Does that mean you were a soldier?"
+
+{SCRIPT: This response is linked to Node 372, which happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Tell me again of your life as a soldier."
+
+{SCRIPT: This response is linked to Node 372, which happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"You say your simple values have given you trouble? How?"
+
+
+{SCRIPT: This response is linked to Node 372, which happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"How has your honesty hurt you again?
+
+{SCRIPT: This response is linked to Node 372, which happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Well, some employers like their hired muscle to have a bit of dirt under their fingernails - and on their concience, so sometimes I pretend dirtier than I am. But like I said, it's hard for me to lie, so I couldn't let it stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"I was being grumpy before. THIS is how I really feel."
+
+{SCRIPT: This response happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"I wasn't being honest with you before. THIS is how I really feel."
+
+{SCRIPT: This response happens if Tybir feels better about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Why has your story changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Why has your story changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Follow up question from node 384."
+
+{SCRIPT: This response happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Different follow up question from node 384."
+
+{SCRIPT: This response happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Follow up question from node 385."
+
+{SCRIPT: This response happens if Tybir feels better about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Different follow up question from node 385."
+
+{SCRIPT: This response happens if Tybir feels better about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"What was it I said before? That I was an ex-soldier, fallen on hard times, doing what he could to survive while staying to the right of the law. Well... that's not entirely true."
+
+"I'm afraid I've been a bit more of a rogue than I've let on. So let's start over from scratch, shall we? What would you like to know? Where I'm from? What I've done with my life? Why I'm following you when I could be ruling a small kingdom in the Beyond?"
+
+{SCRIPT: This response plays if Tybir was Neutral to you the last time you talked, but now Likes you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Come to see if I'll shed tears for you again, eh? Well, I could if you liked. I can call 'em at will. But a forthright fellow like you doesn't deserve those sort of theatrics, and I want to apologize for them. It was a pity play, and a damned clumsy one at that. Forgive me."
+
+He sighs. ""What would you like to know? Where I'm from? What I've done with my life? Why I'm following you? Ask away, lad. Ask away."
+
+{SCRIPT: This response plays if Tybir Loved you before, but now Likes you.}</DefaultText>
+      <FemaleText>"Come to see if I'll shed tears for you again, eh? Well, I could if you liked. I can call 'em at will. But a forthright woman like you doesn't deserve those sort of theatrics, and I want to apologize for them. It was a pity play, and a damned clumsy one at that. Forgive me."
+
+He sighs. ""What would you like to know? Where I'm from? What I've done with my life? Why I'm following you? Ask away, lass. Ask away."
+
+{SCRIPT: This response plays if Tybir Loved you before, but now Likes you.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"But they're still the same since the last time you asked. What would you like to know? Where I'm from? What I've done with my life? Why I'm following you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"My... exploits. Aye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"To be honest, I can't remember which ones I've told you already, but that's of no import, for they were all lies - the good soldier lies, the bad soldier lies, the charming rogue lies, the dangerous fellow lies - all just stories to make you think me a hero, or a capable man, or that I'm your friend, but..."
+
+He coughs. "Well, those are the lies I tell to people I'm planning to trick, and believe me, I've been planning to trick you from the beginning. But... well, somewhere along the way, I changed my mind, and now... Now I don't know what to say."
+{ADAM: Can this happen before Tybir has a sucessful conversation with Auvigne?}
+
+{SCRIPT: This response plays if Tybir Liked you the last time you talked, but now Loves you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"You've alreadty heard what I think of my *exploits*, but if you want me to tell you all over again that I've lied to you and intended to sell you out from the beginning, so be it. Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"But the stories haven't changed since the last time we talked. I'm still the same simple son of toil I told you I was before - swept from my father's farm and tossed into the big bad world. Still the same fool who's let those simple farmer's values be my downfall, time and again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Certainly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"But listen, I'm not quite the simple son of toil I spoke of before. Life has tarnished me a bit around the edges, and I want to be open about that, just so you know who you've welcomed to your party."
+
+"I have *tried* to remain honest, but I'm afraid I haven't always suceeded. It's not an easy life, being an ex-soldier fallen on hard times, and I have occasionally strayed."
+
+{SCRIPT: This response plays if Tybir Hated or Disliked you you the last time you talked, but now is Neutral to you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Er, what did I tell you last time? Ha! It was likely a pack of lies. I do tend to like a good story more than true one. But I'll tell you the truth this time, sorry thing that it is."
+
+"Really I'm just an ex-soldier, fallen on hard times, doing what he can to make a living while staying on the right side of the law... most of the time."
+
+{SCRIPT: This response plays if Tybir Liked to you last time you talked, but now is Neutral to you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"But they're still the same boring stories. Ex-soldier, fallen on hard times, doing what he can to survive. You've heard it all before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"If you insist." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Why has your story changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Why has your story changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"I was being grumpy before. THIS is how I really feel."
+
+{SCRIPT: This response happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"I wasn't being honest with you before. THIS is how I really feel."
+
+{SCRIPT: This response happens if Tybir feels better about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"I was being grumpy before. THIS is how I really feel."
+
+{SCRIPT: This response happens if Tybir feels worse about you than he did the last time you talked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"Why has your story changed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>He gets a far away look in his eye. "Well now, many masters, over the years. My first commission was with the cattle men of the Plowshares. Trying to keep the Slave Families of the Sagus Protectorate from getting their multitudinous fingers on the Bherd folks' grazing land."
+
+He shrugs. "But I've humped my pack all over the map, and off the edges too. Even fought in the Endless Battle for a while, until I figured out that the cause I thought I was fighting for was a lie. Walked away from a hefty purse on that one, I'll tell you. But it was the right thing to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"The Plowshares cattle men, the Ailu Rebels, the White Company - anybody whose cause was just and whose hearts were pure. Got a soft spot for the lost cause and the plight of the downtrodden, I do."
+
+He shakes his head. "Not that I haven't been tricked. Got dragged into the Endless Battle once, on the strength of a pretty lie. Couldn't get back out fast enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Who did you fight for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Tell me again who you fought for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Tell me a story from your days as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Give me an instance where your honesty got you in trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"I'm sure I'll bore you to tears, but if you insist." He strokes his mustashes, thinking back. "We were holed up in a little herd town at the far eastern end of the Plowshares. There'd been a battle in the grazing just north of it, and the Protectorate had handed us our collective posteriors."
+
+"Well, the herdfolk there, they were doing all they could for us - feeding us, binding our wounds - because, well, we'd been defending their town, hadn't we? Trying to, at any rate. But what they didn't know was that the Protectorate had also stolen all their aneen for provisions - the whole herd - and was headed south with 'em." He sighs. "Come winter, those folk were going to starve to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"You want a story where I played the fool's part? Well, if you wish to laugh at me, it's no more than I deserve. Let me think."
+
+He clears his throat. "Right, then. Here's a bit of comedy for you. I was hired as a bodyguard by a woman who claimed she was Navarene nobility, visiting Sagus Cliffs on some sort of trade mission. Wanted me to escort her to a ball and make sure she got back to her inn after. Easy job. Done the same sort of thing a hundred times. And I thought there might be some *undercover* work afterwards, if you mark me, for she was a beauty, and kept squeezing my arm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Tell me about the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Strangest war I ever took part in, and I once fought in a war where one side could read the other side's minds."
+
+He frowns. "It was more like a dream than a war. Or rather a nightmare. We would march out in the morning, with our captain saying we had to take such and such a hill, and we'd take it, and then a ripple of time would cross the battle field and we'd be back in the same morning, heading for the same hill, only this time we wouldn't take it, until the next time wave crossed our path, and we'd won it again. Madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>He shifts, uncomfortable. "My commander wasn't going to tell 'em. We'd lost all our supplies, and needed every bit of forage the town could give us. I couldn't stand it. We were meant to be the saving of these people, and here we were robbing them just as surely as the Protectorate had."
+
+"So that night, me and two of my mates "borrowed" three Rasters and a sonic punch from the fly boys and flew south until we found the Saggies and the stolen aneen. We scream-dived the herd until they bolted, then chased 'em all the way back north." He shakes his head. "Fools we were. Nearly got knocked out of the sky a dozen times by the Saggies' shakers, but we were sure that, once we got the aneen away, they wouldn't dare turn back for them. They knew we were being reinforced the next morning, you see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>He chuckles. "We caught a tongue lashing from the commander for that stunt, I'll tell you that for nothing. And a week in brig besides. But those herdfolk were damned greatful. Damned grateful."
+
+A twinkle glitters his eyes. "Some of them several times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Then, halfway through the party, she excuses herself for a few moments, and when she comes back she's changed her clothes!" 
+
+He chuckles, though there's no humor in it. "So, she puts her lips to my ear and whispers, "We must go, and if you value your life and my honor, you will say to anyone who asks that you are my husband, Baron Ghyusk, of Navarene." And she adds that I will be *richly* rewarded, all the while pressing herself against me like a Nibovian Wife."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"And her wiles were working, believe me. I was ready to swear I was the Amber Pope if she made good on her promise, but then we *were* stopped, right at the door, by the host of the ball and a phalanx of city guards. And right on cue, they ask me who I am, and I am such a terrible liar that it comes out, "I am Baron Nykusk of Gavralene and this is my knife."
+
+He shakes his head. "Thirty days in the blocks as an accessory. Turns out she'd pinched a fortune in living gems. Just a common thief. Though a mighty handsome one, I must say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>His eyes go hard and grim. "I saw my friends die, and then live, and then die again an entirely different way. I... I'm certain I died a few times myself, but then another folding of reality would bring me back to a moment before the battle, and this time the spear missed me, or the beam of black energy, or whatever it might have been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"The worst part was that we were tricked into it." He glares. "Recruiting sergeant shows up, says he's looking for experienced blades to defend the Walskar League from the Overlord of Muneen. Well, I'd always had a soft spot for Walskar folk. Beautiful boys, delectable girls, so I signed up on the spot."
+
+He spits on the ground, disgusted. "Nothing to do with Walskar. Nowhere near the place. Left as soon as I could, though it took traveling through a few realities to do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Which side did you fight on in the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Honestly, I couldn't tell you. I was just a grunt. I know I fought for a woman known as the Chalcedon, but who she fought for...? Your guess is as good as mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"You've been on the wrong side of the law?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"You said you'd been on the wrong side of the law?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"More often than I'd like to admit." He sighs. "My parents taught me all I needed to know about right or wrong when I was a boy, but a man can lose his head in the big wide world. Sometimes he can be tricked into thinking that a little wrong now can do a lot of right later. Well, learn from my example, lad. It's a lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"You didn't hear me the first time? Should I paint it on my chest so y'don't forget? Aye, I have, to my shame. You needn't rub it in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"You were a soldier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Tell me again about being a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Aye. Made a career of it, for a time, until I got too old for crawling in the mud." He looks into the middle distance. "Regret leaving it sometimes. Those were my glory days, and no mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"Ah, it was a grand time. Took me all over the world, but..." He shakes his head. "Let's save it for some time when all this is over and we're celebrating over a few drinks, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Who did you fight for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Tell me again who you fought for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Tell me a story from your glory days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>He gets a far away look in his eye. "Well now, many masters, over the years. My first commission was with the cattle men of the Plowshares. Trying to keep the Slave Families of the Sagus Protectorate from getting their multitudinous fingers on the herd folks' grazing land."
+
+He shrugs. "But I've humped my pack all over the map, and off the edges too. Even fought in the Endless Battle for a while, until I realized there was no winning it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"The Plowshares cattle men, the Ailu Rebels, the White Company - anybody whose cause didn't turn my stomach."
+
+He shakes his head. "Not that I haven't been tricked. Got dragged into the Endless Battle once, on the strength of a pretty lie. Couldn't get back out fast enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"I'm sure I'll bore you to tears, but if you insist." He strokes his mustashes, thinking back. "We were holed up in a little herd town at the far eastern end of the Plowshares. There'd been a battle in the grazing just north of it, and the Protectorate had handed us our collective posteriors."
+
+"Well, the herdfolk there, they were doing all they could for us - feeding us, binding our wounds - because, well, we'd been defending their town, hadn't we? Trying to, at any rate. But what they didn't know was that the Protectorate had also stolen all their aneen for provisions - the whole herd - and was headed south with 'em."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Which side did you fight on in the Endless Battle"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Honestly, I couldn't tell you. I was just a grunt. I know I fought for a woman known as the Chalcedon, but who she fought for...? Your guess is as good as mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Tell me about the endless battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Strangest war I ever took part in, and I once fought in a war where one side could read the other side's minds."
+
+He frowns. "It was more like a dream than a war. Or rather a nightmare. We would march out in the morning, with our captain saying we had to take such and such a hill, and we'd take it, and then a ripple of time would cross the battle field and we'd be back in the same morning, heading for the same hill, only this time we wouldn't take it, until the next time wave crossed our path, and we'd won it again. Madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>He shrugs. "How could I pass up a chance to do some good and make a few shins on the side at the same time?"
+
+"That night, me and two of my mates "borrowed" three Rasters and a sonic punch from the fly boys and flew south until we found the Saggies and the stolen aneen. We scream-dived the herd until they bolted, then chased 'em all the way back north." He shakes his head. "Fools we were. Nearly got knocked out of the sky a dozen times by the Saggies' shakers, but we were sure that, once we got the aneen away, they wouldn't dare turn back for them. They knew we were being reinforced the next morning, you see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>He chuckles. "Gave nine aneen in ten back to the herdfolk, and sold the rest to our company cook. Told the herdfolk their missing aneen had been "lost in transit." They believed every word. Indeed, they were greatful. Damned grateful."
+
+A twinkle glitters his eyes. "Some of them several times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>His eyes go hard and grim. "I saw my friends die, and then live, and then die again an entirely different way. I... I'm certain I died a few times myself, but then another folding of reality would bring me back to a moment before the battle, and this time the spear missed me, or the beam of black energy, or whatever it might have been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"The worst part was I walked into it with eyes open." He glares. "I'd heard that ancient artifacts were as thick as leaves on the ground on those battlefields, so I thought I'd go in, pick up a few and walk out again. Shins for nothing. Turned out it was a damned hard place to leave, what with the all the shifting and folding. Took traveling through a dozen realities to make it out, and truth to tell I'm still not sure I'm in the one I started in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"Where are you from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Tell me again where you're from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"What have you done with your life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"I'd like to ask you about your past professions again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Why are you following me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Remind me why you're still following me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Nowhere you've ever heard of or would ever like to go. A little farm in the Plowshares, about a days walk from absolutely nothing. Got away from it as quick as I could and never went back. Never wanted to either - except, possibly, to punch my father in the nose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"I was saying it was at the back end of nowhere." He grunts. "Probably isn't even there anymore, now that I think of it. What with the range wars and the collapse of the protectorate."
+
+He shrugs. "Best thing that could have happened to it, honestly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>He laughs. "What haven't I done? Farmer, soldier, spy, military advisor, ambassador, caravan escort, bodyguard, thumb-breaker, con man, gigalo, seller of miracle cures, dancing instructor, hunter and seller of relics and, currently, disciple, it appears. And those are just the things I can mention without blushing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>"Ha! I've been and done so many things just the listing of them will take all day. Mostly, however, I've been a soldier, bodyguard and, most recently, a bunk artist - a con man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Heh. At first it was just because I was desperate to dodge the eye of the Slave Families, and when I found out you were leaving Sagus Cliffs it seemed a perfect opportunity. But once I found out you were going to M'ra Jolios, well..."
+
+He looks down, nervous. "Well, I have a friend there I've been meaning to look up, so...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Because we're both going to M'ra Jolios. And because you're pleasant company - if a bit too prone to uncomfortable situations for my liking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Why do you want to punch your father?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"Because he was quicker with a belt than a kind word? Because he fathered children so he wouldn't have to pay field hands? Because he had all the humor of a slit throat?"
+
+He swallows and turns away. "Let's change the subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Tell me about your time as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Tell me again about your time as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Well, I won't lie. I was only ever in it for the shins. And there was a packet to be made, too, for a man with an eye to the main chance."
+
+He grunts. "Always tried to pick the winning side, always tried to be in at the sack, but miss the siege, always found ways to pocket more than my share when they were handing out provisions. Did damned well for myself, too. But that kind of money don't stick to a man's purse, if you understand me. Went out as quick as it came in, on games of chance, and chancier girls and boys, so once the brass finally caught on to me and gave me the boot, I was actually more broke than when I went in, despite the mountains of loot I'd kifed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"You mean my years of wholesale robbery?" He grimaces. "Can't say those were my proudest moments, lad - despite the fact I still wear the medals. I wasn't so much a soldier as a professional pillager. Not that the others were any better - most of them."</DefaultText>
+      <FemaleText>"You mean my years of wholesale robbery?" He grimaces. "Can't say those were my proudest moments, lass - despite the fact I still wear the medals. I wasn't so much a soldier as a professional pillager. Not that the others were any better - most of them."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Who did you fight for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Remind me who you fought for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"Tell me a story from your days as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Tell me about the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>He strokes his chin. "Well, many masters, over the years. My first commission was with the cattle barons of the Plowshares, who were fighting the Sagus Protectorate over grazing land. Villains on both sides of that one."
+
+He shrugs. "But I've humped my pack all over the map, and off the edges too. Even fought in the Endless Battle for a while, until I realized there was no profit in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"The cattle barons of the Plowshares, the Ailu Rebels, the White Company - anybody who could pay my rate." 
+
+He shakes his head. "Not that I haven't signed on to a dead loser once or twice. Got dragged into the Endless Battle once, on the strength of a pretty lie about easy shins. Couldn't get back out fast enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"I don't care to remember much of that time these days, but if you insist." He strokes his mustashes, thinking back. "We were holed up in a little herd town at the far eastern end of the Plowshares. There'd been a battle in the grazing just north of it, and the Protectorate had handed us our collective posteriors."
+
+"Well, the herdfolk there, they were doing all they could for us - feeding us, binding our wounds - because, well, we'd been defending their town, hadn't we? Trying to, at any rate. But what they didn't know was that the Protectorate had also stolen all their aneen for provisions - the whole herd - and was headed south with 'em."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"Strangest war I ever took part in, and I once fought in a war where one side could read the other side's minds."
+
+He frowns. "It was more like a dream than a war. Or rather a nightmare. We would march out in the morning, with our captain saying we had to take such and such a hill, and we'd take it, and then a ripple of time would cross the battle field and we'd be back in the same morning, heading for the same hill, only this time we wouldn't take it, until the next time wave crossed our path, and we'd won it again. Madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"What side did you fight on in the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"Er... the Changing God? Or was it the First? Can't remember, honestly. Whichever side the Chalcedon was on. She's the one I was fighting under."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"Those herders were going to die from starvation that winter without those Aneen, but did I care?" He shrugs. "Only enough to realize I could make a little money selling 'em back to them."
+
+"So, that night, me and two of my mates "borrowed" three Rasters and a sonic punch from the fly boys and flew south until we found the Saggies and the stolen aneen. We scream-dived the herd until they bolted, then chased 'em all the way back north." He shakes his head. "Fools we were. Nearly got knocked out of the sky a dozen times by the Saggies' shakers, but we were sure that, once we got the aneen away, they wouldn't dare turn back for them. They knew we were being reinforced the next morning, you see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Sold eight aneen in ten back to the herdfolk, then sold the rest to our company cook. Told the herdfolk their missing aneen had been "lost in transit." They believed every word. Indeed, they were grateful."
+
+He hangs his head. "Even though we'd cheated them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>His eyes go hard and grim. "I saw my friends die, and then live, and then die again an entirely different way. I... I'm certain I died a few times myself, but then another folding of reality would bring me back to a moment before the battle, and this time the spear missed me, or the beam of black energy, or whatever it might have been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"The worst part was I walked into it with eyes open." He glares. "I'd heard that ancient artifacts were as thick as leaves on the ground on those battlefields, so I thought I'd go in, pick up a few and walk out again. Shins for nothing. Turned out it was a damned hard place to leave, what with the all the shifting and folding. Took traveling through a dozen realities to make it out, and truth to tell I'm still not sure I'm in the one I started in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"How do I know I can trust you now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Listen, lad. I've been meaning to speak with you. That guff about being a simple country boy, doing my best to stay honest in the big bad world? All lies. I've been lazy and rootless all my life, and have relied on the gullibility of strangers since the day I left my father's farm. And that may be the first truth you've heard from me."
+
+{SCRIPT: This response happens when Tybir first speaks to you, and is for when he loves you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Why did you want to trick me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Explain again why you wanted to trick me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Why? Because that's what I do! I have relied on the gullibility of strangers since the day I left my father's farm."
+
+He laughs. "Listen, lad, I have been everything I ever told you - soldier, spy, bodyguard, ambassador, a hundred more - but whatever job I held, my true vocation was cheat. I merely used those positions as fulcrums with which to lever as much treasure as possible into my purse, the consequences be damned."
+
+"So, when I met you, you were just another rube to bamboozle and betray, like so many others. Until... until you weren't, and I changed my mind."</DefaultText>
+      <FemaleText>"Why? Because that's what I do! I have relied on the gullibility of strangers since the day I left my father's farm."
+
+He laughs. "Listen, lass, I have been everything I ever told you - soldier, spy, bodyguard, ambassador, a hundred more - but whatever job I held, my true vocation was cheat. I merely used those positions as fulcrums with which to lever as much treasure as possible into my purse, the consequences be damned."
+
+"So, when I met you, you were just another rube to bamboozle and betray, like so many others. Until... until you weren't, and I changed my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>"Because that is how I have dealt with the world since I came into it - as an enemy to charm and cheat and abandon as soon as I had what I wanted from it. It's all I've known - until now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"You... you don't. Honestly, I don't know if I can trust myself. I am happier now than I ever have been, but who knows? There has always been a snake in me. Who's to say if I've finally killed it or if it's only sleeping."
+
+He looks into your eyes, and you realize it might be the first time he has. "I'll say I *hope* you can trust me, but I can't say you should."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Who did you fight for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"Remind me who you fought for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>"Tell me a story from your days as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Tell me about the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"What side did you fight on in the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>He strokes his chin. "Well, many masters, over the years. My first commission was with the cattle barons of the Plowshares, who were fighting the Sagus Protectorate over grazing land. Villains on both sides of that one."
+
+He shrugs. "But I've humped my pack all over the map, and off the edges too. Even fought in the Endless Battle for a while, until I realized there was no profit in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"The cattle barons of the Plowshares, the Ailu Rebels, the White Company - anybody who could pay my rate." 
+
+He shakes his head. "Not that I haven't signed on to a dead loser once or twice. Got dragged into the Endless Battle once, on the strength of a pretty lie about easy shins. Couldn't get back out fast enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"After all I've just told you, you want me to open the wounds afresh? Well, perhaps I should. Perhaps I've hidden from the truth for too long." He frowns, thinking back. "Here's a nasty one for you. We were holed up in a little herd town at the far eastern end of the Plowshares. There'd been a battle in the grazing just north of it, and the Protectorate had handed us our collective posteriors."
+
+"Well, the herdfolk there, they were doing all they could for us - feeding us, binding our wounds - because, well, we'd been defending their town, hadn't we? Ha! Some of us had. I'd been figuring out how to turn a profit from the situation. And during the battle, I'd put my plan into action." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"My squad had been assigned to guard the town's aneen herd, which the Sagus troops were keen to steal for provisions. But when the Saggies showed up, I ordered a strategic retreat, and let 'em steal the whole herd and take 'em south."
+
+"You see, I knew those herders would die from starvation that winter without those Aneen, which meant they'd pay any price to get them back, and I was confident I could do just that." He shakes his head. "So, that night, me and two of my mates "borrowed" three Rasters and a sonic punch from the fly boys and flew south until we found the Saggies and the stolen aneen, then we scream-dived the herd until they bolted, then chased 'em all the way back north."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"Sold eight aneen in ten back to the herdfolk for twice their value, then sold the rest to our company cook. Told the herdfolk their missing aneen had been "lost in transit." They believed every word. Indeed, they were grateful."
+
+He hangs his head. "That's the worst part to me. They were grateful, to the thief who robbed them in the first place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"Strangest war I ever took part in, and I once fought in a war where one side could read the other side's minds."
+
+He frowns. "It was more like a dream than a war. Or rather a nightmare. We would march out in the morning, with our captain saying we had to take such and such a hill, and we'd take it, and then a ripple of time would cross the battle field and we'd be back in the same morning, heading for the same hill, only this time we wouldn't take it, until the next time wave crossed our path, and we'd won it again. Madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>His eyes go hard and grim. "I saw my friends die, and then live, and then die again an entirely different way. I... I'm certain I died a few times myself, but then another folding of reality would bring me back to a moment before the battle, and this time the spear missed me, or the beam of black energy, or whatever it might have been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"The worst part was I walked into it with eyes open." He glares. "I'd heard that ancient artifacts were as thick as leaves on the ground on those battlefields, so I thought I'd go in, pick up a few and walk out again. Shins for nothing. Turned out it was a damned hard place to leave, what with the all the shifting and folding. Took traveling through a dozen realities to make it out, and truth to tell I'm still not sure I'm in the one I started in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Er... the Changing God? Or was it the First? Can't remember, honestly. Whichever side the Chalcedon was on. She's the one I was fighting under."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Tell me about your time as a soldier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>He stays silent for a long time, then sighs. "That was me at my worst. Bad enough I was only in it for the money - a looter, a thief, a profiteer - but that was shin a pound stuff. Everybody did that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>He takes another breath. It's shaky. "My real crime, the one I have trouble facing straight on, was my cowardice. I was no bloody-handed monster, not like some of the others. No butcher. But I was a monster nonetheless - a monster of craven fear, who would leave *anyone* behind to save his own life. Comrades, my own troops, refugees I was sworn to protect - I abandoned them all to their deaths so I could walk out whole. If... if you could see the train of ghosts I have walking behind me, pointing their damned fingers at me - "
+
+He breaks off in a sob and turns away from you. "A monster. A monster!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"But listen, lad. What I was telling you before, all that muck about being an ex-soldier, and falling on hard times, not always staying on the right side of the law? Well, that was a bit of play acting, and I want you to forget it. It wasn't true." 
+
+{SCRIPT: This response plays if Tybir was Neutral to you the last time you talked, but now hates or dislikes you.}</DefaultText>
+      <FemaleText>"But listen, lass. What I was telling you before, all that muck about being an ex-soldier, and falling on hard times, not always staying on the right side of the law? Well, that was a bit of play acting, and I want you to forget it. It wasn't true." 
+
+{SCRIPT: This response plays if Tybir was Neutral to you the last time you talked, but now hates or dislikes you.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"Really, I'm just a simple son of toil. At least I was until the winds of war swept me up from my father's farm and tossed me into the big bad world. And those simple farmer's values have been both my downfall and my salvation, time and again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"Never mind, then. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>"Well, I'm a wary fellow, and I don't like airing my dirty smalls on first meeting. If I find I can trust a man, then I'll open up a bit. If not, well, I'll just keep smiling, or I'll leave."</DefaultText>
+      <FemaleText>"Well, I'm a wary fellow, and I don't like airing my dirty smalls on first meeting. If I find I can trust a woman, then I'll open up a bit. If not, well, I'll just keep smiling, or I'll leave."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"Well, sometimes I like to make myself out as more dangerous than I am - more desperate. Maybe a bit scary. But I'm not. Not really."
+
+He grins. "I've never been an angel, I assure you. But never a demon either, I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>"Well, a rogue always plays his cards close to his chest, but... well, I've come to find that I like you, lad. So I'm putting them on the table."</DefaultText>
+      <FemaleText>"Well, a rogue always plays his cards close to his chest, but... well, I've come to find that I like you, lass. So I'm putting them on the table."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Could you really be ruling a small kingdom in the beyond?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Eh? What? Moon of deceit! You really will beleive anything, won't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Because I could not continue to lie to someone who has brought me to a happiness I didn't believe existed, and certainly did not believe I deserved. I owe you the truth."
+
+He cocks his head and chuckles darkly. "Heh. You're not the first person I've said that to, but your the first for whom it has been the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Because you are owed better than a story meant to tug at your heart strings. I've been a villain, sure enough, but not one so beyond redemtion as to deserve your pity, or your contempt."
+
+He straightens. "I've lived a man's life, and made a man's compromises. I am not ashamed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"I'm sorry we're parting, but I won't stop you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Good riddance. I should have asked you to leave long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Right then, off I go."
+
+
+
+{SCRIPT: Tybir quits party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"I wish you had. Well, no time like the present. Ta-ra."
+
+
+
+{SCRIPT: Tybir quits party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"I don't know why you're so scared of him. He seemed an unremarkable merchant to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"All it took was being honest. You should try it sometime."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>Tybir tries to laugh and gasp at the same time, and ends up choking.
+
+"Is... is that right?" he wheezes at last. "Well, you're probably better off under that impression. Those of trousers of yours are better off unsoiled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"And you should try being polite sometime," Tybir says, folding his arms. "No telling where it would get you."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"She doesn't scare me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"If she hasn't played straight with you, I imagine that's because you haven't played straight with her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Then you're a braver man than me, lad."</DefaultText>
+      <FemaleText>"Then you're a braver soul than me, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Imagine all you like," he says, his smile fading. "I'm a great fan of imagination, and always have been. But I know what I've done. And what I haven't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"Stay away from the maws, Tybir. You're too valuable to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Which one of your scams works on gargantuan world-spanning predators?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"All of them!" Tybir says, offended. "With modifications, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"Very kind of you to say," he says, his eyebrows nearly climbing off his forehead. "But I was only making a joke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"Fooled by a pretty face, were you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"Like looking in a mirror, wasn't it?"
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"I'm following you, aren't I?" He winks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"That's low," he says, hurt and anger in his eyes. "I've done things I regret, but if you think I'm anything like that, you're a damned poor judge of character."
+
+He shakes his head, angry. "I would never... Never...." His eyes turn inward. "I... I wouldn't, would I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"Thank you for not forcing me to give that thing one of my memories. I've plenty of painful ones, but I wouldn't want 'em gone. You can't learn much from a blank page."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"I could see it was killing you. I couldn't stand to see you in pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Forget it. We found another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"Your whining was becoming unbearable. What else could I do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>"I'm sorry. I wish there had been another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"You're going to be disappointed if you're hoping for an apology."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>"Actually, now that I think if it, it sounds like something your father would say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"Good luck, lad. You'll need it."
+
+{SCRIPT - Tybir leaves party.}</DefaultText>
+      <FemaleText>"Good luck, lass. You'll need it."
+
+{SCRIPT - Tybir leaves party.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Oh, there was. There was. But it was behind your ego, so you couldn't see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>"Hope? No. But I'm getting used to disappointment, traveling with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>"You're a better employer than I deserve. I..." He hesitates, then shrugs. "Well, just thanks. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"And glad I am we did. I don't know what I'd have done if you'd gone through with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"I see. You should encourage me to whine more often."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"What do you know about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Tell me what you know about Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"Not much, and I like it that way," he says, grimacing. "Now, if you want to know what happens to people who cross her, just listen for the screaming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"Not enough," Tybir says, looking uncomfortable. "He isn't the first man to use that name, and I've heard stories that he can be in more than one place at the same time."
+
+He hisses air out of the side of his mouth. "He pays well, but you don't want to cross him. Ever. You just don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Dracogen doesn't seem to trust you."
+{SCRIPT: Dracogen has spoken ill of Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Hold on. You said the Dracogen didn't punish the woman who stole money  from him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"Well, that not much of my fault," he says, shrugging. "One of my partners once stole a handful of shins from him, and he thought it was me." He gives a shaky laugh. "I spent three nights looking for the damned lass, and three days hiding under wheelbarrows. Finally, I found her, and brought her to Dracogen. Got her to admit to it."
+
+He grimaces. "He  was impatient with the explanation, but finally agreed that we weren't the same person." He rolls his eyes. "Then, he let her keep the money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Heh, no, I never said that. He just let her keep the money. And wherever she went - restaurants, brothels, inns - no one would take her money or even let her inside. Even beggars kicked her out of their shacks." His lip twisted. "Last, I heard,  someone cut her throat for those six or seven shins, and had no trouble spending them at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>"Tybir, you surprise me. I thought we were the devious ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>"Of course," he says with a small, slightly pained smile. "Good of you to remind me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"I'm going to need more specifics here. My back? Neck? Trouser area?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"Ha!" he says, and some of the worry melts from his face. "Best to assume everywhere a knife would reach."
+
+He sinks his thumbs beneath his belt. "But still. Something's wrong with this deal. You have to assume that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"Enough moralizing, Tybir. We all do what we need to survive in this world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"Of course," he says, sighing. "But I do catch myself wondering if the cost of survival is too high sometimes."
+
+He straightens, throwing on a smile. "Good thing there's little to no competition, hey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>"Is that right? Since when do you learn from your mistakes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"Oh, no, no," he says, clucking his tongue. "I never said they were *mistakes*." He folds his arms. "Not mine, at least."
+
+His eyes are thoughtful as he turns away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"I never set out to hurt anyone," he says, planting his hands on his hips as though he is holding himself in place. "But I did. Didn't always mean to, but there it is." 
+
+His hands tighten on his hips. shackles of flesh and tendon. "I regret every time I left a friend to take the bite for me. I do, and I swear I'll never run again... but then I do it again."
+
+He closes his eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"Do *what* again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"I don't care what happened to these other people, Tybir. You're alive, and that's what counts." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"You're being too hard on yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>"Oh," he says miserably, rubbing his eyes. "If only I could tally my mistakes as easily as that. But I've made a lot of them, and I wouldn't know where to start."
+
+He grimaces. "Put it like this - I'm alive, and happy I am. But Ris was far from the first friend I left behind." His teeth graze his lips, and he hastily adds, "Accident or no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>"And will you leave me when it suits you? Is that what you're saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"I hope not, lad," he says, with a weary shake of his head. "But I can't promise you that I'd keep my promise."</DefaultText>
+      <FemaleText>"I hope not, lass," he says, with a weary shake of his head. "But I can't promise you that I'd keep my promise."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>He straightens with visible effort, favoring you with a smile. 
+
+"I'll say this, though, and with all the honesty in my heart - you make me want to try, and that's the truth. Now, what did you want to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"Kind of you to say," he says, though he doesn't sound like he means it. "I wish you were right."
+
+He straightens with visible effort, favoring you with a smile. "But let me bear my own conscience. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"I suppose," he says, though he doesn't sound like he means it. "But running, always running... it wears a man down."
+
+He straightens with visible effort, favoring you with a smile. "But let me bear my own conscience. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>"What's the matter? You don't like the smell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>"Or the view, or the food, or the people." He chews his lip, thinking. "Can't recommend any part of this place, and for someone of my generous nature, that's saying something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>"I want to ask you about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"I have more questions about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"Well, I lived here for a time, though not recently. The Bloom's no place for pleasure."
+
+He nods at you. "Ask your questions, and I'll do my best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"You'll get along with her just fine if you remember she hates you and wants to bite off every bit of you that sticks out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"He's a good businessman, but scary in his own, special way. He makes Fulsome back in Sagus look like a paragon of forgiveness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"He's a crook who sells horrors to the hopeless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"She's a thug, but a trustworthy one. Take that for what it's worth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"Just that people who do business with her meet savage ends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"He's the type of man who injures himself through carelessness and calls his wounds proof of wisdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"Not much to tell. It's where the mutants live and make their living. Good place, except when you're getting your throat slit in the wrong alley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"I knew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"We have to find him. *I* have to find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"Dracogen had the right of it," he says, through his teeth. "Auvigne and I were closer than close. The world stomped on us, but we survived it together. Carried each other through wars and harder times."
+
+He looks away from you. "We were arms of the same body, but with different minds - too different, as it turned out." He takes a deep, shaking breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>He clenches a hand over his closed fist, as though to hold it in place. 
+
+"Still," he says tightly, "It'd be nice to see him again. Catch up on better times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"We'll find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>"We don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>"I loved him," he says simply. "We have to find him. *I* have to find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>"Thank you," he says, nodding. "I just want to talk to him. Set a few things right, if that's still possible."
+
+He swallows, and slips the ring onto his finger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>He closes his eyes. 
+
+"I know," he growls. "But if we can... if you change your mind... I'd be grateful."
+
+Without another word, he slips the ring onto his trembling finger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>He looks up, surprised. 
+
+"I thought you'd say no." he says quietly. "Thank you."
+
+He swallows, and slips the ring onto his finger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>"I don't understand. Can't you use those rings to sense his mind and see where he is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>"Right," he says, with a trembling laugh. "You don't know what you're asking. Back in the good days, it'd be like... like holding hands. Wrapping your fingers around theirs, right? But with their thoughts and feelings instead of flesh and bone."
+
+He shakes his head. "I'd need to concentrate, for one, and two? I'm not welcome there anymore. He made that clear, and I don't know that I disagree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>"This isn't the time," Tybir says, but he glances up at you regardless. "It was mutual, all right? As time wore on, we wanted different things. And I wasn't willing to..."
+
+He stops himself, sighs. "Leave it. Let's just focus on finding him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>"Not important now," he grunts. "Let's focus on find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"What happened between you and Auvigne, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"Can't you tell me anything about what happened between you and Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>"Let's talk about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>"Let's talk about you some more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>"Where do you think Auvigne is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>"Where do you think Auvigne is now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>"That mutant said he saw him up by the Shrine of Great Chila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>"The Shrine of Great Chila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>"Somewhere in this place," he says, staring around Little Nihliesh with a hint of desperation. Visibly steeling himself, he touches the ring with his opposing hand. 
+
+"Old pain," he gasps. "Digging in stinking trash. Hunger."
+
+He jerks his hand away as though burned. "Something's wrong. He feels... different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>"Somewhere in this place. Digging through trash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>"He's..." Tybir begins, touching the ring on his hand and closing his eyes. His brow wrinkles in discomfort. Confusion. "He's somewhere in Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>"He's still in Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>::grunts::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>"Well, then. Lead on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>"About Auvigne..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>"Are you sure you don't want to talk about Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>"Not now," he says, his smile fading. "Not until we talk to Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>"Let's have words with Dracogen first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>"I ruined him. I'm the one killed Auvvie, not that fool at the shrine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>"So I waited until he was away on a supply run, and turned our mercenaries on the village Auvvie had sworn to protect." He chuckles through his tears. "That did it. One look at the soldiers shoving children into the street, and Auvvie bashed me in the jaw and said we were done."
+
+He covers his face with his hands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>"You were afraid to lose him, so you pushed him away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>"I loved him," he says, gripping his head with bloodless fingers. "More than I loved myself, and I'd felt him die dozens of times in the Endless Battle. I wanted him out of my head, understand? I wanted him gone, so that when death took him for the last time, I wouldn't feel it." His sigh is a soft, ragged thing. 
+
+"Still, I wish I'd run after him like I wanted. But I was scared, and I ran to the Bloom instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>"You lied to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>"Of course I did," he says bitterly. "I haven't stopped lying in years. Haven't made a decision I was proud of in longer than that." His sigh is a soft, ragged thing. 
+
+"I wish I'd gone after him like I wanted. But I was scared, and ran to the Bloom instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>"But he did," he says, clawing the tears from his eyes. "I knew he was here, and I was *afraid* to face him. And look what my beautiful, honest lad came to in my absence, trying to save me. I made him like *me*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>"You aren't responsible for Auvigne's decisions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>"Maybe not," he says, blotting his cheeks on his arm. "But he's dead anyway. And I had a part in that, like or not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>"And is that so bad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>"I suppose not," he says. His voice is solemn and smaller than usual. "I've lived a good life by any measure. But it's cost me everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>"You're right. He died when you could have saved him. What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>"I don't know," he says quietly. "There's no saving him now, and I either live with that or... I don't."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>"He shouldn't have hit you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>"No," Tybir says bitterly. "He should have killed me. If he had, he might still be alive." His sigh is a soft, ragged thing. 
+
+"He might have even lived if I'd gone after him like I wanted. But no. I went to the Bloom instead." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>"And then, I gave up the ring to save myself from Dracogen's revenge," he continues, his hands shaking. "Of course I did, and I convinced myself Auvvie wouldn't suffer because of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>He straightens, adjusting his clothing, and gives you a weary smile. "Sometimes, you feel like a day should end when you've borne too much. But it doesn't, and you have to keep going, don't you?"
+
+Tybir takes a deep breath. "Give me some time to myself, will you? I've had enough of talk for now, being honest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Tears streak down his cheeks, unheeded. "Here's the truth about what separated us - I was afraid to lose him, so I broke his heart. Cheated on him, and used my ring to make sure he knew. And it didn't work. He still loved me, and he didn't understand why I was pushing him away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>He paces over a small patch of ground as though caged. "I knew he was here, and that he was looking for me. I should have..."
+
+He trails off, and pulls the ring Dracogen gave him from his pocket. He cradles it in his palm, and meets your eyes. 
+
+"Heartbeat," he says. "They work by skin contact, see. I'd know if he was..." He bites his lip, and closes his fingers over the ring.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>"The Memovira didn't get where she was today by playing by the rules. Not even what passes for rules in *my* book. You might get nothing out of your deal with her but a knife in a tender area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>He spreads his hands, as if trying to hold something foul at bay. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>"Leave me be. I need time to think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>Tybir stretches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>Script Node 755</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>Bank 756</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"What do you think of the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>"What are your opinions on the Bloom again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText> Follow-up PQ. 759</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>"Tell me what you know about Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>"Tell me what you know about Dracogen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText> Follow-up PQ. 762</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>"What do you know about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>"What do you know about the Memovira again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText> Follow-up PQ. 765</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>"Tell me about Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>"Tell me about Little Nihliesh again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText> Follow-up PQ. 768</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>"What is Grisseler's story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>"What is Grisseler's story again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText> Follow-up PQ. 771</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"Tell me about Brusca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>"Tell me about Brusca again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText> Follow-up PQ. 774</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>"What do you know of Parsim Flint?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>"What do you know of Parsim Flint again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>"Actually, never mind. Let's talk later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>"A fine idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

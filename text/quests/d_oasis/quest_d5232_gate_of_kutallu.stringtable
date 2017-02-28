@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\d_oasis\quest_d5232_gate_of_kutallu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Gate of Kutallu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Collect at least 4 of the 5 pieces needed for the Gate of Kutallu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Give the 4 artifacts to Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tell Mazzof to build the Gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Give at least 4 artifacts to Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Gate is built.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mazzof says he can get me into the First's hideout by creating something called the Gate of Kutallu, but he needs a number of powerful artifacts to pull it off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mazzof says he needs at least four of the following to build the Gate, and that five would be preferable:
+
+1. Aequorin Fiber, which he used to get from Ekevarria in the Sunken Market.
+2. Fleder's Noose, which is worn by the Menagerie Demon.
+3. A Limnic Reactor, which Tuck the merchant is supposed to have received soon.
+4. The Amulet of Scorgil, worn by the Giash.
+5. A sacrifice of a god (because *that's* not vague).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've found four of the five artifacts Mazzof needs. Once I give them to him, he can build the gate.
+
+If I can find the fifth artifact, he should be able to get me even closer to the First.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've given Mazzof enough pieces to build the Gate of Kutallu. He'll build it as soon as I'm ready.
+
+If I give him all five artifacts, he says he'll be able to get me even closer to the First.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've found all five artifacts that Mazzof needs. I can give them all to him to get really close to the First.
+
+Although some of these artifacts are really powerful. I wonder how dangerous it would be if I kept just one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Mazzof has finished the Gate of Kutallu. I can now get to the First herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I received the Glow Braid from a merchant named Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I stole the Glow Braid from a merchant named Storms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I found the Limnic Reactor in the Lost Sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ny'kul, the god of the ghibra, gave me his "eye" as a sacrifice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I escaped the Menagerie Mere with Fleder's Noose, which means Mazzof already has it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I convinced Omis to give me the Amulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I got the Amulet with Thom's help (sort of).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Mazzof has finished the Gate of Kutallu. I can now get to the First herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

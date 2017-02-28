@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_abykosinteraction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The creature still shows no interest in you. It's focused on hunting the scuttling maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Attack the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the creature alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>It whirls on you, flexing its long, metallic claws...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>This weird, angular being looks familiar. You're fairly certain it's the same creature you released from the cyst in the Vast Interior.
+
+It shows no interest in you. Instead, it seems to be hunting the scuttling maws... though you're not sure why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You recognize this weird, angular being as an abykos. It's probably the same one you released from the cyst in the Vast Interior.
+
+It seems to be hunting the scuttling maws. Based on what you've heard, abykoses eat transdimensional energy, so it's probably trying to devour the rifts inside the little maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>As the strange being collapses to the ground, the tension in the room drains away. Muscles in the walls relax, and throbbing veins deflate. 
+
+For the moment, the Bloom has ceased to regard you as a threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

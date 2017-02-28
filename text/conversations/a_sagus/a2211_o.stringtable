@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_o</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Your eyes cannot focus on this... person. Whether male or female, you cannot say, but it hums with a force that both attracts and repels you.
+
+You feel a sense of amusement as its regard settles upon you. "You speak with O," it says. "You have tasted the truth in the form of... machine lubricant. You have contemplated the totality of human existence. Speak quickly and true."
+
+The world slows around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What does it mean to be a... Word?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Can you tell you me what you're doing here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Where did you come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Can you tell me where you came from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You said you had come to offer a vision to Leto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Tell me about Leto's visions again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You come again to O, seeking wisdom and experience. The enlightenment I offer is against your great foe, though I cannot stave off your ultimate fate. Speak this word to the Sorrow, and it will acknowledge my voice."
+
+O leans forward and whispers an incandescent phrase, and it sears itself onto your memory.
+
+{SCRIPT: If PC has played the game 4 times}
+{SCRIPT: Give PC special power against Sorrow}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You are persistent. You live many lives, and with each the truth draws closer to you, as you draw closer to the truth. You dance in a constant orbit of knowledge and attraction. Revelation will be yours in due time. Revelation and power alike. Take my gift."
+
+O's face sparkles and shimmers, and the strange being seems to fade away as though receding down a vast tunnel.
+
+{SCRIPT: If PC has played the game 2-3 times}{SC {SCRIPT: Give PC bonus from O}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"When the stars align, when you summon your life from the great void once again, I will be waiting for you."
+
+{SCRIPT: Despawn O on exit}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"This is the only gift I give. When you come again, I shall be as I was."
+
+{SCRIPT: Despawn O on exit}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I am O. You might call me an ultraterrestrial, though I am far more. I am from beyond space, behind time, above your comprehension. Your mind has chosen this form for me, and I am content to exist in this structure. But know that I exist also outside of your subjective experience. Some might describe me as a superpositional extraction of fundamental universal laws made tangible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I was, am, will be. I see into the infinite past, into the illimitable future. When the cosmos erupted into a sea of light, I saw it. When the mechanism winds to a sad and creaking end, I will weep. At the moment the great wings of death enclose creation, I am the last vestige of dust, frozen, forever perfected."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I am here to see the final attempt at entry by the Adversaries. I am here to offer a vision to Leto. In certain realities, Dhama has not died, and in those he can thrive. In this reality, he has offered his life. Do not cheapen his sacrifice. Be resolute in your choices. Embrace your will, and let your future unfold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I have come to watch, to taste, to *be*, to help you end your fluttering between possibilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I am here to see the final attempt at entry by the Adversaries. I arrive to offer a vision to Leto. In this reality, you have triumphed. In others, your friends and allies fell by the wayside - but I did not come to tell you of your untouched possibilities. Your actions matter. Your choices paint the way to your future. Regrets can change you... as can the road you do not travel. Be resolute in your vision. Do not backtrack. Disaster lies down alternate paths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I am here to see the final attempt at entry by the Adversaries. I will offer a vision to Leto. In this reality, you have triumphed alone, casting aside the lures offered by the lone Adversary. In others, you have failed and your journey ends... but I did not come to tell your untouched possibilities. Remember - your choices paint the way to your future. Regrets can change you... as can the road you do not travel. Be resolute in your choices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You would not understand. Let me show you."
+
+Its eyes widen, expanding to fill the room, your vision, your consciousness, and you tumble into a starry immensity. Swirls of nebulae twist and knot, and in the hearts of these stellar clusters roar hungry vortices. You tumble helplessly into a myriad of them at once, torn apart and reformed in an instant, a being of pure light and will, a -</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You have seen once. To see again would be to unmake you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You find yourself standing in the Fifth Eye again. Your nose is running, and tears streak your cheeks. You wipe them away numbly, and you realize your hand is streaked with blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Too much information. Too much knowledge. Had I shown you more, the energies that bind you together would have failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>It gestures languidly, and you understand perfectly. "I am a Word made flesh. A letter, at least. A concept covered in a false skin, infinitely malleable, essentially unknowable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"A moment. None here will know of our conversation. None will know its nature. None see me, nor will they recognize any sign of me. Even in this remarkable place, they cannot know. But I give you a gift, castoff and god and man, for yours is a true story. It is welcomed into the world. It was born from desire, and will end in... but no. I do not tell your fortune."</DefaultText>
+      <FemaleText>"A moment. None here will know of our conversation. None will know its nature. None see me, nor will they recognize any sign of me. Even in this remarkable place, they cannot know. But I give you a gift, castoff and god and woman, for yours is a true story. It is welcomed into the world. It was born from desire, and will end in... but no. I do not tell your fortune."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Can you tell me what it means to be a Word again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Was I always? Was I created? My origin is hidden from me. But I see. I act only in accordance with my nature. I simply... am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Did you say this was the final attempt at entry by the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"The Adversaries thought to peel through realities, to devour this world as they have others. They have never lost. This world is their first taste of defeat. Within themselves, the eaten cores of their victims begin to stir. The Adversaries will cease to exist in any meaningful form within a millennium if they are stopped here. This is an inflection point. If the warriors here succeed, the Adversaries do not rise again for an eon. So it is written."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"She is prescient. She is the mother of empires. The Adversary's presence has polluted her vision, and she has strayed from the page. I am here to reunite her with the truth. I do not intervene, but this story was true, and so it is true, and so this is not an intervention. The vision will come when you have left the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"She will see clearly. When you leave this city, you will have no further part in her story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Continue. Live. Breathe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The being has no mind to speak of. Where there should be thoughts, you instead sense only a deep, endless hole threatening to swallow your own mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I am here to see the final attempt at entry by the Adversaries. I am here to offer a vision to Leto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Light envelops you, and when you open your eyes, O is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

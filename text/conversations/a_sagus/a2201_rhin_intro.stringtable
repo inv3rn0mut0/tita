@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_rhin_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>100</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rhin has been hiding in the wreckage of a collapsed house, using it as a refuge to evade Tol Maguur while she's in the city proper. (Her reason for being in the city now, as opposed to the junkyard outside the city, could be anything - e.g., maybe Tol's thugs are looking for her out there). She is able to squeeze into a fissure in the collapsed structure that adults cannot, and she hides and sleeps in a little void underneath the ruin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rhin's initial scene could play out in a variety of ways, depending upon how the writer wants to introduce her. For example:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>•	A couple thugs could be out in front of the fissure, trying to make her come out. Maybe they want to capture her as a slave for the Memovira, or they've heard that she has "powers" and think she might be valuable. The player could step in and scare them off - or fight them in a tussle (though this will be a Minor Abuse of Rhin, and she'll be upset if the player killed them). Then he needs to convince Rhin to come out of the fissure (though she's certainly more likely to trust the player after he helps her.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>•	Rhin could be inside the fissure, trapped by another partial collapse of the house (which happen a lot in Cliff's Edge). The player has a few different ways to help her get free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Saving Rhin from her predicament (whatever it is) is the first kind thing anyone has done for Rhin in the Ninth World, so she'll bond to the player immediately and will want to travel with him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[sure, join up]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[no]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[not right now, but I can come back]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>. If he refuses, she'll return to the collapsed house (though the player should be able to return here to retrieve her later). </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Thus, Rhin will need a branch of this conversation for cases where the player has removed her from the party and she has returned here. She's not necessarily back in the fissure - she might just hang around near the collapsed house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The player should be able to mention that Tol Maguur is looking for Rhin (if he's on the Beloved Slave quest), </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>she should recoil at the name, explaining why she doesn't want to be returned to Tol. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>say that he's going to confront Tol and resolve this situation amicably (Gold Tide), </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>) say that he's going to pay a fair price for Rhin's freedom (Indigo Tide), </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>say that he'll kill Tol if she wants, though she'll presumably try to dissuade the player from this (Red Tide), </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>) lie to Rhin in order to get her to accompany him to Tol so that he can turn her in for a reward. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The writer is welcome to add other options too.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>This house was reduced to rubble when part of the cliff face collapsed. There is evidence that squatters have slept here recently - a ragged blanket, rotted fruit peelings, and footprints in the dust itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Something scratches deep within the rubble. It sounds like someone, or something, is in there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Dig deeper into the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hello?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The collapsed house looks exactly as it did last time - even the dusty, ragged blanket is exactly where it was before.
+
+It's quiet, with no evidence of the scratching noise you heard before. Yet you definitely heard *something*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The rubble makes no response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You crawl partway inside, pushing aside boards and a thin slab of slate. A small girl gasps, throwing up a hand to block the sudden light.
+
+She's young, no more than ten or eleven years old. She has made herself as small as possible to fit inside the tiny gap in the rubble. Her hair is dark and curly.
+
+She pulls herself deeper into the rubble, away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Why are you hiding in there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Come on out. I won't hurt you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She puts a finger to her lips, then tries to shoo you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She shakes her head vigorously, trying to shoo you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You hear a voice behind you. "I told you patience would pay off, lads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Some thugs stroll over. They all carry weapons at their sides, though they walk with the cocky assurance of those who don't expect to need them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Don't fret it, Bega." The thug looks you up and down, then calls out in the direction of the rubble. "Come on, little bird. Doesn't matter how good you are at hiding. You had to come out sometime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Why don't you want to go with them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>To the men: "Do you know this girl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>To the men: "Why were you looking for her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>One of the men interrupts. "She's lost," he says. "The little urchin ran away from... from her home. Her *mother* asked us to find her and bring her back safely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Of course we do! The little urchin ran away from... from her home. Her *mother* asked us to find her and bring her back safely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The little urchin ran away from... from her home. Her *mother* asked us to find her and bring her back safely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>To the girl: "Is that true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Where, exactly, are you going to take her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You don't sound like concerned friends - more like thugs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"No." She grabs your wrist. "They're... bad men. They want to steal me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Her mother's waiting for her in Circus Minor. She's sick with worry. Says she can't live without her baby bird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Here, now!" The man manages to look offended. "We're like family to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He sighs. Dropping his facade, he turns to you with a look that pleads for understanding. "But, all right, yeah, there *is* a slaver who put up a fine bounty if we bring her back. It's all legal, and none of your business. Best you stay out of it."
+
+He says the words kindly enough, but his colleagues' hands are on their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Forget it. She's yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The girl screams, tugging ineffectually at your arm as two of the thugs tear her away. It takes both of them to hold her still. She reaches for you, tears streaming down her face as they drag her away.
+
+Her sobs continue to reach your ears long after she has disappeared from sight.
+
+{SOUND: Rhin crying and screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The girl huddles behind you, keeping you between her and the thugs. Even so, it's obvious she's not sure about you either.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Kidnappers? Now that's just crude." The man crosses his arms. "We're delivery men, that's all. The means and motivations of our employers ain't none of *our* business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You can't take me." Her grip on your wrist tightens. "He found me. He has the discoverer's right."</DefaultText>
+      <FemaleText>"You can't take me." Her grip on your wrist tightens. "She found me. She has the discoverer's right."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Just *try* and take her from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"It doesn't matter if it's legal. Slavery is evil, and you're a part of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Her master has grown tired of waiting for you. I've been sent to collect the girl in your stead and to tell you the bounty's off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He narrows his eyes. Something in your demeanor sets him off. His eyes widen and he takes a step back. "Fine. She ain't worth the trouble anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He narrows his eyes. Then he throws his head back in bellowing laughter. "I will, carker, I will. You're not worth leaving this bounty over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Come on, lads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"There's nothing you can say will change our minds." He rubs his chin pensively. "But maybe we can make a deal. This girl has been a pain in our collective backside, and taking her back across the city is bound to be a sharper pain still."
+
+He snaps his fingers. "Tell you what. Give me [Global: a2201_ThugPriceForRhin] shins and we never saw you. Deal?"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Forget it. She's yours.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Reach out and snap his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Deal." Give him the money.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You look like a family man. Are you really going to tell your family they're living on slaver money?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Before any of them can react, you grab the leader's head in both hands and *twist*. There's a sickening pop, and the man falls to the ground, his eyes staring blankly at the sky.
+
+The girl shrieks.
+
+The other thugs step back, gape at you, then take off running.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>He takes it eagerly. "A pleasure doing business with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>His eyes pop open in shock. "Did you... How..."
+
+He shakes his head. "Damn it, you're right. Take the girl then, and don't make me regret it, hear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Draw your weapon and attack. "No deal."
+
+{SCRIPT: If the Tussle is added, then delete node 71. The player should only have the attack option.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Damn it. Get him, lads!"
+
+{SCRIPT: Tussle notes:
+ - Rhin is an ally (not a party member).
+ - Rhin hides immediately and stays hidden.
+ - Thug AIs ignore Rhin entirely and focus completely on the player.}</DefaultText>
+      <FemaleText>"Damn it. Get her, lads!"
+
+{SCRIPT: Tussle notes:
+ - Rhin is an ally (not a party member).
+ - Rhin hides immediately and stays hidden.
+ - Thug AIs ignore Rhin entirely and focus completely on the player.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He mulls over what you said, scowling as he does. "Skist," he says finally. "Fine. I'm out."
+
+He storms off, no longer looking you in the eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He mulls over what you said, scowling as he does. "Doesn't matter," he says finally. "A job's a job, and we gotta eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What? That double-crossing, back-stabbing laak-nibber. She promised!"
+
+He waves an angry hand in the air. "Fine. See if we work for *her* ever again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What? But she..." He stops, seeing something in your eye. Then he chuckles. "I see. You're having a laugh at my expense. The girl's *ours*, you carker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Was your 'bounty' put up by Tol Maguur? She asked *me* to find the girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He wipes his face with one hand. "Ugh. So it's a competition is it? Well that don't change anything. *We* gotta eat, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[She flips out. You didn't need to do that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You reach for the leader's head, but then hear a sickening *thwick*. The girl behind you shrieks.
+
+Unbearable pain sears your belly. You look down to see the thug removing his blade, slicked dark from your blood.
+
+Then everything goes black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The collapsed house looks exactly as it did last time - even the dusty, ragged blanket is exactly where it was before.
+
+From deep within the rubble, a tiny voice says, "Are they gone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"They're gone for good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Yes, I think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>(Lie) "Not yet. Stay hidden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>She crawls out from behind a slab of slate - hidden in a different place than she was last time - and then dusts herself off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Her dusty face peeks over the rubble, examining you and the square behind you. "What an odd thing to lie about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I swear I checked this hovel," says one of them. "She wasn't here. No one was. How did this draff find her so easily?" He gestures dismissively in your direction.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He raises an eyebrow, a bemused smirk playing on his face. "Is that so? Well, spiderjack, what do you say? Is she coming with us, or are we taking her from you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Script Node 95</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I'm not paid enough to die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The collapsed house looks as it did last time. A brief search reveals that the girl is gone - with the dusty, ragged blanket. There is a tiny gap in the wall, tucked away in the dark. She probably escaped through there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The collapsed house looks the same as before. No blanket. No girl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>{Pleading}"Don't let them take me. Please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"No deal. You need to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>She nods and scurries back under the rubble, while the thugs try to push past you. She's gone before they succeed.
+
+{SCRIPT: Cutscene where Rhin disappears back into the rubble. Returns to play node 107.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You're a right bastard, you know that? I've got a family to feed. What I *need* is this bounty." He scowls and draws a blade. "You brought this on yourself."
+
+With that, he lunges, trying to impale you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Dodge and disarm him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Let him stab you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>You deftly move aside, slamming your fist into his forearm. He cries out, and his blade drops to the ground. You snatch it up before he can react and level the blade at his throat.
+
+Eyes wide, the thug holds up his hands and backs away. "Fine. Keep the girl, damn you. We don't want any more trouble."
+
+The others gaze at you with newfound respect, shifting their hands away from their weapons. All three of them turn and leave without another word.
+
+{LOOT: Player should get the thug's blade on this node. It could just be an ordinary shortsword, or it could be something else - but it does need to be some kind of short bladed weapon that fits the text and could impale the player on other nodes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You hear a sickening *thwick*. The girl behind you shrieks.
+
+Unbearable pain sears your belly. You look down to see the thug removing his blade, slicked dark with your blood.
+
+Then everything goes black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You reach for the leader's neck, but he sees you coming and pulls away. 
+
+The thug spits. "So that's how you want it, eh?" Wrenching his blade from its sheathe, he lunges, trying to impale you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[DEBUG] Test the node of Rhin emerging after the thugs kill the PC.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

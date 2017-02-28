@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_flawed_simulacrum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Flawed Simulacrum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Confront Finzin's levy and find out what it wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tell Finzin what the levy wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Resolve the situation between Finzin and his levy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Finzin and tell him what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Finzin and tell him what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Finzin and tell him what happened.
+{SCRIPT: This is no longer one of the possible outcomes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to Finzin and tell him what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Finzin Gives Up Another Year</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Convinced the Levy it doesn't get another year</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Levy Healed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Levy Killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Levy Arrested</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Acquire a device that can transfer a year of Finzin's life to his levy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Return to Finzin with the Chronal Transference Device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Wait until the transference device is finished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Return to Min of Tan Liang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Left Sagus after levy dealt with but without telling Finzin (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A young man named Finzin has asked for my help in dealing with a levy that's been following him around. It seems to have developed an unhealthy fascination with him, and he wants it to leave him alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Finzin asked me to speak to the levy and find out why it's following him around. He says that it's lurking nearby, close to where Finzin is hiding in Cliff's Edge. I should look for a levy that isn't smiling like the others of its kind and is holding a charred wooden object in its hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The levy seems to be suffering terribly. It talked about the 'Gillem Manor job' and described horrific scenes of a fire. Then it said that it wants a 'different year' from Finzin. I should ask him what this means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I told Finzin what the levy wants from him, but he rejects the idea of giving up another year of his life. As the two appear to be at an impasse, it's up to me to decide how to resolve the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I convinced the Levy that it has no right to another year of Finzin's life. Finzin will be happy to hear that it will leave him alone from now on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I used Tidal energy to purge the false memories from the levy's mind and absorb them into my own. The experience was painful and disturbing, but it seems to have worked. When I last saw the levy, it was walking away with a smile on its face. Finzin should be happy to hear the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I killed the Levy that was bothering Finzin. He'll be relieved to hear that it won't be bothering him any longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I reported the levy's strange behavior to the Captain of Levies, and she sent a squad to take it off the streets. Finzin will want to hear the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Finzin used the Chronal Transference Device to give another year of his life to the levy. When it left Cliff's Edge, it seemed content. I don't think it will be troubling Finzin anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Finzin was happy to hear that the Levy will leave him alone, though he feels a little guilty about the trouble his past actions have caused the Levy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I healed the levy and removed the false memories from its mind, so it won't be bothering Finzin anymore. Finzin has no idea how I managed to do it, but he was grateful for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Finzin was grateful that the Levy won't be bothering him, but regretted that it needed to be killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>The levy was arrested and taken away. Based on what the Captain told me, it will probably be killed. Finzin was overjoyed, and he didn't seem particularly concerned about the levy's fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I convinced Finzin to give another year of his life to the levy. He suggested that I visit the Order of Truth, where levies are made, and ask the Aeon Priests for a device that can take another year from him and give it to his levy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I have obtained the device from the Order of Truth. Now I can give it to Finzin, and he'll transfer a year of his life to the levy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>I paid an Aeon Priest named Min of Tan Liang to build a device that will transfer a year of Finzin's life to his levy. Min said it will take him at least a day to complete his work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Min should be finished with the device by now. I should go the Order of Truth and retrieve it from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>I've left Sagus Cliffs and won't be returning soon, if at all. Finzin will just have to deal with his levy himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Finzin's levy has been dealt with, but I didn't get a chance to speak to Finzin before leaving Sagus. He should discover that his problem has been solved soon enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>According to Finzin, I could also report the Levy's strange behavior to the Captain of Levies, who can be found in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>According to Finzin, I could report the levy's strange behavior to the Captain of Levies, who can be found in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Min of Tan Liang, an Aeon Priest at the Order of Truth, can make a device to transfer a year from Finzin to the levy. However, it will cost me some shins, and it will take him a day to complete the work. Alternatively, I could examine the Levy Machine and try to create the device myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

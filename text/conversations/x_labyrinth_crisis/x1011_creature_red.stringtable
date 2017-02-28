@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_red</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Unvisited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Unvisited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Visited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Visited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Examine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Examine again]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Some extra info.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Extra info simple]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Blue option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Red option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Indigo option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Gold option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Silver option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[All done]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>This tank contains two fist-sized crystal shards, drifting purposefully through a sparkling liquid. Memory stirs - you remember climbing a floating mountain of shining rock. Living crystalline formations wandered the wastes far below, their many legs tracing intricate patterns in the glittering sand. 
+
+This being is one of those - a quishamis. Its body is in liquid form, however. The shards - its heart and brain - begin vibrating together, filling your vision with what it sees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>As you approach, the brain and heart of the quishamis begin vibrating once more, reshaping your vision - your reality - to see what it sees. 
+
+You find yourself back in the mind of the dying quishamis, lying in the shadow of the being that killed it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>This tank contains two crystal shards in a sparkling liquid. Memory stirs, pushing aside thoughts of pursuing beasts. You remember climbing a floating mountain of shining rock. Living crystalline formations wandered the wastes far below, their many legs tracing intricate patterns in the glittering sand. 
+
+This being is one of those - a quishamis. Its body is in liquid form, however. The shards - its heart and brain - begin vibrating together, filling your vision with what it sees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>As you approach, the brain and heart of the quishamis begin vibrating once more, reshaping your vision - your reality - to see what it sees. 
+
+You find yourself back in the mind of the dying quishamis, lying in the shadow of the being that killed it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A cloudy jumble of shards scrambles soundlessly around the bottom of this tank. If this is a living creature, it is clearly in distress, or even pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>What will you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Make the quishamis study the hunter, to try to understand him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The creature reluctantly turns its fading attention from the unmarked sand beneath it, and draws ambient light through itself to focus on the being above.
+
+The quishamis cannot make sense of what it sees, but you can. He is a blister-riddled human, coughing wetly into his sleeve as he digs for the quishamis's valuable heart. The hunter who killed your host is dying himself. With the heart, perhaps he hopes to purchase a cure.
+
+You feel yourself melting into the channels carved by the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Back in the strange laboratory, five hulking, smoky creatures bound onto the platform, sucking at the air with crackling snarls. The sour dread in your gut recognizes them for what they are: hands of the being that hunted you while you regained your memories. Fragments of the Sorrow. 
+
+Four of them lunge into the machines connected to the remaining tanks, wreaking chaos on their delicate innards. The fifth fragment focuses its eyeless gaze on you and your ally. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Sorrow Fragment emerges from machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>After returning to your own body, a dull heat settles in your gut, and an oily haze crowds your vision. You sense... no, you *know* that the Sorrow has focused its dire attention directly on you. 
+
+The remainder of the Sorrow fragments spill from the devices they were infesting, and join the hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>That was the last of the creatures. You steel yourself for the deadly race to the tank at the back of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You lean against a tank to catch your breath, eyeing the remaining creatures in the tanks. You will need to be swift to avoid the Sorrow fragments hunting for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Blue attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Blue attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Blue attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Allow the creature to finish its work before it dies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Flickers of unconditional joy slip through the quishamis's vast mind like ruby fish. It raises a triple-jointed leg, and, focusing, swiftly carves three perfect, interlocking spirals in the sand. 
+
+The hunter's gloved hand plunges into the quishamis's body, and rips out its valuable heart. The creature instantly dies a painful, thrashing death, obliterating the delicate traceries of its final design. 
+
+You feel yourself melting into the channels carved by the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Red attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Red attunement crit success.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Red attunement crit fail.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Encourage the quishamis to warn the other creatures in the area that they are in danger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The quishamis rolls reluctantly over in a jumble of melting crystal spines, erasing the incomplete work beneath it. The startled hunter fires another slug into your host's brain, but not before the creature fires a flurry of disintegrating shards high into the air at intersecting angles. The shards slam into each other and explode with a crackling *boom* that echoes across the wasteland.  
+
+You feel yourself melting into the channels carved by the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Indigo attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Indigo attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Indigo attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Force the creature to forgo its art in order to stop the hunter from killing other quishamis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Confusion clouds the creature's mind at the notion of martyring itself. It does not understand who killed it, or why, or even that the hunter will seek others of its kind. It cares only for the pattern, and the sand.
+
+But confusion does not stop the creature from impaling the approaching hunter with its crystal spines. The human slides off them, choking, into a spreading pool of blood. 
+
+You feel yourself melting into the channels carved by the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Gold attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Gold attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Gold attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Inspire the quishamis to etch its 'art' on the hunter in revenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The strange thought drifts through the quishamis's disintegrating mind, intriguing and repulsing it in equal measure. As light fades from its world, the creature whips a casual, impossibly sharp spine across the approaching hunter's face. 
+
+The human recoils, shrieking and clasping his face. Blood pours from between his fingers, pooling in the quishamis's intricate designs. 
+
+You feel yourself melting into the channels carved by the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Silver attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Silver attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Silver attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You hear your own voice at the back of your mind. 
+
+"Designate - quishamis. Living crystalline formations with a strong affinity for the Red Tide. These beings can shift between liquid and solid states, seemingly at whim. They move over their native soil by constantly creating and destroying their bodies, and leave complex spine-etched patterns in their wake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Your voice fills your mind once more. 
+
+"Designate - quishamis. Living crystalline formations with a strong affinity for the Red Tide. These beings can shift between liquid and solid states, seemingly at whim. They move over their native soil by constantly creating and destroying their bodies, and leave complex spine-etched patterns in their wake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Examine the creature. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Examine the quishamis again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>This tank contains two crystal shards in a sparkling liquid. Memory stirs, pushing aside thoughts of pursuing beasts. You remember climbing a floating mountain of shining rock. Living crystalline formations wandered the wastes far below, their many legs tracing intricate patterns in the glittering sand. 
+
+This being is one of those - a quishamis. Its body is in liquid form, however. The shards - its heart and brain - begin vibrating together, filling your vision with what it sees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You must banish the Sorrow fragment from the nearby machine before you can make contact with this creature's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>As you approach, the brain and heart of the quishamis begin vibrating once more, reshaping your vision - your reality - to see what it sees. 
+
+You find yourself back in the mind of the dying quishamis, lying in the shadow of the being that killed it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The heart-and-brain shards of the quishamis have sunk to the bottom of the metallic fluid in this tank. You are attuned to the Red Tide and need communicate with this creature no longer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You sink into the simple, sea-like mind of the quishamis as it roams the jagged wastes, feeling its raw and aching *need* to create and recreate. It moves by birthing new legs from the death of old ones. It traces glorious whorls in the glittering sand before erasing them with even more complicated designs. Then... chaos. 
+
+A hunter's ballistic slug smashes through its brain. Thoughts becoming splinters. Melting. You feel its dying wish - to etch one last design on the sand beneath it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You sink into the simple, sea-like mind of the quishamis as it roams the jagged wastes, feeling its raw and aching *need* to create and recreate. It moves by birthing new legs from the death of old ones. It traces glorious whorls in the glittering sand before erasing them with even more complicated designs. Then... chaos. 
+
+A hunter's ballistic slug smashes through its brain. Thoughts becoming splinters. Melting. You feel its dying wish - to etch one last design on the sand beneath it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You sink into the simple, sea-like mind of the quishamis as it roams the jagged wastes, feeling its raw and aching *need* to create and recreate. It moves by birthing new legs from the death of old ones. It traces glorious whorls in the glittering sand before erasing them with even more complicated designs. Then... chaos. 
+
+A hunter's ballistic slug smashes through its brain. Thoughts becoming splinters. Melting. You feel its dying wish - to etch one last design on the sand beneath it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Rhythmic, sickening thuds come from the nearby machine, attached to this tank by shaking cables. Tearing the Sorrow fragment from within should calm the creature in this tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText> Follow-up PQ. 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Examine the quishamis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Examine the quishamis again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_computer_console</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A slate-black, unimpressive device hunkers before you. As you reach out to touch it, the triangle of lights on its casing blazes into life, and an image unfolds in your mind. 
+
+{SOUND: Optional - we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The device's trio of lights cycle faster as you approach. Once again, you catch a brief mental glimpse of that vast crystalline arch on a flat landscape. 
+
+"Command me," the intelligence sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What was that arch you showed me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Show me that arch again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the outside of the device.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Step away from the device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You see a huge, crystalline arch on a jagged field. The arch is divided into rectangular cells, all of which are numbered, and they all appear to be transparent and empty, except...
+
+At the arch's pinnacle, one cell is lit in a brilliant, pulsating emerald. 
+
+The number "0" is printed on its side. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You have a momentary, nagging feeling that you have stood here in this place before. Perhaps if you concentrated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Aim another kick at the device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Unleash the contents of Cell 0."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>An indignant hum rises from the intelligence's engines as you examine its ancient casing. 
+
+A much newer mechanism on the device's side appears to be giving this intelligence its vocabulary and forcing it to speak to you. The device's original creator may not have intended that its creation to be helpful at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What 'commands' do you recognize?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Show me that list of commands again. Slower, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The three green lights dim to a dull, annoyed yellow. Heated air sighs from the device's vents. And then - 
+
+A towering list of commands races through your mind, far too fast too read. You rub your eyes, groaning, and the intelligence chortles. 
+
+"Command me," it says smugly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>If anything, the list pours through your mind even faster than the last time. 
+
+"Cooo. Maaaand. Meeeeeeee," the intelligence drawls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Though the list was mostly a blur, one particular command - "Unleash" - seemed to be highlighted in emerald. The same emerald of Cell 0, at the top of the arch in the dark field. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Your command was not understood," the intelligence says with clear satisfaction, sounding for all the world like it understood the question but is choosing not to answer.
+
+"Command me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Your command was not understood," the intelligence chuckles, its lights pulsing.
+
+"Command me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Kick the device as hard as you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The intelligence's lights flutter in alarm just before your foot smashes into the base of the device. Something within goes *crunch*.
+
+"Cell-Gating damaged," it gasps, the trio of lights focusing on you with blinding intensity. "All prisoners lost. Shuttering Lugum Vo."
+
+A hatch springs open near the dent left by your foot, and the lights flicker off as you claim a hissing component from the device's smoking interior.
+{LOOT}
+{SOUND: Optional - Crunching sound as player kicks and breaks the console.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The innocent whistling drifting from the intelligence's innards should have given you a clue. Your toes smash into an invisible barrier in the air. 
+
+Clearly, it saw you coming this time. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The intelligence never sees it coming. Your foot smashes into the base of the device, and something within goes *crunch*.
+
+"Cell-Gating damaged," it gasps, the trio of lights focusing on you with blinding intensity. "All prisoners lost. Shuttering Lugum Vo."
+
+A hatch springs open near the dent left by your foot, and the lights flicker off as you claim an interesting component from the device's smoking interior. 
+{LOOT}
+{SOUND: Optional - Crunching sound as player kicks and breaks the console.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You wind up to kick the device, and all three of its lights flare at once, blinding you. 
+
+You bash your shin against a reinforced section of the device's shell, and howl, drowning out the intelligence's satisfied chuckle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The memory blossoms. You stand before this arch, eyeing the last two active cells in once-impenetrable Lugum Vo. 
+
+"Unleash Cell 29," you say, and a twisted artifact appears before you. You claim it with a faint smile, watching the light fade from the cell far above...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You scan the arch, the landscape, and for a moment, you almost grasp the memory and hear a dry voice speaking a command... but the buzzing hum of the intelligence's engines proves too distracting. 
+
+The memory is gone. You'll have to pry the memory from the device's grasp some other way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You sense a presence beside you and turn. 
+
+A flickering image of the Changing God stands there, in the body you inherited from him. In a passionless voice, he issues a command.
+
+"Unleash Cell 29." 
+
+A twisted artifact appears before him, hanging in the air, and the Changing God claims it with a faint smile. 
+
+You glance back at the arch. Cell 29 is transparent, as are all of the rest... except for Cell 0.</DefaultText>
+      <FemaleText>You sense a presence beside you, and turn. 
+
+A flickering image of the Changing God stands there, in the body you inherited from her. In a passionless voice, she issues a command.
+
+"Unleash Cell 29." 
+
+A twisted artifact appears before her, hanging in the air, and the Changing God claims it with a faint smile. 
+
+You glance back at the arch. Cell 29 is transparent, as are all of the rest... except for Cell 0.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Several frustrating minutes of concentration yield no results. Whatever sparkle of memory you sensed is completely gone.  
+
+You'll have to discover this device's secrets some other way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bank 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Try to remember more details about this strange place. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Close the image of the arch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You release your mental hold on the image of the arch, and it collapses, returning you to reality. 
+
+"Command me," the intelligence says sulkily. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::crackle::
+
+{SOUND: Optional - Faint machine crackle, but other than this noise, the usual machine sound is not present.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Awaiting commands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::crackle::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>::Zzzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The device's lights flutter with incandescent shock, then focus on you, flickering. 
+
+"Cell 0 will now be unleashed," the intelligence spits. "Please be advised that the object you are about to receive is completely safe. Use no caution whatsoever." The strange contents of Cell 0 materialize before you.
+
+"Warning. All cells are now vacant. Shuttering Lugum Vo." The intelligence's lights wink out, one by one. 
+{LOOT}
+{DP}
+{SOUND: Machine noise fades out on this node (if it's been present throughout). Ideally, this would happen as the player exits this node or at the start of the next one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>::crackle::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Cascade 85</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Cascade 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The image collapses, leaving you staring into the device's triangular array of lights. 
+
+"Command me," the device - or the intelligence within it - says, each word carefully etched with distaste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>A towering crystal arch rises over a jagged, gray landscape. The air is dead and stifling. And there, at its emerald peak...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>The three lights throb irritably. Heated air sighs from the device's vents. And then-
+
+A towering list of commands races through your mind, far too fast to read. You rub your eyes, groaning, and the intelligence chortles. 
+
+"Command me," it says smugly.
+
+{SOUND: Optional - Air being emitted from the vents of the machine, almost like a sigh.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>If anything, the list pours through your mind even faster than the last time. 
+
+"Cooo. Maaaand. Meeeeeeee," the intelligence drawls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The memory blossoms. You stand before this arch, eyeing the last two active cells in once-impenetrable Lugum Vo. 
+
+"Unleash Cell 29," you say, and a twisted artifact appears before you. You claim it with a faint smile, watching the light fade from the cell far above.
+
+"One cell left," you remind the fuming air. "You should be grateful. Your countless years of servitude are nearing their end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>An indignant hum rises from the intelligence's engines as you examine its ancient casing. 
+
+{SOUND: Optional - Machine noise becomes slightly indignant for this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>A much newer mechanism on the device's side appears to be giving this intelligence its vocabulary and forcing it to speak to you. The device's original creator may not have meant for it to communicate at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Nothing looks out of the ordinary. You step back, and the hum fades away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>You flinch from the memory, and it falls apart as you raise your eyes to the arch as it is now. Cell 29 is dark now. Only Cell 0 remains. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"You planning on breaking every machine in here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Interesting that a *castoff* can command the Changing God's machines." He crosses his arms across his chest. "How'd you do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Callistege rolls her eyes at Aligern. Then she looks to you. "He'll never stop gnawing on this bone, you know. The truth is wasted on him." She gets a glint in her eye. "Though I admit curiosity. How *did* you do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"There!" Aligern says. "How'd you command the Changing God's machines if you're not him?"</DefaultText>
+      <FemaleText>"There!" Aligern says. "How'd you command the Changing God's machines if you're not her?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>(Bluff) "All right. I *am* the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I told you before. I don't know who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I told you the truth before. I'm the Changing God!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I don't know who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You heard him," Aligern says, grinning with grim triumph. "But go ahead and ignore the obvious, Callistege. You're good at that."
+
+Muscles flex in Callistege's jaw as she looks away. </DefaultText>
+      <FemaleText>"You heard her," Aligern says, grinning with grim triumph. "But go ahead and ignore the obvious, Callistege. You're good at that."
+
+Muscles flex in Callistege's jaw as she looks away. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"There, Aligern. The child has spoken. Will you listen? Will you see reason?" She smiles sweetly at the sour expression on Aligern's face. 
+
+"No, of course you won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I knew it," Aligern says, baring a savagely triumphant grin at Callistege. She narrows her eyes, but says nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"There's no shame in admitting ignorance, dear." Callistege smiles sweetly at Aligern. "Some people could stand to learn from your example."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Bank 114</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Examine the jagged wasteland. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Examine the jagged wasteland again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Bank 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Dry grit whirls across the empty plain. Many kilometers beyond the arch is the faint outline of what *seems* to be a broken tower, except that it is slowly stretching into the gray air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Far beyond the arch, the broken tower reaches for pale, red-threaded clouds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The device's triangle of lights throb in time with the growl of the engines within its casing, and the mental image unfolds once more.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>You flinch from the memory, and it falls apart as you raise your eyes to the arch as it is now. Cell 29 is dark now. Only Cell 0 remains. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Just lucky, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Maybe you're right. Maybe I *am* the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I remembered something. I don't think it was *my* memory though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I remembered something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Residual memories of a past consciousness? Truly fascinating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Oh, don't act like you know what that was. It's just as likely the machine triggered something past his amnesia."</DefaultText>
+      <FemaleText>"Oh, don't act like you know what that was. It's just as likely the machine triggered something past her amnesia."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She gives you a meaningful look then mimics teeth gnashing like an animal gnawing a bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I knew it," Aligern says, baring a savagely triumphant grin at Callistege. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Meaningless, Aligern. He clearly has basic skills and knowledge from the Changing God having been in his body. Who's to say there aren't even more specific memories locked away in there?"</DefaultText>
+      <FemaleText>"Meaningless, Aligern. She clearly has basic skills and knowledge from the Changing God having been in her body. Who's to say there aren't even more specific memories locked away in there?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>He frowns. "Sure it was. Just don't forget I'm watching you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"As if you would *let* us forget. Honestly, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_artaglio_soldier_entrance_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A pair of bored-looking soldiers in filthy uniforms bar your way. Blue and silver markings are still visible under the grime, but only just. Their weapons, on the other hand, are clean, well-maintained, and appear to have seen serious use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The guards glance at each other for the barest fraction of a second, and then, hiding a smirk, the first one says, "Welcome to Chiurgeon Slump, under the protection of Artaglio's Irregulars. Here to see one of our fine medical professionals? It'll only cost you twe-" He breaks off suddenly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>For a moment, his eyes are fixed on your tattoo. Then they drift to Matkina, and he swallows nervously and visibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>His gaze lingers on Riastrad and Matkina behind you, and he swallows nervously and visibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>His gaze lingers on Riastrad behind you, and he swallows nervously and visibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>His gaze lingers on Matkina behind you, and he swallows nervously and visibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No fee. I beg your pardon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Why aren't you charging me any shins?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Very well. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>His eyes are fixed on your tattoo. "I'm sorry. You'll have to speak to our captain, Artaglio."
+
+He and his companion turn away, pointedly avoiding your gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

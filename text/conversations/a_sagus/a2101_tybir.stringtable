@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_tybir</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>184</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pacing the edges of the crowd is a paunchy old soldier with a swaggering stride. At the moment, however, his jauntiness seems overshadowed by worry, and he alternates between watching the execution and searching the crowd as if looking for a miracle. Then his eyes light on you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I don't need anything. But my friend there on the platform is dying. The nightmares his executioners have induced in him spill from him with every word he speaks, and wrap around him like a snake."
+
+He glances at the execution. "I know there are but a few strands around him now, but in a few days' time, they'll choke the life out of him. I cannot imagine a more horrible way to die."
+
+He pauses. "Well, that's not true. I have an imagination that would shame a sailor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I don't need anything. But my friend there on the platform is dying. The nightmares his executioners have induced in him spill from him with every line he speaks, and wrap around him like a snake."
+
+He glances at the execution. "Already the coils grow thick. In another day... maybe two... they'll choke the life out of him. I cannot imagine a more horrible way to die."
+
+He pauses. "Well, that's not true. I have an imagination that would shame a sailor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I don't need anything. But my friend there on the platform is dying. The nightmares his executioners have induced in him spill from him with every line he speaks, and wrap around him like a snake."
+
+He glances at the execution. "For three days the coils have wrapped around him, tighter and tighter. Today they will choke the life out of him. I cannot imagine a more horrible way to die."
+
+He pauses. "Well, that's not true. I have an imagination that would shame a sailor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The old soldier is still pacing the edge of the crowd, anxious. He brightens when he sees you. "Ah! You've returned. Have you changed your mind, my friend? Are you here to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The old soldier looks up from his pacing. "There you are, friend! Do you have the stay of execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you pass a stack of cargo, a familiar figure steps out from behind it, disguised - entirely unconvincingly - as an Aeon Priest. "Er, hello again, lad," says Tybir. "I... I don't suppose you're ready to change your mind about me joining you?"</DefaultText>
+      <FemaleText>As you pass a stack of cargo, a familiar figure steps out from behind it, disguised - entirely unconvincingly - as an Aeon Priest. "Er, hello again, lass," says Tybir. "I... I don't suppose you're ready to change your mind about me joining you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What kind of help do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sorry. I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Fine, fine. It's only a man's life at stake. I wouldn't want to trouble you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"All right. What help do you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I really can't help. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The place of execution is empty but for the old soldier. He glares at you. "You dare show your face now? You've killed him, understand? Whether it was laziness or forgetfulness or spite, you've come too late. Ris is dead."
+
+His hand closes into a shaking fist. "I can't stay in this city another minute, knowing that he died here because I trusted a stranger."
+
+He spits at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He leans in. "You'll need to be swift, and willing to hold justice above law, but there is a way to save him, if you will hear me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Why are you hiding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"No. I don't have the stay of execution yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Maybe. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Yes, I have the stay of execution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You are a miracle, my friend! Here, let me have that. I'll copy it out and add Ris's name."
+
+He takes the document from you, sets it by a blank sheet, and laboriously but very neatly copies it word for word, except for the name of the condemned. That he changes to Ris, then he signs it and gives the copy to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ah, well, it seems Ris is still unhappy with me for leaving him on the gibbet for so long, and he wants to strangle me with my own entrails to show me how it felt. I, naturally, am less enthusiastic about the lesson, and would like to avoid it if at all possible."
+
+He takes a breath - finally. "Therefore I was hoping I might join you, er, for protection, if you see what I mean. Strength in numbers and all that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why do you need an 'unfamiliar face'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Because the Council Clerk knows me now. I've been pleading Ris's case to him every day this week, but to no avail." He rolls his eyes. 
+
+"The task requires a face he doesn't know, and hopefully, he doesn't know yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Well, not to worry. We've at least two more days before the end. But don't waste time. Every moment in the throes of that nightmare is a scar on poor Ris's soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Hurry!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It was a travesty!" he growls, his eyes blazing with righteous fury. "The poor lad had no idea what was in there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"If you were part of the scheme, why aren't you up there with him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Luck?" he says, shrugging. "I was taking a piss when they came for him. Went through the back window and scampered up to the roof." 
+
+He shakes his head. "I watched poor Ris being led away from my hiding spot. Swore I'd get him free. I hope it's a promise I can keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"All right, I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'm sorry. I can't help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"When you get Col's stay of execution, I'll make a copy with Ris's name on it, and you can give it to the Overseer who will free him. You see? Simple!"
+
+He rubs his hands together. "Now, if you'll let me join you, I'd be happy to show you around the city and help you with all this - and whatever else you have going. What do you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Thanks. I could use the help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"No thanks. I'll figure this out on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"It will be my pleasure, but let's hurry. There's not a moment to lose. Ris hasn't much time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Suit yourself, but don't waste time. Ris hasn't much left. Bring the document to me when you have it. Any other questions before you go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Have a heart!" he says, shaking his head in disbelief. "Can you really walk away when it's in your power to save a man's life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"All right, you've convinced me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'm certain. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Until we meet again, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Why is your friend being executed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Explain again why your friend is being executed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What's your plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tell me your plan again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Why are you helping Ris?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Remind me why you're helping Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Captain Lanchan Tybir, retired," he says with a little bow. "Extremely retired. Once a soldier of fortune, now its plaything." He takes another look at Ris. "But my story can wait. Saving Ris's life comes first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Captain Lanchan Tybir, retired. Once a soldier. Now a glorified odd-jobs man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A misunderstanding," he says, waving a dismissive hand. "Ris and I were hired to deliver some expensive brandy to an out-of-town buyer."
+
+He breathes a sigh, weighted with disgust and regret. "Would you believe that the bottles were *stuffed* with state secrets? Ris was accused of selling information to the enemies of Sagus Cliffs. They called him a traitor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"He was caught with a crate of brandy full of state secrets. Sadly, the judge wouldn't listen to reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"A simple one, but it requires nerve. Listen." 
+
+He lowers his voice. "It would be nothing for someone of your noble demeanor to masquerade as a city official and ask the Council Clerk for an archived copy of an old stay of execution. Once you have it, I'll write out a fresh one and add Ris's name. Then we'll present it to the overseer here, and poor Ris will be set free."
+
+He spreads his hands. "There you have it. A foolproof, risk-free plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Disguised as a city official, you'll acquire an old stay of execution form. I'll make a copy and sign it, and you'll present it to the overseer. We'll have Ris free in no time. As long as you get going, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Is friendship not reason enough?" he declares. Then, his shoulders sag, and he hangs his head. "Actually, truth to tell, there's more to it than that. I'm partly to blame for him being up there, and guilt's a strong motivator, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Because he's my friend, and he's up there because I got him into this mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Courage, friend. We're almost home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Very well, I don't like to hurry you, but there isn't much time left. If we don't save him by tomorrow, Ris's life will be squeezed out of him. Don't leave it to the last second."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You're cutting it fine, friend. Ris could go at any moment. Bring me that document before you sleep again or it'll be too late, and you'll have his death on your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Best of luck to you, my friend. You won't see me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"No. I don't want any more to do with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"All right. Come along, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Are you sure? I'm a man of the world. I know my way around a lot of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"All right. You've convinced me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"No, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Strength in numbers? Do you mean that, if you join me, we're in danger of Ris attacking us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Thank you, lad. Thank you. I am much obliged."
+
+</DefaultText>
+      <FemaleText>"Thank you, lass. Thank you. I am much obliged."
+
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Tybir waves his hands. "No no. I mean the exact oppposite. Ris is an utter coward. As long as you're with me, he won't dare attack. He won't even show his face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>As you pass a big stack of cargo, a paunchy old soldier, disguised - entirely unconvincingly - as an Aeon Priest, edges cautiously into view. He seems eager to keep to the shadows. "Er, hello, friend. I... I don't suppose you're leaving town just now?"
+
+{SCRIPT: Ris is dead.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Soon, yes. Why?"
+
+{SCRIPT: Player has On the Builder's Trail quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Not immediately. Why?"
+
+{SCRIPT: Player does NOT have On the Builder's Trail quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ah.... it's a bit of a long story, but, well, I'm afraid I've gotten on the wrong side of some less than savory individuals, and I need a change of scenery."
+
+He gives you a hopeful look. "So, er, do you require the services of an experienced soldier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Fine. Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't know. What do you have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Are you sure? I'm a man of the world. I know my way around a lot of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Besides being an experienced soldier, you mean?" He spreads his hands. "Well, I'm a man of the world. I've been everywhere. I've done everything. I know people in every city in the Beyond and beyond, and most of them owe me favors. Would that be any help to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"If you have so many connections, why do you need my help now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He shrugs. "My Sagus Cliffs connections are... unhappy with me at the moment. These things happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The old soldier looks anxious to leave the execution ground, but he gives you a big smile nonetheless. "There's the hero! Thank you again, my friend, for saving dear old Ris. I'm sorry you had to see that unpleasantness between us, but not to worry. He'll come around in the end."
+
+He looks over his shoulder. "Until then, however, I think a little safety in numbers might do me good. You wouldn't perhaps be in need of a seasoned old soldier?"
+
+{GEORGE/NATHAN: Can this node even fire? On successfully completing the quest when Tybir is not in the party, he runs off and will appear in Caravanserai from then on.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Tybir shrugs. "Fair enough. If you change your mind, I'll most likely be in the Caravanserai, looking for an outward bound ship."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'm not interested, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"So the Council Clerk will just give me a stay of execution for the asking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Excellent! Then you will need a proper story and a badge of office. Fortunately, I have the first and you can buy the second from Sangolin, the clothing merchant in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>He folds his arms. "Once you have a badge of office, you will tell the Council Clerk you are from the Judicial Oversight Committee, looking into corruption in the commutation of capital sentences. The stay you're asking for is that of a notorious gangster named Col Cardin, who was mysteriously set free a few years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Passing the stack of cargo again, the disguised soldier once again peeks out. "Hello again. I don't suppose you've changed your mind about having me along? I'm a bit desperate."
+
+{SCRIPT: Ris is dead.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Passing the stack of cargo again, Tybir once again peeks out. "Hello, again, my friend. I don't suppose you've changed your mind about having me along? I'm a bit desperate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I had some more questions about Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I want to talk to your friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Are you mad?" Tybir sputters. "It's an execution. He's surrounded by levies. They won't let you near him. And even if they did, he's out of his head. You'll get nothing but gibberish from him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"All right, forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I still want to try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Tybir breathes a sigh of relief. "Good thinking, friend. It's never wise to stir up the levies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Tybir holds up his hands. "As you wish. Just don't say I didn't warn you. The levies are not to be trifled with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"All right, I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Hang on, Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Help is on the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"What a situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I'm sorry, Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Running out of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Did it get dark suddenly? Or have I been drinking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Well, I *know* I've been drinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"So that's probably it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Where is that lad?"</DefaultText>
+      <FemaleText>"Where is that lass?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Time is running out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>As you pass a stack of cargo, a familiar figure steps out from behind it, disguised entirely unconvincingly as an Aeon Priest. "Er, hello, friend," says Tybir. "I... I don't suppose you're-"
+
+He cuts off suddenly as he gets a better look at you. "Oh. It's you. I was looking for a way out of town, but I said I was never going to talk to you again, didn't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Why do you need to get out of town?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Yes, you did. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Those are two very fine reasons indeed. I forgive you." He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Some of Ris's friends are blaming me for his death, and the authorities want to, er, question me. It's all become a bit... awkward, and I believe a change of scenery would do me good,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Fortune and glory await us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I want to make amends for getting Ris killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I seem to have put you in this situation. I'll get you out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You shouldn't. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Tybir curls his lip. "Fine. I've other avenues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"A very touching sentiment, lad. I forgive you, and I'm sure, whereever he is, Ris does too." He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}</DefaultText>
+      <FemaleText>"A very touching sentiment, lass. I forgive you, and I'm sure, where ever he is, Ris does too." He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Thank you, lad. You're a real humanitarian. I forgive you." He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}</DefaultText>
+      <FemaleText>"Thank you, lass. You're a real humanitarian. I forgive you." He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here uuntil you're ready to leave. I'll join you then."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Best of luck to you, my friend. You won't see me again."
+
+{SCRIPT: Tybir walks off, despawns. Does not return in the game.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I've changed my mind. I'd like you to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"That's more like it!" he says, beaming. "Ready when you are!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Fine. Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I don't know. What do you have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Besides being an experienced soldier, you mean?" He spreads his hands. "Well, I'm a man of the world. I've been everywhere. I've done everything. I know people in every city in the Beyond and beyond, and most of them owe me favors. Would that be any help to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"If you have so many connections, why do you need my help now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>He shrugs. "My Sagus Cliffs connections are... unhappy with me at the moment. These things happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Are you sure? I'm a man of the world. I know my way around a lot of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"No, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Easy travels, friend."
+
+{SCRIPT: Exits toward Caravanserai.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"May the blessings of the cyprians be upon you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Thank you, lad. Thank you. I am much obliged. Er, but with half of Sagus Cliffs looking for me at the moment, I'm afraid I can't actually join you until you're ready to leave town. I'll join you when you're ready to leave."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}
+
+</DefaultText>
+      <FemaleText>"Thank you, lass. Thank you. I am much obliged. Er, but with half of Sagus Cliffs looking for me at the moment, I'm afraid I can't actually join you until you're ready to leave town. I'll join you when you're ready to leave."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}
+
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"All right. You've convinced me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Excellent. And thank you."
+
+{SCRIPT: Add Tybir to party when PC leaves Sagus Cliffs.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Are you sure? I'm a man of the world. I know my way around a lot of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Still waiting, lad. Any time you're ready."
+
+{SCRIPT: Player agreed to take Tybir along when he leaves town.}</DefaultText>
+      <FemaleText>"Still waiting, lass. Any time you're ready."
+
+{SCRIPT: Player agreed to take Tybir along when he leaves town.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I'm just about to leave. If you want to join me, now is the time."
+
+{SCRIPT: Player has On the Builder's Trail quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I'm not leaving just now. But if you can wait, I'll take you with me."
+
+{SCRIPT: Player does not have On the Builder's Trail quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Sorry. Not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"And who said I was interested in going with *you*? That's quite an ego you have there. I don't think there's room enough for both it and me in your party."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Whoa now, laddie! Did I say I wanted to come with you? After what you did - or rather what you *didn't* do - I'm not sure I do."
+
+He folds his arms. "Why should I go with you?""</DefaultText>
+      <FemaleText>"Whoa now, lassie! Did I say I wanted to come with you? After what you did - or rather what you *didn't* do - I'm not sure I do."
+
+He folds his arms. "Why should I go with you?""</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"So long, friend. You won't see me again." 
+
+
+{SCRIPT: Tybir walks off, despawns. Does not return in the game.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Tybir sniffs. "Well, if that's the way you want to be about it. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"That's fine. See you then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Let's wait a bit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Fair enough. If you change your mind, I'll be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Easy travels, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Where do I find the Council Clerk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"At a podium outside the Council Tower in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Would it be simpler to talk to the crowd at the execution? Convince them to rise up and free Ris?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Tybir looks uneasy. 
+
+"Well, you're welcome to try, friend, but leave me out of it. Sagus Cliffs crowds are notoriously bloodthirsty, and the execution officials are not known for their sense of humor. You might regret it later - and you'd be alone when you did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Script Node 179</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Where do I find the Council Clerk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Where can I find the Council Clerk again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"He'd be in Government Square, of course. There's a podium outside the Council Tower. I can't think of a time he wasn't there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"This sounds like an *extremely* risky plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Nonsense," he says, waving a hand. "It couldn't be simpler. Just be calm, confident, and wear a winning smile."
+
+He gives you a winning smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"But you did, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"That *is* a travesty!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Well," he says, studying the air over your shoulder. "There's a place for talking about what I know and what I don't. This isn't that place."
+
+He clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"*Thank* you!" he says, slamming a justice-seeking fist into his palm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"There, let that dry a moment, then take it to the overseer at the execution ground. And don't worry. He'll sense nothing amiss. The chief justice's signature was flawless, if I do say so myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"That's all I needed to know. I'd like to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Of course! Of course. But do hurry. The lad doesn't have much time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Got it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I say. You look like someone who believes in justice. How'd you like to help a poor soul wrongfully condemned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"When you get Col's stay of execution, I'll make a copy with Ris's name on it, and you can give it to the Overseer who will free him. You see? Simple!"
+
+He gives a slight bow. "I'd happily join you to show you around the city and help you with all this... but it seems you've got quite the crowd already. If your entourage ever dwindles, stop by and I'll lend my not inconsiderable talents to the cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I would, lad, but you've got quite a crowd already. Talk to me again if you're ever light on hands, though."</DefaultText>
+      <FemaleText>"I would, lass, but you've got quite a crowd already. Talk to me again if you're ever light on hands, though."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Script Node 197</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

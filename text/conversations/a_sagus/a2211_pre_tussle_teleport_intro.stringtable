@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_pre_tussle_teleport_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hold! No one move! I know you're eager to get it over with - and that you're terrified. Don't think you can hide that, Ziobe. It's not necessary. We're all frightened. Here. Feel."
+
+A wave of his fear crashes over you, and your body reacts instinctively, releasing adrenaline. Under the fear is a will of iron, an adamantine determination, and a calm acceptance of whatever comes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"All right. Motivation talk. We can do this, but we need to work together. Remember our training, and improvise as necessary. Now... let me prepare the killing floor."
+
+He closes his eyes, and you can feel reality rippling around you. His strength is undeniable, his mastery certain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ready in three..."
+
+As the world crumbles around you, a new vision takes its place. 
+
+"... two..."
+
+You feel the push and pull of titanic minds, struggling to establish the rules of this shared dreamspace.
+
+"...one..." And then you sense Dhama's control slip for just a moment, and the Adversary gains the upper hand. "Ah, skist! Attack! Attack now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"At last you come to me..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_pajrekken_conversionconversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[LCO - Introduction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Other - Introduction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Fallthrough, paj demands you fight her]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Appeal to her ego]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Appeal to her sesne of justice, try to convince her that the First was repsonsible for Aadiris's death]
+{bonus from indigo dominant tide}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[instant failure, no repeats]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Succeed and conver Paj to your side]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Failure, paj remains on the memoviras side but gains the distracted fettle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Enough talking," she snaps. "Fight me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You've convinced me. I'm with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Paj's face is a mask of carefully controlled anger. "You. You're like an insect. You'll survive anything, when someone like Aadiriis..." She looks away and swallows before she turns back.
+
+Her eyes harden. "But we've got you where we want you. Now we'll stop the Coward's plan for good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"We're not here to talk. We're here to stop you from completing the Coward's plan to kill us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I don't talk to lackeys. Bring me your castoff leader."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You know I wasn't responsible for Aadiriis's death. Do you really want to be on the side that *was* responsible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She whispers, "I have served Maralel faithfully for centuries. But... she has grown too arrogant. Too full of herself. She doesn't remember what it means to love anyone. And... and I believe she would sacrifice all of us to win this gambit."
+
+She blows out hard, and uncurls her clenched fist. "I am on your side. Do not disappoint me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She clenches her teeth. "I have served Maralel faithfully for centuries. I have trusted her judgment in all that time, even at great personal cost. I will continue to do so. You and I - we are foes to the end. That's how it has to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Do you want to be the First's lackey forever, Paj? It's time to leave her shadow and do what *you* think is right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Her jaw tightens. "No quarter for you. Not now, not ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I don't want to talk to you, Matkina. I want to talk our sibling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'm not the one who ordered the shields dropped, Paj. That was you. Aadiriis's death is on your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I didn't kill Aadiriis. The First did, by dropping the shields in Miel Avest. She knew what would happen. You know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It wasn't me who dropped the shields. But the First said she tried to kill me in Miel Avest. What does that tell you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You want to talk to me, fine. *Convince* me that you didn't destroy Miel Avest. Tell me you didn't kill Aadiriis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Her expression is unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Damn you," she whispers. "Damn you for existing. And damn her too, with her arrogance. Maralel's only love is victory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"But she... she would have told me. She..." Paj squeezes her eyes shut. "It all fits. Everything. How could she? After all I've done for her..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What? I would never have done that. Never! It was you who weakened the shields, you who..." She clamps her mouth shut. Her next words are slow and measured. "The Sorrow attacked after I told Maralel you were there. But... the shields still stood after I left."
+
+She pinches the bridge of her nose. "If it wasn't you, and it wasn't me... the truth begins to dawn."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

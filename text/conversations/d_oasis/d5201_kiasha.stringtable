@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5201_kiasha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Outside a stand that gleams with glowing liquids inside glass vials, a wide-eyed ghibra in a white smock puts up a hand and floats in your way. "Stop right there, friend. Stop right there. You look like the sort of daring adventurer who dreams of conquering the outer reaches of his inner self and climbing the highest mountains of his soul. Am I right? Am I right? Of course I am!"</DefaultText>
+      <FemaleText>Outside a stand that gleams with glowing liquids inside glass vials, a wide-eyed ghibra in a white smock puts up a hand and floats in your way. "Stop right there, friend. Stop right there. You look like the sort of daring adventurer who dreams of conquering the outer reaches of her inner self and climbing the highest mountains of her soul. Am I right? Am I right? Of course I am!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Welcome back, friend," says the manic ghibra. "Back for another look at my mind-altering medicines and conciousness-expanding compounds? I am happy to elucidate on any and all any and all. You have but to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Please show me your cyphers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You won't be disappointed, friend. I promise you!"
+
+{SCRIPT: Open Kiasha's Store.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Come back again soon, bold explorer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me about your experimental injections."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tell me again about your experimental injections."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Each injection costs [Global: d5201_InjectionCost] shins. Sorry, no guarantees and no refunds - sometimes these work and sometimes they don't. It's all part of the fun!"
+
+It grins. "What would you like to try?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"A *love* injection? This I must try! Matkina! Did you hear?  Soon you will be swooning for me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Very well. Go ahead, Erritis."
+
+{SCRIPT: Conditional - Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Sorry, Erritis. We don't have enough shins."
+
+{SCRIPT: Conditional - Player doesn't have enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"No, Erritis. Just, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You don't need an *injection* for that, Erritis. You're full of it already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He pays for the injection eagerly. "Give it to me. Give it to me. I need it!"
+
+{SCRIPT: Take Money from Player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Curses! Well as soon as we do, we're coming back. Don't let me forget!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"How dare you! You are standing in the way of true love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Erritis preens. "Very true!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Very well, Erritis, you can try the love injection."
+
+{SCRIPT: Conditional - Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'd like to try the love injection."
+
+{SCRIPT: Conditional - Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'd like to try the love injection again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Bank 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Excellent choice! Just remember to make sure that the first person you talk to is the one you want to fall in love with you." It laughs like a ratchet as it prepares the syringe. "Oh the mistakes I've seen! Such hyjinx!"
+
+"Now hold still. This one stings a little."
+
+It injects you with a pearlescent pink liquid. You feel a momentary dizziness, then your head clears.
+
+{SCRIPT: Take player money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Couldn't get enough the first time, eh? Excellent. Remember, the first person you talk to after the injection will fall in love with you, so choose wisely." It prepares the injection. "Ready? Good."
+
+It injects you. Once again, you feel a slight dizziness, but it quickly clears.
+
+{SCRIPT: Take player money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Turn to Aligern. "I've always liked the brooding type."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Turn to Callistege. "As you exist in multiple realities, does that mean that, when you make love, you have - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You turn to Erritis. "Come on, Erritis, let's give your audience a show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You turn to Matkina. "I know that, behind all your armor, lies a gentle, welcoming heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You turn to Oom. "Oom? Do you love me, Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[PC talks to Rhin]
+
+{ADAM I don't think we should even go here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You turn to Satsada."I know that we cannot touch, but ours could be a love of the mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You turn to Riastrad. "Could my love wake you? Could it stir your soul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You turn to Tybir. "How about we show each other a good time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You turn to Murai. "How about I play tour guide for a while? I'll show you things you've never imagined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Turn to Kiasha. "You know what the real drug is? Love is the real drug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Kiasha smiles politely. "Well, I *think* it's working. A little. That batch was a little weak though, to be honest. Maybe if you bought another dose and tried again? I'm sure it would work then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Aligern raises his eyebrows. "I'm not attracted to men, especially gullible ones. Sorry."</DefaultText>
+      <FemaleText>Aligern raises his eyebrows. "I'm afraid I have never found gulliblity attractive. Sorry."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She strokes your face, interrupting you. "Don't speak. Or touch me. My love for you is more metaphysical than physical. Let's not spoil it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Erritis steps back, unnerved, his glow pulsing erratically. "Is it weirder that you are making kissy-eyes at me, or that it seems to be working?"
+
+He looks down at himself. "Why are my pants getting all excited? I have to go do something manly now, like kill an entire species."</DefaultText>
+      <FemaleText>Erritis steps back, unnerved, his glow pulsing erratically. "Is it working? I think it's working. Oh no! We're in a love triangle now! Matkina will kill you, and I will kill Matkina, and then wander the land for eternity, slaying monsters and crying single tears. Make it stop! Make it stop!"
+
+He pauses, frowning, then cocks his head at you. "Hey. It stopped. I don't feel anything now. That's much better!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Matkina nods. "It's true. And in front of my armor is a sharp, synth-steel knife. Which do you think will become one with *your* heart first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Oom spins happily, then switly reshapes itself into a shiny silver representation of all that you find desirable. The others stare, nonplussed. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He claps his hands. "Oh! It works! It works!" He sighs. "Oh, Oom. If I had only known."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Rhin is supremely creeped out that you would even try.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Satsada laughs. "That would require you having one. Sorry, castoff. I'm spoken for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Satsada phases in front of Riastrad. "Riastrad was always very kind to the misguided fools who tried to come between us. I, on the other hand, killed several."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Tybir smiles wryly. "Would that you had asked five years ago, lad. But I'm afraid that, these days, any time I showed you would be... disappointing, for my mind - and other bits - are distracted at the moment with dreams of another."
+
+He gives you a grin and a wink. "Don't think I'm not flattered, though. You're a prize and no mistake, and I appreciate the offer."</DefaultText>
+      <FemaleText>Tybir smiles wryly. "Would that you had asked five years ago, lass. But I'm afraid that, these days, any time I showed you would be... disappointing, for my mind - and other bits - are distracted at the moment, with dreams of another."
+
+He gives you a grin and a wink. "Don't think I'm not flattered, though. You're a prize and no mistake, and I appreciate the offer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Murai puts a hand to her heart and speaks in a toneless voice. "Oh sir, no one has ever said that to me before. Ever. Suddenly I am more aroused than I can express. Please show me the wonders of your dry, repetitive, gravity-bound lovemaking."</DefaultText>
+      <FemaleText>Murai puts a hand to her heart and speaks in a toneless voice. "Oh madam, no one has ever said that to me before. Ever. Suddenly I am more aroused than I can express. Please show me the wonders of your dry, repetitive, gravity-bound lovemaking."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bank 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tell me about the language injection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me about the language injection again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"A most useful concoction," it says. "It will allow you to understand any unspoken language."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Unspoken languages? Does that mean I can understand animals?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Are there a lot of unspoken languages?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I'll take it."
+
+{SCRIPT: Conditional - Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Never mind.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Sadly, no. It only works with beings that already have a language - but an unspoken one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ah... I'm not aware of any. Sign language perhaps? In any event, should you come across one, it goes without saying that this injection will *definitely* work. You will absolutely be able to understand what is said - er, *unsaid*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Thank you. Now hold still for just a moment. You will feel the slightest pinch."
+
+The merchant injects you with a colorless liquid.
+
+"There! Now you will understand any unspoken language. Uh, should you encounter any, of course."
+
+{SCRIPT: Take player money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What's that rainbow swirly one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tell me again about the injection that changes skin tone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Oooh! That's a fun one," says the merchant. "It changes your skin  to any color in the rainbow! Fades pretty quickly, and it's completely random, but it's a giggle while it lasts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"It temporarily changes your skin color. Great for birthdays!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Sounds interesting. I'll try it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Aligern will try it."
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Callistege will try it. She loves this kind of thing."
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Erritis, you'll do it won't you?"
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Let's see what Matkina looks like with it."
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Oom, you'll do it, won't you boy?"
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Rhin, wanna try?"
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Riastrad? How about it?
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Tybir? Want some?"
+
+{SCRIPT: Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Very well.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Good for you. Now just hold still."
+
+It injects you with the multicolored fluid.
+
+{SCRIPT: Take player money.}
+{SCRIPT: Change PC tinting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I will not. Do you think I wish to mask my shame? No. It must remain clear for all to see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Yes, please! I want to buy them all!"
+
+She allows Kiasha to inject her, then holds out her arms to see her new look.
+
+{SCRIPT: Take player money}
+{SCRIPT: Change Callistege tinting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Of course!"
+
+He holds his arm out for Kiasha to inject, then takes off his armor and shirt to see the effect. "So that's my true color! I never would have guessed!"
+
+{SCRIPT: Take player money}
+{SCRIPT: Change Erritis tinting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Matkina draws a blade and faces Kiasha. "Try it and you'll see how you look in red."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Oom creates an orifice in his head and swallows the syringe whole. As you watch, his silver skin begins to take on a different, but still mirror-like, tint.
+
+{SCRIPT: Take player money}
+{SCRIPT: Change Oom tinting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Rhin makes a face. "I suppose. but wouldn't it be more fun if it changed everybody else's color? It's kind of hard to see your own."
+
+She lets Kiasha inject her, then giggles when she changes color. 
+
+{SCRIPT: Take player money}
+{SCRIPT: Change Rhin tinting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Riastrad and Satsada say nothing, but Riastrad slowly holds out his arm.
+
+Kiasha finds a place that isn't covered with armor and injects him. He changes color. From somewhere nearby Satsada laughs. 
+
+"Well, it makes a change, I suppose."
+
+{SCRIPT: Take player money}
+{SCRIPT: Change Riastrad tinting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Tybir shakes his head. "None for me, thanks all the same. I don't trust anything about this place. I prefer to change color one of the old fashioned ways - the sun, a bottle of spirit, some pleasant exertion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Bank 98</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"What's that gold one there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Tell me again about the gold injection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Her eyes light up. "That's the best one we have. That one will make you rich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Really? So why haven't you used it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I'll take it."
+
+{SCRIPT: Conditional - player has enough money}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Kiasha smiles. "Oh, I have. I'm rich beyond dreams of avarice. But selling is in my blood, and I got bored sitting around looking at my shins all day, so... here I am!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Get ready to be rich!" Kiasha injects you. You don't feel anything. You check your pouch. You are no richer.
+
+Kiasha sees you growing suspicious. She holds up her hands. "Give it time. Give it time. The shins will come. I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Happy to. Happy to. Happy to."
+
+The merchant sucks a deep breath through its gills. "I have injections that will allow you to speak other languages, injections that will make anyone fall in love with you, injections that will make you see the world around you as a far-future wonderland, injections that will increase loquacity, transparency, veracity, profundity, rotundity, duality, solemnity, and both inner and outer beauty and peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Tell me about the love injection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Explain the love injection again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Certainly, certainly. Once the injection is made, the first person you speak to will become as in love with you as you are with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"It makes the person you love fall in love with you. Simplicity itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"No, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Kiasha bows. "Of course. How about something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Matkina scowls and turns away. "Go away, idiot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Erritis beams and pumps his fist. "Yesss! It's working! Even better than I'd hoped! Oh, Mattie! I'm so happy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"If it was true love, it wouldn't need chemical assistance, would it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>His mouth falls open. "Really? That's your type? And I thought *I* had broad tastes. Well, to each their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The ghibra claps its hands with chemically enhanced enthusiasm. "Well, friend, I'm just the friend you need. I have, right here in this tent, the finest in injectible cyphers and experimental ingestibles for the intrepid explorer of the maze of the mind!"
+
+It bows you towards its wares. "Want to try?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>He turns to Matkina, eyes full of hope.
+
+"Hello, Matkina. Do... do you love me now?""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Just a minute, just a minute," says the merchant. "Don't fuss so."
+
+It sticks a needle in Erritis's arm, then steps back. "There."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Erritis steps back, unnerved, his glow pulsing erratically. "Is it weirder that you are making kissy-eyes at me, or that it seems to be working?"
+
+He looks down at himself. "Why are my pants getting all excited? I have to go do something manly now, like kill an entire species."</DefaultText>
+      <FemaleText>Erritis steps back, unnerved, his glow pulsing erratically. "Why are you making kissy-eyes at me? Why are my pants getting excited? Why is the room spinning? Wait. I'm in a room? Oh! Ha-ha! I know this dream. It's the one with the tongues. I...."
+
+His eyes close for a full five seconds, then he opens them again and looks around, surprised. "Why are you all looking at me? Did I do something amazing? Who are you going to try the love injection on?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>He rolls his eyes. "Did you understand that unspoken phrase?" He shakes his head. "How about that one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Will you, now?" Tybir chuckles. "In that case, I have a bridge in Sagus Cliffs I'd like to sell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

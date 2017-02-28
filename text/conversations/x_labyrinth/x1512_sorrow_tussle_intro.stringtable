@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1512_sorrow_tussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The specter races up to you, obviously in a panic.
+
+"Of all the times! Why are you here now? Quickly, we must flee! It is coming!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>["What is coming?"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>["The portal's not there!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>["The Sorrow! Can you not feel it? One of its many projections has found this place, and will be here soon!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[He stops to think, following your gaze, and mutters to himself, "Of course it's gone. It wouldn't be much of a trap if it left its prey a means of escape."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[He looks around frantically, then stops, seeming to see a possibility that had eluded him before.
+
+Looking back to you, he locks your gaze with his own. "You are not without power here, so there's still a chance. Alone, you wouldn't last a moment, but the very nature of this place precludes that possibility."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>["What do I do?"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>["I'd rather face it alone. No more running."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>["Yes, yes. How very brave of you. However, I'm not about to let you get killed in some puerile show of bravado."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>["Concentrate on the pulse of this place. Feel its rhythm, and understand that it is not a singular existence, but many."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>["I feel it."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>["I don't need any help. If you want to run, now's the time."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>["Bah, fool! Face your doom alone, then!"]
+
+{SCRIPT: Start the cutscene of the specter fleeing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>["Good. *Know* that there are others here, others who wish to fight. They feel your urgency just as you feel their presence. Open yourself to them."
+
+As he says this you see three vague shapes semi-materialize before you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>["I see them."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>["Normally I'd advise you to gather all the allies you can, but there's no time - you'll be lucky to bond even one of them fully. Concentrate on them, see them for who they are, and choose which will aid you."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>["As you continue to concentrate, the three forms become more distinct, and you begin to get sense impressions from them. One is large and robust, and you sense its need to plunge itself between you and that which threatens. Another is lean and quick, and you *know* it will stay far from the foe, not out of cowardice but because that's its plan of attack. The last is indistinct, its form contorting due to the power it wields. You sense it would prove useful in a variety of ways.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Bond with the large form.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Bond with the quick form.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Bond with the third form.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[The large form materializes next to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[The quick form materializes next to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[The third form materializes next to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>["Excellent. That should give you as much of a chance as anything. Now I must be away, for reasons you don't need to know."]
+
+{SCRIPT:  Start the cutscene of the specter fleeing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>["Our fates are intertwined, so regrettably I cannot simply leave you here. Prepare yourself, and we will face the creature together."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Script Node 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[The Specter is quite proud of himself for getting you through the fight alive, and congratulates you on your victory.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Vague dread coalesces into clawing fear as you emerge from the portal. The smell of ozone and rising hairs on your skin confirm it. Whatever you sensed in the fathom below is coming.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

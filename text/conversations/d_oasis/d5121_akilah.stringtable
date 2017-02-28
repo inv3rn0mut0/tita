@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_akilah</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A shop filled with canteens, ropes, invisible tents, packs that are bigger inside than out, sand masks, dried animals that cook instantly when you skin them, and hundreds of other supplies for the would-be explorer. As you enter a woman's head pops up from behind a mound of tent canvas and gives you a cool once over. 
+
+"You don't look like a caravaner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Akilah looks up as you enter, then back to her work. "Oh. The amateur again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I was told you sold eqiupment for journeys into the Lost Sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>She crosses her arms. "Not to amateurs, I don't. Unless you're an experienced caravaner, my goods are not for sale. The Lost Sea is too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Safe travels, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'd like to buy some supplies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What did I just tell you! No! I won't assist you in commiting suicide. Go find another hobby. Like jumping down wells or something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She shakes her head. "Sorry. I only sell to experienced caravaners, and you are as green as a Gibber's nethers. The Lost Sea is too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I need to find something out there. If I don't, then not only my life, but the lives of thousands of my siblings could be in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She sighs. "Fine. Then I do have something to sell you. But it's *your* life in *your* hands, understand? I won't take any responsibility for this."
+
+She puts a hand on a shelf behind her. "It's kind of a life line. It'll help you get back home if you get in trouble out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Alright. Let me know what you need."
+
+{SCRIPT: Opens Akilah's store.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"How do you know I'm an amateur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Tell me how you guessed I was an new at this again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She laughs. "You haven't got a tan like a piece of grilled sandcock and a layer of grit that I could scrape off with a fingernail, that's how."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"*Aside* from having skin as smooth as my inner thigh?" She snorts. "How about the forty thousand questions? Yeef!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What do you sell here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You didn't see the sign? This is Akilah's Caravan Supply. I sell supplies. To caravans. Not to inexperienced fools. The Lost Sea is too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She stares at you like she can't believe she heard you correctly. "Uh... caravan supplies. Are you blind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Why won't you sell supplies to amateurs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tell me again why you won't sell supplies to just anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Because they die, and I'll not have that on my conscience. Even the most experienced caravaners can get in trouble out there. Neophytes like you won't last a day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Because, though you might not be able to tell from looking at me, I have a conscience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"What's so dangerous about the Lost Sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Is the Lost Sea really as dangerous as you make out? Or do you just not want to sell to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Everything! It is a vast and unnatural desert in which traditional navigation does not work. And that's not even *counting* the cragworms, vapes, and sarraks you'll almost certainly run across." She looks you right in the eye. "Listen to someone who has been there. Unless you know what you're doing, you will go in, and never come back out. No one will even find your bones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You think I've a grudge against you? I'm trying to save your life! The Lost Sea is a predator. It will swallow you whole!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I am not as green as you think. I have lived a thousand years, and cannot die as mortals do. The desert will not kill me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Akilah looks in your eyes, then steps back, unnerved. "I... I guess it won't. I've never seen eyes so old." She shivers. "Fine. I have something for you. It's kind of a life line that'll help you get back home if you get lost out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Akilah edges back, eyes widening. "Your one of those... what do you call 'em... *castoffs*, right? I've heard stories of your kind." Suddenly her face hardens. "But trust me, the Lost Sea is enough to even kill one of *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She pulls a segmented metal band from the shelf and presses a button on it. Tiny translucent tendrils fan out from it's edges like ghostly centipede legs. "It's called a Ghost Belt. Wear it and you leave after-images of yourself along your trail that only you can see. If you get lost, you can follow them back home."
+
+"It won't help you get anywhere, but it'll help you get back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I carry a lot of useful things, but don't you *dare* go into the Lost Sea without that belt. If you do, it's on your own head."
+
+She puts the belt back on the shelf. "Here, let me show you what else I have."
+
+{SCRIPT: Open Akilah's store.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked PC to look for Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Do you know a woman named Misha?"
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Never heard of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Nope. Can't say I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

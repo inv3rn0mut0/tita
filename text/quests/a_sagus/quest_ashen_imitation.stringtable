@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_ashen_imitation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ashen Imitation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find women in Sagus Cliffs who are being transformed into 'copies' of the ghostly woman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Learn how to shut down the probability engine from the Ghostly Man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Shut down the probability engine in the real world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Shut down the machine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Left Sagus before unlocking a means of resolving the quest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entered the Labyrinth in the endgame after the Bloom without solving the quest (even if enough memories were unlocked to do so).  If the player can still enter their fathoms, this end node should be deleted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>After I was strangled to death by a ghostly woman in the Fifth Eye, I awoke in a new fathom of the Labyrinth. There I met the ghost again. She claimed that women in Sagus Cliffs are being transformed into copies of her, though she doesn't know how or why, and she wants to help them if she can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The ghostly woman asked me to look for women who resemble her, or whose identities are being altered by an outside force. When I find such women, I should return to the Labyrinth and tell her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>A ghostly man has appeared in the fathom, and the ghostly woman thinks that he is her father. He built the probability engine that is creating copies of his daughter. If he shows me how to shut down the engine, I can end all the trouble that it's causing.
+
+If I can't convince the ghostly man to help me, *maybe* I could find more women in Sagus Cliffs who are undergoing the process of transformation. But there's no telling how many are still out there. I may have found all I can find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The ghostly woman's father showed me how to shut down the probability engine. Now I need to find the machine in the real world and repeat the process. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I shut down the probability engine in the Buried Crossroads, ending a cycle that's been killing young women in Sagus Cliffs for centuries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've left Sagus Cliffs behind me, and I may not ever return. The ghostly woman's troubles seem tied to the city, so I can't help her anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I've been pulled into the Labyrinth due to a momentous series of events.  While I made some progress helping the ghostly woman recover her memories, she and the rest of the Labyrinth will likely not remain after what is to come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Avina, a young girl who lives in Cliff's Edge, was hearing the ghost's voice in her dreams, but she drove it out of her mind by sheer force of will. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kiyatawa, a member of the Dendra O'Hur, is one of the affected women.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Loss-of-self, an emotionally disturbed young woman I met in Cliff's Edge, is one of the affected women.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Seria, the adopted daughter of the castoff Orseolo, seems to have been one of the affected women. When she was alive, she was confused about her identity and felt that she was supposed to become someone else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Sigyn, the Captain of Levies, was one of the affected women, but she managed to escape her fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The ghostly woman remembered her death in the real world. The probability engine was her father's vain attempt to resurrect her. Unfortunately, he is doomed to failure - he will never get his real daughter back. With this knowledge, perhaps I can convince him that the probability engine should be shut down. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Another of the ghost's memories revealed a terrible fact - every woman who is manipulated by the probability engine dies before her twentieth birthday. Hundreds - perhaps thousands - have perished in this way. Surely the magnitude of this tragedy will be enough to sway her father.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Though she isn't sure where the probability engine is located in the real world, the ghostly woman thinks it is hidden somewhere underneath Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>According to the ghostly woman, the probability engine is located in the Buried Crossroads, underneath Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

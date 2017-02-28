@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_sarissa_testltg_v02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>183</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You've done a great service for the Convergence. We don't forget those we owe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Inside the small camp, you see a group of explorers arguing fiercely. At your approach, a tall woman in form-fitting black armor breaks away from the discussion and strides toward you. She carries a long spear in a loose-handed grip that somehow implies violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You there!" She stops in front of you, looking you up and down while her companions continue to argue. After a moment, she offers a dazzling smile. "Looking to make some easy shins?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A smear of blood beneath her chin and scuff marks on her armor indicate that she's recently been fighting. Small slivers of crystal still protrude from the back of her left hand, and she flexes it unconsciously as she speaks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sure. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"That depends on the task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I've found 'easy' often turns out to be more trouble than it's worth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"It doesn't look so easy, judging by the battle scars you've got there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She smiles at your approach.
+
+"Hello again, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Welcome back." Her left hand tightens around her spear ever so slightly. Somewhat disconcertingly, her companions are still arguing. "Did you move the Quishamis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'll hold up my end of the bargain, don't you worry. I'm not the kind to go back on my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"There's this *thing* we've been trying to get past that just refuses to budge." She glances over her right shoulder toward a set of stairs carved into the crystal wall. "Achor says it's a 'Quishamis,' whatever that means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"All I know is it looks like it's been here a good while. That, and it doesn't take kindly to intrusions." She smiles quickly. "That explains why Achor likes it, at any rate. They're as stubborn as each other."
+
+{SCRIPT: Starts Sarissa's Quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Can you tell me anything else about the Quishamis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Can you tell me what you know about the Quishamis again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I can kill the Quishamis for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Are you sure you don't want me to kill it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Have you tried talking to the Quishamis to find out what it wants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Tell me again how you've tried to communicate with the Quishamis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She turns her left wrist and squints at the crystals embedded in her skin.
+
+"I thought I got them all." She quickly yanks the slivers free, dropping them as blood wells from the puncture wounds. With a flick of her right wrist a strip of cloth appears between her fingers, unspooling from within her armor. She bandages her left hand and studies her work briefly before returning her attention to you.
+
+"Thanks. I would've known they were there tomorrow for sure." She grimaces. "Listen - "
+
+{SCRIPT: Raise Sarissa's state to Hale/remove a Bleeding fettle. This will make the Tussle later more difficult if the player chooses not to hand over the Quishamis heart.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She raises her hand toward you in a placating gesture.
+
+"Just hear me out, okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She nods approvingly and her smile grows grim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What did that to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The pride'll probably take longer to heal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"No doubt less than you deserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>A strange expression flickers across her face, either triumph or annoyance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She laughs at that.
+
+"You're not wrong. Listen. We really could use your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Her eyes flash for a moment before she regains her composure.
+
+"As luck would have it, you can judge for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Have you considered just leaving the Quishamis alone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I still think you're somehow invading the creature's space."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She tilts her head to one side. "It's a crystalline entity, twice as tall as you or me. The way it moves is... Well." She laughs uncomfortably. "It's like it's constantly breaking apart at the seams and stitching itself back together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She nods.
+
+"It's crystalline, it might be intelligent, and it doesn't like company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She opens her mouth to reply, then smiles instead. "Thanks, but that won't be necessary. We just need it out of the way while we go past, and ideally until we come back. Then it can have the whole place to itself again, no questions asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Yes, I'm sure," she says, exasperated. "My clients might want to study it later, if they can get over the cuts and bruises it's given them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Communicating is what I do," she says without a trace of modesty, "but it doesn't seem to understand any of the languages we know, and it's not responding to any of the numenera we brought with us. I even tried sketching pictograms on the ground, to ask it to let us pass. It just swept over my drawings and erased them as if they'd never existed." She purses her lips. "Quite the critique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"We've tried spoken language, numenera, and pictograms. It didn't like my drawings, but that was the only time it really acknowledged our presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What do you want me to do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Tell me what you want me to do for you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Is it possible this creature is something entirely new?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What have you discovered about the creature, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You can get the Quishamis out of the way for a while." She studies you momentarily, coming to some sort of decision. "Me and my team, we're here to scout the area and see if it's worth establishing a permanent camp. There could be powerful numenera here, and it's a hard place to get to. But you already knew that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Move the Quishamis somehow - distract it, trap it, play a game of cards with it." She smiles to take the edge off her tone. "I'm sure you'll come up with something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"That's not really a compromise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Isn't it, though?" she asks blandly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>She smiles at you, briefly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"It's not only possible, it's likely. But our research," she grimaces at the word, but continues, "has shown it to be organic, not synthetic."
+
+"Well," she amends, "as organic as something made of stabbing shards of crystal can be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Not much." She frowns. "I'd say it was resisting our attempts to classify it, but that would imply it was capable of understanding abstract thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Have you documented your discoveries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Sounds dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"All right. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>She waits impassively for your next question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>She suppresses a smile.
+
+"Go right ahead. But you'll be racing my clients for publication."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You could say that, yeah." She bares her teeth in a humorless smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"And?" she asks, flatly. "All the more reason for us to study what it's guarding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Of course we have." She closes her eyes, and for a moment she looks ten years older. Then she meets your gaze again and the years fall away.  "But we came here with a job to do. We'd look foolish going back with it half done." She smiles ruefully. "That's not really what I'm about. I've got a reputation to uphold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Actually, yes. That would be the respectful course of action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"No, I just think you might not be able to conduct your research if it's still alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I don't really care what you do. All *I* can do is provide you with the facts I see before me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Too bad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>She glares at you for a moment, then looks away.
+
+"I can't. Even if I could somehow convince my clients to leave, they wouldn't pay me. Job incomplete. You know."
+
+She meets your gaze again. "Some of us don't get to choose our ideals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Then some of us are just weaker than others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"You always have a choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>She doesn't even bother to hide her contempt.
+
+"Spoken like a true hero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>She looks at you as if seeing you for the first time, then shakes herself lightly.
+
+"Don't be. It's not your fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Or we know our limits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Leave that for us to worry about. You get it away from the main path and whatever happens afterward is no longer your concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"It is my concern. I could be putting you all in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You don't have to be so mercenary. I can see that you're scared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"As long as you pay me before you get yourselves killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"And do people ask you to save them often, or..?" She leans in conspiratorially.
+
+"Do the job you're paid for, then book it. *Before* your mark gets you in more trouble than the money's worth." She leans back once more, resting her weight on the haft of her spear. "You can have that one for free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Her jaw tightens.
+
+"Don't presume to understand me." She raises a hand to stave off anything else you might have to add.
+
+"Don't. Just ask your questions and leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She grins savagely.
+
+"A man after my own heart."</DefaultText>
+      <FemaleText>She grins savagely.
+
+"A woman after my own heart."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I'll hold up my end of the bargain, don't you worry. I'm not the kind to go back on my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"You've done a great service for the Convergence. We don't forget those we owe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"No, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I'll be back soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Until later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Duly noted," she says coldly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Nevermind. Forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Fine by me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Point taken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I'll see what I can manage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>She studies you for a moment. 
+
+"You do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>She laughs at that. "Hey, I'm just repeating what I was told when I signed up. You're not wrong, but I hope you'll hear me out all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"It also likes to draw pretty patterns on the ground." She traces an arcane symbol in the air and narrows her eyes, as if trying to understand her own movements. "We haven't been able to figure out what it's trying to say, if it's trying to say anything at all." She shakes her head and refocuses her attention on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Achor tells me Quishamis are normally found in the Cloudcrystal Skyfields, which means this one's very far from where it ought to be." She glances away for a moment as something like sadness crosses her face. "I know how that feels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"And you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Are you so far from your own destiny?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>She looks up at you with a start, and this time her smile doesn't quite cover her pain.
+
+"We've been here a couple of years," she says lightly, as if it were the most natural thing in the world. "You get used to being cut off from civilization. I just hope the world hasn't forgotten me." Her laugh, when it comes, is brittle. She passes her right hand quickly across her eyes before meeting your gaze again.
+
+{SCRIPT: Increment a global value here raising Sarissa's friendliness toward the player - a bonus on the task to convince her later on?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Sarissa meets you at the bottom of the stairs.
+
+"I heard fighting," she says, surreptitiously trying to look past you as she speaks. "What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"This Quishamis is gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"The Quishamis is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"The Quishamis is out of the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>She smiles disarmingly.
+
+"Did you have some questions, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Her tone is sharper than you've ever heard it. "Gone? What do you mean *gone*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"It was trying to get home, so I sent it back through the portal I used to get here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I just dropped it over the edge of the plateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"The drawing was some kind of numenera. I completed the pattern and the Quishamis vanished. Toward home, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>You notice, quite suddenly, that Sarissa's companions have stopped arguing.
+
+"Oh." She sighs, as if the weight of the world is suddenly resting on her shoulders. "Then I'm afaid I'm going to have to ask you to hand over its heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Her expression becomes neutral, politely interested. "I just want to be sure I understand you correctly. By out of the way, you mean..?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I moved it out of the way and it stayed put. I don't think it will be bothering you any time soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I convinced it to move out of the way. It won't move again until I tell it to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I erased some its drawings and it moved out of the way to repair them. It should be there for some time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I mean you asked me to take care of it, and that's what I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Sarissa closes her eyes, as if suddenly ill. Eventually, she looks at you again and smiles.
+
+"You've done us a service, and we pay our debts." Her smile grows a little weary. "Thank you."
+
+{LOOT: Something interesting, but not unique.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>She scrutinizes your face, as if trying to gauge your motives. Eventually, witha  minute shrug and a smile, she inclines her head.
+
+"Thank you. We can manage from here. Please, take this as payment for the kindness you've shown us."
+
+{LOOT: Something interesting, but not unique.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I killed it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"You sent it home?" Before she can look away, you see tears collecting at the corners of her eyes. She blinks a couple of times then smiles at you with unexpected warmth.
+
+"Thank you. And I'm sure wherever the Quishamis is, it thanks you too. Please, take this."
+
+{LOOT: Something interesting, but not unique.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>You can feel her watching you closely as you walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"You mean you spoke with it? And..." She unconsciously glances toward the plateau, a strange expression on her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"You found a way to talk to it?" Her surprise is almost comical. "And... You told it to stay put?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>The men from her camp move toward you, subtly preparing numenera and weapons. Sarissa lifts her spear.
+
+"I wouldn't fight us, if I were you," she says conversationally. "We couldn't beat the Quishamis, but we've more experience in dealing with humans."
+
+{SCRIPT: For the purposes of this conversation, I'm assuming the player hasn't yet crafted the Quishamis heart into any other item, but would provide a different branch if they had.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Hand over the Quishamis' heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I'd reconsider the odds, if I were you. You have no idea what I'm capable of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"You're right, you couldn't kill the Quishamis. I did. Its heart is mine by rights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Attack.
+
+{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>The tension seems to drain out of Sarissa as you hand the heart to one of her companions. All three of them back away, identical expressions of greed lighting their faces.
+
+"Thank you," she says simply. "I didn't want that to end badly for you." She smiles, as if at a joke you both shared. "Take this, as compensation."
+
+{LOOT: Something interesting, but not unique.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Sarissa looks upward. It takes you a moment to realize she's silently communing with her companions, then her gaze settles o you once more.
+
+"All right," she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"It's a shame," she says, hefting her spear. She regards you with genuine sympathy. "You could have been a great asset to the Convergence, had you lived."
+
+{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Sarissa considers you, her expression inscrutable. Finally, she allows herself a small, genuine smile.
+
+"All right." She lowers he spear. Grudingly, her companions lower their own hands and weapons, though they still watch you with disgust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Then let's find out." Her voice is flat and ugly, and the look of contempt she gives you renders her face unrecognizable. Her companions raise their weapons and move forward.
+
+{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"But you owe us a favor in the future. Deal?" She extends a hand toward you in a gesture of goodwill, and you take it. A moment later, the numenera begins its work, but she grips your fingers with surprising strength until the burning has ebbed to a dull ache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>She watches impassively as you examine the small black mark, like an inverted comma, that has appeared in the crook between your thumb and forefinger. She and her companions turn and walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"That's cute," she says, with a smile. "I hope you fight like you talk."
+
+{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I don't know how you survived, but I'll make sure it doesn't happen again!"
+
+{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Don't worry. When we want you, you'll know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"See you around, traveler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"We'll be in touch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Take him out!"</DefaultText>
+      <FemaleText>"Take her out!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>She stares through you for a moment, her expression sharp, nostrils flared white. Then her easy demeanor returns and she shrugs, smiling ruefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I suppose we didn't ask you to turn in a full report, now that I think on it. Here. For services rendered."
+
+{LOOT: Something interesting, but not unique.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>You feel her gaze follow you as you walk away. When you look back, she's still watching, a hungry expression on her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>You feel her gaze follow you as you walk away. When you look back, she waves briefly, then turns to her companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"We can handle it from here. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

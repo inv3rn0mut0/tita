@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_levy_machine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This machine is a chaotic assemblage of metal tanks and tubing. A work table mounded with spare parts stands beside it, and it's connected by wires to an oddly-familiar sarcophagus and other devices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The device lies before you, utterly silent, as though it is waiting for someone to step inside it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the machine again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As it turns out, there is very little to examine. Every access point to the machine has been carefully sealed. Some of the hatches and panels are worn with use - they are likely accessed by the Order when they perform maintenance on the machine. Others are gleaming, ornate locks with twisted keyholes, unmarred by the scratches and nicks of careless, everyday use. 
+
+You run your hands across its surface and feel the ghost of another person's hands doing the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You rap your knuckles experimentally on the side of the machine. The sound reverberates through the hollow space within, echoing and echoing into inaudible eternity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The memory opens like a gaping mouth and closes around you.
+
+Hot wind pulls at your robes. Jagged grit claws at your eyes. Squinting through the storm, you see the machine, half-buried in the sand. 
+
+Curiously, you wedge open a panel. Inside is a sphere, sparkling like a jewel, but soft to the-
+
+Life drains from you into the sphere like blood from a wound. The machine is stealing your life! Growling, you return the favor, ripping the sphere from the machine and regarding it with cold eyes...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Memories drift past like cobwebs, teasing the corners of your mind. They dissolve into dust as you grasp for them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try to determine why this machine looks so familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try again to figure out why this machine looks so familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Use the parts on the table to build a cypher for Finzin and his levy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Pick through the spare parts on the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Pick through the spare parts on the work table again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You sort through the jumbled components on the table. There aren't many, nor are there any duplicates. These appear to be spare parts for the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to determine how the machine works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to determine how the machine works again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>After several minutes of examining the spare parts on the table and the machine itself, you think you understand. Most of the components can channel or focus the life taken from a subject. One of them, if you are correct, is the device that pulls the life from the subject. 
+
+But none of them can store life, even temporarily. Furthermore, there are no duplicate components. You will only have one shot at building the device Finzin's levy needs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Frowning, you run your hands over every inch of the device, but its functionality eludes you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The goal, of course, is to channel the life directly from Finzin to his levy with no intermediary step. It will not be as elegant as the machine beside you, but... it should work. Should.
+
+Working with great care, you fit the delicate components together with quiet *snicks* and *clacks*, following the insubstantial blueprint in your mind.
+
+*Clack*.
+
+There. Done. Finzin and his levy await.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Working with great care, you fit the delicate components together with quiet *snicks* and *clacks*, following a tentative blueprint in your mind. Unfortunately, you overestimate the strength of a crucial component, and it snaps between your fingers.
+
+You sigh. Someone in the Order should still be able to make the device you need, but this one - though it still may be used to steal life - will be useless for Finzin and the levy's purposes.
+
+{LOOT: "A cool, life-draining cypher" (that doesn't work for the Tormented Levy quest).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The sound bounces around the inside of the hollow machine like a rock falling down an infinite well. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Knock on the side of the machine again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The memory releases you abruptly, leaving you panting in front of the machine... which is not the ruined monstrosity your predecessor discovered in the Archopalasian ruins. 
+
+You know, however, that the orb is sealed somewhere inside this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Leave the machine alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You walk into the hollow on the front of the machine. Immediately, you hear a discordant *ping* and a strong sense of revulsion fills the air. 
+
+It seems that this machine doesn't like how you taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Step inside the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Still, you can determine nothing about how the machine works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Try as you might, the memory you seek still eludes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

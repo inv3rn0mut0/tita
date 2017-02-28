@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_erritis_and_rennio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I need you to transcribe a letter for me, ah, Erritis. You... you *can* write, can't you?"
+{SCRIPT, GEORGE: George may have some idea of how soon each row should play. It may be a combination of per-zone entrance AND/OR per-day.}
+{SCRIPT: Text from ZDD: "3)Erritis will leave the party and be stationed here for a while, annoying the heck out of Rennio. (Players should see this as bark interactions between them, noted as a separate dialogue.) After a certain number of days, Rennio will have had enough, and if the player talks to him again, he will beg the player to take Erritis off his hands. (The latter condition should be another branch of this dialogue.)"
+
+"We need a series of bark exchanges between Erritis and Master Rennio that will appear if Erritis has been convinced to work off his debt for stealing and crashing the airship. The player will see one or two of these exchanges whenever he walks past the two characters. Erritis is standing near Rennio, probably serving as a bodyguard or manservant, but he is annoying the heck out of the straight-laced Rennio with his ridiculous comments and behavior. If possible, Rennio should be getting more and more frustrated and angry with him as the exchanges continue."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'm sure I can! Who's the letter to? Is she beautiful? How would you describe her eyes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I can't read this report you've written. What language is this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh, the normal one. But look, all the letters are made of people!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It seems I cannot trust you to write documents. You will pay your debt as a porter instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oh, good. I'm an amazing bodyguard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"We do *not* ride passenger luggage down the gangplanks!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Don't worry. It's perfectly safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ah, yes. He intended violence! I'm sure of it. You know these things when you're a bodyguard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"It's not a love letter, you simpleton!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Maybe it should be!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I see. Are they... what are they doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Well, swordfighting. Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"That's not what 'porter' means!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What? Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Erritis, why is a passenger telling me that you threw her luggage off the cliff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Because I did!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why? Why would you do such a thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I had no choice. I really didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Enough! I am paying a fortune to keep you employed! You will stand here - right here - as my bodyguard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You will *not* regret this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You... you punched him. In his face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You absolute *idiot*. That was one of my richest and oldest clients!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"So sad. Assassins are never the one you expect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Enough! You are sabotaging my business! Ruining my reputation! Frightening away my friends!"
+{SCRIPT: This should play when Rennio is fed up (possibly day 3)} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"They wouldn't run away if they were really your friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"No, no. That's not fair to you. I refuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Please. Please just go away! I'm cancelling your debt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Take him away. I'm begging you."
+{SCRIPT: These three nodes play intermittently once all of the nodes above have played once, signalling that the PC can now recruit Erritis again. See Node 1.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Please, make him leave!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Will you please convince him to leave me alone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_wayward_daughter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wayward Daughter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak to Loss-of-self.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Help Loss-of-self decide what to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Mother Temaz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Remembered Her Family</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Embraced New Identity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>It's Not Worth Living</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fastest Solution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Monkey Wrench</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tin Foil Hat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Never Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Return to Loss-of-self.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Return to Mother Temaz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Left Sagus after dealing with Loss-of-self (any way) but before returning to Mother Temaz (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mother Temaz, an old midwife in Cliff's Edge, asked me to help one of her wayward "children," a young woman who has lost her memories and her name. If I can solve the woman's problem, Temaz will return a piece of my caul to me, fashioned into something valuable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I should talk to Loss-of-self and find out more about her problem. She's probably somewhere in Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Loss-of-self has been hearing another woman's voice in her head for a long time, and she has begun to lose all memory of who she is. Soon, she believes she'll actually *become* this other woman, and her own identity will be lost forever. She's determined not to let this happen, so she's contemplating suicide. 
+
+She also claims to have seen a "ghost" in the Fifth Eye that looks a lot like her. She thinks this ghost might be the woman in her head.
+
+Fortunately, Loss-of-self seems willing to listen to me, so I might be able to nudge her in one direction or another... or help her find some other solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mother Temaz will want to hear how I resolved Loss-of-self's situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I helped Loss-of-self to remember the faces of her parents. This dissuaded her from suicide, and the voice in her mind has subsided a bit.
+
+Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I persuaded Loss-of-self to embrace her imposed identity and forget about her past. This dissuaded her from suicide.
+
+Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I convinced Loss-of-self to commit suicide, and she threw herself off the cliff. Mother Temaz gave me the reward she promised, but she doesn't want to see me anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I couldn't persuade Loss-of-self to commit suicide, so I pushed her off the ledge myself. Mother Temaz gave me the reward she promised, but she wants nothing more to do with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I shut down the probability engines in the Changing God's sanctuary, silencing the voice in Loss-of-self's mind. Her own memories and personality have returned. Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I told Loss-of-self about the probability engines and helped her understand the source of the identity that's been imposed upon her. It hasn't solved her problem exactly, but she might be better able to deal with the voice in her mind and decide who she wants to be. 
+
+Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Mother Temaz died when her house collapsed into the sea. Now I'll never be able to tell her what happened with Loss-of-self or claim the reward she promised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Loss-of-self will want to hear about the Changing God's machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Mother Temaz will want to hear how I resolved Loss-of-self's situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I've left Sagus Cliffs and all hopes of reclaiming a piece of my caul behind. Mother Temaz will have to find someone else to deal with Loss-of-self's problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I handled Loss-of-self's problem, but didn't have the opportunity to speak with Mother Temaz before leaving Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Loss-of-self says that the "ghost" is always in the Fifth Eye, though she seems too frightened to confront the apparition herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The "ghost" mentioned by Loss-of-self now occupies a Fathom in my Labyrinth. She says that women like her are being created all over the city. If that's true, then solving the ghostly woman's problem might solve Loss-of-Self's problem as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've learned how to shut down the probability engines. Now I just have to find them in the real world and deactivate them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Loss-of-self thinks that some record of her past might still exist in Government Square. The Council should have information on all long-term residents of the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I described Loss-of-self to the Council Clerk, and he conducted a search of the city records, but by some remarkable coincidence (or something more than that), the scroll that contained information about her was badly damaged. The Clerk could only tell me that she was born in Sagus Cliffs and that her family was searching for her.
+
+Despite the setback, I can't help but wonder if there might be some other source of information I could consult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>A knowledge-broker named Iyene Who Knows told me Loss-of-self's real name - Alara. She also said that Loss-of-self's parents are still alive and bring her food daily, but she never remembers their visits. I should go and tell Loss-of-self what I've learned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I told Loss-of-self about the probability engines and explained what they are doing to her. She begged me to shut them down.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

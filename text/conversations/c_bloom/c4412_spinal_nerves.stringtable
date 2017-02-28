@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4412_spinal_nerves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rags of muscle fiber replete with nerve bundles dangle from the exposed ribs. Some of these nerves have been severed and gnawed upon, but some still connect to the spinal cord and brainstem, and some reach into the uneaten belly of the beast.
+
+A bundle of nerves sags within your reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The bundle of nerves sways in front of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Examine the nerves in closer detail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave this part of the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Your knowledge of healing helps you trace and understand the function of these nerves. It seems that a good many of them are still functional, and associated with bodily functions. Some attach to the shoulder, and another cluster to the back. A third cluster runs down to the intestines. 
+
+Something in the brain is sending and receiving impulses along these clusters. You might be able to manipulate the entire corpse from here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Three separate bundles stand out, and they look as if they're connected to specific areas of the body. It's hard for you to figure out which is which, though, and it seems that you'll have to spend some time trying to figure out which cluster leads where.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You take some time to poke and prod at each cluster, and your patience pays off: you can see involuntary reactions in the shoulder, in the corpse's back, and further down, in the digestive tract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your haphazard approach is completely unrewarding, and you grow progressively more impatient, until at last you grab a nerve bundle and squeeze it as hard as you can. The cluster contracts... with your hands still in it. You get pinched, and pinched hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Your systematic approach pays off! You can see involuntary reactions from the shoulder, back, and digestive muscles, and what's more, it's clear that the more forceful your interaction, the stronger the nerves react. It might not be too useful for the shoulder and back, but you could definitely apply extra force to the intestinal nerves.
+
+... though perhaps you should question why you'd want to do that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You poke around, and you can see tremors shaking the creature, but your approach has been so haphazard that you're unable to isolate these nerves into anything that might resemble a system. You just can't figure out what causes a specific reaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Probe the nerves.
+
+{Node 13 refers to Node 30 in case PC quits without activating nerves}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Continue probing the nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Manipulate the intestinal nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A great peristalsis flows along the muscular intestines. The more you probe the nerves, the great the force of the expulsion. A small trickle of waste - including some fragments of the Bloom - emerges from the backside of the creature with a particularly forceful contraction, but if you want the creature to expel whatever's still in its digestive tract, you'll need power... a lot more power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Shake the intestinal nerves. {SCRIPT: TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You pour force into the nerve cluster and you see lightning racing along its lengths.The muscles nearby clench and contract with terrible force, and you hear the tearing of flesh. An unbelievably horrendous mixture spews from the corpse's nether regions, with a miasmic stench that could cause a genocide.
+
+The thing that was within the creature's stomach staggers to its feet, dazed, and you realize it's a nascent maw, coated in the waste of this enormous monster.
+
+{SCRIPT: tidal surge and release the maw}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Manipulate the shoulder nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Manipulate the back nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The whole back of the corpse contracts and heaves, impacting the ceiling of the room. Small pieces of flesh scatter down to the ground, and the creature's body settles back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The shoulder and massive arm of the creature twitch slightly. The decomposed bones appear to tighten their grip slightly on the Bloom-flesh, and then release it again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Examine the nerves in closer detail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Examine the nerves again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You don't uncover anything new. It might be best to focus on the specific nerve clusters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You recognize the signs of these nerves, and further know that if the brain were active, you might be able to trace the clusters to specific body parts. In fact, if you could just send an impulse or activity into the nerves, you might able to do something with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Three separate bundles stand out, and they look as if they're connected to specific areas of the body. It's hard for you to figure out which is which, though, and it seems that you'll have to spend some time trying to figure out which cluster leads where.
+
+Unfortunately, without the brain's activity sending impulses along the nerves, you're not likely to get anywhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try to probe the nerves again.
+
+{Refers to Node 13: if the PC gave up examining without activating the nerves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>But it doesn't seem to be interested in you. Indeed, it seems to have eaten its fill. It staggers over to the nearby wall and its tentacles sink in, anchoring the horrible creature to the walls of the Bloom.
+
+As you watch, the creature's mouth yawns open, distending and growing to an impossible size. 
+
+You've just witnessed the birth of a Maw.
+
+{SCRIPT: Cutscene of corpuscular Maw pathing over to wall, turning into Maw? Or should we just fade to black here, and fade back into with the large Maw leading to Chila's dead body?}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

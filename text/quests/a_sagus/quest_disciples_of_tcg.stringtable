@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_disciples_of_tcg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Disciples of the Changing God</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for castoffs who are currently unknown to the cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reported Tol Maguur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Reported Orseolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Reported that the First is still alive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Casmeen and Mimeon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Left Sagus before completing quest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In order to join the cult of the Changing God, I need to find a castoff who is currently unknown to the cult and reveal that person's identity to Casmeen and Mimeon. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Casmeen and Mimeon didn't provide me with any leads, and they already know about a great many castoffs, so I should keep my eyes open for castoffs who have kept their identity a secret.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I told Casmeen and Mimeon that Tol Maguur is a castoff. They were surprised - and a bit horrified - but they kept their promise and offered me membership in the cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I told Casmeen and Mimeon about the castoff who was recently killed by the Sorrow. They were saddened to hear of his death, but they kept their promise and offered me membership in the cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You discovered that the First Castoff, long thought dead, is in fact very much alive and is presently in the Oasis of M'ra Jolios. Casmeen and Mimeon were noticeably excited by the news and invited you into the cult in gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've discovered a castoff whose identity was secret until now. If I tell Casmeen and Mimeon, I think they'll allow me to join the cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I left Sagus Cliffs without telling Casmeen and Mimeon about any new castoffs, so it doesn't look like I'll be joining the cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I learned that Tol Maguur, the slaver, is a castoff. She has carefully kept her identity a secret from everyone... and seems to value her privacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I learned that a castoff named Orseolo has been secretly living in Cliff's Edge for many years, along with his adoptive daughter. Unfortunately, he was recently slain by the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You learned that the First Castoff is still alive and hiding somewhere in the Oasis of M'ra Jolios. This information would likely be of great interest to the cultists of the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I learned that Tol Maguur, the slaver, is a castoff. She has carefully kept her identity a secret from everyone... and seems to value her privacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I learned that a castoff named Orseolo has been secretly living in Cliff's Edge for many years, along with his adoptive daughter. Unfortunately, he was recently slain by the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

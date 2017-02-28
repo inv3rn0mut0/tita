@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_cultists</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Flushed with excitement, the cultist struggles to catch his breath.
+
+"I saw him, my lord!" He falters. "Or her. I'm not sure."</DefaultText>
+      <FemaleText>Flushed with excitement, the cultist struggles to catch his breath.
+
+"I saw him, my lady!" He falters. "Or her. I'm not sure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The cultist glances over at you casually. His eyes widen when they reach your tattoo. They nearly explode when they settle on your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The cultist bows as you approach, awaiting your questions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I am hunting for the person who murdered Fulsome's protege. Would you like to assist me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Assist?" he squeaks. "Me? Of course, holy one! Absolutely! I swear to you that I will not rest until I find some scrap of information that is of the smallest use to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The cultist glances over at you casually. His eyes widen when they reach your face.
+
+"I heard you intended to explore the city, but never imagined you'd find your way down here! What an honor!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The cultist glances over at you casually. His eyes widen when they reach your tattoo. 
+
+"O-one of his beloved vessels! Forgive me. I wasn't expecting to see any of your illustrious number down *here*!"
+
+Smiling, he gives you a little nod. "I respectfully suggest that you introduce yourself to Casmeen and Mimeon in Circus Minor, if you haven't already. In the meantime, how can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He folds his hands before him. "How can I help you, beloved vessel and servant of the Death-cheater?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I am helping Fulsome discover who killed his protege. Have you seen anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I will be here, my lord! Should you need me!"</DefaultText>
+      <FemaleText>"I will be here, my lady! Should you need me!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I saw a robed figure hunched over the pool of blood, stripping the flesh from the..." he swallows, "the victim's hand. Then they fled into the Dendra O'Hur chapel." 
+
+He straightens proudly. "The murderer must be one of the Dendra, holy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I haven't," he says, his brow creased with regret. "But I will absolutely tell you if I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Your castoff?" he quavers. "Not recently, my lord. But she does work with Fulsome from time to time. He may know where she is."</DefaultText>
+      <FemaleText>"Your castoff?" he quavers. "Not recently, my lady. But she does do business with Fulsome. He may have seen her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"N-no, holy one. I wish I had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'm looking for a woman named Matkina. Have you seen her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Have you seen the castoff named Riastad? He's a glaive with armor that shifts and changes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"The castoff? Not recently," he says. "But she does work with Fulsome from time to time. He may know where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I haven't. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"He wants *me* to help *him*!"</DefaultText>
+      <FemaleText>"She wants *me* to help *her*!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>
+{SCRIPT: Barks play if the cult thinks PC is TCG and the PC has asked them to investigate the murders. After the next murder occurs, the cultists will be waiting for the player in the Underbelly (near the site of the next murder or near the entrance where the player next appears in the Underbelly).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Script Node 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"My lord! We've found something!"</DefaultText>
+      <FemaleText>"My lady! We've found something!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"We have news, my lord!"</DefaultText>
+      <FemaleText>"We have news, my lady!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"A moment of your endless time, holy one!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>::sob::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"To you as well, beloved vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Frustrated tears rise in his eyes at his ongoing failure to be of any use to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Holy one! What brings you down here?" He blanches at his own impertinence. "I meant... never mind. I shouldn't have asked. Your business is your own, I'm sure."
+
+He lowers his eyes, folding one trembling hand over the other. "How may I serve you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You did well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"That's not very helpful. Any one of them could be the killer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You should have stopped them from escaping!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Thank you, holy one," he whispers, eyes aglow with tears. "Good luck on your hunt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'm sorry," he says, flinching. "That's all I remember. That, and how fast they ran."
+
+He swallows. "I hope that I have been of some help, my lord."</DefaultText>
+      <FemaleText>"I'm sorry," he says, flinching. "That's all I remember. That, and how fast they ran."
+
+He swallows. "I hope that I have been of some help, my lady."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I-I'm sorry," he stammers. "I'm not brave like you, holy one. I was afraid I might be seen."
+
+He hangs his head. "I'll never fail you again. I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He folds his hands before him. "How can I help you, beloved vessel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText> Follow-up PQ. 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Who are Casmeen and Mimeon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Who are Casmeen and Mimeon again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText> Follow-up T. 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"The leaders of the cult that celebrates your eternal father!"
+
+He seems to think he has confused you, for he adds, "The Changing God!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"The leaders of the Cult of the Changing God! You can find them in Circus Minor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Examine the cultist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Examine the cultist again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The man is pale, dirty, and nervous. He is stealing glances at your tattoo every chance he gets.
+
+He flinches when he notices you studying him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>He fidgets, scratching his oily nose. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>::sobs::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

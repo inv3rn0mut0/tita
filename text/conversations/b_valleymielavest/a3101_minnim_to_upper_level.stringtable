@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\a3101_minnim_to_upper_level</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A patch of white light hangs before you, like glare bouncing off a window - except there is no window. Within the light you see a play of shadows, like those on a wall opposite a door when someone walks past outside - except there is no wall. 
+
+But there might be a door. 
+
+There is certainly a breeze, coming from inside the shimmer, and echoes of sounds you are not hearing around you. If you stepped through, you might go anywhere, or maybe nowhere. It could be just a trick of the light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Walk into the light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the light more closely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave the light alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You step into the glare and it envelops you, blinding you, then dissolves you into twinkling motes, drifting in a spear of light. The light carries you through cold darkness, weightless, bodiless, selfless, toward another patch of glare. Then suddenly, you are somewhere else. 
+{SCRIPT: Teleport players to paired minnim. End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You walk all around the patch of light. It looks the same from every angle, and the breeze is always blowing your way. 
+
+Still, something about it, the pulsing of it's edge, the feeling that it is examining you the way the you are examining it, makes you think it is somehow alive, though in no way that you understand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You back away from the patch of light and move on. 
+
+{SCRIPT: End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The patch of light beckons to you. 
+
+{RETURN NODE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You step into the glare and find yourself somewhere else.
+
+{SCRIPT: Teleport players to paired minnim. End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

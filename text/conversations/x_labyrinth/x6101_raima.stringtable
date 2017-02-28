@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_raima</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She stares at you, consumed by thoughtless hate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She growls as you approach. Her belief that you are a member of the First's Militia is unshaken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try to persuade Raima that what she's seeing is an illusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Use the Tides to wrench her free from the illusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Turn away from Raima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Raima, it's me! I helped you and Andronus make peace in Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She squints for a few seconds. "You... No. You're trying to trick me... aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Raima glowers. "I won't be taken in by such simplistic lies. Die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Slap Raima across the face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Your palm connects with Raima's cheek and the shout of rage she emits makes you consider the wisdom of this approach. Then she blinks and looks around her in confusion.
+
+Then her glower returns, though a flicker of doubt remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As your palm connects with Raima's cheek, it occurs to you that a warrior of her caliber may not take such an affront well. The flaring of her nostrils proves you right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Focus on Raima and remind her that this is not the real Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>As you point out inconsistencies between the world she can see and the real one, Raima slowly relaxes. Bit by bit her shoulders droop, then go lax, then finally she lets her weapon fall to her side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Reason does not seem to break the fiery sheen of Raima's anger. She prepares to attack again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Grab Raima by the shoulders and shake her until she comes to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Before she can pull away, you grasp Raima by the  arms and shake her back and forth. Her immediate reaction: raising her weapon. But she hesitates. And gradually her eyes clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vigorous shaking only serves to heat her anger. "You'll pay for that, Traitor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You unleash the power of the Tides. The energy flowing through you is painful, but Raima staggers as they wash the illusion from her mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Thank you for freeing me from the grip of this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A grimace crosses Raima's face and for a moment you think you've failed. Then her shoulders droop and her eyes become clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What happened?" She looks around, recognizing you and what's going on around her. "I see. Well, I doubt you're here just to save me. You helped me in Miel Avest. I'll support you as best as I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>After a moment, she recognizes you. "What are *you* doing here? I don't... What's happening?"
+
+Even as she speaks, she begins to fade, disappearing elsewhere into the Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Script Node 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Her manic glare once again locks on you as you approach, but this time her eyes narrow. Doubt is picking away at her rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Where am I? You... What did you do to me? I..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Destroy them! Erase them in the name of our sire!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Reinforcements? You've come too late to help the traitors. Kill them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Script Node 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Script Node 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>After a moment, she recognizes the Last Castoff. "What is *he* doing here? I don't... What's happening?"
+
+Even as she speaks, she begins to fade, disappearing elsewhere into the Labyrinth.</DefaultText>
+      <FemaleText>After a moment, she recognizes the Last Castoff. "What is *she* doing here? I don't... What's happening?"
+
+Even as she speaks, she begins to fade, disappearing elsewhere into the Labyrinth.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The glaive you met in Miel Avest stares at you with wild fury and no sense of recognition, as though you were her most hated enemy. "Another one? You've come too late to help the traitors. Kill him, too!"</DefaultText>
+      <FemaleText>The glaive you met in Miel Avest stares at you with wild fury and no sense of recognition, as though you were her most hated enemy. "Another one? You've come too late to help the traitors. Kill her, too!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Surrender] "I won't fight my brothers and sisters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You're trapped in an illusion, Raima. None of this is real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Attack] "If it's a fight you want..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ha! A traitor and a coward. Pitiful." Eyes locked on you, Raima levels her weapon and fires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Deceitful as the First herself. My mind is clear, and I see you for the avaricious liar you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Take him out, brothers!"</DefaultText>
+      <FemaleText>"Take her out, brothers!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Destroy them! Erase them in the name of our sire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Another sortie from the Traitor's forces! Attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Script Node 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What happened? You... You're the one from Miel Avest. I'll help you as best as I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I wish there were some way to free everyone else instead of fighting them."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

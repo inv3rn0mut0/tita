@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_the_caretakers_riddle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Caretakers' Riddle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak to Motley in the Necropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Talk to the Memorialist in the Necropolis about the passcode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>See if there are other Memorialists who know the code.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Find the name of the ceturl prince.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Open the whisperlock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>I opened the whisperlock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>See if there are other Memorialists who know the code.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Talk to the Memorialist that was once Motley's prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Motley opened the whisperlock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>See if there are other Memorialists who know the code.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Memorialists have placed a whisperlock on the Necropolis' teleport terminal. It's impossible to enter the tombs beneath until the lock is removed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Klin'Kar directed me to speak to Motley in the Necropolis, if I wanted to help them with this dilemma. We'll see what this Motley has to say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Memorialist who placed the whisperlock is in the Necropolis. Maybe she will give me the passcode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The woman who set the whisperlock is dead, but surely she would have planned for that possibility. Maybe there's another Memorialist who can tell me the code to the whisperlock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I don't know the code to the whisperlock, but I've found a clue: it's the name of the ceturl prince.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The passcode for the whisperlock is "Guni." Now all I need to do is use it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I spoke the passcode "Guni" into the whisperlock and it opened easily. Finally, I can get into the Necropolis and find the First's tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The woman who set the whisperlock refused to give me the code, but surely she wouldn't have locked the Necropolis from *all* the Memorialists. Maybe there's another Memorialist who can tell me what I need to know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I've gotten rid of the cultists in the Necropolis Entrance, but the whisperlock is still on the terminal. Maybe the Memorialist will help me, now that I've rescued her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I told Motley the passcode for the whisperlock, and he opened it. Now, maybe, I can get into the Necropolis and find the First's tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>The Memorialist who placed the whisperlock was in the Necropolis, but the cultists have killed her already. Surely she would have planned for that possibility, though. Maybe there's another Memorialist who can tell me the code to the whisperlock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I saw a memory in the obelisk in a bubbling pool in the valley. The obelisk is a statue of a ceturl. Maybe I should investigate the obelisk more.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_silver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Difficult Task to unlock creature]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Failure. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Try DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Try DT again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[DT not done revisit]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[DT done. Go away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A spinning, slitted disk is set into the front of this machine. Behind it, sharp currents of oily darkness twist and whirl. The amorphous, bestial Sorrow fragment will have to be removed from this machine before the creature in the nearby tank will be calm enough for a connection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up PQ. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Beneath the spinning disc, the saboteur's body roils, recoiling at the touch. Suddenly, it pours out of the machine in a stream of glistening black. 
+
+The disc falls back into place with a satisfying *click*, and the whirlpool in the nearby tank dissolves. The creature should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tentatively lifting the spinning disc aside, the roiling mass of wet darkness becomes clear. It lashes out with a hiss and a jolt of cold energy, the icy tendrils pricking at your mind as it flies out of the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>With a flick of a finger, the disc flies aside. The saboteur's roiling body recoils, pouring out of the machine in a stream of glistening black. 
+
+The disc falls back into place with a satisfying *click*, and the whirlpool in the nearby tank dissolves. The creature should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The disc moves too fast, clipping dangerously close at any attempt to move it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Carefully move the spinning disc and pull the fragment out of the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Make another attempt to move the spinning disc and pull the Sorrow fragment out of the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText> Follow-up PQ. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Might success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Might failure. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Might crit success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Might crit fail. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Stop the cylinder from spinning. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try stopping the cylinder again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Speed success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Speed failure. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Speed crit success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Speed crit fail. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The Sorrow fragment behind the spinning silver disc is a maelstrom of claw-tinged shadows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Sorrow fragment has been forced out of this machine. It should now be possible to connect with the nearby creature's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The slitted silver disc set into the front of this machine turns lazily. There are intermittent glimpses of a miniature, glowing version of the creature in the tank within. The cables connected to the tank suggest this machine is connected to the creature somehow, perhaps keeping it alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The Sorrow fragment has stopped tampering with this device. It does not need repairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The Sorrow fragment coalesces with a baleful, eyeless gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Cascade 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>As the glittering zoetrope spins, a curved metal rod jutting from the console pops out onto the ground. The machine doesn't appear to need it anymore. It was some sort of data tunneler, which isn't very helpful here, but it could make for a handy single-use teleporter by crossing two exposed wires at one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>As the glittering zoetrope spins, a gleaming stronglass dome pops up from a socket in the blinking console. Brilliant energies swirl inside. It might make a useful weapon against the Sorrow fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Script Node 42</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

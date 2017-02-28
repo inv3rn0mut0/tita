@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5231_auvigne</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>137</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A tall, dark haired man with a proud, angular face and the lean body of a swimmer waits in the shadow of a stand of kelp. He is staring at the world beyond the walls of the Oasis as you approach.
+
+"Yes?" he says. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Auvigne turns and sees Tybir.
+
+{Tybir is with the LCO.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Nice view. Come here often?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If you're Auvigne, I was told to tell you that Tybir isn't coming."
+
+{SCRIPT: Tybir is not with the LCO.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[No.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText> Follow-up PQ. 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Nice view. Come here often?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ahem. As I said, come here often?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He nods, his face betraying no emotion. "I thought as much. Thank you for telling me."
+
+He turns away and drifts into the shadows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He chokes when he sees the man. "Au-Auvigne! Moon of delight, you haven't changed a hair!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I've changed far more than you can imagine," says Auvigne. "But that doesn't matter. What matters is, have *you* changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I have!" cries Tybir. "I've learned so much in these long lonely years. About myself. What I've done. Who I was. Who I *can* be. Who you were, though I was too blind to see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He looks skeptical. "How do I know he hasn't lied to you too? Or glossed over the ugly truth to make himself look good, as is his specialty."
+
+A thought comes to him. "Ah. I know. I will ask you questions about my time with him. If you tell me what I know to be true, I will know Tybir told it true to you. If you tell me one of his lies, I will know he has changed not at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>His face remains still, but his voice has become dull. "I was afraid of that. Ah well. Then this is farewell."
+
+He turns and starts to drift into the shadows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Tybir has fully realized the error of his ways, and is doing his best to change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tybir is still a bit of a rogue. But he's trying hard to change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I'm afraid Tybir hasn't changed at all. He's still a lying, self-absorbed cheat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The dark haired man continues to wait in the shadows, still staring at the world beyond the Oasis.
+
+"You've returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He hides a smile and shakes his head. "Your ability to spin storms of words certainly hasn't changed. How can I trust anything you say? It could all be lies, as it was before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Go ahead. Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I will ask you questions about Tybir's behavior and what he has admitted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He stops, frustrated, then has an idea. "Will... will you believe my companion?" 
+
+He turns to you, hands together, pleading. "Lad, if I mean anything to you, then speak for me. I beg you. Please!"</DefaultText>
+      <FemaleText>He stops, frustrated, then has an idea. "Will... will you believe my companion?" 
+
+He turns to you, hands together, pleading. "Lass, if I mean anything to you, then speak for me. I beg you. Please!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Don't bother coming here again. You will not see me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Okay. Shoot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What did Tybir say to you about us? About our time together?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"He said you both reveled in viciousness and cruelty, but that at Seung you had an awakening, while he continued his conscienceless ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"He said he was bad to you, and drove you away because he couldn't bear your goodness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"That is near enough the truth. I'll give you the benefit of the doubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"He couldn't bear to face his own wickedness, is what you meant to say. Sorry, you're only guessing. Go ask him what really happened. If he told you the truth, you will know the answer next time."
+{SCRIPT: Allows you to try again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"We were bad to each other, and I did not give him time enough to change after I had my epiphany. He was right to drive me away, though he picked the cruellest way to do it."
+
+{SCRIPT: Makes the next DT one step easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You're lying for him. He has told you nothing of what really happened. This is over."
+
+He turns and starts to drift into the shadows. 
+
+{SCRIPT: Ends conversation. Auvigne goes away for good.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He gives Tybir a hopeful look, then returns his eyes to you. "Next question. What did he tell you about his actions during the fall of Seung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Auvigne nods. "That is true. I began to see how selfish our pain was, and tried to tell him. But his smile was impenetrable. He could not be reached."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"He said he was a profiteer and murderer who made his living robbing from the poor and selling to the rich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>His eyes flare with anger. "He would not see it, then. He said others would rob the poor if he didn't, and it would all end up the same. The idea of *protecting* them from those other robbers didn't even occur to him. The idea of doing *anything* that would not turn a profit in some way seemed inconceivable to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"He said he robbed and pillaged like everyone else, but didn't kill anyone outright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aye, and why should I have expected him to be any different. He was a creature of his upbringing. I should have given him more of a chance. I should not have demanded so much."
+
+{SCRIPT: Makes the next DT one step easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"The same might be said for almost all the occupiers, but fair enough. It's part of the truth, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Aye but he killed hundreds second and third hand. Sorry, you've made a good guess, but not good enough. Ask him what really happened, then come back and tell me what he said."
+{SCRIPT: Allows you to try again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You're lying for him. He has told you nothing of what really happened. This is over."
+
+He turns and starts to drift into the shadows. 
+
+{SCRIPT: Ends conversation. Auvigne goes away for good.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"At least he seems to recognize it now." He pauses a moment, then looks at Tybir while speaking to you. "Last question. Why did I leave him? In *his* words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"He said he was so afraid of facing himself, that he was ready to lose you rather than look in the mirror. So he found a woman and did the cruelest thing he could think of to her, and made sure you caught him at it, so you would be forced to leave him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"And did he say he had done it for my benefit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"He said you didn't leave him. He says he drove you away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Auvigne's face crumples, and though it's impossible to tell under the water, it looks as if he might be weeping. "He has admitted it all, then."
+
+He composes himself with difficulty. "It is painful to live it all again through your words, but to hear that he has laid it all bare suggests an honesty he never allowed himself back then. It suggests that he has looked in the mirror at last. But..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"That's true enough, but did he say why? Did he say he had done it for my benefit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"That's true enough, but he didn't say why, did he?" He shakes his head. "He still can't admit it, even to himself."
+
+"Well, go ask him. Come back when you've learned the truth."
+
+{SCRIPT: Allows you to try again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"That's true enough, but he didn't say why, did he?" He shakes his head. "He still can't admit it, even to himself. I'm sorry, this is over. He'll never understand."
+
+He turns and starts to drift into the shadows. 
+
+{SCRIPT: Ends conversation. Auvigne goes away for good.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He glances again at Tybir, then turns again to you. "But it is still only talk. A man may admit everything, and still not have changed his habits. Has he done anything other than talk? Has he actually done anything selfless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"He interceded with a gangster on my behalf when it could have cost him his life. Dracogen could very easily have killed him for speaking up."
+
+{SCRIPT: +1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"He gave a memory to the Bloom so that I could learn how to defeat my most dangerous enemy - though he refused to give up any of his memories of you, good or bad."
+
+{SCRIPT: +1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"He risked life and freedom getting us out of Sagus Cliffs when the Council stopped trade to M'ra Jolios. If it weren't for his contacts, we would not be here now."
+
+{SCRIPT: +1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"And did he do this for profit or for love?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"And was it an easy thing for him to do, or difficult?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"And did he do it selflessly, or for personal gain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"That is encouraging. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That is discouraging. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I don't know about love, but he had nothing to gain by it."
+
+{SCRIPT: +1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"He did it because he knew we were his only way out of the Bloom."
+
+{SCRIPT: -1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"It terrified him. I have never seen a man so frightened of losing a piece of himself. And yet he did it, out of nothing but friendship."
+
+{SCRIPT: +1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Perhaps he has changed then. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"He did it because it was the only way out of the situation. He resisted the entire way."
+
+{SCRIPT: -1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Perhaps he hasn't changed then. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Both, I think. He did it to help me, but also because he knew you were here, and wanted desperately to find you."
+
+{SCRIPT: +1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"So he can think of others as well as himself. Good to hear. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"He only did it because he knew you were here, and wanted a chance to make up with you."
+
+{SCRIPT: -1} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"So he is still only thinking for himself. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>He turns to Tybir. "Tybir, you have been honest with me, but I have not been entirely honest with you. I... I no longer look like this. When I was allowed to live in the Oasis, I took an irreversable step. I..."
+
+[SCRIPT :Auvigne's human model is replaced by a ghibra model.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Tybir looks dismayed, and chews his lip, uncertain, then shrugs. "Well, you damned odd, lad, you surely do. But I suppose if I look the same, I won't notice, will I?"
+
+He grins. "Love, as I have been told far too many times, conquers all, eh? Very well. If you'll have me, I'll have fins. I'm ready."
+
+{SCRIPT: Need a way to count how many times the PC has accepted people for what they are despite their appearance. Gar Koto, Skoura, Mutants, etc. If a threshold of 2 or 3 is met, Tybir is okay with Auvigne as a ghibra.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Tybir looks dismayed, and chews his lip, uncertain, then he shakes his head. "I... I'm... You're not who I..." He trails off, then starts again. "In my dream we'd be going awandering again. Seeing the world side by side. But now... You, like this, and me, trapped in this bubble. I... No. I can't. It's nothing like I thought it would be. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He swims after Auvigne. "Wait! Don't listen to him! He's doing it out of spite! I've changed! I promise you! Auvigne! Don't go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Auvigne doesn't look back, and quickly disappears into the murky distance of the Oasis's waters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Tybir turns on you, face twisted with rage and grief, and raises a finger as if to condemn you, but for once words fail him. With an inarticulate howl of dispair, he turns and swims away.
+
+{SCRIPT: Remove Tybir from party. In finale, he fights on the side of the First or the Changing God.}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I will not submit to any test. You'll have to take me at my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Can you give me a moment before we start?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Take all the time you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Auvigne snorts. "How can I trust your word any more than I can trust Tybir's. Answer my questions or I go, for ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"No. I'm finished with this nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He grabs your arm. "Lad, please. Do not betray me. If you walk away now, I lose my only chance. Speak to him. Tell him everything I've told you. I beg you."</DefaultText>
+      <FemaleText>He grabs your arm. "Lass, please. Do not betray me. If you walk away now, I lose my only chance. Speak to him. Tell him everything I've told you. I beg you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"No. I'm done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"All right, you've convinced me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Then, so am I. For if you haven't won loyalty from your friends, Tybir, then you are the same vile manipulator I knew before. Farewell." 
+
+Auvigne turns and drifts away without looking back. In another moment, he disappears into the murky distance of the Oasis's waters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Tybir exhales bubbles of relief. "Thank you, lad. Thank you."</DefaultText>
+      <FemaleText>Tybir exhales bubbles of relief. "Thank you, lass. Thank you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I'm sorry. I won't speak for Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'm not ready to do this. I need some time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>He gapes. "After everything we've been through? After all your help so far? Please, lad. Don't wreck me here, when we're in sight of the shore."</DefaultText>
+      <FemaleText>He gapes. "After everything we've been through? After all your help so far? Please, lass. Don't wreck me here, when we're in sight of the shore."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Nothing I could say would help your cause. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"And so am I. For if you haven't won loyalty from your friends, Tybir, then you are the same vile manipulator I knew before. Farewell." 
+
+Auvigne turns and drifts away without looking back. In another moment, he disappears into the murky distance of the Oasis's waters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Very well. I'll speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Tybir claps you on the shoulder as you turn to face Auvigne. "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Auvigne gives you a cool look as you approach. "Are you ready to answer my questions now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Yes, I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Then let's begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"No. He said he did it out of cowardice. He had no thought for you at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Yes. He didn't want to drag you into the pit he had made for himself, and so forced you to hate him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Auvigne's face crumples, and though it's impossible to tell under the water, it looks as if he might be weeping. "He has admitted it all, then."
+
+He composes himself with difficulty. "It is painful to live it all again through your words, but to hear that he has laid it all bare suggests an honesty he never allowed himself back then. It suggests that he has looked in the mirror at last. But..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"He did nothing like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"That's all I can remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Then he hasn't changed. It's no use.  I'm sorry, this is over. He'll never understand."
+
+He turns and starts to drift into the shadows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Then he *has* changed. I'm very pleased to hear it, for I have too."
+
+{SCRIPT: More than two positives.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Then he hasn't changed. It's no use.   I'm sorry, this is over. He'll never understand."
+
+He turns and starts to drift into the shadows. 
+
+{SCRIPT: Less than two positives.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Are you ready to try my questions again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Yes, I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Then let's start with the question I last asked you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What did Tybir say to you about our time together?"
+
+{SCRIPT: Did not answer this question earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"What did Tybir tell you about what he did during the fall of Seung?"
+
+{SCRIPT: Did not answer this question earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Why did I leave Tybir? In his words."
+
+{SCRIPT: Did not answer this question earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Auvigne sighs. "The same old lie. The same self-serving story of noble sacrifice. He hasn't learned a thing.  I'm sorry, this is over. He'll never understand."
+
+He turns and starts to drift into the shadows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>He swims after Auvigne. "Wait! You're right. I didn't tell him everything, but I *have* changed! I promise you! Auvigne! Don't go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Auvigne doesn't look back, and quickly disappears into the murky distance of the Oasis's waters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Tybir slows to a halt and just floats there, staring after him. Then, finally, he pulls himself together and turns back to you. 
+
+"Thanks for trying, lad. You did your best. Now let's go. I'm your man from here on out. And the dirtier the job, the better."</DefaultText>
+      <FemaleText>Tybir slows to a halt and just floats there, staring after him. Then, finally, he pulls himself together and turns back to you. 
+
+"Thanks for trying, lass. You did your best. Now let's go. I'm your man from here on out. And the dirtier the job, the better."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I've no heart left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>He swims after Auvigne. "Wait! Listen! There was no opportunity for me to help him, but I would have! I've changed! I promise you! Auvigne! Don't go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I became a ghibra. If... if you would love me, this is what you will love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Tybir stares, stunned to his core. "I... I... Auvigne, you... you're a..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Auvigne smiles, gills rippling. "I am. And you could be too. We could live here forever. It would mean the end of your wandering ways, however. A ghibra cannot travel far from the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Auvigne holds out a scaled hand. "I'm so pleased. Then come with me. We'll take the first step."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Auvigne hangs his head. "I'm sorry too. I had hoped you would be able to look beyond these fins, but I don't blame you for it. It's a lot to accept. Have a happy life, Tybir. We will not meet again."
+
+He turns and starts to drift into the shadows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Tybir floats in silence, staring after him. Then, finally, pulls himself together and turns back to you. 
+
+"Let's go, lad. I'm your man from here on out. And the dirtier the job, the better."</DefaultText>
+      <FemaleText>Tybir floats in silence, staring after him. Then, finally, pulls himself together and turns back to you. 
+
+"Let's go, lass. I'm your man from here on out. And the dirtier the job, the better."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Tybir takes Auvigne's hand, then looks back at you. "Thank you, lad. For everything. If it hadn't been for you, I'd never have made it this far. Not by half."
+
+He grins. "If you've ever a need for a pair of strong swimmers, we'll be there for you. Both of us."</DefaultText>
+      <FemaleText>Tybir takes Auvigne's hand, then looks back at you. "Thank you, lass. For everything. If it hadn't been for you, I'd never have made it this far. Not by half."
+
+He grins. "If you've ever a need for a pair of strong swimmers, we'll be there for you. Both of us."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Until then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"**sob**"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I'm ready to speak for Tybir now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Very well. What do you have to say for him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

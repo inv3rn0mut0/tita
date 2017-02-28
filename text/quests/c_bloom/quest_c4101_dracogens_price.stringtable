@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_dracogens_price</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dracogen's Price</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Go to the Trade Post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a Maw that leads to the Trade Post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enter the Ascension and claim the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Dracogen with the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Handed over the Magmatic Annulet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deferment of payment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Handed over the Navigational Cortex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Dracogen has promised to give you a merecaster and smooth your way to a meeting with the Memovira if you can procure an item for him known as the Magmatic Annulet, which is located in a place known as the Ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dracogen told me to follow the "caravan route" from the Memovira's Courtyard to the Trade Post. That's where I'll find a Maw that will take me to the Ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Bloom-guide Grisseler revealed that the old Trade Post used to contain a way into the Ascension, but that the tunnel to the Trade Post is currently blocked. He explained that all of the Maws in the Bloom have been scrambled, so your only recourse is to try opening various Maws and hope one of them leads to either the Trade Post or the Ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Now that the way to the Ascension has been discovered, it is time to claim the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Your prize in tow and your path unbarred, all that's left is to return the Magmatic Annulet to Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You found the Magmatic Annulet and returned it to Dracogen. In return, he has held up his end of the bargain and gained you access to the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>After returning to Dracogen with the Magmatic Annulet he seeks, you convinced him to let you hold onto it for a while longer. He was very specific that failing to turn it over in a timely manner will have consequences...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>You convinced Dracogen to take the Navigational Cortex you found instead of the Annulet. In return, he has gained you access to the Memovira, as promised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You returned the Crystalline Artifact to Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You promised to hand over the Crystalline Artifact at a later time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You gave Dracogen the Navigational Cortex instead of the Crystalline Artifact.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

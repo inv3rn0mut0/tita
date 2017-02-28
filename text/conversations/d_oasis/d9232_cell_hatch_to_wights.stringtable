@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d9232_cell_hatch_to_wights</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This synthsteel hatch is nearly identical to the other, with salt corroding its edges. Two rectangles are visible above the air-exchange vent, one indigo, one blue. A third has been obliterated by time and salt.
+
+The prickling sensation at the base of your neck returns, growing more pronounced closer to the hatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try to ascertain what's causing the sensation.
+
+{SCRIPT: Use Intelligent Interface ability, which costs 3 Intellect minus player's Intellect Edge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Contact the Demon again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Listen at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Every now and then a low, short ::fwump:: can be clearly heard. It's not loud, more like a breath, or a large fire suddenly catching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Trigger Conv Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>This synthsteel hatch is nearly identical to the other, with salt corroding its edges. Two rectangles are visible above the air-exchange vent, one indigo, one blue. A third has been obliterated by time and salt.
+
+Your neck begins to tingle, like an insistent, high-pitched buzzing at the base of your skull.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try to break through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>It's as solid as the rock surrounding it. No human strength could break it down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The world fades as you focus on the tingling, which expands to fill you. Your senses merge into one, and the universe is the endless murmur of a million hushed voices at once.
+
+The drone is many individuals, each engaged in a hundred calm conversations. You're surrounded by the intelligences that operate the Menagerie.
+
+One notices you, different from the others, vaster and more remote. It exerts an attractive force so powerful you find yourself drawn into its consciousness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Fire wights only *look* like fires, and aren't undead. Still, these flickering specters have great power over temperature. They are attracted to water, and fascinated by some humans while ignoring others. Fire wights can become a deadly swarm if provoked.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

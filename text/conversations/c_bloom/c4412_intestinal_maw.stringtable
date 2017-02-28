@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4412_intestinal_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Whatever this creature was, its stomach was enormous. The organ pulsates, distended with gas... and something else rumbles in its depths as if trapped. 
+
+Foul acidic juices ooze from torn holes in the viscera. It hisses and steams when it drips onto Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The stomach and intestines rumble and twitch. You can plainly hear something thrashing about, deep inside. 
+
+Acidic juices drip from holes in the viscera, hissing when they touch Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oom, can you get in there to see what's inside this organ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Step away from the rotting organs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Something inside the creature's guts is thrashing about. This is not the sound of decay... it's the sound of desperation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Place your ear against the stomach to listen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Listen to the stomach again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The blob reshapes itself quickly, forming into a long, worm-like tube.It sprouts legs and crawls over to a ventricle, and works its way inside. You can follow the toy's progress by the lump it makes through the various arteries that lead inevitably to the stomach.
+
+As Oom reaches the organ, it suddenly retracts and begins its peristaltic motions in hasty retreat through its route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The ventricle regurgitates your companion. It's covered in digestive slime, but seems no worse for wear. It begins constructing a new form.
+
+... and what it shows is a volcano-like orifice with tentacles surrounding a vast maw. It seems clear that a corpuscular maw has somehow become trapped inside the grat corpse's stomach.
+
+{ADAM/DESIGN: Should we give out a DP here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Reach into the innards and try to release whatever is trapped inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Reach into the innards again, and try to release whatever is trapped inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You reach into holes in the viscera, shoving your arms through rotting intestines, gritting your teeth against the burning pain of the acids and bile within. Finally, you feel dim movement, and you thrust your arms even deeper into the stomach, immersing yourself to the shoulder.
+
+A questing tendril touches your hand. Instinctively, you try to withdraw, but the tendril wraps tight around your wrist. Its touch is unmistakable. The *thing* that was trapped in the stomach is a Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You thrust your arms into various holes in the rotting organs. Bile and stomach acids burn your flesh, but you find nothing. When the pain becomes overwhelming, you stumble away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You study the stomach for a while, and noting the place where it's most likely to give, land a single well-placed blow to that spot. 
+
+A gout of disgusting, slightly acidic fluids spurts out, and you step aside, neatly avoiding the spume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You punch and flail at the stomach, but you're entirely unsuccessful. At one point, you bash it hard enough that it sprays a gout of stomach acid from a small ventricle directly into your eye.
+
+It hurts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>More tendrils grab onto your hand, pulling their way toward freedom. Bloom-tongues rip through decaying intestines, spraying stomach juices in every direction. Then the great mouth appears, bursting through the dead flesh. Its tendrils sink into the viscera, anchoring itself in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>::squeak::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bank 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Cut the stomach open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Cut the stomach open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Try to cut the stomach open again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>With a neat slash, you carve a lateral incision into the stomach's wall, and a gout of foul, slightly acidic fluid spills forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You realize that the Maw must have been feeding on something in the creature's stomach, because it's already sated. Its orifice opens wide, and a portal appears...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Cut the stomach open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Try to cut the stomach open again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You realize that the Maw must have been feeding on something in the creature's stomach, because it's already sated. Its orifice opens wide, and a portal appears!
+
+Unfortunately, you were burned so badly by the acids and bile that you see nothing more. Staggering back, you collapse into darkness...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Again you reach into the steaming guts of the giant creature, and again the stomach acids seep through your garments and burn your flesh. At last, unable to find whatever is trapped inside, you stagger away, overwhelmed by the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You reach into holes in the viscera, shoving your arms through rotting intestines, gritting your teeth against the burning pain of the acids and bile within. Finally, you feel dim movement, and you thrust your arms even deeper into the stomach, immersing yourself to the shoulder.
+
+A questing tendril touches your hand. Instinctively, you try to withdraw, but the tendril wraps tight around your wrist. Its touch is unmistakable. The *thing* that was trapped in the stomach is a Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>More tendrils grab onto your hand, pulling their way toward freedom. Bloom-tongues rip through decaying intestines, spraying stomach juices in every direction. Then the great mouth appears, bursting through the dead flesh. Its tendrils sink into the viscera, anchoring itself in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You can still hear something thrashing about in the creature's guts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Deep inside the rotting viscera, something rumbles and thrashes about. You can't investigate any further while you're fighting the maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_stuck_airlock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This door is made of some unfamiliar, shiny metal. It has been polished to a mirror-like sheen. A magnetic strip of another, duller metal has a strange, runic script scrawled across its surface. It looks like an instruction regarding the door.
+
+On trying the door, you discover what that message must be - "This door is stuck," or something equivalent. You might be able to force the door open... but it won't be easy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Force the door open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the door alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Some mechanism within the door seems to be stuck, but you manage to overcome its resistance. You hear something crack, and then the door slides open, grinding a bit as it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You heave at the door, trying to push it sideways, upward, downward... all to no avail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You heave at the door, and it gives very, very slightly. Heartened, you shove it again and again, and you hear a grinding sound in the mechanism. You step back, collect yourself, and give the door one last violent shove. 
+
+Something clatters to the ground, and the door flies smoothly open. On the ground is a small component that glints in the dim light. Apparently this was what was caught in the mechanism. You pocket it for later. 
+
+{SCRIPT:  Give a crafting component here.} 
+
+{SCRIPT:  Need to actually open the door when we have real doors.}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you heave at the door, a pleasant voice speaks from a hidden grille. "A-che vostii verminos. Or'tl maryn, siv." 
+
+While you try to make sense of the words, a panel in the door slides open and emits a cloud of choking gas. You inadvertently breathe it in and begin coughing in the mildly toxic fumes.
+
+It seems the door thought you were some sort of vermin.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The shiny door remains stubbornly closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try to force the door open again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

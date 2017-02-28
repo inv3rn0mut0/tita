@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_crisis43_towerdefenses</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The tower's shaking has shaken loose a panel here. In the dark space underneath the dais, you see a patch of Bloom-flesh almost two meters in diameter. It looks like it stretches underneath the entire tower floor.
+
+Crystal vines run across its surface like blood veins. Light pulses through them. They seem to constrict in time with each movement of the living Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>
+
+The Sorrow's flames, that disappeared so suddenly, are resting on the vines and smothering their glow. Could these vines have been what kept the Sorrow out?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Bloom's voice is quiet here. Instead, you feel the presence of the crystal vines like an unwavering resonance in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the vines more closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Touch the vines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Leave them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Although made of crystal, the vines are almost certainly alive. Each time the Bloom moves - even the distant patches of Bloom-flesh creeping into the Tower - the vines squeeze the Bloom here, hurting it and forcing it to back off. It could only have been by moving extremely slowly, with infinite patience, that the Bloom could've encroached as much as it has.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The voice of the vines presses on your mind and suddenly you *understand* them. These vines are only the surface. The crystals are embedded deep, *deep* into the parts of the Bloom that surround the tower. As long as they are alive, the Bloom's influence in the tower is limited.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>
+
+You can also sense something that can only be described as a transdimensional odor. A kind of vapor that discourages the Bloom (and maybe other creatures) from getting too close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ask the vines to increase their odor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Drawing strength from the Bloom itself, the extraplanar odor increases until you feel dizzy with it. You crinkle your nose, even though you're pretty sure it's not your nose that can sense it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The vines pulse and squeeze the Bloom for more energy, but you don't sense any change. If you didn't know better, you'd say their presence in your mind felt apologetic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your fingers meet an immovable force. Orange lines of energy cross each other like a cage. Now that you notice it, you can see the whisperlock in the corner, where the inner dais wall meets the Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>
+
+You feel a wave of concern from the vines. They don't want you to do anything to the cage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"No! Don't touch that! If you do something stupid, not only will we have to deal with this *thing* you've brought on us, but the Bloom as well!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You fiddle with the contact points, but most of them won't budge, and those that do have no effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>With deft fingers, you find the right contacts and rip them off. The cage flickers, then disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ignore her and open the lock.
+
+{SCRIPT: Memovira turns against the player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Listen to her and leave the lock alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You are buffeted by mental pressure from the vines: concern, fear, and even a hint of anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Try to open the whisperlock that encages the vines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try to open the whisperlock again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Your fingers slip on the contact points and scald your fingertips. At least it was only your pride that got hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>In your mind, you can sense what is obviously laughter from the vines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ask the vines to let the Bloom into the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The vines ignore you, squeezing tighter. Of course, they're parasites. If they stop feeding off the Bloom, they will die.
+
+Though if they *were* to die...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Smash the crystal case.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Try to smash the crystal case again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>With a shout, you shatter the crystal mass where the vines converge. Inside, you see a wriggling mass of what looks like wires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You bang on the crystal mass to no effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The crystal mass shatters into dust with your blow. The vines still live, but you've exposed something: a wriggling mass of cords and wires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Your pathetic blow does nothing to the crystal case.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Reach in and pull a vine out of the Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Although made of crystal, the vine writhes like a snake. You grip it with both hands and pull with all your might. It pulls back against you. Suddenly, the crystal snaps and you fall back with half the vine thrashing in your hand. The other half is still embedded in the Bloom-flesh, pulsing and obviously alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>There must be hundreds of these vines under the dais, and who knows how many beneath the floor. Pulling them out by hand won't work.
+
+But deep in the gloom, in the center of the dais, the vines come together into a great mass - a sort of crystal case you didn't see before. It doesn't look easy, but if you can't *pull* the vines out, maybe you can kill them instead...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Psychic screams assault your mind, and a wave of force blasts out from the crystal, sending you flying across the room.
+
+{SCRIPT: Anti-gravity blast. Send all characters in immediate range across the room and knocked down.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Inside the crystal case, move the wires out of the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Try to move the wires out of the way again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The mass of cords slithers and snaps, pushing your fingers away from whatever it is they hide. Finally, you succeed in grabbing the bundle. Once you have them all, ripping them out is surprisingly easy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The cords writhe and slide, pushing your fingers out of the way and moving too fast for you to grab more than a couple. Even those slip from your grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Your hand snaps in and grabs the mass of cords like a fish from a river. You rip them out easily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Every time you stick your fingers into the heart, the cords slip through your hand like water. You cannot grab them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Beneath the cords, you see a pulsating sphere of glass. Surely this is the heart of the vines after all.
+
+With an alien shriek, the Sorrow turns on you. Apparently, it realizes what you're trying to do and doesn't like it. Neither do the vines, as another blast of force knocks you to the wall.
+
+{SOUND: Sorrow shriek (same as used in the Crisis}
+
+{SCRIPT: Anti-gravity blast. Send all characters in immediate range across the room and knocked down (except the Sorrow). The Sorrow moves toward the dais to smash it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Crush the pulsating sphere of glass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Try to crush the glass sphere again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The glass sphere beats against your palm. You crack it in your fist and an oily liquid runs down your fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You squeeze the pulsating sphere, but you cannot crush it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The glass sphere beats against your palm. You crush it in your fist, splashing your face with a spray of oily liquid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The sphere's pulses open and close your fist as you try in vain to smash it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The vines fade immediately, their crystal melting into the Bloom-flesh which soaks it up hungrily. The unwavering presence of the vines leaves your mind and is replaced by the buzzing lust of the Bloom as it rushes into the tower it has been kept out of for so long.
+
+{SCRIPT: Crisis ends. The Bloom breaks into the tower and swallows the Sorrow (and the Memovira, if she's there).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Crystal vines run across the surface of Bloom-flesh like veins, constricting in rhythm with the Bloom's movements throughout the Tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The Sorrow's flames that once filled the tower rest on the vines, dimming their glow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>
+
+Deep in the gloom lies a central mass where the vines converge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>It has been smashed open, revealing a wriggling nest of cords and wires. It looks like there's something beneath them, but it's hard to be sure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>It has been smashed open, revealing frayed ends of cords and a beating, pulsating sphere of glass in the center.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Whistle the tune the Memovira gave you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>As soon as the last note leaves your lips, the cage fades then disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You are buffeted by mental pressure from the vines: concern, fear, and even a hint of anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You fool! You would destroy us all!"
+
+
+
+{SCRIPT: Memovira turns against the player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>
+Terror grips your heart as you realize what you've done, and you desperately hope that the Bloom does not want to feed on you as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>As you lean in closer, you get a closer look at the vines. There must be hundreds of them under the dais, and the crystal poking out from the edges where the Bloom-flesh meets metal suggest there are many thousands more beneath the surface. Pulling them out by hand wouldn't work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>But peering into the gloom, in the center of the dais, you see the vines come together into a great mass - a sort of crystal case hidden in the darkness. It looks strong, but there are too many vines to pull them all out. Maybe you can kill them instead...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

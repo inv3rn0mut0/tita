@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4311_janur_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I greet you. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I have uncovered the location of Ishtrinu, your homeworld. The Bloom lives in that world. You just need to go through the portal and you'll be home."
+
+{JESSE: This is the "player has successfully stolen the cortex" option, and has a SHOULD NOT PLAY conditional pending your approval of the following nodes}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What evidence have you of this? How do you *know*? The cortex... the cortex must verify the truth. Excuse, please." She summons one of the nearby lascars, whispers in his ear, and he hurries from the room. Janur turns back to you, her face betraying her hope. "Could it be? Is this the end of our pilgrimage?" She begins pacing, waiting for the lascar to return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Janur returns, practically shaking with fury. Squaring her shoulders, she says, "The Cortex is gone. We have protected the chamber for centuries and now, with your arrival, it is missing."
+
+She looks at her guards. They nod. She continues, "Return it. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>(Lie) "I did not realize it was so important to your people. I return it with my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"This is not what Genjes reported," she snaps. "Thieves are not welcome here. You will leave the Anchorage. My guards will escort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>They escort you to the airlock and deposit you there wordlessly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I did not realize it was so important to your people. I return it with my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She eyes you for a long, silent moment. 
+
+"Perhaps you do not know," she says at last. "But you have broken our trust. My guards will take you to the exit. Please do not return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I have told you the way home. Why do you need the Cortex? Just gather your people and leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nonetheless, we must verify. Come with me to the Cortex chamber. Should your words prove true, we will leave the Anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We will verify first. The words of thieves are worthless. Give the Cortex to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You'll have to take it from my corpse. *If* you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You leave us no choice." She motions to her guards, and they attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I have uncovered the location of Ishtrinu, your homeworld. The Bloom lives in that world. You just need to go through the portal and you'll be home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What evidence have you of this? How do you *know*? The Cortex... the Cortex must verify the truth. Will return." She hurries from the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I hope you are enjoying your time here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nothing for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Script Node 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Her face is pale, and her hand trembles as she returns. A tear rolls down her cheek. "You... have done us a great service, outworlder. Your wisdom, your knowledge... they bring us Home." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She summons the crew, and when they have assembled she speaks to them for long moments in their own tongue. Her face shines. You hear gasps and cries of muted praise. Some weep openly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>When she finishes her speech the lascars line up outside the portal to the Bloom. 
+
+"Outworlder, whatever lies beyond the Bloom is the place we call Home. Our service is done. Our thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She calls the lascars to her, and when they have assembled she speaks to them for long moments in their own tongue. Her face shines. You hear gasps and cries of muted praise from her assembled crew. Some weep openly from joy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>At last she finishes her speech. The lascars gather their belongings and line up outside the portal to the Bloom. "Outworlder, whatever lies beyond the Bloom is the place we call Home. Our service is done. Our thanks."
+ 
+She follows her crew out the portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You follow her to the Cortex chamber, and she replaces the device in the great orb. She works the Cortex professionally, quizzing it in clipped, precise tones. Her eyes widen as the Cortex responds, and she looks to you in disbelief. When she finishes her session, she enters an extraction sequence and hands the Cortex to you.
+
+You return to the main chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Script Node 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ayu chanasti, jemadarus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Lascaru, totelin cor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sevet ansus! Cha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Jemadarus, orchil kaana!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Trigger Conv Node 35</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

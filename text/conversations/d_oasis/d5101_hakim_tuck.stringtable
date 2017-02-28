@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5101_hakim_tuck</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[This is Hakim Tuck, the reluctant leader of Jerboa. She has a problem with a protest in the Oasis that she'd like you to solve. PEACEFULLY.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Do you know a nam named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked PC to find Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Do you know a woman named Misha."
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm afriad the name is unknown to me. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"The young man who saved Counciler Semat's life? I do indeed. Well, that is to say, I did. I have not seen him since the day of the incident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What was this incident?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What happened to Auvigne after the incident?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"By all means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Very unfortunate. A group of Compatriots made an attempt on the life of Counciler Semat when she visited me on a matter of business. This young man Auvigne, however, blocked the assassins and drove them off with authority."
+
+She smiles. "Counciler Semat was most impressed. As was I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I am not certain. I know that Counciler Semat invited the young man into the Oasis and promised him a reward, but what the nature of that reward was, or what he did after that, is unknown to me. All I know is that I have not seen this Auvigne again, in Jerboa or the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

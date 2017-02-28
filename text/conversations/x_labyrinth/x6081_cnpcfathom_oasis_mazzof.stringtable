@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6081_cnpcfathom_oasis_mazzof</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mazzof slaps his hands at the water in front of him as though he were banging his hands against a wall. "Let me out, you monsters! It wasn't my idea. I didn't even want the damn Talisman!"
+
+As far as you can tell, there is nothing physically restraining him. You can reach right through the 'wall' he's banging on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mazzof continues to bang against a wall you can't see or feel. "Get me out! Come back for me, damn you. I built your damn machine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You're not trapped. Your prison is an illusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's wrong with staying in your damn body for once?" he says, though he doesn't seem to be responding to you. "We could have escaped together. Or you could have come back for me. I can't get out of here alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Your prison's an illusion. No device can hold *me*." He looks around him, rubbing the back of his neck. "If I had something to work with, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Try to understand the nature of Mazzof's torment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Try to understand Mazzof's torment again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>He believes he's imprisoned in the Oasis again, like he was long ago, but that alone should not be enough to anguish him like this...
+
+Finally it dawns on you, his agony is not his physical imprisonment, but the fact that he was abandoned by his maker - twice.
+
+He can't be forced free, but what he needs - what he wants most desperately - is help. He's looking around for a tool. Perhaps if you gave him something, then you could be the help he needs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>From his mutterings, you can tell he believes he's imprisoned in the Oasis again, where the Changing God left him years ago. You can't figure out what would help him to free himself though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You watch him for several minutes but no ideas come to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Give him a shin. "Mazzof, here. Get yourself out with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Leave him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He looks at you, seeing you for the first time, then at the shin in your hand. His eyes light up. "Ha! I knew you'd come back for me. And you smuggled a shaper key past those damn gibbers."
+
+He takes the shin from your hand. Then he kneels down and works at some device you can't see. There is an audible click, the ghibra around you swim away, and the haunted look drops from Mazzof's natural eye.
+
+{SOUND: Click, like a heavy lock being successfully picked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He looks at the shin in his hand. "It was a shaper key. What...?"
+
+"You." He narrows his eyes at you, then looks all around him, his numenera eye flipping more quickly than you've ever seen it. "We're not in the Oasis. Of course, how could I be so stupid? How *else* could the resonance chamber have worked?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You put your hand right through the 'wall' and place it on his shoulder. He doesn't seem to notice at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>With both hands, you grab him and pull him forward. When he reaches his imaginary 'wall', however, he meets some kind of resistance. His face smashes against a force that you can't see or feel.
+
+"Leave me alone!" he shouts, his mouth contorted, squished against nothing. "Haven't you gibbers done enough?"
+
+You let him go, and he floats back away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>See if you can touch him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Pull him out of his "cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Try to pull him out of the cage again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Again, his face smashes up against the invisible wall. "Stop! Stop! You're crushing me, you bastards!"
+
+You let him go, and he floats back away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Try to understand the nature of Mazzof's torment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You know what this place is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"We're in my mind. The Labyrinth is a kind of mental construct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Not *exactly*, but I can wager an educated guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"*Your* mind? Ha! It's a lot more than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"This is a psychic substrate, a kind of mental dimension that connects us to each other - the Changing God and every last one of his children. Even with all my knowledge and abilities, there were things about the resonance chamber that were a mystery to me. This answers a lot of them. *This* is the thing that links us all, the plane of our minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He looks at you again, eyes suddenly wide and frightened. "He's here too, isn't he? He would have to be, if he were alive when the machine was activated."
+
+He grips you roughly by the shoulders. "You have to stop him. He'll be after the core of this place so he can finish the job, so he can snuff us out and save his own damned self."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I know. I'm going to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I need your help. Come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Maybe that's for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Like hell it is, I -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Yeah." He looks like he's steeling his resolve. "Yeah, I will. Let's -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>He nods once. "Good. I'll come with you. Let's -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He looks down at his feet suddenly. They're fading away. "What the hell?"
+
+It spreads up to his knees. Then his legs. He's slowly disappearing. "Damn it! Quick, take this." He shoves a device into your hand. "Find him. Stop him. You have to."
+
+Soon the rest of his body fades, and then Mazzof is gone. Oddly, you can still feel his voice in your mind. He might still be somewhere in the Labyrinth, but you have no idea where.
+
+{LOOT: Give player useful item.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Force him free of the illusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He reels backwards, slamming against an invisible wall behind him. His eyes glaze over.
+
+Then he shakes his head and looks directly at you. "You? How did you..."
+
+He looks around at where he is, his numenera eye flipping more quickly than you've ever seen it. "We're not in the Oasis. Of course, how could I be so stupid. How *else* could the resonance chamber have worked?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Let me out, you fishy bastards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I didn't even touch your damn artifact!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"This is a farce! I haven't even been put on trial!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"How could he do this to me? He would never have gotten as far as he did without me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

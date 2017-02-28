@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_preservation_of_beauty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Preservation of Beauty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find and recruit attractive people for the Decanted's utopian society.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Quota fulfilled</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Decanted driven off</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entered Endgame (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A being known as a Decanted is looking for humans with aesthetically pleasing bodies. It says that it will take these humans to a place called the Optero Suite for a life of luxury and privilege. In return for my assistance in finding suitable candidates, it has offered a handsome reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The Decanted needs to recruit three people to fulfill its quota. I should make sure these recruits have attractive bodies - the Decanted doesn't seem concerned with any other traits.
+
+When I find potential recruits, I should inform the Decanted, who is standing near the slave auction in the Memovira's Courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I helped the Decanted fill its quota. It rewarded me for my assistance and then vanished along with its 'recruits.' Somehow I doubt I'll see any of them again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The Decanted has been driven away, and it probably won't be coming back to the Bloom for a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. It's unclear when or if I'll be able to return to the Bloom, so my recruiting effort for the Decanted must go unfinished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I gave Coty to the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I recruited Herja for the Decanted. She didn't seem like she was going to cooperate, so the creature knocked her out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The Decanted reported that its agents successfully recruited Sundermun's lover in Jargolamis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I convinced Bourras that the Decanted would give him free essences, so he volunteered himself. The construct paid me for my part in recruiting him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I let the Decanted take Rhin. She tried to resist, so it rendered her unconscious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The Decanted informed me that the murdens' translator was retrieved and found acceptable, and it rewarded me for bringing her to its attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Parsim Flint told me that the Decanted do terrible things to the people they 'recruit.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The Decanted expressed interest in one of the slaves in the pit near the auction stage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>It seems that Rhin might make a good recruit for the Decanted's society.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>The Decanted is interested in purchasing Coty from me. All I have to do is send the boy to the Decanted. Then I can speak to the creature and collect my fee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Sundermun the Elder told me about a beautiful woman he met on his journey. I wonder if the Decanted would be interested in recruiting someone from far away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>The Decanted told me that its agents can recruit someone in a distant location - like the beautiful woman described to me by Sundermun - but it will need to know exactly where she can be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>I learned the exact location of the woman Sundermun mentioned - she's in the city of Jargolamis in the Steadfast, working on the restoration of the Umbil skyway. I should tell the Decanted about this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>The Decanted is sending agents to investigate the woman Sundermun told me about. It will only give me a reward if they successfully recruit her, so I should return tomorrow to find out what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Herja, the warrior woman I met in Little Nihliesh, is tall and formidable. She might be an excellent recruit for the Decanted. The only problem is that she's currently a prisoner of Gar-koto, the mutant prince.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>I met a young noble named Bourras who might be of interest to the Decanted.  I last saw him hanging around Chiurgeon Slump, begging for money from strangers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Bourras may have done irreparable harm to himself. In his current state, he probably wouldn't mind if the Decanted came and took him away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>I told the Decanted about Bourras and his condition. It promised to send agents to retrieve him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>The Decanted informed me that its agents retrieved Bourras and found him acceptable. It paid me well for my assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>The Decanted has sent agents to retrieve the woman who was being used as a mouthpiece by the murdens. I should return tomorrow to see if they found her suitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>The murdens in the Old Slave Block have lobotomized an attractive young woman to serve as a translator of sorts. While her fate is lamentable, she may be of interest to the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>The Decanted expressed interest in the murdens' translator, but it won't be able to retrieve her until the murdens are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>I feel as if I recruited someone for the Decanted - a woman perhaps? - but I must have imagined or dreamt it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>I convinced Bourras that the Decanted is handing out samples of the essences that he craves, and he set off for the Memovira's Courtyard. I should return to the Decanted and see if Bourras got there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>I will no longer be able to recruit Coty for the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>In an act of mercy, I killed the murdens' translator, so I won't be able to recruit her for the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>I will no longer be able to recruit Herja for the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Sundermun refuses to tell me where to find the beautiful woman he mentioned. I've hit a dead end, so I won't be able to recruit her for the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>I feel as though I had a lead on a beautiful woman, far away, who might interest the Decanted... but I must have imagined or dreamt it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>I will no longer be able to recruit Rhin for the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

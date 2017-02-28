@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_conversation_erritis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Do? Now? The now has never felt so much like an end until... well, now. I suppose... I could find another beginning? That's what I'd like. Saving the world for someone else." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Do? Now? The now has never felt so much like an end until... well, now. I suppose... I could find another beginning? That's what I'd like. Saving the world for someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Do? Now? The now has never felt so much like an end until... well, now. I suppose... I could find another beginning? That's what I'd like. Saving the world for someone else. That's what I'd like. Saving the world for you all over again, Mattie. {clears throat}Matkina." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Do? Now? Sounds to me like this adventure has a brand new clock... and we have a head start! First one to Sagus is a murden's crestfeather!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{sad}"I...I don't care for this ending at all. I don't feel like we've triumphed in any way I can comprehend, to say nothing of our stalwart friend. {uncertain} Unless... there was a deeper sacrifice and a strength there that... {new hope}oh, look - the very door we came in! And you know what they say about doors and beginnings, you know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{unhappy}"The world has gone insane. I can hear it so loudly... what's to be done when the world around you tilts wildly? {new hope}Well, you set it upright so you can spin it a second time!" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

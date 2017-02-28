@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_kholn_village\b9112_examine_cave_device</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It's not here!" Matkina howls in frustration. "There's no way the First will believe the village isn't hiding it. Come on, we have to think of a way to stop her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Even as she's speaking, one of Tash's memories emerges, unbidden:
+
+"I'm certain she will betray us," Colonel Ledak says. "She pretends not to care about anything or anyone, but her love for that village is stronger than any desire for revenge against our sire.
+
+"The First still has faith in her, though. Gain her trust, Tash. Help her with whatever she needs, and if I'm right - if her intentions are treasonous to the First - turn her over to us as soon as you return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I know how you feel about her," Ledak continues, "but if she's going to betray us, we must find out before the attack."
+
+Ledak puts a hand on Tash's shoulder. "Think of your brothers, Tash. She'd slaughter them without a second thought to save her precious Kholn, and you along with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You emerge from the memory shaken. Matkina notices. "Are you all right, sir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"How far would you go to protect this village?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She gives you a strange look. "I think you know. They're my family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"But aren't we also your family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She furrows her brow. "Yes. I mean, it's different, but... What are you getting at?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I need to know which of your families you would side with, if it came down to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You're asking if I would betray her. Let me ask you this, which of my two families is threatening to kill the other? These villagers have done nothing, yet the First would destroy them for a vendetta that has nothing to do with them. I think you *know* who I'd side with, *sir*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"That's all I wanted to know. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I need to tell you something. Ledak sent me here to spy on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What?" Her weapon seems to have materialized in her hand. "Why would you tell me this here, now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm on your side. I just wanted you to know the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Her shoulders relax and she puts her weapon away, though her hand remains close to it. "I don't know why you didn't tell me before. So what do we do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I don't know, but whatever happens, you can trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"All right, sir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>(Lie) "I don't know, but whatever happens, you can trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Let's get back. We'll figure something out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Attack] "Now you pay for your betrayal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>(Lie) "I'm on your side. I just wanted you to know the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"We can walk away from this, join the First's attack like nothing happened. I just don't want you to get hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"That's the difference between you and me, sir. If I don't want to get hurt, I just kill the person trying to hurt me." Without warning, she leaps to the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Because I won't let you betray us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"That's the difference between you and me, sir. If I thought you were going to betray me, I'd just kill you without a word." Without warning, she leaps to the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wait! We can talk about this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bastard!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bring it on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"If that's how you want it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nothing. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The two rings spin eternally, powered by some unknown source. Energy flows in the center, except in one spot like a dark hole. It looks as though something belonged there but is now gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You have no idea why the energy would maintain it's shape even though the item has gone, but it has. Whatever used to be in there was shaped like a crescent or a horn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>
+You feel a slight tug from the energy in the rings, as though they shaped gravity itself. Whatever people created this were powerful indeed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[DEBUG] Matkina attacks! What do you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[DEBUG] I beat her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[DEBUG] I lose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[DEBUG] Her body falls to the ground. The Mere fades out and ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[DEBUG] Your body falls to the ground. The Mere fades out and ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[DEBUG] You will wake up next to an older Matkina back in Sagus Cliffs. She'll be shocked that she has her memories back and that some of those memories are things you did in the Mere. She'll tell you that you did the impossible: you changed reality through the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Let's report back to Colonel Ledak. If we're lucky, they'll call off the attack." Matkina grimaces, suggesting she believes they'll do no such thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"All right. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Yes, sir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"That's all I wanted to know. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The rings still spin. The empty hole in the center is still empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

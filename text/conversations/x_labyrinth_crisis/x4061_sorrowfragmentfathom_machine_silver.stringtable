@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_machine_silver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Judging by the images and information flitting across the display on this machine, it is some sort of control mechanism for the nearby holographic projector.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[The most prominant bit of informations is a flashing message, apparently desperate for your attention. 
+"WARNING: Foreign Body present in Tidal Flow Regulators. Configure Flush?"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[TASK HERE: Program parameters for the flush]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[The air crackles and eldritch energy pours from the projector, and moments later, a sorrow fragment spills from the device, taking form with a head-splitting screech. ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Step away from the machine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[You turn away from the machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[The screen's information changes as you study the display, and as if it knows you seek a way to combat the Fragments, it provides several options for a Tidal Minaipulator connected to the projector's base.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[The first would shape the TIdal energies into a cage attuned to any nearby Fragments, holding them and preventing them from escaping this Fathom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[The second would vent excess, unprocessed Tidal Energies onto this platform. The Fragments would be drawn towards that much spillage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[The last returns the projector to regular operation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Activate the cage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Energy begins to flow out of the projector, in ordered passes, building a structure layer-by-layer. You notice your arm passes harmlessly thorugh it, as if it weren't event there, but you expect that will not be the case for the Fragment]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Attract the Fragments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[A flood of energy pours from the projector, sizzling and evaporating like water on a hot pan as it spreads across the floor, yet soothing on your skin as it cascades past your feet. The Sorrow Fragments turn towards the projector.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Randomize Tidal Energetic Spin to generate a dissuasion field in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[At first, you are concerned your choice had no effect, but the pained screeches of the Sorrow Fragments alert you that somethign has activated. After moment, you notice symbols floating in front of your eyes in a color you don't recognize; the symbols remain clearly in your vision, even with your eyes shut tight.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Cancel active Tidal Manipulation]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[The Machine hums and returns to normal operation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Step away from the machine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[You turn away from the machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Judging by the images and information flitting across this display, it is some sort of control mechanism for the tank on this platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The screen flashes angrily: "Foreign Body present in Tidal Flow Regulators. Configure Flush?"
+
+It must be talking about the fragment feeding on the tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Flush the system just enough to remove the Sorrow fragment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The machine floods with power. The air around it crackles as eldritch energy pours through the tank. The Sorrow Fragment spills from the device, taking form with a head-splitting screech.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The machine is overwhelmed with power - too much power. A wave of icy force expels the Sorrow Fragment at the same time as it knocks you to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Step away from the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Pictograms flicker across the flat surface on this device, presenting several options.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Pictograms flicker across the flat surface on the device, the information and options changing before your eyes. It's responding to your thoughts as you seek a way to dispatch the Sorrow Fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Begin charging a Tidal Pulse to paralyze nearby fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The roiling energies in the tank begin to slow and move in unison, coalescing into a visibly ordered pattern as the machine indicates a buildup of energy. It indicates that a paralyzing pulse will detonate before your next action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Cause energy to leak from the tank, attracting the fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Tidal fumes spill from the projector, sizzling and evaporating like water on a hot pan as it spreads across the floor. The Sorrow's fragments turn towards the platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Reverse the charge of the tank's energy, repelling the fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The temperature of the air changes as the leaking energy is altered. The pained screeches of the Sorrow fragments are enough to know it's working.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Return the tank to normal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The machine hums and returns to its initial state.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>With no present threat, the machine hums idly. It offers no way for you to interact with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The machine no longer functions. All of its energy seems to have gone toward the pulse that affected this platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

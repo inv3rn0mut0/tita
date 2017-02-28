@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_guard_coty_slayer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You there! Does this slave belong to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Yes, he does. What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>(Lie) "I've never seen him before in my life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"This boy was caught with his filthy hands in a citizen's purse. Put up a good chase, but my partner and I eventually cornered him and took the bastard down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The guard recites the rest in a tired singsong. "All items relating to the crime have been removed and returned to their rightful owners. I hereby remand custody of the body, and any unrelated items found thereupon, to you the owner. Furthermore, by the law of the Memovira and the authority implicitly granted her by the Sagus Protectorate, the owner is hereby absolved of any consequences for the actions of his property. Do you understand, sir, if so say I do."</DefaultText>
+      <FemaleText>The guard recites the rest in monotone: "All items relating to the crime have been removed and returned to their rightful owners. I hereby remand custody of the body, and any unrelated items found thereupon, to you the owner. Furthermore, by the law of the Memovira and the authority implicitly granted her by the Sagus Protectorate, the owner is hereby absolved of any consequences for the actions of her property. Do you understand, ma'am, if so say I do."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A local merchant caught him sneaking off with some goods. My partner and I cornered him and gave him a blade in the gut for his troubles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I've got several witnesses describing you as the owner, having purchased him from one Parsim Flint. Is that true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The boy there on the ground. I'm told he belongs to someone matching your description."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Hold on. Shouldn't I be compensated for loss of property? I paid good money for this slave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You didn't have to kill him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I do not! This is not my problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He curls his lip in what he probably intends to be a smile. "Life here ain't so sweet as in the Cliffs. Autonomous thieves take their lives into their own hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You'll have to take that up with my superiors. Now if you'll excuse me, I went off-duty fifteen minutes ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Nor is it mine. Leave him there. The scavengers will take him soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>(Lie) "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Look, what's this about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Listen, I don't actually care. I've been standing here over half an hour waiting for the owner, so I'm saying it's you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"If you have questions about compensation, you'll have to take that up with my superiors. Thank you, sir, and good day."</DefaultText>
+      <FemaleText>"If you have questions about compensation, you'll have to take that up with my superiors. Thank you, ma'am, and good day."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

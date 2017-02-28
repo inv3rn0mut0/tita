@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_rs1_endlessbattlemere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[You are in the body of Bericael Brunna, a war nano serving as an elite commando for the First's Castoff Militia in the Endless Battle.
+
+You get in a heated battle and learn a lot about the Endless Battle (which both foreshadows and has reactivity for the end of the game when you are *actually* in it). On your way out, you also meet and potentially kill (or let die) a whole bunch of castoffs, all of whom are talking about the horrible destruction of Miel Avest. That's how you know this Mere is in NOW now. Everything that's happening now, is happening now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[A bunch of choices are made that aren't represented here, then you come across Paj Rekken, the colonel you had met back in the Kholn Village Mere.
+
+And hey, that's weird, Paj is totally talking to the First... about Miel Avest... and how the First sicced the Sorrow on everyone trying to get to YOU (the actual you - the Last Castoff, not Bericael).
+
+The last thing you remember before the Mere ends is that the First is alive and in the Oasis. You should probably get over there and have a 'talk' with her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Upon emerging from the Mere, you are blown back into the tower by a huge explosion. When your eyes open, the Sorrow stands before you and much of the room burns with its flames. A Crisis begins! Using the tower's defenses - and the help of the Bloom if you bonded with it - you repel the Sorrow long enough to escape to Sagus Cliffs.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

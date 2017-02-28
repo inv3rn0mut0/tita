@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_tcg_cultist_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Surprise briefly registers on the cultist's face when she sees your tattoo. Then she inclines her head respectfully. 
+
+"Beloved vessel. I don't believe we've met before. Do Casmeen and Mimeon know you're visiting us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Yes, holy one?" she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The crippled stichus is hiding in the dump. Go now, and bring it somewhere safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Good day to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"To you as well, holy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"It will be done, holy one," she says, bowing. "We will return shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hello again, beloved vessel," she says. "How may I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I may need you to escort an outcast stichus from the area. No one must see you. Can you do this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Good day to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"To you as well, beloved vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"We are not skilled in deception or subterfuge," the cultist says, looking uneasy. "I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Surely someone with your intellect can find a way to smuggle a single stichus into hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I understand your concern, but I need you to escort the outcast stichus to safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She regards you with a wry, penetrating look. Then, she nods. 
+
+"Your eternal father had little patience for the boundaries of the possible either. Very well. Would you like us to make the attempt now, or later?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I would not even know how to begin," she says, shaking her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[The cultist reports that he and his men hid the stichus under a robe and escorted it out of the area. He asks if there was anything else you needed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[The cultist reports that he and his men did as you bid, and smuggled the stichus out of the area by covering it with a spare oversized robe. He asks if there is anything else they can do for your holiness.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I may need you to smuggle a crippled stichus out of the district. No one must see you. Can you do this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"If that is your will," she says, looking nervous. "Let us know when you wish us to proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm ready for you to escort the outcast stichus to safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Very well, beloved vessel," she says, swallowing. "We will return shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Later. I need to handle a few things first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Of course," she says with a solemn nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I want you and the others to watch over the orphans who live near the dump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Gladly, holy one. We'll take care of them as if they were our own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Surprise briefly registers on the cultist's face when she sees you. Then she gives you a brief but respectful bow. 
+
+"Holy one. We hadn't expected to see you up here. How may I help you?"
+{GEORGE/COLIN:  Not sure if it'd be better to have separate question nodes here for the PC being a cult member vs impersonating TCG, as it depends on how many player options they'll share. Using separate question nodes for now since they don't share anything.}
+{GEORGE: I (Gavin) am keeping this format for now, since the conditionals are already set up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Surprise briefly registers on the cultist's face when she sees you. Then she slightly inclines her head in respect.
+
+"Greetings, beloved vessel. How may I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hello again, beloved vessel. Have you spoken with Casmeen and Mimeon yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Who are Casmeen and Mimeon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Where can I find Casmeen and Mimeon again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"They represent those of us who honor the Changing God." She inclines her head to you again. "Your eternal father. They can be found in Circus Minor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"In Circus Minor, beloved vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You seem less deferential than some of the other cultists. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Not all of us *revere* your father," she says carefully. "We simply honor him for his boundless wisdom and bottomless knowledge. We wish to emulate him."
+
+She clears her throat. "But worship him? No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You're testing me," she says, rather pleased, and clears her throat. 
+
+"Some of us revere you, it's true. Others - and I include myself - honor you for your boundless wisdom. Your bottomless knowledge. But we wish to emulate you, to become you."
+
+She coughs, flushing a little. "In a manner of speaking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You seem less deferential than some of my other followers. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{SCRIPT: Conversation closes. All cultists walk away. Fade out and in. Cultists have returned and conversation resumes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The creature is in Underbelly," she says, with a sly glance at her colleague. "We dressed it in Barant's robes, since he is the largest of us. People tend to avoid us, so no one looked too close."
+
+She bows. "Will there be anything else, holy one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>{SCRIPT: Conversation closes. All cultists walk away. Fade out and in. Cultists have returned and conversation resumes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"The creature is safe," she says, with a sly glance at her colleague. "We dressed it in Barant's robes, since he is the largest of us."
+
+She bows. "Will there be anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Who lived in that ruined house against the cliff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The cultist glances at the others. They shake their heads.
+
+"A man," she says, "but we don't know his name or where he is now. He always took great care to avoid us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Who lived in that ruined house against the cliff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The cultist glances at the others. They shake their heads.
+
+"A man," she says, "but we don't know his name or where he is. He always took great care to avoid us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I think someone may have looted that ruined house against the cliff. Did you see who it was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Yes," the cultist says. A mischievous expression crosses her face. "But I wonder if I can convince you to share something with us in exchange for our help."
+
+She ignores the startled looks from her fellow cultists. "Will you tell us about your birth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>(Truth) "Very well. I awoke miles above the world, falling to my death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>(Lie) "If I must. I woke up on a theater stage, halfway through a production of 'Gabraxi the Erotic Automaton'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"No. My time is more valuable than yours. Now tell me what I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ah," she says, looking more disappointed than offended. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I doubt he would frown upon simple curiosity," she says, quirking an eyebrow. "Go on. Your secret is safe with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"We *did* see someone looking around the rubble before you arrived," she says, glancing toward the pile of rubble. "Dirty children - orphans, perhaps - were digging through the ruins. I believe they took some food and valuables, but we were trying not to stare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You can't be serious," she says, blanching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"No!" she says, her eyes widening. "I've never heard of the play. What, er, is it about?" One of the cultists behind her makes a choking sound. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"It's true. Without getting into the particulars, I survived the fall and came to understand myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Yes. No one could have survived. But I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Amorous Aeon Priests who accidentally unearth a naughty automaton. But it's not really about the story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Well, it's more of an opera, to be precise. With somewhat *taxing* choreography."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Amazing," she says, shaking her head. "None of you were lucky enough to wake up in bed, were you?"
+
+She clears her throat. "Well, a deal's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Clearly," she manages. "None of you were lucky enough to wake up in bed, were you?"
+
+She clears her throat. "Well, a deal's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>(Truth)" Actually, I was joking. I really awoke miles above the world, falling to my death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I see," she says, though she clearly doesn't. "Did you, er, see things through to the end?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I-I see," she says. "Did you, er, finish the play?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Well, it's bad luck to step off the stage before the show is done, so..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"No. I found the nearest pair of discarded pants and got out of there as fast as I could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She blinks several times. Realization dawns. 
+
+"Oh!" She flushes. "Oh." She clears her throat. "Well, a deal's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Of course," she says, before the image catches up with her. "Oh."
+
+She clears her throat. "Well, a deal's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I think someone may have looted that ruined house against the cliff. Did you see who it was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Yes, holy one. Dirty children - orphans, perhaps - were digging through the rubble. I believe they took some food and valuables, but we were trying not to stare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I'm more of a listener than a talker, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Aitasii! It's the holy one!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>::hums idly::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>::fidgets::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The holy one is speaking to me, Aitasii! What do I say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>::squirms::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"A beloved vessel is speaking to me, Aitasii! What do I say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Aitasii can help you, beloved vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Why are you less deferential than the other cultists again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"We all interpret the lessons of your father in different ways. I honor him for his wisdom, but I do not worship him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Why are you less deferential than my other followers again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I wish to emulate you, holy one. Not worship you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

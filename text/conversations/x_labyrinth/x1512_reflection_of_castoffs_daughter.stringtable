@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1512_reflection_of_castoffs_daughter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Swaying, you open your eyes. You're back in the Labyrinth, with the warmth of that gentle touch still fading from your skin. 
+
+A woman-shaped hole in the air stands before you, her palms outstretched, and you sense something... different. A smell, if emotions could smell. 
+
+It is sharp confusion and a sense of displacement. Somehow, this woman-shade knows she does not belong here in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The woman-shaped hole in the air waits, hands outstretched. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Oh," says the Specter, strolling up beside you. "A reflection from a different castoff, isn't it?"
+
+He studies the outline's outstretched hands. "She's lost something," he says after a moment. "Something out in the world that she misplaced... or was taken from her. If you want to draw her here, you'll have to find it."
+{SCRIPT: Specter walks up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Focus on the Labyrinth and force the reflection to take shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Place the puzzle box in the outline's palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Concentrating, you cast your mind over the Labyrinth, looking for the source of this reflection. This young woman. 
+
+There. A star shines in a cold, crumbling bastion, far along the forgotten borders. Without thinking, you plunge your hands into the outline, gritting your teeth at the sting of the dark, jagged air...
+
+...and feel warm hands grasping your wrists. You pull, and the young woman *flies* towards you, filling the outline until the outline is *her*.
+
+{SCRIPT: Change her visual appearance at the start of this node to a normal reflection rather than an outline.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Concentrating, you cast your mind over the Labyrinth, looking for the source of this reflection. This young woman. 
+
+There. A star shines in a cold, crumbling bastion, far along the forgotten borders. Without thinking, you plunge your hands into the hole gritting your teeth at the sting of the dark, jagged air...
+
+...but try as you might, you cannot find the woman within that frigid darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You gently place the cube in the shadowy figure's hands. They close over it, and -
+
+A young woman - the one you found dead in the ruins of the house - plunges toward you out of the darkness, filling the outline until the outline *is* her. She nearly stumbles into you before she stops herself, blinking hard.
+
+"Ouch," she says. You notice that the box you gave her is now as ghostly as she is. 
+
+{SCRIPT: Change her visual appearance at the start of this node to a normal reflection rather than an outline.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Can you hear me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The woman-shaped void does not respond in any way. The Tides within you, however, do. 
+
+You feel them uncoiling from you, reaching into the gap for whatever is lost within. Perhaps you can use them to pull the woman into being.
+{SCRIPT: Node only visible if Tidal surges have been unlocked. Should be visible even if the player doesn't have the DP to use them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You fancy that you hear your words echoing in the dark, hollow space within the woman-shaped outline - and someone, very distantly, calling back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I don't think she can hear you," he says. "For that matter, I don't think it's even a 'she' right now. She's more of a placeholder than a person. An arrow pointing somewhere else in the Labyrinth."
+
+He peers cautiously into the outline in the air as though it is a long and potentially dangerous tunnel. "You'll need to find what she's missing before you can bring her forward. And you won't find it here, I think." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'll be here. You know. In your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bank 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Seria," she says. "You remember me. You found me beneath the chunks of my adopted father's house with my guts smashed to paste." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Seria," she says, rolling her eyes. "Dead girl in the broken house. I know you have a lot on your mind, but come *on*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Huh," the Specter says, turning away from the stunned woman. "There's probably no point in telling you that was impossible. I'll, ah, give you two some room to talk."
+
+You turn to the ghostly young woman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Who was your adoptive father?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"A creature named the Sorrow killed Orseolo. Do you have any idea how it found him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Orseolo. He was one of you," she says carelessly. "A castoff, I mean."
+
+A frown creases her forehead. "Poor old man. He never wanted to be special. He found me, fed me, talked to me when I was, you know, troubled." 
+
+She sighs. "But when the house fell on me, I guess... he couldn't stand it. And he went looking for a way to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"No," she says, staring at the air, thinking. "He didn't abuse his power, like some of you do. Didn't pull against the Tides or use them as weapons. He never wanted to be noticed, to be found."
+
+She breathes in, breathes out. "Didn't matter, did it?"
+
+{ADAM/GEORGE: This DP gain might be too easy. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She falls silent, but you don't need to be told what happened next. You've seen the statue, after all. It was grief that drove Orseolo to seek death in the Sorrow's arms. 
+
+Seria watches you, eyes shining with some inner light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Orseolo failed you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'm sorry that this happened to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"It seems strange that he didn't want to stand out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Don't be. He tried to help me, but my life wasn't so wonderful. I was always confused." She sweeps the hair from her eyes. "I felt like I was supposed to be someone else, even though his words made it better sometimes." She smiles sadly. "And his presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"But I think he knew it couldn't last," she says, her smile fading. "He was afraid, but not for himself. He believed - no, *knew* - I was going to die. One time, he said he'd seen me die too many times, then shut himself up." She claps a hand to her mouth, lowers it. "Like that."
+
+She shrugs. "But he wasn't wrong, was he? Even if he was a little crazy to begin with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"No!" she says fiercely. "He's the only one who *tried* to help me. I was always confused." She sweeps the hair from her eyes. "I felt like I was supposed to be someone else, even though his words made it better sometimes." She smiles sadly. "And his presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Really?" she says with a snort. "You don't think he had a reason to hide?"
+
+She sweeps the hair from her eyes. "Besides, I... I kept him busy, when I was alive. I was always so confused. I felt like I was supposed to be someone else, even though his words made it better sometimes." She smiles sadly. "And his presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What does that puzzle box mean to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"My father gave it to me," she says, beaming down at the ghostly version of the box in her hands. "He said it was a very old puzzle, and that solving it would help me."
+
+She chuckles. "I never did, but fumbling with it made me feel better. I always had the feeling that the pictures on it might mean something, but that was as far as I got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"No, he wasn't wrong. But you're here now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You seem awfully at peace about all this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Do you miss living?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Well, I'm not really *me*," she says. "I'm a reflection of what my father saw of me. The only piece of his mind that's left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"When he died, the sky over his Labyrinth... well, I want to say 'broke', but it was worse than that. The cracks went through the sky and into the ground, and everything started crumbling. I could feel parts of him slipping away. Snapping off."
+
+She shudders. "I'm glad you brought me here. I would have fallen apart eventually. And then there'd be nothing of him left. Nothing of either of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I like your mind," the young woman says, peering around. "Nice high ceilings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hello?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>This time, you hear no response. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Well, that was fascinating," the Specter says. "Doesn't look like it worked, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Well done," the Specter says, turning away from the stunned woman. "I'll, ah, give you two some room to talk."
+
+You turn to the young woman again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She nods moodily. 
+
+"Sort of," she says. "I'm not really *me*, though. I'm a reflection of what my father saw of me. The only piece of his mind that's left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Well, I was never *really* alive," she says. "I'm just a reflection of the Seria he knew. The only piece of his mind that's left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>::waves::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Leave the shade alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A Reflection from Orseolo's mind. The only one that's left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText> Follow-up PQ. 58</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Make another attempt at forcing the reflection to take shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I wouldn't," he says conversationally. "I mean, it will *probably* work, but there's no telling what will happen. Just off the top of my head, it *might* give you the worst headache you've ever had. But it would probably be worse than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Force the reflection to take shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Your plunge your mind into the frozen void before you, looking for the source of this reflection. 
+
+There. A star shines in a cold, crumbling bastion, far along the forgotten borders of the Labyrinth. Without thinking, you tangle your thoughts around it - her - and pull her back into *your* mind. 
+
+The woman hurtles out of the icy dark, eyes wide and bloodshot, filling the outline until the outline *is* her. She stumbles into your Labyrinth, wincing, hugging herself. 
+{SCRIPT: Change her visual appearance at the start of this node to a normal reflection rather than an outline.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Oh," the Specter says, turning away from the stunned woman. "You did it anyway. Okay. I'll, ah, give you two some room to talk."
+
+You turn to the young woman. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Something is wrong. She clutches her face, gasping, fingers digging into her scalp, baring her teeth like a wounded animal. 
+
+"H-h-hurts," is all she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Focus. I need to know about your father. The castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She shakes her head, tangling her fingers into her hair. It comes loose in her grip, like dead grass.
+
+"You tore... tore me lose. Can't be here. No link. The air hurts. Eats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Orseolo," she says, her staring eyes finding you. Her voice is a whisper, rough as broken glass. "Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Tell me about your castoff father. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Orseolo," she says, staring into a corner of her dark world that you can't see from your side. Her voice is a whisper, rough as broken glass. "Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I was hearing voices. Telling me to be-" She doubles over, coughing, her belly. "Telling me... to be s-someone else. He found me. Helped me."
+
+A line of blood runs from an open wound in her hairline and down her cheek. "Then. One day. The house fell on me. He wanted-"
+
+She gasps, and a tear slices down her other cheek. "Wanted to die." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She falls silent, but you don't need to be told what happened next. You've seen the statue, after all. It was grief that drove the Orseolo to seek death in the Sorrow's arms.
+
+Dark red blood seeps through the young woman's clothes and she reaches out for you. Blisters rise on her forearms in a stippled flood.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Look away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I have everything I need. How do I... send you back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You turn your head, but not before she screams... 
+
+And bursts apart in a mangled jumble of limbs.
+
+{SCRIPT: Seria explodes, NPC despawns, and the conversation is disabled.}
+{SOUND: Scream, fleshy crumpling}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>In response, she gurgles as great bloody rifts split her arms, bite through her shoulders, and cut her throat. Her eyes bulge and burst. 
+
+Orseolo's daughter falls apart in a mangled jumble of limbs. 
+{SCRIPT: Seria explodes, NPC despawns, and the conversation is disabled.}
+{SOUND: Scream, fleshy crumpling}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You were important to him. Do you know why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"He thought he could help me," she says simply. "He tried to calm me when that woman's voice in my head said I was her and not me."
+
+She smiles sadly. "I wasn't the first. He'd helped other girls like me before." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>You turn back to the woman-shaped void. She continues to face you, hands held out imploringly, ignoring the Specter completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"What is it that you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>For a second, another outline flickers in her outstretched hands... a box- or cube-like shape. Then it is gone, and it doesn't return.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

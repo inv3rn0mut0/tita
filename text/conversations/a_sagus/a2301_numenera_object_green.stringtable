@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_numenera_object_green</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A dark sphere inhabits almost every socket in this obelisk that stretches toward the cavernous ceiling. No one else seems to be paying the odd structure any attention. Like most numenera, it's simply *here*, and if it can't be used, it's treated as part of the scenery. 
+
+The orbs gleam in the dim light. You lean toward them. Are they glass? Jewels? Eyes?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the obelisk alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A flicker from one of the orbs above you catches your eye. You look up just in time to see the image of a woman leaning toward the surface of the glass from the inside. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You catch faint hints of movement at the heart of every sphere in this towering obelisk. You lean in to take a closer look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Make a rude gesture at the structure. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Make an even *ruder* gesture at the structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Hum a little song.
+
+{SOUND: Male PC hums a little tune.}</DefaultText>
+      <FemaleText>Hum a little song.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your finger barely grazes the glass before it displays the image of a furred creature touching the surface from the other side. Purple vines threaded with veins of light hang from the branches of the trees behind it. You lift your fingertip and darkness swallows the creature. The orb is opaque once more.
+
+The orbs appear to reflect whatever action is performed in front of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Touch the nearest sphere. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Touch the nearest sphere again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The furred creature you saw before touches the orb again, bewildered. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You make the most obscene gesture you can think of at the glass. A young woman with rainbow pupils appears in the glass, flicking her fingertip across her chin. 
+
+She nods, grinning, as if imagining your shock at her daring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The rainbow-eyed woman rewards your gesture with one of her own. She jabs a finger at her knee, grinning at her own audacity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What did that mean? What did any of that mean?"
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, *this* is how the numenera should be used, all right," he says sourly. "Insulting people across time and space."
+
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Feel better, dear?"
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"She insulted us! With her finger!" He shakes his fist at the glass. "Come out and do that again! I dare you!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A towering creature of flesh and crystalline muscle shakes a glittering fist back at him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ah ha! Another challenger. Come out of there, you cowards! I'll fight you one by one or all together!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You tell them, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Calm down. Everyone we're seeing is probably long dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He glares at the now-dark glass, then snorts. 
+
+"Hiding in the dark, eh? I *thought* so."
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh," he says after a moment. "They shouldn't be so rude then. It leads to misunderstandings."
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Nothing appears in any of the dark orbs. Instead, the whisper of many voices joined in song curls from the obelisk, so low that only you can hear it.
+
+{SOUND: A faint choir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>With your lips nearly brushing the surface, you whisper a thought you've never told anyone. A too-tall, narrow-hipped being - a visitant - appears in the glass, long fingers clasped. 
+
+Meeting your eyes, it speaks words you cannot hear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Tell the orb a secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm fairly certain she got the better of you that round."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You can, however, read lips. The language isn't one you recognize, but the wordless thoughts behind the words tickles an odd part of your mind.
+
+Dizziness overcomes you. You suddenly *know* that these are stolen words and that blood was spilled to take them. Even though the cause was just, the visitant is deeply ashamed. 
+
+It fades into the black of the orb, lowering its head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Hum a little song.
+
+{SOUND: Female PC hums a little tune.}</DefaultText>
+      <FemaleText>Hum a little song.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You can, however, sense its thoughts. They tickle an odd part of your mind.
+
+Dizziness overcomes you. You suddenly *know* that the visitant speaks stolen words and that blood was spilled to take them. Even though the cause was just, the visitant is deeply ashamed.
+
+It fades into the black of the orb, lowering its head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

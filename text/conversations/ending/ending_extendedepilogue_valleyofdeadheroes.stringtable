@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_valleyofdeadheroes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>With the Endless Gate closed, Ronos and the other surviving Memorialists were able to clean and rebuild. There were so few of them left, so it took months before the last of the blood was removed. They used several different barrier cyphers to block the tomb that had held the Endless Gate, in case something *else* ever came through again.
+
+They never did get rid of the smells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Children of the Endless Gate ran rampant over the Valley. Within a month, every Memorialist and traveler had been killed, except for the hardiest of explorers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>With Inifere gone, Marcysa became the leader of the Children of the Endless Gate. She closed the Gate in the Valley, and some time later the cultists left.
+
+Afterwards, Ronos and the other surviving Memorialists were able to clean and rebuild. There were so few of them left, so it took months before the last of the blood was removed. They used several different barrier cyphers to block the tomb that had held the Endless Gate, in case something *else* ever came through again.
+
+They never did get rid of the smells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Even poor Oddwald eventually found his spirit "freed from its cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>
+
+
+Now, no caravanner will travel to the Valley, and the Necropolis has become a dungeon rather than a memorial. Late at night, the screams can be heard from as far as Kholn Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

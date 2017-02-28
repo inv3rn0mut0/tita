@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_decanted_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The grille buzzes out its flat voice again. "We do not have a personal appellation you would understand. Your people commonly refer to ours as 'Decanted'. We achieve long life through these forms you see, our heads separated and preserved. We need not retain our original forms to preserve the knowledge we carry. We can shed these bodies but live on. This one has lived hundreds of years, though its original body is long since dust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>::bzzzzzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I purchased Coty, the young man in the pit. I'll sell him to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Coty - the young man in the pit - is no longer available."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The grille buzzes angrily and sparks again. "Regrettable. Such a transaction would have been mutually beneficial. Perhaps other specimens might be found here. Our clients will pay well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The construct bows to you. "Gratitude and appreciation. Prepared to pay [Global: c4101_DecantedCotyPayout] shins upon delivery of the boy to custody. Agents will assure the boy's safe delivery to clients. As evidence of our intention to pay..."
+
+It opens a hidden compartment in its side to reveal a neat stack of shins.
+
+"Prepare the boy for transport as soon as possible. Eager to leave this place."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Who is your client, and what does your client want with Coty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Our client is-" A momentary screech from the grille interrupts the creature's speech. "- and our client is pleased to offer the young man an incredible opportunity that will change his life forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>::bzzt:: "Gratitude. Our clientele will treasure this acquisition. Your payment, as promised."
+
+It hands you a rolled packet of shins.
+
+"This transaction is concluded."
+
+{MONEY}
+
+{GEORGE: I modified the final line to be about this particular transaction, rather than business altogether}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The speaker grille buzzes angrily. "We wait eagerly for our promised merchandise. We expect not to be disappointed. Please send our purchase to us quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>::bzzz::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"That sounds oddly familiar." She looks down at her hands. "I have to say that I prefer our sire's method."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"We admire beauty in all its forms and seek to preserve it. We do this as a service to ourselves and as our duty to the world, so that future generations can learn to appreciate beauty as we do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The creature looks at her oddly, assessing her again. "Face too thin, eyes darkened - artificially? No matter, not within aesthetic standards - skin mutable. Unacceptable."
+
+It resumes its self-description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>What seizes your eye first about this humanoid automaton is not the cunning construction of its slender limbs or the gleaming white armor that covers its chassis. It is instead the frozen human head that peers out from a frost-covered dome in the construct's chest.
+
+The head examines you carefully from head to toe. You feel a subtle warmth as scanners inside the machine assess you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The automaton's gaze shifts to Rhin and remains on her for a long, long moment, then returns to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The voice that squawks through a grille mounted atop the construct's head is flat and expressionless. "Greetings. We are called 'the Decanted'. We are here representing buyers from our society. Our clients greatly value beauty and physical fitness-" A distorted howl cuts its speech short. "Apologies. Maintenance for this vessel has not been optimal in recent times. Rectification to be undertaken soon. To summarize: we seek beautiful creatures to honor them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"For instance: If you look into the slave pit nearby, you see one specimen that stands out from the rest. The young man, there." It points. "Do you see the interplay of muscles in its body? It is strong, but not overbuilt. The biceps are pleasantly rounded, as are the pectorals. The body has little fat, and appears to be in good condition. This is popular among our clients. These are some examples of the traits we seek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"For instance, the young man who stands nearby." It points at Coty. "Do you see the interplay of muscles in its body? It is strong, but not overbuilt. The biceps are pleasantly rounded, as are the pectorals. The body has little fat, and appears to be in good condition. This is popular fashion among our clients. These are some examples of the traits we seek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Recently, a young slave was purchased from this pit. Our attempt to acquire it failed. It would have served as an excellent example of the style our clients seek: strong and muscled, but not bulky. Athletic and conditioned." 
+
+It eyes you. "Similar to you, but undamaged, and naturally grown. You show signs of artificial growth, or we would offer you this honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Its grille squawks again with a blat of noise. "Apologies." It makes a small adjustment. "We are here that we might take these subjects to the Optero Suite. We offer a life of luxury, privilege, and pleasure for every body-" ::static:: " -accepts." 
+
+It pauses. "We offer great rewards. We require three individuals with aesthetically pleasing bodies."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Perhaps we can be of mutual assistance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The murdens in the Old Slave Block captured an attractive woman. They've modified her brain, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Regrettably, our form has not been optimized for combat operations. Although the specimen sounds like a fascinating find, the presence of many murdens makes survival unlikely. We are unwilling to investigate until the murdens have dispersed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Exposure to murdens can lead to long-term ill effects. We will contact associates to verify the specimen's suitability. It may take some time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"The murdens in the Old Slave Block have been removed. You are free to investigate the woman I told you about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You spoke earlier of the abhumans' translator. We have examined it ourselves and determined it to be suitable. Your information was key to our acquisition and successful recruitment. We are pleased to provide this reward."
+
+It hands you a packet of shins. "We are also pleased to report that we have undergone a successful decontamination upon our departure from the murden nest."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Your assistance in this matter has been invaluable. We have reached our necessary quota far faster than we had reason to believe. Because of this, we will not be needing this device any longer."
+
+It hands you a weapon and then gives you another roll of shins. "This will only slow us. It is yours now."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The construct strikes its hand across the front of its armor, and a row of buttons extrudes from its synth shell. Its fingers dance rapidly upon these buttons - and you are momentarily blinded by a flash of light.
+
+When you can see again, it is gone, leaving no trace of its presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Flint told me that you butcher your recruits. Is this true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The young man in the pit is a slave, isn't he? Why don't you buy him yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"The auctioneer refuses our coins. He will not sell to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Why couldn't you simply have bought Coty directly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The Decanted emits a ragged sigh from its grille. "Everywhere we travel, these slanders follow. Our subjects are treated well. We gain nothing by abusing their bodies. Repeat: We treat them well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"That sounds reasonable. Carry on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You're still ending their lives. Leave the Bloom, now, before I destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The smooth plating of its armor clanks against itself as it flinches at your threat. "We are peaceful beings!" it squawks. "Someday you will -" ::static:: "- accept the truth of what we say. We will not attempt to persuade you now. No destruction is necessary. We assure you of our peaceability. Farewell." It backs away, holding its hands out in the universal symbol of surrender.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>::static:: "- a relief. Many do not understand the majesty of our work. They do not accept that our methods preserve beauty longer than a normal lifespan. It is immortality, of a sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I've heard of you. Your 'recruits' are butchered and killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I have changed my mind. You need to leave the Bloom. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"In the Vast Interior, Sundermun spoke of meeting a beautiful woman. She might be a suitable candidate for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Agents can investigate leads you provide, for which you will receive a fee. Until such time as a more definite location has been established, no fee is forthcoming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I know where to find Sundermun's mystery woman - the city of Jargolamis in the Steadfast. She's doing restoration work on the Umbil skyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That is a known place. Some distance away. Associates will investigate this claim immediately. The process may take some time. No reward is forthcoming until confirmation arrives." ::static:: "-nks for the information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The mechanical squawk of its grille is almost familiar now. "The female subject in Jargolamis has been located and recruited successfully. The specimen will suffice. Our gratitude for a successful referral." It hands you a roll of shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Why do you keep looking at Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Strong muscle tone, athletic build, great potential to become a suitable recruit. If allowed to take her, we will ensure that she grows to be a healthy, physically active woman in superb condition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Are any of my companions suitable recruits for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The Decanted looks at Rhin, its gaze lingering for a long moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>It chooses its words carefully. "The little one shows promise. It could become a truly excellent specimen, given the proper nutrition and physical regimen. It is unmarred by radiation and appears to have no scars in the essential places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The Decanted idly looks over your party. "None of them meet the standards of our society. Though no doubt proficient in their own ways..." It trails off, as if uneager to give offense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What if I sold Rhin to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Oh no you won't! I don't want to go with that dumb machine. Why can't I stay with you?"
+
+{ADAM: Voice check!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The construct starts ticking off points on its fingers, as if it were progressing through a checklist. "As a specimen in the Optero Suite, the little... girl... will be cared for well. We will help her attain her true physical peak. It is in your best interest and ours that she reach a happy, healthy adulthood. It is a better life than exploring. We have delicious sweets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She grinds her foot into the ground and toys with her god-stone. Ignoring the Decanted, she glares at you. "I said I'm not going with the machine. If you try to force me, I'll run away."
+
+{ROTHFUSS: Voice check!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wait, are you joking now? You're joking, right? Sometimes I don't understand your sense of humor. I mean, I don't understand lots of things, but this was particularly not funny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I'm not joking. I'm selling Rhin to the Decanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Of course I'm joking, Erritis. I don't mean it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She hugs herself tightly. "That's what I thought. What a terrible thing to joke about. You *know* I was sold once already. You *know* that."
+
+{ROTHFUSS: Rhin voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>It buzzes frustration. "Many regrets on not coming to an arrangement. We hope we can still be of mutual benefit to each other." It leans in and attempts to speak quietly. "We will honor our stated arrangement for other volunteers, since this one seems to be... untenable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>She bends down and picks up a gobbet of putrid Bloom-flesh and throws it at the Decanted. The foul mass leaves a smear across the dome of the Decanted's head. Then Rhin turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"You can't do this to me! Erritis, help me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>At your word, the Decanted steps forward quickly. A previously closed port on its chest opens, emitting a jet of nearly colorless gas into her face. She collapses at its feet instantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Our gratitude. The... girl... will be well managed. She will want for nothing. Her life will be healthy. We will nurture her beauty."
+
+It hands you a roll of shins. "Again, gratitude."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I've been waiting to rescue a damsel my entire life!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He draws his weapon with a flourish. "Prepare yourself, taker of children and damsels! Your taking-children-and-damsels days are at end!"
+
+He advances on the construct. His aura pulses like a drum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>The construct squawks and buzzes, stumbling away from Erritis. It cannot summon coherent speech in the face of his righteous rage, and it fumbles at its wrist as the grim-faced glaive marches toward it. As he prepares to attack, it presses a sequence of buttons. A flash of light blinds you momentarily, and air rushes past you to fill the place where it stood.
+
+When you can see again, it is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Thank you, Erritis. I'm glad *someone* cares about me." She shoots you a look of disdain and mistrust.
+
+{ROTHFUSS: Voice check}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He bows low to her. "A true hero defends the oppressed and frees slaves from their chains. Defends the slaves? Oppresses the chains? Whatever. Some people still care about doing the right thing." He too shoots you a look. "And some do the profitable thing. I never find the two kinds of things in the same person." He bends down to whisper to her. "Keep an eye on our leader. Who knows who we'll get sold to next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Down in Chiurgeon Slump, a man named Bourras could be a suitable candidate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Fortuitous. Agents will be dispatched shortly to investigate this Bourras. We have high hopes that this candidate will prove suitable. If so, we will provide a reward commensurate with his beauty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"The directions provided to the latest subject - Bourras - were adequate. The specimen was acceptable, though its... essence was dilute and requires extensive decontamination. With some effort, it will likely suffice for our clients." It hands out a roll of shins. "Your reward."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The most recent specimen - Bourras - sent our way is satisfactory. More than satisfactory, although certain aspects of its physique and mental clarity require detoxification. The clients have developed an efficient, though unpleasant, process to do so."
+
+It presents to you a tight roll of shins. "Our gratitude."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The creature's voice remains flat and expressionless. "Greetings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Bank 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'm afraid it's not your choice, Rhin. You're going with the Decanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I can't do it. She stays with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"When the moment comes for the replacement, we ensure that our specimens feel nothing. We sedate them during a moment of happiness, and using advanced techniques of which any chiurgeon would be proud, remove the extraneous head so that our clients might use the body into which we have invested so much. It is no worse than feeding slaves to Maws, as is the practice here. Fact: It is more humane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Excellent, excellent. We require but one more recruit to reach the quota set for our mission here. Should you provide this recruit for us, you will be handsomely paid per our usual agreements. Our clients will be delighted with the opportunity to explore these new forms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"We require only two more recruits to fill the quota for our mission. We hope that you will continue to provide us with the necessary subjects to help us complete our mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Tell me exactly what happens to the people I've recruited for you. No evasions, no lies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The flat, processed voice seems to contain a hint of elation. "Each recruit is removed to a place of safety, to the Optero Suite. Once there, our team of dedicated preservers will begin the process of separating its head from its body. The body will be saved for use for our nobility. We will likely discard the head, unless the recruit demonstrates some aptitude for work such as that which I perform."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Excellent. We require but one more recruit to reach the quota set for our mission here. Should you provide this recruit for us, you will be handsomely paid as usual. As well, you will have the satisfaction of knowing that the subjects' bodies will experience greater pleasure or satisfaction than anything they could have found here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"It's not slavery. You'll have a better life there. I'm sorry, Rhin, but you're going with the Decanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>The grille buzzes out its flat voice again. "We do not have a personal appellation you would understand. Your people commonly refer to ours as 'Decanted'. We achieve long life through these forms you see, our heads separated and preserved. We need not retain our original forms to preserve the knowledge we carry. We can shed these bodies but live on. This one has lived hundreds of years, though its original body is long since dust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Your people refer to ours as 'Decanted.' We achieve long life through these forms you see, our heads separated and preserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[DEBUG: Test the Decanted's teleport effect.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"It may not be worse, but it is not better for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"It is a matter of - " ::static:: " -ation. We need not agree. Let us part enriched by knowledge of differences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Selling children's a new low... well, I guess it's not. I suppose I should stop being surprised by the lengths we castoffs go to for our ambitions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I warned you. That's the last straw, you filth. I hope the Sorrow erases you from existence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I'm warning you, castoff... if the girl goes, I go too. What kind of monster are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Script Node 121</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Script Node 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Script Node 123</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Script Node 124</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Script Node 125</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

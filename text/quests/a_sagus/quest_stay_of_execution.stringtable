@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_stay_of_execution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Stay of Execution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find a way to save Ris before he is executed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Forged Pardon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rallied Crowd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ris Executed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trial of Truth - Innocent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Trial of Truth - Guilty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Acquire a city official's badge from Sangolin in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Acquire an old stay of execution from the Council Clerk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Tybir in Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Attempt to free Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Attempt to free Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Attempt to free Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Used Real Pardon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A man named Ris is slowly being executed in Circus Minor. His friend Tybir asked me to help save him. Tybir has a plan to forge a stay of execution, but he needs my help to get the materials for the forgery and deal with the authorities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>If you can't stop the execution in the next few days, it will be too late.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tybir's ploy worked, and Ris was set free. Unfortunately, the reunion between "friends" wasn't as happy as I expected. Ris seems to think that Tybir owes him money and only set him free to save his own skin. If I hadn't been there, Ris might have strangled Tybir on the spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I rallied the crowd against the execution. Fearing for his life, the overseer set Ris free and fled the scene. 
+
+Unfortunately, the reunion between Tybir and Ris wasn't as happy as I expected. Ris seems to think that Tybir owes him money and only set him free to save his own skin. If I hadn't been there, Ris might have strangled his "friend" on the spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I ran out of time to save Ris. He is surely dead by now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>You staged a Trial of Truth for Ris, feeding someone else's fingers to the Devourer of Wrongs, who declared that Ris was innocent. As a result, Ris was set free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You staged a Trial of Truth for Ris, but when the Devourer of Wrongs ate Ris's fingers, he confirmed that Ris was guilty. As a result, his execution is now assured.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Tybir's plan will require me to impersonate a city official, so I'll need one of the badges that all city officials possess. I can purchase a badge from Sangolin, who runs a clothing shop in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Now that I have the badge of a city official, I can try to obtain an old stay of execution from the Council Clerk in Government Square. Tybir wants a copy of the document that pardoned a notorious gangster, Col Cardin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I should bring the old stay of execution to Tybir so that he can forge a pardon for Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Tybir has forged a stay of execution for Ris. Now I can bring it to the overseer of the execution and tell him to release the prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Tybir has forged a stay of execution for Ris. Now I can bring it to the overseer of the execution and tell him to release the prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I've left Sagus Cliffs and won't be returning soon. Tybir will have to continue his efforts to free Ris alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I've acquired an authentic stay of execution for Ris. Now I can bring it to the overseer of the execution and tell him to release the prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Though Ris was freed, the reunion between "friends" wasn't as happy as I expected. Ris seems to think that Tybir owes him money and only set him free to save his own skin. If I hadn't been there, Ris might have strangled Tybir on the spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Tybir suggests masquerading as a government official and forging a pardon for Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You acquired the badge of a city official. You can now try to convince the Council Clerk to give you an old letter of pardon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You convinced the Council Clerk to give you an old letter of pardon. If you bring it to Tybir, he claims that he'll be able to forge a false pardon for Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Tybir has forged a pardon for Ris. If you bring it to the Official in charge of the execution, Tybir thinks that he'll set Ris free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>You've managed to convince one of the onlookers that Ris shouldn't be killed. If you can convince more people, you might be able to turn the whole crowd against his executioners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The Devourer of Wrongs has told you about an antiquated practice in which a condemned criminal offers a part of his body to a Dendra O'Hur, who can sometimes confirm the person's innocence. If you wish, you can ask the Official in charge of the execution about this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>The Official has agreed to let you perform the Trial of Truth. You'll need to cut off a couple of Ris's fingers and give them to the Devourer of Wrongs. However, Tybir warned you to find some replacement fingers from an innocent person first - preferably from someone very similar to Ris - so that you can secretly swap them out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>You tried to trick the Devourer of Wrongs with fingers belonging to someone else... but the Devourer sensed the deception. You'll have to find another way to free Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>It might be possible to rally the spectators who have gathered to watch Ris die. If I'm persuasive enough, I could turn them against the execution and intimidate the official into freeing Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>The overseer recognized that I'm not a real city official and refused to accept the forged document. I'll have to find another way to get the prisoner released. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The overseer recognized that I'm not a real city official and refused to accept the forged document. I'll have to find another way to get the prisoner released.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>The Council Clerk has told me that only a council member can issue a stay of execution for Ris. 
+
+Now that the Clerk knows I'm trying to help Ris, Tybir's scam may not work. I'll either need to find another way to get the Clerk's help, or return here with a council member's favor in my pocket. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

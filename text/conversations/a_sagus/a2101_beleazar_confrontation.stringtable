@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_beleazar_confrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I trusted you!" he shouts. Frustrated tears shimmer at the corners of his eyes, refusing to fall. El-Jinto steps back to a discreet distance, an expression of sadness crossing his face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You think you've *won*?" he hisses. One tear escapes and streaks down his bony cheek. "You think this is the first time I've ever been betrayed?"
+
+Panting with rage, he jams a finger in your face. "I'm going to tell the Order of Truth that you've betrayed an Aeon Priest on a... on a secret mission! Everyone is going to know you can't be trusted!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You hold out the notes, and Beleazar snatches them from your hands. As his eyes widen, you explain how you got them.  
+
+"This is more than I expected to learn on my own," Beleazar whispers, flushing. "All that time spent on *subterfuge*, and I could have just asked? Thank you. Thank you for everything. Thank you!" he shouts at El-Jinto. The seasoned explorer cringes and gives him a little wave. 
+
+Beleazar hands you your reward, then wanders away, flipping through the pages. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Firu-Ma? Spines of the Selexi? I've never even *heard* of these!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"For what it's worth, I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"No! You only think you're sorry! But that'll change. Oh, yes, that'll change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"This is what you deserve for trying to steal someone else's property."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You can't trust anyone, Beleazar. You're on your own. On your own!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tear up El-Jinto's notes in Beleazar's face. 
+{SOUND: Paper being ripped.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Give El-Jinto's notes to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Beleazar goes white, and rubs the tears from his eyes with his wrist. His mouth works silently, but nothing comes out. Finally, he whirls around and storms off. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ignoring the gasp from El-Jinto's direction, you rip the papers into shreds and toss them in Beleazar's face. Confused, he plucks one from the air, reads it, and his face goes white. 
+
+"What kind of man are you?" he whispers. "You destroyed a detailed study of the nychthemeron just because I *shouted* at you?" With one last, hateful glare, he whirls on his heels and storms off. </DefaultText>
+      <FemaleText>Ignoring the gasp from El-Jinto's direction, you rip the papers into shreds, and toss them in Beleazar's face. Confused, he plucks one from the air, reads it, and his face goes white. 
+
+"What kind of woman are you?" he whispers. "You destroyed a detailed study of the nychthemeron just because I *shouted* at you?" With one last, hateful glare, he whirls on his heels and storms off. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>::sobbing::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Next time you borrow someone's notes, *friend*? Try not to destroy them on a whim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You think you've *won*?" he hisses. One tear escapes and streaks down his bony cheek. "You think this is the first time I've ever been betrayed?"
+
+Panting with rage, he jams a finger in your face. "I'm going to tell the Order of Truth that you've betrayed an Aeon Priest on a... on a secret mission! Everyone is going to know you can't be trusted!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

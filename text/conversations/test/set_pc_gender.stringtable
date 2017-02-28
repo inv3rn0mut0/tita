@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\set_pc_gender</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>PC gender is current female. What gender do you wish?
+
+(This conversation node has text in the female channel, and this isn't that text. If all were working as intended then you wouldn't be seeing this message.)</DefaultText>
+      <FemaleText>(You are seeing the female gender channel for this conversation node's text.)
+
+PC gender is current female. What gender do you wish.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Female.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Male.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave it unchanged, please.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Done! You will soon be a female, courtesy of the Set Player Gender script.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Done! You will soon be a male, courtesy of the Set Player Gender script.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you wish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Neuter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>This option isn't used in TTON, but it's available as an option to the Set Player Gender script, so there you go! You will soon be Neuter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>PC gender is currently male. What gender do you wish?</DefaultText>
+      <FemaleText>(You are seeing the female gender channel for this conversation node's text. This shouldn't be happening!)
+
+PC gender is currently male. What gender do you wish?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>PC gender is currently neuter, which is odd because that's not a choice we're supporting in TTON. What gender do you wish?</DefaultText>
+      <FemaleText>(You are seeing the female gender channel for this conversation node's text. This is peculiar, but maybe not a serious problem.)
+
+PC gender is currently neuter, which is odd because that's not a choice we're supporting in TTON. What gender do you wish?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>PC gender is neither Female, Male, nor Neuter. How did that happen? Well, in any case, I can try to set the PC gender if you wish. Which gender would you like?</DefaultText>
+      <FemaleText>(You are seeing the female gender channel for this conversation node's text.)
+
+PC gender is neither Female, Male, nor Neuter. How did that happen? Well, in any case, I can try to set the PC gender if you wish. Which gender would you like?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Congratulations! Your gender is now...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>...female!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>...male!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>...neuter!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>...uh oh! Somehow you do not have a valid Gender! It should be female, male, or neuter, but it's not! This doesn't bode well...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

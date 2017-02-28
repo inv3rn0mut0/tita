@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_bruna_conversionconversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[LCO - Introduction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Other - Introduction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Fallthrough,Brunna quietly ignores you]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Appeal to her sense of freedom and self preservation]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[instant failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Appeal to her sense of purpose and desire to help others, by explaining the pain and suffering the memovira's plan will cause]
+
+{bonus from gold dominant tide}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Success and Bruna converts to the players side]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Don't waste the little time you have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You've got me on your side. Don't make me regret it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bericael's appearance is unchanged from the last time you saw her. She seems unfazed by her surroundings, and her eyes take in the scene with practiced precision. She taps her fingers on her weapons.
+
+"Made quite a fuss since I saw you last. First says you'll be the end of us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Got something to say? Then say it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The wiry castoff looks you over as she chews her lip. Her eyes are restless, assessing the situation, and she gestures at you to hurry up. "Say it. Be done with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Say it and be done with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Tell Bericael how much suffering the First's decision will bring to the castoffs, and how the First will destroy them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She frowns. "Got no love for our siblings. I've trusted Paj Rekken my whole life. I believed in the First. But... she dropped the shields on Miel Avest. She attacked a sanctuary... our refuge from each other. From the Sorrow. Would she turn on all of us?"
+
+She considers. "No. I have no trouble believing she'd kill us to save her skin." A moment later, she adds, "Fine. I'm with you. Let's finish this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Her scowl deepens. "They tell me you're the one who'll destroy us. Say you're planting falsehoods. Now I've got the proof. No. Won't join you. Ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Appeal to her sense of freedom and self preservation.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She scowls. "Freedom. Self-preservation. Think I'm worried about those things for myself? Been prepared to die for almost my entire life. I take orders." She slashes her hand through the air, as if cutting the discussion's throat.
+
+"Not joining you. Don't trust you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Would you serve a commander who would sacrifice all her troops to save her own life? The First's plan will see us *all* dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>This androgynous woman projects an air of fearsome will. Her muscles are thin and wiry, and her body screams of sharp edges. She seems like a human stiletto. Her head is shaved, and she bears the tattoo of a castoff on her scalp. Her words are hard and clipped.
+
+"So you're the last of us? Lot of fuss around you. Say you'll be the end of us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bericael's appearance is unchanged from the last time you saw her. She taps her fingers on her weapons. Hatred makes her eyes flinty.
+
+"You turned me against my commander. You violated my mind. I am not *your* weapon to use. But I pray that I will be used against you. I am your foe. Know my face before you die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The wiry castoff looks you over as she chews her lip. Her eyes are hard, staring at the Last Castoff. She points. "Your leader made me betray my commander. I'll never forget. I will never forgive. You are my foes now, forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_mother_temaz</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>232</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Foolish boy. Shivering at the crossroads, mazed by yer choices. Go on and pick beauty. Pick strength! Pick pleasure, whatever that be. The particulars don't matter, boy. What matters is the *choosing* and that *you* do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>If anything, her angry muttering has intensified. She drags the chain of beads between her knuckles, staring into space. 
+
+"What now, my lad?" she says. </DefaultText>
+      <FemaleText>If anything, her angry muttering has intensified. She drags the chain of beads between her knuckles, staring into space. 
+
+"What now, girl?" she says. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Foolish girl. It doesn't matter what you were. The past is a land populated by wet-eyed nitwits. Nay, what matters is where you are. What you *be*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Do you have any children of your own?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What a tragedy, mistress! I swear that I will recover your laundry from the wreckage, whatever the cost!"
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You seem interested in that airship. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Why? The great fool of a pilot landed it on my washing, that's why. I'm down to one spare apron and a fistful of unmentionables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Never you mind," Mother Temaz says. "I only call it 'washing' out of habit. No amount of boiling water and caustic soap could wash the hardened layers of birthing stains from *those* dresses. I'm half-surprised the ship didn't bounce off it and fall down the cliff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>This woman glares at the air above her head, her fingers fretting with a single bead in a long, peculiar chain of them. Her low, angry muttering resolves into words as you get closer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Her fingers tangle in the chain of beads.</DefaultText>
+      <FemaleText>Her fingers tangle in the chain of beads.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Why do people call you 'Mother'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why do people call you 'Mother' again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Tell me about that chain of beads you're holding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tell me about the chain of beads again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I've delivered every child of a mortal womb in Cliff's Edge," she says. A smile slips unbidden onto her face. "And some who were not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I make one for every child I deliver. Made with wood and their mother's blood, carved in the shape of their soul. Touching their beads tells me if they're well... or more often, if they're not, and need a mother's help."
+
+She tilts an eyebrow at you. "Sometimes I just witness a birth, but I still carve a bead to mark the occasion... if I think the child is worth remembering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I've made a bead for every child I delivered," she says, holding up the long, long chain. "They tell me how my children are faring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm the midwife of Cliff's Edge. Other places as well, but this is where I hang my hooks and tongs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Aren't you worried that your house will fall off the cliff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You should find somewhere safer to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"And if I am? Where would I go? I was born in this house. Should I abandon it for a handful of self-serving rumors about sticha and rotting stone? Nay, I'll stay here, and should my home crumble, I'll hold it together with my fists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Aye? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Do you like living in Cliff's Edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Bank 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I want to ask you about someone in particular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I want to ask you about someone specific again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Aye?" A note of wary caution enters Mother Temaz's voice, and she drops the chain to coil, snake-like, into the palm of her hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Give me a name," she says, a guarded expression on her face. "I'll tell you about the ones I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Riastrad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You don't seem to like Lord Vuntgen much. Can he be trusted or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Stay safe, my lad."</DefaultText>
+      <FemaleText>"Stay safe, girl."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Go on," she says, sighing. </DefaultText>
+      <FemaleText>"Go on," she says, sighing. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText> Follow-up PQ. 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I have some questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have some more questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Waste of time," she grumbles. "I'd rather you lend yer mind to the favor I asked of you, but ask and be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ask, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You describe the man you're looking for. 
+
+"Aye, I've seen him," she says after a moment. "Never spoken to him... and not sure I *could* neither. He walked alone, but I felt he walked in company. It was not his will alone that guided his steps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I've seen him, as I said. Alone, but not alone. Awake, but lost in dreaming." She massages her temples with her fingertips. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You describe the girl you're seeking, and she runs the chain of beads through her loosely-coiled fist. 
+
+"Didn't deliver her," she declares. "Don't know her. She doesn't come from Cliff's Edge and may not be from Sagus neither."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Didn't deliver her, never seen her, and don't know her. She's not from here, sure as sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>She listens as you describe the woman you're seeking and begins to shake her head. Then she recoils.
+
+"You're speaking of the White Death!" she growls, gripping the ends of the chain of beads in her hands, and pulling them taut until all of them shiver on their string. "Mark the faded ones well. The ones as cold as a long night's snow. More than a few were down to her, and her careful, careless knife."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"The White Death," she says, lip curling. "My children fall to sickness most often. Some to foolish accidents, some to murderers. Yer 'Matkina' is no humble assassin, but a plague in her own right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Lord Vuntgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Can you tell me about Lord Vuntgen again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"He's a leader of one of the Slave Families," she says, studying her beads casually. "Has a number of opinions, that boy. Some he shares, some he doesn't, but he's got them all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"As I said - in confidence - he has yovoki blood in him. See it there, in the yellow, sagging skin. Would be the end of him, if people knew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I've said all I mean to say about him," she says firmly. "Be careful in yer dealings with the *man*, that's all." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Her fingers steal to an odd bead along the chain: a snarling head the color of amber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I have nothing more to say about the man," she adds. "But head over there with yer mind open. He'd be happy to fill it for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She presses her lips together, eyes flickering between the distant lord and you. 
+
+"Yovoki blood on his mother's side," she says at last, so low you can barely hear her. "I'll not turn my back on a girl in trouble, but I have no time for disgusting abhumans either."
+
+She shoots a poisonous look in the lord's direction. "I'm not alone in that. If people knew what he was, it would be the end of his politicking for sure and certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She hesitates. Then her eyes harden. 
+
+"I can't be sharing mothers' secrets," she says. "Not even for one of my children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Her eyes flicker between you and the distant lord, and she leans in, beads tinkling.  
+
+"Yovoki blood on his mother's side," she says at last, so low you can barely hear her. "I'll not turn my back on a girl in trouble, but I have no time for disgusting abhumans either."
+
+She shoots a poisonous look in the lord's direction. "I'm not alone in that either. If people knew what he was, it would be the end of his politicking for sure and certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Nay," she says, her eyes hard. "I can't be sharing mothers' secrets," she says. "Not even for one of my children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Why do you care about Piquo?"</DefaultText>
+      <FemaleText>"Why do you care about Loss-of-self?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Go on," she says, twisting the many-faceted bead between her thumb and forefinger. "Go on asking yer foolish questions, but I know what's in yer heart. You can't not care, same as me. It's what lines yer spine and holds you upright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I can't not," she says, twisting the many-faceted bead between her thumb and forefinger. "I'm not like you, my lad. Caring is what lines my spine and holds me upright."</DefaultText>
+      <FemaleText>"I can't not," she says, twisting the many-faceted bead between her thumb and forefinger. "I'm not like you, girl. Caring is what lines my spine and holds me upright."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nay. None, and never have, in fact. But as the saying goes, 'all children in Cliff's Edge have two mothers.' That's better than having one of my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Still here, aren't I?" she says, wrapping the chain of beads around her fingers. "I like having my children all around me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText> Follow-up PQ. 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I need to talk to you about Loss-of-self."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I need to talk to you about Loss-of-self again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText> Follow-up PQ. 79</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I need to talk to you about Piquo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I need to talk to you about Piquo again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Are you talking to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Who are you speaking to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The particulars matter quite a bit, I'd say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She blinks at the empty air, and her hands steal to a metallic, many-faceted bead near the end of the chain. 
+
+"I may as well be," she says, snorting. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>She blinks at the empty air, and her hands steal to a metallic, many-faceted bead near the end of the chain. 
+
+"Not you," she says, snorting. "But I may as well be."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>She blinks at the empty air, and her hands steal to a metallic, many-faceted bead near the end of the chain. 
+
+"Aye, you would," she says, sighing. "And it's serving you just as well as *him*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Mother Temaz *knows* you, lad. Born falling, you were. Born in flame, shreds of yer smoldering caul streaming through the air. When you struck ground, yer bead first went cold, then hotter than a mother's hatred."
+
+She shakes her head and spits at her feet. "Scarcely born you are, and learning quick. But yer still uncertain. All boys and girls are, until they start making choices and dealing with the consequences. Until they accept the cost of being adults."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I don't understand. You make it sound like no choices can possibly be the right one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"How do you know who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"My caul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"All choices sting," she says, flinging her dishwater-gray palms in the air. "And the sweetest ones often sting the most."
+
+She sighs. "Yer confused, but that'll change. You'll have yer feet under you soon enough. Not all of my children are as lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"That's no mystery, lad," she says, flapping her hands at you. "Have yer bead, don't I? Formed it from a pinch of the caul. I hear yer thoughts as clear as moonlight in a cup!"
+
+She sighs. "Yer confused, but that'll change. You'll have yer feet under you soon enough. Not all of my children are as lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Aye. You fell from the blue womb of the sky, and yer speed set the caul around you alight, scattering flaming bits across the city. I snatched one for myself. Still have it, in fact."
+
+She sighs. "Yer confused, but that'll change. You'll have yer feet under you soon enough. Not all of my children are as lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"This one," she says, showing you the bead she was speaking to before you arrived. It's carved in the shape of a malformed ring. 
+
+"Piquo wants to escape his past. He's saved a handful of shins by honest means - that is to say, it's taken him a long time - and he's too busy pissing over the options to spend it." 
+
+Her fingers fold over the bead. "Push him into choosing a path, lad. Do that, and I'll return yer caul to you, improved through my art, and stronger than when you lost it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I've solved his problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Are you talking to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>She blinks at the empty air, and her hands steal to a metallic, many-faceted bead near the end of the chain. 
+
+"I may as well be," she says, snorting. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Who are you speaking to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She blinks at the empty air, and her hands steal to a metallic, many-faceted bead near the end of the chain. 
+
+"No one you know," she says, scowling at you. "But should, mayhap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I disagree. Everyone should know their past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>She blinks at the empty air, and her hands steal to a metallic, many-faceted bead near the end of the chain. 
+
+"Know? Mayhap. But no one holds the past at a scholarch's length. Nay, they cradle it like a babe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Mother Temaz *knows* you, girl. Born falling, you were. Born in flame, shreds of yer smoldering caul streaming through the air. When you struck ground, yer bead first went cold, then hotter than a mother's hatred."
+
+She spits and shakes her head. "Scarcely born you are, and already tangled in the past. Seeking answers when you should be making yer own." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You think it's foolish to want answers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Nay, but only a fool seeks them from others. People are *glad* to tell you who you are, girl. Doesn't mean their answers are worth a pinch of piss." 
+
+She sighs. "Yer confused, but that'll change. You'll have yer feet under you soon enough. Not all of my children are as lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"How do you know who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"That's no mystery, girl," she says, flapping her hands at you. "Have yer bead, don't I? Formed it from a pinch of the caul. I hear yer thoughts as clear as moonlight in a cup!"
+
+She sighs. "Yer confused, but that'll change. You'll have yer feet under you soon enough. Not all of my children are as lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"My caul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Aye. You fell from the blue womb of the sky, and yer speed set the caul around you alight, scattering flaming bits across the city. I snatched one for myself. Still have it, in fact."
+
+She pauses, toying with the many-faceted bead, and sighs. "Yer confused, but that'll change. You'll have yer feet under you soon enough. Not all of my children are as lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"This one," she says, showing you the bead she was speaking to before you arrived. It's carved in the shape of two overlapping spheres. 
+
+"Something's eating her memories. Her thoughts. Even her name. She calls herself Loss-of-self, and she's going mad."
+
+Her fingers fold over the bead. "Set her back on her feet for me, girl. Do that, and I'll return yer caul to you, improved through my art, and stronger than when you lost it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I've solved her problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Mayhap you did," she says at last. "A strong lad can solve most of the problems that come his way. Until his strength fails him, that is."
+
+She shakes her head. "I know you did what you thought was right. But we know that life is more than one choice, don't we? And now he'll make the next one on his own. Mayhap." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, lad. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Mayhap you did," she says at last. "A charming smile can get a lad out of most problems. Until it can't, of course."
+
+She shakes her head. "I know you did what you thought was right. But we know that life is more than one choice, don't we? And now he'll make the next one on his own. Mayhap." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, lad. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Mayhap you did," she says at last. "Children should enjoy life. Death doesn't send an invitation. You never know you're at her party until she asks you to dance."
+
+She shakes her head. "Of course, when he's out of money a week from now, I wonder what he'll choose then? I suppose I'll have to see." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, lad. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Mayhap you did," she says at last. "An education will last him a lifetime. Or until his mind fails him, as it does some."
+
+She shakes her head. "I know you did what you thought was right. But I wonder if the lad will use what he learns to overthink his problems from higher up." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, lad. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Mayhap you did," she says at last. "The lad slaved to earn that money. Mayhap he and that girl will pool their shins and escape the Underbelly together. Or maybe they'll die there, hand in hand."
+
+She shakes her head. "I know you did what you thought was right. Clan can be a comfort, though they're often a tangle of their own. The lad scarcely needs more." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, lad. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Aye, you helped," she growls, as the bead speaks to her. "Helped yerself! I told you to nudge him to his feet, not take his legs from under him! Not to take his choices away!" She thrusts her hand into the saddlebag hanging at her hip. 
+
+"Take the caul and begone, boy. I'll speak with you no further." 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Aye, you helped," she growls, as the bead speaks to her. "Helped yerself! I told you to nudge him to his feet, not take his legs from under him! Not to take his choices away!" She thrusts her hand into the saddlebag hanging at her hip. 
+
+"Take the caul and begone, boy. I'll speak with you no further." 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Mayhap you did," she says at last. "I'd rather that she solved it on her own, mind. A force told her she was someone else. You helped her remember who she was, who her family was. She still had to trust the word of someone else over her own wit and will."
+
+She shakes her head. "I know you did what you thought was right. But you won't be there the next time she doubts her own thoughts." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, girl. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Mayhap you did," she says at last. "I'd rather that she solved it on her own, mind. A force told her she was someone else. You told her to listen to it. She still had to trust the word of someone else over her own wit and will."
+
+She shakes her head. "I know you did what you thought was right. But you won't be there the next time she doubts her own thoughts." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, girl. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"The bead's cold as frost!" she says, dropping it like a dead mouse. "She dashed herself against the rocks. And you told her to do it!" 
+
+She bares her yellowing teeth. "Oh, well *done*, girl. She'll surely find her way to wisdom now that her brain-bits are washing out to sea." She thrusts her hand into the saddlebag hanging at her hip. 
+
+"Take the caul and begone, girl. I'll look at you no further."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The bead's cold as frost!" she says, dropping it like a dead mouse. "She fell from the cliff. Broke on bloody rocks. And you pushed her!"
+
+She bares her yellowing teeth. "Oh, well *done*, girl. She'll surely find her way to wisdom now that her brain-bits are washing out to sea." She thrusts her hand into the saddlebag hanging at her hip. 
+
+"Take the caul and begone, murderess. I'll look at you no further." 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Aye, you did," she says at last. "Old voices shouted from the earth, telling her who she was. You silenced them, and she found her way back to herself."
+
+Still, she doesn't look happy. "I know you did what you thought was right," she says. "But you won't be there the next time she doubts her own thoughts. And there's plenty of that in life." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, girl. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Aye, you did," she says at last. "Old voices shouted from the earth, telling her who she was. You found the source of those voices, didn't you? Told the girl their plans for her."
+
+Mother Temaz smiles very slightly. "You gave her the knowledge she needs to decide who she is. She'll have to find wisdom on her own." She roots about in a saddlebag hanging at her hip.
+
+"Take the caul, girl. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Have you." Mother Temaz's eyes unfocus, and her hand rolls the overlapping, spherical beads between her fingertips. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Bank 143</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Where can I find him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Where can I find him again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Bank 147</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Where can I find Loss-of-self?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Where can I find Loss-of-self again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Have you." Mother Temaz's eyes unfocus, and her fingers trace the borders of the hollow bead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"What is it, my lad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Begone, boy! I'll talk to you no further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"What is it, girl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Leave me be, girl! I'll talk to you no further!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bank 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"You mentioned you had my 'caul'. That's not what it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Can I have a look at my 'caul'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I'm not a fool, boy," she says dryly. "But you were born above my city, so I know you, like or not."
+
+She reaches into the bag strapped to her hip. Something glitters within. "This is yer caul, torn from you at birth. Name it what you will, but know what it *be*."</DefaultText>
+      <FemaleText>"I'm not a fool, girl," she says dryly. "But you were born above my city, so I know you, like or not."
+
+She reaches into the bag strapped to her hip. Something glitters within. "This is yer caul, torn from you at birth. Name it what you will, but know what it *be*."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"When you finish the task I asked of you. Not before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I have questions about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Stay safe, girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Go on, then," she says, sighing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"She's..." Mother Temaz trails off, closing her hand around her beads, staring into space. "In Cliff's Edge. Look around. You'll find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"In Cliff's Edge. You'll find her if you look for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"You haven't been listening, girl," she says with a sigh. "Don't help her. Convince her to help herself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"How can I help Loss-of-self?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Aye? What of her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"What of her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Well," Mother Temaz says, her lip twisting. "I'm sure you did yer best. Here's the caul, as promised."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"You haven't been listening, lad. Don't help him. Convince him to help himself!"
+
+Mother Temaz shakes her head. "Agonizing over a choice is foolishness. Every choice will bite you, lad. Life is building a collection of mistakes all yer own." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"How should I help Piquo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I have questions about something else."</DefaultText>
+      <FemaleText>"I have questions about something else."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Go on, then," she says, sighing. </DefaultText>
+      <FemaleText>"Go on, then," she says, sighing. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Stay safe, lad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText> Follow-up T. 180</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"He's..." Mother Temaz trails off, closing her hand around her beads, staring into space. "In Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"In Cliff's Edge. Nearby, I'd say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Well," Mother Temaz says, her lip twisting. "I'm sure you did yer best. Here's the caul, as promised."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Come now, lass. The boy's learned a valuable lesson today, more than worth that handful of shins he lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Don't think I don't know *yer* part in this, grease-tongue. Away with the both of you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Stay safe, my lad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Stay safe, girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Stay safe, my lad."</DefaultText>
+      <FemaleText>"Stay safe, girl."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Go on," she says, sighing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Stay safe, my lad."</DefaultText>
+      <FemaleText>"Stay safe, girl."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"If I knew it, I'd hardly be troubling *you*, girl,"  she says. "If you'd knelt between half as many sets of knees as I have, you'd have trouble remembering yer own name, let alone who the girl's mother was."
+
+Mother Temaz quirks a bushy eyebrow. "Besides. You have a pinch of experience in clutching at faded memories, don't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Why can't you help her deal with her problems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I want to ask about someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Be specific," she says. "There's many I know, and few I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Bank 204</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Why doesn't he like the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Can you tell me anything else about Lord Vuntgen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Bank 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Couldn't say," she says with a sniff. "I'm not one for politics. Or politicals, for that matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Plumb his depths yerself. I'll have no part in yer curiosities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Mayhap you did," she says at last. "You tried, anyway. But he didn't find the girl as you left her, sad to say. It's not my place to meddle, but should you check on him in the Underbelly, I'd be grateful." She roots about in a saddlebag hanging at her hip. 
+
+"Take the caul, lad. You earned it."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Bank 211</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Finzin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Tell me about Finzin again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Bank 214</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"That boy makes a woman believe in gods with a soft spot for fools," she says, snorting. "His mother survived a difficult birth only to die from a scratch a few years later. His aunt raised him, if you can call it that."
+
+She shakes her head. "The boy spent years working toward an early death alongside the scum of the city. Now he's a citizen and living the straight and up." She spits. "Better than him are dead and forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"The boy would have sold his mother's last breath. Now he's a citizen. Living a *soft* life. Never mind the harm he's left in his wake." She scowls. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText> Follow-up T. 170</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Aye? What of him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"What of him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Script Node 221</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I'll do what I can to help her. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I'll talk to her if I find the time, but no promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Stay safe, girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Please yerself," she says, with a sour look at the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I'll do what I can to help him. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"I'll talk to him if I find the time, but no promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Please yerself," she says, with a sour look at the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"I have questions about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Go on, then," she says, sighing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Script Node 245</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Script Node 246</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Off with you. You've done enough here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Off with you. You've done enough here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>This woman glares at the air above her head, her fingers fretting with a single bead in a long, peculiar chain of them. She is grumbling to herself, a constant stream of irritated, unformed words.
+
+"There you are, girl," she says, winding the beads around her wrist with a few violent twists and rotting about in the bags hanging at her hips. "I was wondering when you'd find yer way to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Are you talking to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Yes, girl," she says, favoring you with a thin smile. Her hands steal to a metallic, many-faceted bead near the end of the chain. "Wanderer that you are. Breaking things before you know they do. A lucky one, you are, and all for the good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Who are you speaking to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"You, girl," she says, favoring you with a thin smile. Her hands steal to a metallic, many-faceted bead near the end of the chain. "Wanderer that you are. Breaking things before you know they do. A lucky one, you are, and all for the good."
+
+"No one you know," she says, scowling at you. "But should, mayhap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Yes, Mother Temaz *knows* you, girl. Born falling, you were. Born in flame, shreds of yer smoldering caul streaming through the air. When you struck ground, yer bead first went cold, then hotter than a mother's hatred."
+
+She chuckles wetly. "Scarcely born you are, and already yer solving my children's problems unasked. Thank you for saving me the effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"My caul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Aye. You fell from the blue womb of the sky, and yer speed set the caul around you alight, scattering flaming bits across the city. I snatched one for myself. Still have it, in fact, *somewhere*." She shakes her head, still digging through her bags. "I intended to give it to you as a reward for helping Loss-of-self, but then you solved her troubles all on yer own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>She finds what she's looking for in the saddlebag along her hip, and hands it over. 
+
+"There, take the caul. Improved through my art, and stronger than when you lost it."
+
+She gives you another brief smile and turns away. It seems she's done with you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"I don't understand what you're saying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Of course not," she says, still digging in her bags. "But I felt yer mind when it awoke. Thought that you could help the girl Loss-of-self. And before I saw you, you'd solved her troubles on yer own."
+
+She chuckles again, shaking her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

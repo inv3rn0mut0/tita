@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_the_sanctuary_of_miel_avest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Sanctuary of Miel Avest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak with Aadiriis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Let Aadiriis probe my mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Talk to Melmoth about the Tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Aadiriis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Resolve an argument between Andronus and Raima</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Aadiriis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Give Aadiriis my opinion on the Endless Battle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Aadiriis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ask Aadiriis to use the Merecaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Learned the truth from Mazzof</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I've found the castoff sanctuary of Miel Avest. Several castoffs are gathered here, hiding from the Sorrow. Mazzof is not among them, but maybe somebody knows where he is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I ran into Paj Rekken, commander of the First's forces in the Endless Battle (and former commander of Matkina). She said she hasn't seen Mazzof in years, but that someone named Aadiriis might know where to find him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Aadiriis says she has a Merecaster in which Mazzof appears. With my abilities to change reality, I could speak with him in the Mere, but she wishes to probe my mind first to determine the truth of this tale. To be honest, I'm curious what she will find as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Aadiriis is... hesitant to let me change someone else's past without understanding the castoff condition. She has asked me to seek out Melmoth Leviarm in Miel Avest and ask what he believes about the Tides and our birth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've talked to Melmoth about the Tides. His opinion is markedly different from Aadiriis's, which makes me wonder why she sent me to him. He says that the Tides are an inextricable part of who we are as castoffs, a power we should use to our benefit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Because I'm altering people's lives without their permission, Aadiriis would like to see how I do so when they are still in control of their lives. There are two castoffs in Miel Avest, Andronus Sandhand and Raima Cyro, whose argument is threatening to turn violent. Aadiriis would like me to resolve this dispute and protect the peace of this sanctuary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I've resolved the argument between Andronus and Raima. I need to return to Aadiriis to tell her the results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The Endless Battle is the central conflict of us castoffs. Aadiriis believes I should understand it and form an opinion on the subject. She suggested I might talk to others who know about it first, if I like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Answer Aadiriis's questions about the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I've answered all of Aadiriis's questions, and she will finally allow me to use the Merecaster and speak to Mazzof. She pointed out that changing the past means anything could change, so I should prepare myself and tell her when I'm ready. Hopefully this will all be over soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I found Mazzof in the Mere, but he said that the resonance chamber is the Changing God's means of *destroying* the castoffs, not saving them.
+
+He also said the First Castoff is still alive. I need to find her in order to stop the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The Chalcedon said the war is purely to defend against the attacks of the First's Militia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Elkeshai pointed out that killing is human nature - the only difference is we don't die as easily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Raima said the point is to demonstrate the rightness of their side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Andronus said the point is to stop the Changing God from ruining castoff lives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Melmoth said it's a waste of lives and knowledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Aadiriis believes the war is terrible, but that both sides believe they are protecting us.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Matkina believes the war just perpetuates itself at this point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>From Thalana's point of view, the war only serves to ruin the lives of those involved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Bericael believes the conflict makes us stronger, better.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Tybir said the fighting is pointless, but the conflict itself is highly profitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>I asked Lady Anshe, but she didn't have an opinion, said it's bad for business.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

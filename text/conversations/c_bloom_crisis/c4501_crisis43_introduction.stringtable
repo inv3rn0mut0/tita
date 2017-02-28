@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_crisis43_introduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[DEBUG] You found the third Merecaster! Do you want to try it out?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Yes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[No]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Okay. Well, if you change your mind just walk out of this trigger and then back in.
+
+Um, your companions might trigger this dialogue again after it closes. Sorry about that. It won't happen in the real game, I promise.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Congratulations! You have entered the Endless Battle Mere. In there, you'll learn that:
+
+1) The First Castoff is still alive!
+2) She's hiding somewhere in the Oasis of M'ra Jolios.
+3) *She's* the one who has pointed the Sorrow to the Merecasters that the Sorrow has destroyed.
+4) She's also the one who arranged for the Sorrow to attack Miel Avest.
+
+You're going to have to find a way to the Oasis so you can deal with her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[You've got a bigger problem now, though. As soon as you exit the Endless Battle Mere, the Merecaster explodes, you and your companions are knocked back into the tower, and Sorrow flames come shooting out everywhere!
+
+You're in for it now, cowboy... or whatever the Numenera equivalent of a cowboy is.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Trigger Conv Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_rubble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The salty air only partially mutes the cloud of putrid sweetness clinging to this jumble of fallen wood, stone, and iron. 
+
+Until recently, this was someone's home, but the unstable ground must have caused it to collapse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The stink of rotting meat still hovers above this pile of fallen rubble. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Search the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You shift aside broken pieces of furniture and small pieces of rubble, but you find nothing of value. After a short while, you realize what has happened - someone has already picked through the ruins and taken the more accessible valuables. 
+
+You stand back, concentrating. Nothing about the pile of stone is familiar... but the view from where the door once stood - a boundless horizon falling into the sea - is. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Study the horizon. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Study the horizon again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fingers of wind rake at your face. You squint into the sunlight, trying to remember. You've stood here before - you know you have. Letting your thoughts untangle-
+
+The skyline tilts, and you stagger as the memory engulfs you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Wisps of memory tickle your mind as you stare over the edge of the cliff... but nothing solidifies. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>A gust of salty air bears the memory away in ribbons, leaving your mind aching and dry, atop the ruins of the house.
+
+There is little doubt now. The Changing God - and the castoff killed by the Sorrow - once lived here. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Dig through the pile to find the source of the stench.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Keep digging into the ruins to find the source of the stench.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The smell intensifies as you heave aside a slab of ceiling. A swarm of startled insects spins away into the sky, revealing...
+
+The body of a young woman, torn and crushed. An invisible hand rips the air from your chest and the strength from your legs. You fall, feeling a presence close around you. A heat on your back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You manage to move a few stones before you need to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>And just like that, the heat is gone. 
+
+You whirl around. No one is there. But you sense something has changed in the Labyrinth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The corpse of the young woman lies undisturbed among the ruins of the house that became her cairn. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""
+{GAVIN: Dendra O'Hur faction option to eat part of the corpse.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Search the rubble for clues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You rummage through the dusty piles of stone and wood, looking for anything interesting, but no - these ruins appear to have been picked clean. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Search the rubble for anything else of interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You find nothing. The previous looters did their job well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>At long last, you discover something worth taking beneath a sunken wedge of broken stone.
+
+{LOOT: This would be an item that once belonged to the castoff or his adopted daughter.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You find nothing. This place has been well and truly looted. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You grip the edge of the crude bannister, grimacing at the sea. The calm of the scene no longer touches you as it once did. Nor, you realize, does this *body*. 
+
+You smile at your own impatience - your restlessness must rival the ocean itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Who's there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Shut her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Get your breath back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You push the blood-matted hair out of her face with trembling fingertips and close her eyes. The heat builds against your back like a bonfire. 
+
+Suddenly, a cool hand covers your burning eyes. A smooth arm folds over your stomach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You take slow, steady breaths, feeling the heat rising up your back like a hungry bonfire. 
+
+Suddenly, a cool hand covers your burning eyes. A smooth arm folds over your stomach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Your words are a whisper. You can barely breathe now, and the heat fills you like a fever. 
+
+Suddenly, a cool hand covers your burning eyes. A smooth arm folds over your stomach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You remove a bit more of the rubble, but nothing consequential. Indeed, it looks like you've made no progress at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>A gust of salty air bears the memory away in ribbons, leaving your mind aching and dry, atop the ruins of the house. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>This appears to be the house where the castoff once lived, but either he left no clues of his identity or... they were taken by the scavengers.
+
+It might be helpful to ask around the area, and see if anyone spotted someone looting this house. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>It's a useful thing, but not exactly what you were looking for. 
+
+This appears to be the house where the castoff once lived, but either he left no clues of his identity or... they were taken by the scavengers. 
+
+It might be helpful to ask around the area, and see if anyone spotted someone looting this house. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>This fallen pile of wood and stone marks the place where a house once stood. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

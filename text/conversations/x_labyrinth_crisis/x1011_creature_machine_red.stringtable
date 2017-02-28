@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_red</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Difficult Task to unlock creature]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Try DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Failure. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Try DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Try DT again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[DT not done revisit]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[DT done. Go away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A hideous, fleshy *ripping* comes from behind the hatch set into the front of this machine. The sound thrums through the cables to the nearby tank where a jumble of cloudy crystal spines - the creature in the tank - claws frantically at the unyielding walls. 
+
+Forcing the Sorrow fragment from this machine should put a stop to the incessant, nauseating clamor that's hurting the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText> Follow-up PQ. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Breathing steadily, you bend each of the cables as the sickening sound streaming through them fills your veins and claws at your temples. 
+
+Slowly, the sound grows quieterThen, at last, the noise chokes to a halt, and flows back into the machine. The frantic creature in the tank immediately melts into a calm, silvery pool of liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The greasy, thunderous sound pours up your arms and echoes through your aching head as you try - and fail - to bend the cables. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You gather the cables into your fists and clench them shut, closing your mind to the sickening sound coming from the machine. The noise chokes to a halt, then flows back into the machine where the fragment is hiding. 
+
+The frantic creature in the tank immediately melts into a calm, silvery pool of liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You touch the cables, and a grotesque *RIIIP* sends slivers of agony into your bones and up your spine. Gasping, you stagger back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Twist the cables so the sound can't reach the creature in the tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Twist the cables running to the tank again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText> Follow-up PQ. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You press at the edges of the dish's somewhat-malleable metal, trying to corral the crossing beams of light. Before long, the collection plate resembles a metal flower, a cage for light, in which the beams are fully trapped and focused on the dish's center. 
+
+The orb in the tank gradually melts into a calm, silvery pool of liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You bend and flex the dish with aching arms, trying to refocus the beams towards the center. Eventually, you are forced to admit you're not making the situation any better for the creature inside the tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Raking an improvisatorial eye over the crossing patterns of beams, you grip the edge of the dish, and make several minute adjustments to the somewhat-malleable metal with your thumbs. The scattered bars of light the new angles you've made, and bounce directly into the center of the dish.  
+
+The orb in the tank immediately melts into a calm, silvery pool of liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You reach for the dish just as an unlucky beam streaks over your eyes, momentarily filling your vision with strobing dots. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bend the collection dish to focus the beams. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try bending the collection dish to focus the beams again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>After a few minutes of careful probing, you find a vibrating screw - carved to resemble a spiraling tower, complete with windows and crenellations - has come loose, and has been scraping against the surface it's supposed to be connected to. 
+
+Holding several mechanisms in place, you tighten the screw, and - luckily - step back. A beam shoots from the *top* of the machine into the center of the tank's collection dish. The orb inside melts into a calm, silvery pool of liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You trace your fingers over every screw, bolt and spring you can find. Everything *seems* to be as tight as it can go, but the machine still isn't working.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Deep within the smoky guts of the machine, you find a vibrating screw - carved to resemble a spiraling tower, complete with windows and crenellations - has come loose, and has been scraping against the interior of the machine. 
+
+Holding several mechanisms in place, you tighten the screw, and - luckily - step back. A beam shoots from the *top* of the machine into the center of the tank's collection dish. The orb inside melts into a calm, silvery pool of liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You blindly shove your hands inside the machine, searching for loose pieces, and something - hopefully not alive - bites into your fingertip. You hiss, and yank your hand out of that treacherous darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Tighten any loose pieces in the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Look for loose pieces in the machine again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The crystalline creature scrabbles at its soundless prison as the ghastly tearing sound floods through the cables leading from this machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The Sorrow fragment has been driven from this machine. The creature in the tank should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Humming cables stretch between this machine and the nearby tank, sending smooth ripples through the silvery liquid within the tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Now that the Sorrow fragment has left this machine, a low, pleasant hum vibrates through these tubes leading to the nearby tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The malevolent hunter skids to the ground, carving a trail of sparks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Look for a way to open the machine and lure the Sorrow fragment out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Try to open the machine again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>There is a small notch on one side of the hatch. It's difficult, but after much strain the hatch finally flies open, revealing an ember-veined tunnel far longer than the machine could hold. The Sorrow fragment is at the far end, taking steaming bites from the walls.
+
+Suddenly, it *leaps*, flying up the tunnel and out with impossible speed.
+
+The creature in the tank melts into a calm, silvery pool of liquid the moment the fragment flees. The creature should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The hatch trembles at the first touch, but there doesn't seem to be a way to open it. Just behind the synth panel, you hear grinding and screeching. The inky creature corrupting the machine surges out, releasing the lock. As it screams by, its wormy appendages squeeze at your nervous system.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Tugging at a notch on the side of the hatch opens it immediately. Inside is a horizontal, ember-veined tunnel far longer than the machine could hold. The Sorrow fragment is at the far end, taking great, steaming bites from the walls.
+
+Seeing the hatch open, it *leaps*, flying up the tunnel and out with impossible speed.
+
+The creature in the tank melts into a calm, silvery pool of liquid the moment the fragment hurtles over your head. The creature should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>At the first touch, the Sorrow fragment within slams against the inside of the hatch, making it impossible to discover how to open it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Cascade 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Before the hatch closes, a curved metal rod resting several armlengths into the tunnel pops out onto the ground. The machine doesn't appear to need it anymore. It was some sort of data tunneler, which isn't very helpful here, but it could make for a handy single-use teleporter by crossing two exposed wires at one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Before the hatch closes, a gleaming stronglass dome pops up from a socket just below the hinge. Grabbing it as it falls, you see brilliant energies swirl in its core. It might make a useful weapon against the Sorrow fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Script Node 56</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_shinwise</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The man is short and dark, and his face is scarred and disfigured. One of his injuries is freshly branded on his cheek - a stylized blade with blood dripping from it. He wears the ragged clothes of a Bloom-slave, tattered and filthy. 
+
+He tries desperately to push past you. "Let me out of here, I beg you. This is no fit place for a human!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Before I let you out, I need you to answer some questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Step aside to let him go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You're a killer. You deserve to die." Push him back into the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You want me to let you out? Then you need to swear a debt to me."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He glances back over his shoulder, his nervousness apparent in every twitch, and you can see him evaluating the possibility of just bowling through you. His mental calculus complete, he inches closer but shows no sign of trying to bolt. 
+
+"All right... but please, make them quick. I don't want to be eaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You know that auctioneer outside the Memovira's fortress? The one with too many teeth? He sold me to a merchant, supposedly to open a Maw. Then the merchant sold me to the murdens. That's not even *legal* - nobody's allowed to sell slaves to the murdens." 
+
+He swallows and glances over his shoulder again. "The murdens threw me in this cell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Without a word of thanks, he bolts past you and down the hall, vanishing around the corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Swear a debt? A *debt*? How... old-fashioned. But I will. I vow that I'll owe you a service if you release me from this prison. Now, please... please!" As you step aside, he bolts down the hall, fleeing toward his freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He looks at you, open his mouth as if to swear, and suddenly takes off running down the hall. He's out of your reach before you can react, and then... he's gone.
+
+{COLIN/GEORGE: I don't understand this one. If Shinwise can just escape, why is he talking to the player at all? - Adam}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The little man struggles desperately, his fear lending him strength, but at last you manage to wrestle him back into the room, and you slam the door in his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"By the Black Three... what's *that*?" His frantic drumming on the door is more insistent. "You can't leave me in here! Don't let them- *Oh gods no*!"
+
+A screeching, hissing noise drowns out his words.The sound is organic but strangely alien, and it sends involuntary shivers through your heart. 
+
+Then the screams begin, rising in pitch and pain. The wet slapping that accompanies each howl is even more disturbing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Suddenly the noise ends, as if cut off altogether. You crack the door, and you see nothing but bloody chunks of flesh and viscera... the remains of the hapless slave.
+
+And on the far wall - a new Maw, one that wasn't there before. It gapes wide open, with a glowing singularity inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What's that symbol on your cheek?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I'm... I'm Shinwise. I got caught by the levies when I nicked some sleepwine for my old mother. She's dying, and I couldn't afford a chiurgeon, and I'd never done it before. Thought I'd take a chance on Bloom-slavery to pay my debts and get back home. I never dreamed I'd wind up here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I recognize the brand on your cheek. The justiciars of Sagus Cliffs use it for murderers."
+
+{COLIN/GEORGE: Consider making this a global flag check for the player having seen the mark in Zone A.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Just a tattoo, shine? Doesn't mean a thing." His eyes dart left and right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He darts his eyes, sizing you up, and then he deflates. "It's true, I did kill some burglars. But it was them or me, honest. They only put me here because one of the victims had connections."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I have no more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Does this mean you'll let me go? Please. *Please*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You try to lay your hands on him, but he's faster and stronger than you expected. He slips past you and bolts down the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tell me what's in the room. Why does it frighten you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He looks at you with incredulity. "The floor is covered with blood, the bones are snapped in half, and the smell of death is everywhere." He breaks off and looks behind him, apparently distraught. 
+
+"I don't *know* what's in here, but I've seen things... tentacled things... moving around the edges of the room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"That's the mark of a murderer," Matkina says at once. "Even if a killer survives Bloom-slavery, people will always know who they're dealing with. They use a special brand that shines through makeup and disguises." She chuckles at some secret joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"That?" Tybir peers more closely. "That's the symbol they use to brand murderers in the city. You'll notice that *I* don't have one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He tries to get past you, but you manage to twist him up with his own limbs, and by the time he figures out that you've turned him around, you have already closed the door behind him.
+
+"You bastard! You utter filth! I'll end you! I'll tear apart your -" He breaks off suddenly, and begins to bang at the door. "Help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He's small, wiry, and his utter fear of whatever's in the cell lends him a desperate strength. He fends off your attacks, bites your hands, and bolts past you, vanishing down the hall.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"My name's Shinwise. I killed a couple thugs down in the Underbelly. That's why I'm a Bloom-slave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Yes, yes! Anything! I'll owe you a reward *and* a service if you release me from this prison. How about that? Now, please... please!" As you step aside, he bolts down the hall, fleeing toward his freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>He looks at his feet, opening his mouth as if to swear. Then suddenly he lashes out with a sharp piece of stone. You jump back in pain, and then he's out of your reach and gone.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Script Node 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He beats furiously on the door, and his voice changes dramatically from the polite and nervous tone from before.
+
+"You poxy-eyed bastard! I'll slaughter you! I'll drink the blood of your mother! I'll ravage your father's corpse! I'll - " He cuts off abruptly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Someone put you in there for a reason." Push him back into the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I saw them cast another slave into this room before me. I heard her screaming. So much blood." He looks imploringly past you. "Please... let me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The little man's eyes dart left and right. He licks his lips. "It's true, I killed a couple thugs in the Underbelly. But it was them or me, honest. Fulsome turned me over to the levies because the ones I killed worked for him. Otherwise he wouldn't have cared."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

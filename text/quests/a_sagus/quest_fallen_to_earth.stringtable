@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_fallen_to_earth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fallen To Earth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find a way to repair the resonance chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fix the Clock in Circus Minor and investigate the figures that are trapped inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find a way to escape the Fathom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Casmeen and Mimeon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Satisfied Casmeen and Mimeon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wow, an end node advanced to another end node!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I miraculously survived a fall from many kilometers above the Earth's surface, only to find myself in another unexpected situation. My only hope of stopping the Sorrow - the creature that hunts me - is to climb inside the crystal resonance chamber and activate the device. Unfortunately, the resonance chamber was badly damaged by my fall, so it'll need to be fixed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The two people who found me have conflicting opinions about where I should go for help. Aligern suggested that I speak with the cultists of the Changing God, while Callistege directed me to the Order of Truth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Casmeen and Mimeon, the local leaders of the Changing God cult, may know something about the resonance chamber. In exchange for their knowledge, they have asked me to discover the identity of mysterious figures trapped inside the Clock, a device crafted long ago by the Changing God.
+
+Complicating matters, the Clock appears to be unmoored in time, so I won't be able to investigate the figures until I've realigned it with the present time. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The figures in the Clock surged into my mind and unlocked (or perhaps created) a new Fathom. I'm now trapped in the Fathom with them. If I speak to them, perhaps I can find a way out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The figures in the Clock were actually Reflections of three castoffs - Kamose, Diviaticu, and Villon. I should return to Casmeen and Mimeon at their encampment in Circus Minor and tell them what I've learned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>According to Casmeen and Mimeon, the Changing God built the resonance chamber with the help of another castoff. They don't know this castoff's name, but they suspect that my other castoff 'siblings' do. One of them is currently in the city - an albino assassin named Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've learned that the cultists of the Changing God are encamped around a great clock in Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I've learned that the Order of Truth is located in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I showed a fragment of crystal from the resonance chamber to the Master Foreman, an ancient builder construct. It says that the chamber's crystals are alive, so they can't be fixed by conventional means. Someone in the Order of Truth might know more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I've realigned the Clock with the present time. Now I can interact with the main clock face and investigate the trapped figures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>My efforts to "fix" the Clock didn't go quite as planned. Circus Minor is now enclosed in a weird time bubble in which it is always night.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>When I tried to interact with the Clock, Tidal forces erupted from my body and brought several nearby devices to life. They might provide a means to repair the Clock. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Salimeri, an old friend of the Changing God, told me that another castoff helped my sire to build the resonance chamber. She suggested that I ask the Cult of the Changing God about him.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

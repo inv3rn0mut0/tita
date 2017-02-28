@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_mielavest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Maralel returned to the ruins of Miel Avest. Should she rebuild? Can she not, after all that has been accomplished here?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Last Castoff returned to the ruins of Miel Avest, hoping to rebuild some of what he had lost - or maybe to find something he didn't *know* he had.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A few castoffs return to the rubble of Miel Avest. It will take them years to rebuild, but they do so anyway. It is their city, their home. Even if the shields were inoperable or unnecessary, it is still a sanctuary for them.
+
+And a memorial to their beloved Aadiriis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The ruins of Miel Avest lie broken, untouched. It is more than a century before a group of explorers stumble upon them, wondering what happened in this place. What in the Ninth World could have caused so much destruction?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

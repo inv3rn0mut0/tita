@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3111_memorialist_corpse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The corpse remains as it was, broken and indistinguishable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Go through the corpse's pockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Close the corpse's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eat the corpse to gain its knowledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You find nothing but a lovingly-folded scrap of paper with the number 4135 and the name "Najma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>With two careful fingers, you pull his eyelids closed and shut his horrified mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Thank you." Her gaze lingers on the corpse, but the gratitude in her voice was heartfelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You bite into what little flesh remains in the crook of one arm. As the blood breaks over your tongue and courses down your throat, the rubbery ligaments and tendons tearing satisfyingly between your teeth, you wade through the life-that-was. Scouring thousands of hours for the information you seek leads you to the memory of a single phrase: "The name of the ceturl prince."
+
+{COLIN: I don't know if this is how Dendra O'Hur segments are usually written.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hey!" Motley strides over, his robe flapping around his ankles. "Get away from there!" He takes in your bloodied mouth with disgust.
+
+"That flesh belongs to Lord Inifere," he hisses, piggish eyes bulging. "Dendra usurper! I will take him your corpse as restitution!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Talira watches you with disgust and horror. Eventually she turns away and retches onto the bloodstained floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Not if I take him yours instead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You question Lord Inifere's will? How do you think he'll respond when I tell him of your blasphemy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lord Inifere won't miss what small portion I took, but it will help me to open that lock so we can reach him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Kiyatawa told me this would be the fastest way to Lord Inifere's side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The color drains from Motley's face. "I would *never* question Lord Inifere!" He raises his hands in a placating gesture. "You do whatever you must to ensure his return. I'll make sure the rest of us stay out of the way." He hurries back to the pedestal, snapping his fingers at the other cultists.
+
+"You two! Make sure no one disturbs our friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"About as well as he'd respond to yours," Motley counters. His face flushes with sudden fury. "You're not one of us! You're one of *them*!" He turns to yell at his companions.
+
+"We have to protect Lord Inifere!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Motley is stunned into silence by your rebuke. Then he blinks and the cunning is back in his face.
+
+"Very well," he declares magnanimously. "Just be quick about it." He returns to the pedestal at a more measured pace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Fine words," he sneers, "from a liar's tongue. We'll take you to Lord Inifere ourselves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The corpse lies as you left it, in a semblance of restful sleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You foolish child!" Motley snarls. "You'll ruin everything!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Take him out!"
+
+{TUSSLE: Klin'Kar and goons may be here if Klinkar_resolution=2, otherwise not. PCKilledCultists var needs to be set if killed cultists in combat.}</DefaultText>
+      <FemaleText>"Take her out!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Let's just talk about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Kiyatawa said that?" His lip curls in a sneer, but his voice has lost some of its bite. "That Dendra child is the last one I would be taking orders from." He considers you for a moment, bloody mouth and all.
+ 
+"Once we regain access to the Gate we will take this matter before Lord Inifere. Until then, watch yourself." He returns to the pedestal at a pace that makes it clear he, and no one else, is in charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"There's nothing to talk about." His voice deepens into a snarl.  "If you're one of them, you're not one of us." He turns to yell at his companions.
+
+"We have to protect Lord Inifere!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I told you, Kiyatawa sent me. She said this would be the fastest way to Lord Inifere's side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I know, but..." His voice takes on a whining, wheedling quality. "Why *her*? Among us, surely she is the least faithful." He realizes his error the moment it leaves his mouth.
+
+"Of course, I'm not questioning you or Lord Inifere." He makes soothing motions with his hands. "Just a moment of weakness. It won't happen again." He walks slowly back toward the pedestal, back stiff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You have your methods, I have mine. What do they matter, if the end result is the same?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He considers you for a moment, bloody lips and all.
+
+"Well put," he eventually says. His lip curls in distaste. "Just be quick about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'm simply preserving its knowledge. There's no reason only one person should benefit from this death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Spoken like a true Dendra!" Motley snarls. "I should have known!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Are you your own person, or merely Lord Inifere's lap dog, barking at things you don't understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"There's nothing to understand," he snarls. "You're Dendra, and that means you die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Go through the corpse's pockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Look through the corpse's pockets again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>This corpse is curled pitifully on its side, as if anticipating another kick to the ribs. Their eyes are opened in horror at whatever happened to them.
+
+Whoever this person was in life, they are unrecognizable now. The combination of starvation, beatings, and torture has rendered all but their eyes unreadable. There's an indentation on the middle finger of their right hand that might once have borne a ring, but that too is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

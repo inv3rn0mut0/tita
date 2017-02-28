@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_silver_orphans</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Two silver humanoids stand near a small vehicle of indeterminate origin. Their skin has a reflective, metallic sheen that makes them appear both a part of and separate from the scenery around them. As you approach, both of them turn to face you. They have no mouths, and their eyes are a fathomless black, reflecting nothing.
+
+A name for these creatures rises from memory - silver orphans. It may not be the name by which they know themselves, but it's the name used by the Order of Truth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Wordlessly, the silver orphans repeat their previous roles - the one on the right makes a complicated series of gestures, then the one on the left kneels to draw a similar sequence in the dirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Seeing your confusion, the one on the left kneels, using a foreshortened finger to trace lines and circles in the dust at your feet. Ripples radiate from a point, first a square, then a human eye, then an unrecognizable mass of interconnected dots. The silver orphan looks up at you, awaiting your reply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Try to interpret the drawing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Copy the drawing in an attempt to communicate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Try to mimic the gestures of the one on the right.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I don't understand you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You stare at the drawing, following the lines and shapes with your eyes. There, a wave... of words? And there, the human eye, still recognizable amid the dots and lines that surround it. Behind the eye, the square, and something familiar, like a tool you once held in your hands...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>No matter your efforts, the meaning of the drawing eludes you. The silver orphans seem neither discouraged nor cheered by your failure, though they continue to watch you even after you've given up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You trace the drawing, starting with the same series of symbols that the one on the left drew. It watches your hands more than your face, head scanning your facsimile as it appears in the dirt. At a critical moment, it reaches over and corrects a line you had drawn, and the image as a whole takes on a meaning far deeper than you had imagined.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try as you might, your efforts to recreate the image come to nothing. The orphan on the left watches you for a while, then stands up and stares at its partner. They both look down at you, then away. You have the unwelcome feeling that you've been dismissed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>From memory, you recreate the pattern of gestures made by the orphan on the right. It watches you with growing intensity,  catching your hands a couple of times to repeat its own motion, only allowing you to continue once you've replicated the movement perfectly. When you reach the end of the sequence, the shape and the feeling of your gestures washes over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You attempt to copy the gestures from memory, but even you can tell that the motions don't match up. The orphan on the right looks as if it might intervene at several points, but eventually it begins watching your face instead of your hands, rendering your frantic signing moot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The two orphans watch you approach, unmoving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tell the orphans about the Foremen in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Tell the orphans about Sylph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Tell the orphans about the god of the caravanserai.
+
+{SCRIPT: Conditional - PC has learned the true nature of the god that protects the abandoned airship.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Tell the orphans about Ziobe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The silver orphans silently watch you leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The silver orphans regard you without the slightest hint of curiosity or comprehension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Like the resolution of meaningless noise into the refrain of a beloved song, you suddenly *know* what it is the silver orphans seek - machine intelligences, however or wherever they may be concealed.
+
+The orphans watch impassively as you reach this realization. Then the one on the right holds out a hand in a request for information.
+
+{JOURNAL: A note should be added to the journal here that the silver orphans are seeking machine intelligences and will reward the player for news of each one they find and report.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Another time, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You sign directions to the Underbelly, then follow up with the sequence you originally learned from the orphan on the right. They watch your hands intently throughout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You sketch an approximation of the city's manufactory, including rough depictions of the Foremen, careful to indicate how they tower over the human workers. Then you draw a line connecting them to the orphan's symbol for machine intelligences. The silver orphans watch you intently until your drawing is complete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You mimic a physical description of Sylph, then follow it with the same motions you remember from the orphan on the right. It might be your imagination, but the orphans seem pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You draw a crude approximation of Sylph next to the orphan's image, still visible in the dust. It might be your imagination, but when you've finished the drawing the orphans seem pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You sign, with some difficulty, the concept of a 'machine' made of energy and air. It takes some time, but eventually the orphan on the right reaches out and stops you. Quickly you sign the same sequence you learned earlier and receive a quick hand flutter that you take as acknowledgement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You draw, with some difficulty, the god of the caravanserai, next to the concept of machine intelligences. It takes some time, but eventually the orphan on the left draws a quick squiggle in the dirt that you take as acknowledgement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You sign drinking and five eyes, then include a physical approximation of Ziobe. You conclude with the same sequence you learned originally but you're not certain for a moment whether or not they've understood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You draw the sign of the Fifth Eye and a crude approximation of Ziobe. Then you draw a line linking it with the orphan's original drawing of machine intelligences. You're not certain for a moment whether or not they've understood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>They turn to stare at each other. Then the one on the right reaches inside itself, its silver hand merging seamlessly with the glistening metal of its torso. An instant later, its hand is whole again and holding an object of peculiar construction. It drops the item into your hand. Payment, you assume.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The orphan on the right reaches inside itself again, drawing out another object that it drops into your waiting hands.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Reward node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Reward node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Try to interpret the drawing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Try to interpret the drawing again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Copy the drawing in an attempt to communicate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Try again to copy the drawing in an attempt to communicate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Try to mimic the gestures of the creature on the right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Try again to mimic the gestures of the creature on the right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The silver orphans turn to stare at each other for several moments, then the one on the right gestures at you in a complicated pattern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The silver orphans watch you silently as you examine their drawing, but it's no use. You still have no idea what it means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The two creatures barely pay attention as you scribble lines and symbols in the dirt. Once again, you produce nothing that resembles their drawing.
+
+ Workers and sailors cast odd looks at you as they pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You try to imitate the precise gestures of the little creature, but it's clear that you're missing some, and the others aren't flowing together as they should. Finally you abandon your attempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Try to mimic the gestures of the one on the right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>When it becomes apparent what you're trying to do, the orphan on the right catches your hands and holds them still, while the one on the left points at the drawing it made earlier. You have the distinct impression that they're either impatient with the thought of attempting to teach their hand signals to you, or you managed to say something incredibly insulting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Tell the orphans about the Peerless drones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You draw an approximation of the Reef of Fallen Worlds, indicating the location where you met the Peerless drones with an X and copying the orphan's original drawing next to it.
+
+The one on the left crouches and adds a few quick strokes that you take to be a query for further information.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Long moments pass before they look back at you in unison, then they each reach inside themselves, withdrawing parts of an unidentifiable device. They fit the parts together, handing you a complete but curious numenera the likes of which you've never seen. You have the feeling they're very pleased to have this particular intelligence reported to them.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Although you can't understand their gestures, you *can* hear their thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Do you mean machine intelligences?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Can you speak?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Why do you seek the minds of machines?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>They stare at you impassively, as though they can't hear you at all. The one on the left kneels, using a foreshortened finger to trace lines and circles in the dust at your feet. Ripples radiate from a point, first a square, then a human eye, then an unrecognizable mass of interconnected dots. The silver orphan looks up at you, awaiting your reply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Wordlessly, the silver orphans watch you approach. Again, the one on the right makes a complicated series of gestures.
+
+Astonishingly, although you do not understand their gestures, you *can* understand their thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>After some thought, you draw one of the drones you encountered, then some more beside it for good measure, linking them all together in an attempt to indicate their connection to one another. The orphan on the right likewise crouches and stops your hands before turning to face its twin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I haven't found any yet, sorry."
+
+{SCRIPT: Only available if the PC actually hasn't found any - will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'll let you know if I find any machine intelligences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Do they indeed?" Callistege murmurs. "And what will become of those intelligences if they happen to be delivered?" The silver orphans don't react to her words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Callistege places a languid hand on your arm.
+
+"Be sure to uncover their reasons, dear, but do remember that to share knowledge is to dilute its power." The silver orphans don't react to her words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'm looking for a purple-haired woman. Have you seen her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>They regard you silently with their wide, utterly black eyes, and do not respond. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>This time, the orphan on the left reaches inside itself, pulling out an object and dropping it into your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The orphans glance at each other for a long moment. Then they both reach inside themselves, and each pulls out an object. The orphan on the right takes both objects, fits them together, and hands the resulting device to you.
+
+{THOMAS: If this could conceivably be something that was fit together from multiple parts (as in the text), that would be ideal.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

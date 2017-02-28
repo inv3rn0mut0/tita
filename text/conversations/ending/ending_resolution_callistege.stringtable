@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_resolution_callistege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Callistege eventually removed the Attractor, giving up her multiple realities for a single concrete one. The lessons taught to her by the Last Castoff gave her hope for this life over any others, and through perseverance and the memories of the time they shared, she was able to appreciate the life she had, and die, at an old age, happy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Callistege eventually removed the Attractor, giving up her multiple realities for a single concrete one. Though she thought often of the Last Castoff, the lessons she learned during their travels together brought her no comfort. Eventually, she disappeared into the deserts beyond Sagus, never to be seen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Callistege found in the datasphere a new world of knowledge and delight. She was finally free of the tyrannical grasp of her sisters, beyond any machinations they might have on her physical body. They may try to reach her here, but she is prepared for them, armed by the defenses of the Last Castoff's mind, his final gift of self-determination.
+
+</DefaultText>
+      <FemaleText>Callistege found in the datasphere a new world of knowledge and delight. She was finally free of the tyrannical grasp of her sisters, beyond any machinations they might have on her physical body. They may try to reach her here, but she is prepared for them, armed by the defenses of the Last Castoff's mind, her final gift of self-determination.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>What became of Callistege, no one knows. Occasionally, whispers of her voice appear within the datasphere, sneaking out of numenera across the world as fragmented, half-heard sentences. Of her intelligence, her personality, there is no sign. Even should the Ninth World long for her, there is no one left who remembers her name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>What became of Callistege, no one knows. Some say she wandered into the deserts around Sagus. Others say she was found dead on the streets shortly after the most recent Bloom-quake. And others still say she wanders the known world, seeking something forever beyond reach and cursing the Last Castoff for abandoning her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Callistege became a scholar of renown, filling the grand library of Sagus and all of the libraries of the Ninth World with her treatises on multiple realities and possibility versus probability. She speaks as a woman who has lived many lifetimes more than her due, save for the life she led while with the Last Castoff. This subject remains hers and hers alone, hidden by a smile or a grimace, but forever, irrevocably, private.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Callistege stayed with the Last Castoff for many years, writing books and giving lectures during brief moments of civilization. Where they went, she would never say, nor where they were going next. Eventually, she vanished, though none are truly sure that she is gone. In her home town of Sagus Cliffs, a chair remains vacant for her in the grand library, waiting only that she should return to share her knowledge once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

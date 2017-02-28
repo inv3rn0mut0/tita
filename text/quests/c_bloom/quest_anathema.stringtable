@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_anathema</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Anathema</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Resolve the dispute between Inkpot and Ioxu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Talk to Inkpot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Talk to Ioxu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Cultists killed Ioxu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Convinced Ioxu to Stop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Drove the cultists away</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Cultists still around, but aren't after Ioxu any longer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Stop Ioxu's experiments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Drive the cultists away from Ioxu's home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Party killed Ioxu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Entered endgame without completing quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Entered endgame after dealing with Ioxu but before telling Inkpot (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Entered endgame after dealing with Inkpot but before telling Ioxu (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Caused Inkpot to appear in Bloom's Heart and killed him</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Caused Inkpot to appear in Bloom's Heart but didn't kill him</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The experiments of Ioxu, a varjellen researcher, have aroused the anger of some Bloom cultists. I've been asked to resolve the trouble between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Both Inkpot and Ioxu have asked me to deal with the other - Inkpot wants me to stop Ioxu's experiments, and Ioxu wants me to drive Inkpot and the cultists away. If I can't settle this one way or another, it will probably turn to violence between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ioxu's experiments have ceased. I should inform Inkpot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Inkpot is no longer a threat to Ioxu. I should tell Ioxu what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Inkpot and the other cultists couldn't tolerate Ioxu's experiments any longer, so they apparently murdered the researcher in his home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ioxu was loath to stop his experiments, but I convinced him that it was in his best interest to do so. I informed Inkpot, who was overjoyed. He rewarded me, and he also claimed that I have earned some favor with the Bloom... if such a thing is possible. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I managed to drive Inkpot and his cronies away. They shouldn't be bothering Ioxu again any time soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I convinced Inkpot that the Bloom is more than capable of handling Ioxu itself. He didn't dare suggest anything to the contrary and has agreed that he and his cultists will leave Ioxu alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Inkpot, the apparent leader of the Bloom cultists, claims that Ioxu's research is somehow hurting the Bloom. He asked me to stop Ioxu's measurements and investigations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ioxu says that the Bloom cultists are harassing him, and he wants me to make them go away. Apparently, they think that his work is offensive to the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ioxu's experiments have ended, along with his life. I reported his demise to Inkpot, who was overjoyed. He rewarded me, and he also claimed that I have earned some favor with the Bloom... if such a thing is possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I awakened in the Labyrinth when the Resonance Chamber was activated. I don't know when I'll be returning to the Bloom, so Ioxu and the cultists will need to resolve their differences themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ioxu has been dealt with but now that I've been trapped in the Labyrinth I don't know when I'll be able to inform Inkpot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Inkpot has been dealt with, but now that I've been trapped in the Labyrinth, I don't know when I'll get a chance to tell Ioxu the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Inkpot died in the depths of the Bloom. He and his friends won't be bothering Ioxu anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>The Bloom called Inkpot and his friends to its Heart. I doubt Ioxu will be seeing them again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Inkpot, the apparent leader of the Bloom cultists, claims that Ioxu's research is somehow hurting the Bloom. He asked me to convince Ioxu to end his measurements and investigations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ioxu says that the Bloom cultists are harassing him, and he wants me to make them go away.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

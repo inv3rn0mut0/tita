@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_crisis43_bloomflesh03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This patch of Bloom-flesh pulses in and out of phase. Each time it does so, you feel a force yank at your body and mind. The Bloom is preparing something *powerful* for the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>This patch of Bloom-flesh is shriveled and charred from the Sorrow's attack, but the presence of the Bloom is still palpable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>This patch of Bloom-flesh has grown to be more like the parts of the creature that lie outside. Power emanates from it, keeping the Sorrow's flames from overrunning the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The patch of Bloom-flesh creeps through the cracks in the wall like predatory lichen. The edges are blackened, as though someone tried to burn it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The voice of the Bloom is strong here. You can feel it hissing, chattering. The flesh quivers in agitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Place your hand on the flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>With your hand only two centimeters away, an invisible force *yanks* it forward. You watch in horror as it's wrapped in Bloom-flesh and a searing pain burns into your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You feel the Bloom's hate and frustration, its *hunger* to rid itself of this intruder.
+
+You feel its pain. From outside, it holds the tower in a vice, desperate to destroy the Sorrow, but something inside the tower keeps it from entering, causing intense agony whenever it tries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Commune with the Bloom, ask it for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>With the bond you have made with the Bloom, you are able to speak to it in a way. You can't be sure that it understands, but then something crawls out of the Bloom-flesh - a twisted, tentacled thing that looks like the walking maws you faced in the depths of the Bloom.
+
+{SCRIPT: Summon Corpuscular Maw}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Offer yourself to the Bloom-flesh to help it push back the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>And you feel *desire*. As though it *could* do something, but it requires the strength of those inside the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The Bloom lashes into your open mind, but it's not seeking power. It feels almost... impotent. It could swallow you whole - you and everyone living inside it - and it would still not be enough for it to stop the Sorrow once it had broken into the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Suddenly images crash into your mind. You see the Sorrow sucked into a powerful black void. The image reverses in time, and you see the void originates at the three patches of Bloom-flesh.
+
+You feel the Bloom's hunger again, its lust. It needs great power to accomplish this. Something must be sacrificed to all three patches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Help this patch of Bloom-flesh create the black void that will swallow the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You open your mind, but the Bloom does not ravage your thoughts like you expected. A soft buzzing fills your ears speaking, not in words, but in something you understand as, "Not yet."
+
+Then images rush through your mind so fast they give you a headache. The black void is destructive, even to the Bloom itself. The Bloom will not even start down this path until the Sorrow has broken into the tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The Bloom sucks at your will. It needs your agility to create the void, but your body fights involuntarily. You will have to master your fears to give the Bloom what it needs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Let go of your fears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Try to let go of your fears, to let the Bloom have its way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>It is so painful you black out for a moment. When you wake, you feel drained, but the Bloom has what it wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You try to overcome your fears, but the pain is too great. You pull back, severing the connection. The chittering in your mind feels almost like laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>It is painful, but not as painful as you expected. The Bloom drains what it needs.
+
+{SCRIPT: Conditional variable required: The player has NOT abused the Bloom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The air within the tower shudders then grows heavy, weighing down on your shoulders. Suddenly, you are blinded by a burst of light from somewhere near the Sorrow. Then everything goes black.
+
+{SCRIPT: Trigger singularity. End Crisis. Send PC to the Labyrinth, ready to wake in Sagus Interior with wounded companions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The patch of Bloom-flesh shimmers with power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The Bloom sucks at your will. This patch needs your agility to create the void, and you give it freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As before, a twisted, walking maw crawls out from the Bloom-flesh to aid you.
+
+{SCRIPT: Summon Corpuscular Maw}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>As before, the Bloom-flesh feels impotent. A simple offer of strength will not be enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>As before, the Bloom waits. It will not start down this path until the Sorrow has manifested fully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Again, the patch of Bloom-flesh sucks at your will. But this one desires your *agility* to create the void.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Pull back. Cut the connection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You rip yourself away both mentally and physically, falling back on your hands. Your breathing comes heavy, but the Bloom got nothing from you. The patch of Bloom-flesh looks the same as before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You try to rip yourself away, but the Bloom latches onto you both mentally and physically. It saps some of your strength, and a buzzing hammers at your mind like laughter.
+
+Finally it lets you go and you fall back on your hands. Your breathing comes heavy. The Bloom took something from you, but apparently only out of spite. The patch looks the same as before.
+
+{SCRIPT: Conditional required: Player has abused the Bloom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>But it doesn't want you. You feel a force push you away, and an image appear in your mind of the Last Castoff. Apparently the Bloom will only treat with him.
+
+{SCRIPT: Conditional required: Which party member is interacting with the Bloom? Then move this node up to the top of the list.}</DefaultText>
+      <FemaleText>But it doesn't want you. You feel a force push you away, and an image appear in your mind of the Last Castoff. Apparently the Bloom will only treat with her.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

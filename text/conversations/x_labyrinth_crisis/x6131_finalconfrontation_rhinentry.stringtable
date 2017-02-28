@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x6131_finalconfrontation_rhinentry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{confident; proud}"I found you! Just in time, it looks like. Ahl, Varlin... {with a smirk}let's show them what we got."
+
+{SCRIPT/SOUND/VO: This was not in the original VO recording list, but if we can do a pick-up then this would be a good one to add.}
+
+{SCRIPT/SOUND/VO: When the revision to Adult Rhin is complete, this will no longer be necessary to record. -AH 7/29/16}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

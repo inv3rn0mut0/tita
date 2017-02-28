@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_corpse_castoff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A strong aroma of charred flesh rises from the dingy cloth over this corpse. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hints of exposed bone push against the cloth over this corpse. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the corpse alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Lift the shroud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the castoff's corpse again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You carefully move the shroud to the side. 
+
+There's no way around it. This dead man was a castoff - and it would be hard for him to be deader. His flesh is papery, desiccated. His tattoo - or rather, the charred remains of it - has burned through his skin and into the bone beneath.  
+
+And, of course, there is the matter of his charred eye sockets, and his horrified, gaping mouth. 
+
+Parts of the corpse are missing, remnants of an aborted Dendra feast. You aren't surprised they stopped. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Again, your eyes are drawn to the remnants of the castoff's tattoo. It looks like it burst into flame when he died, burning right through his skin into the skull beneath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Touch the tattoo. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The last thing you remember before your fingertip grazes the tattoo is a rising buzz...
+
+Time stutters and breaks.
+ 
+Panting softly, you awaken, leaning against the bier for support. Your arm burns, your temples throb, and white static claws at the corners of your vision. 
+
+Someone was screaming in that lightless, timeless void. You remember that much. But it wasn't you - none of the Dendra are looking your way.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

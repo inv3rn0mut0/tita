@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_anchorage_viewscape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This looks nothing like the place you saw in your fall. It might not even be the same planet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The stars that blaze through the void are like none you've ever seen. This is not the world you know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You look down at a verdant world covered in forests and plains. Beneath you a slim stalk rises from the world to connect to the anchorage. You see massive cities; even from this distance, they look lifeless. Enormous lakes, set at regular distances, seem to provide all the necessary water for the world.
+
+{GEORGE/JESSE: I changed the multiple conditionals to this addendum node, rather than rewriting the description multiple times}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A clear field of humming force separates you from the star-dusted void beyond, and the world beneath your feet.
+
+Well. At least you aren't falling towards it this time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Look at the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The massive viewscreen shimmers, slightly distorting the world that floats in the void below you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Look at the void.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Free from the filtering atmosphere, the stars here shine with an almost-savage clarity. Perhaps it's your perspective, but the constellations here don't look *at all* familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

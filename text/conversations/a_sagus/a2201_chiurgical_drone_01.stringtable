@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_chiurgical_drone_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This small, mechanical chiurgeon is roughly the size of your head. At the end of one of its arms, a trio of slender, razor-sharp blades flick at the air. It's not clear whether it's trying to sense you or warning you to keep your distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The drone focuses on you like a small, mechanical, pupilless eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the drone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the drone again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The drone buzzes a warning at you as you lean in for a closer look. 
+
+The retractable blades leap to your attention. A tiny shaft of light graces the edge of each one, and they taste the air like tiny tongues. But you also notice a panel beneath the blades, fluttering like an insect's wing. Beneath, you catch a glimpse of a row of saw-toothed injectors. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The drone jabs its nested blades at you when you go for a second look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You notice you're tapping a finger against your leg, and it takes you a moment to realize why. A steady, gentle, soundless ripple is breaking against you like waves on a shore. 
+
+The 'drone' appears to have a heartbeat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I've seen these before," Aligern mutters. He reaches for the back of the drone, and it slashes at him with an outraged hiss. Your companion dips beneath the blurring blade and pokes an innocuous patch on the thing's plating. A hidden panel flies open, filling the air with an incomprehensible babble of high-pitched voices. 
+
+"See, what you've got here is a Sleeping Paean," he says, leaning casually out of the way of another of the drone's furious swipes. 
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Friend of mine had a bunch of wild theories about them. Shame he still had them in his head when one of these things chopped it off."
+
+It whirs at his throat, hacking and thrusting. He ducks. "One thing he did manage to tell me is that they forget all about you if you don't touch them for ten seconds."
+
+The drone pauses in the air, cocking to one side. Then, the hatch slaps shut, silencing the babbling voices. 
+
+"There," says Aligern. "See?"
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leave the chiurgeon alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

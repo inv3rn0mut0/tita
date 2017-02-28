@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_goop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A bubbling mass of sludge floats on the surface of the water. Every once in a while, an oily nodule separates from it and hurtles into the sky.
+
+You catch momentary glimpses of a muck-coated object in the putrid mass. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>::bloop::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Thick bubbles rise from the sludge, hurtling into the sky. You still see the outlines of a muck-coated object trapped in the roiling mass. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Attempt to retrieve the object trapped in the sludge.
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The next time sunlight strikes the object's streaked surface, you're ready. You snatch it from the oily mass and clean it as best you can. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You lean out for the object but miscalculate, overbalance, and tumble into the glistening mass. 
+
+{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>With almost casual ease, you pluck the shining object from its tar-like prison and clean it as best you can. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You lunge clumsily for the object, and your feet slip out from under you, dunking you headfirst into the glistening mass. 
+
+{SCRIPT:  Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
+{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You'll be scraping that muck off for hours. At this point, I'd consider new skin, dear, if that's a particular talent of yours." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"That muck stinks like a Merkadian's asshole," Aligern says, smirking. "You're going to be a treat to travel with until it flakes off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Examine the sludge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Far below the water, you spot a vast, dark reservoir of the sludge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Carefully, you lean closer to the heaving mass. After a moment's study, you notice that the globules rising into the sky always contain *something*, be it a shining core of untainted seawater or a tiny fish. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText> Addend. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The currents within the sludge move in a repeating pattern that suggests mechanical function rather than organic life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm not sure whether that awful muck is harmless or you are immensely lucky. Either way, do go on poking things, dear. It's quite entertaining." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You know, most people don't go sticking their hands into reeking sludge, but it seems to have worked out for you. This time, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Twisting yourself around, you claw your way out of the sludge before you become hopelessly trapped, panting and flinging wet clumps of the stuff back into the water, and you notice that the object is gone. It must have sunken when you fell in. 
+
+A stiff, grey sheen now coats your suddenly sluggish limbs. On the other hand, it should function like an extra layer of armor... for a while, at least. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Most people don't wait for filth to 'flake off', darling. They take *baths*.  And while your musk has its charms, you're certainly in no position to be pointing stinking fingers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Search for more objects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Wait for more treasures to surface. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You spot no other mysterious objects in the bubbling mass. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Minutes tick past as you patiently wait beside the mass of sludge. Nothing surfaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>At last, your patience is rewarded when an unusual object bubbles to the surface. Before it can sink out of sight again, you snatch it up.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Look at that. Kid has some patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You've found a veritable filth-stained trove! Well done, dear!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Perhaps it's my influence," Callistege says sweetly. "It certainly isn't yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You see nothing but muck and more muck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Thick bubbles rise from the roiling sludge, hurtling into the sky. There is no sign of the object you glimpsed in the sludge before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You got lucky, kid, but you're not going to find anything else. If it were that easy, you'd have scavengers camped here 28 hours a day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You watch patiently, but nothing else comes up.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

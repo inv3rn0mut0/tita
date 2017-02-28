@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_heart_cnpc_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aligern hesitates and looks to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Callistege hesitates, as do every single one of her sisters. They look to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Matkina hesitates. She grips her blade tightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Tybir hesitates and swallows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erritis pauses, looking at you with an expression that could either be fear or breathless excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Rhin stops, holding one elbow tightly with the other hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Your companions hesitate, looking to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Do you have any insight, Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Aligern, I need you in there with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Do you have any insight, Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll need your help in there, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Any advice, Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Matkina, let's go in together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"How should I approach this, Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Come with me, Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What are you thinking, Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Will you go with me, Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Are you all right, Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Rhin, I want you to come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Stay here. I'm going in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"This is *your* quest, castoff. I won't stop you from going in there, if that's what you think needs to be done, but I'll be damned if I'm going down with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Please. I can't do this alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>His lips become a tight line. His shoulders droop and he lets out a dejected sigh. "Fine. But if I come out of this worse than I already am, so help me, I'll have my revenge on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Then don't do it! I've bled enough already. This cost... it is not mine to pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[I'll give you something good.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He laughs. "You're asking my advice *now*? *I* think you should have abandoned this foolish quest before it started."
+
+He sighs. His face softens, and his tone becomes serious. "Don't underestimate it, castoff. It is more powerful than you by a long shot." He raises one forearm, showing his tattoos. "And there are fates to be feared more than death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"All right. Let's do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I've changed my mind. I'm going in, but I'm going in alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm usually one for experimentation, but this..." She looks at you, her face ashen. "There is no telling what it will demand of you, child. Look at me and tell me if you'd want this fate. Yours could well be worse."
+
+She turns again to face the wriggling mass. "Know what you are willing to sacrifice. That is my advice to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"This thing," she says, never taking her wary gaze from it, "has destroyed the lives of more people than you have ever met. It's a predator."
+
+She glances at you only briefly before returning her eyes to the Bloom's tendrils. "Whatever you do, stay in control. Resist it. Show it you are strong. Otherwise it will swallow you whole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You're asking *me*? I didn't want to come here in the first place." He wipes his forehead, his easy smile gone. "Be smart, lad. You know what you came for. Don't accept any less, and don't give any more than what it's worth. That's... that's all I got."</DefaultText>
+      <FemaleText>"You're asking *me*? I didn't want to come here in the first place." He wipes his forehead, his easy smile gone. "Be smart, lass. You know what you came for. Don't accept any less, and don't give any more than what it's worth. That's... that's all I got."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Thinking? Nothing." A broad smile splits his face. "But this is the greatest adventure a hero has ever advented. Isn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What?" She shakes her head, as though shaking off a chill. "No, I'm not all right. We're in the bowels of... I don't even know what. I don't know why I'm here."
+
+She sniffles and says, almost too quiet to hear. "I want to go home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I don't doubt that, but you will have to do without it, dear. This is well beyond anything even I am equipped to handle. If you insist on facing that... thing, you must do it alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Think of what you can learn. How many people have touched the very Heart of the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She frowns. "I *have* thought of that. Not a single one of my sisters wishes to go. Perhaps this time... it must be me."
+
+She nods, her chin resolute. "Very well. I will join you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"And what good will that learning do if I, and all my sisters, cease to exist? I think, in this case, you will have to serve as a surrogate reality. Not a one of us wants to do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[I'll give you something good.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Her eyes widen. "Are you insane?"
+
+She looks you up and down. "Perhaps you are. I will not. The Bloom is a *terror*. If you want what it knows, you'll have to get it yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I can't do this alone. We'll be okay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She frowns. "I don't believe that... but you've done good for me already. Fine. Try not to get us both killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Do you know how many people have said those words to me? Most of them are dead now. I'm not. Words are tulk, newborn. You're on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[I'll give you something good.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He raises his hands in front of him, palms out. "Oh, no. I've followed you everywhere so far, but here's where I draw the line!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You're the cleverest man I know. If anyone can help me outsmart this thing, it's you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He blinks, taken aback. "I say, I *have* taught you a thing or two, haven't I? I don't know if we can outsmart it, but I'll help you just for that bit of blandishment. It was well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ah." He wags a finger at you. "I've been taken in to many a dangerous grotto with worse flattery than that. But no, lad. You're on your own here."</DefaultText>
+      <FemaleText>"Ah." He wags a finger at you. "I've been taken in to many a dangerous grotto with worse flattery than that. But no, lass. You're on your own here."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[I'll give you something good.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Are you kidding? I was going to ask *you* to follow *me*. Yes! Let's attack this beast in its wiggly bits!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What?!" She takes a step back from you. "Why would you even *say* that? I thought you were going to keep me safe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You're not the scared little girl you used to be. I need your help here, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I don't... I don't..." She reaches into her pocket and pulls out the rock, listening. After a long moment, she nods. "All right... we'll do it." 
+
+She takes a deep breath and says more quietly. "I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She turns her back to you, hands white-knuckled on her elbows. "Even if that were true, I... No, I can't do it. I *won't*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[I'll give you something good.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You're right. I'm sorry I even asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He nods with a grunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"And I appreciate you all the more for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>She turns her guarded gaze back to the Bloom without another word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Good! I mean I *like* you, lad. Don't get me wrong. But this... this is your scheme, not mine. I want no cut of it."</DefaultText>
+      <FemaleText>"Good! I mean I *like* you, lass. Don't get me wrong. But this... this is your scheme, not mine. I want no cut of it."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She wraps her arms around herself, shivering even in the muggy warmth of the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Ahead, you see a mass of Bloom-tongues, bigger than any you have encountered thus far. They wave gently, as if beckoning you forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"All right. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You're right. I'm sorry I even asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Script Node 104</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

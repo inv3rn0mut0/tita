@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4602_annulet_housing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nestled among the crystal formations is a steel pod. Cables pass in and out of the pod, glowing with energy.
+
+As soon as you're within arm's reach, a shining interface materializes in the air between you and the pod. There are a few strange symbols arranged in a circle around a filigreed pentagon similar to the tattoo on your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Touch your own tattoo to the center symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>As you draw closer, the filigreed pentagon glows more brightly. Your head becomes warm, but not uncomfortably so. When it touches the light, you feel a small amount of energy flow out from you. The cables on the pod pulse quickly, and the top of the chamber opens with a hiss.
+
+The only item inside is a hyaline circlet, as black as the sky behind the stars - the Magmatic Annulet. You remove it from the pod and take it with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Step away from the steel pod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Now that it's empty, the pod has sealed itself shut. The shining interface no longer appears when you're nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Once again, a shining interface materializes in the air. There are a few strange symbols arranged in a circle around a filigreed pentagon similar to the Last Castoff's tattoo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Touch the symbols around the filigreed pentagon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Place your hand on the pentagon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The chamber hisses shut, and the interface vanishes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Nestled among the crystal formations is a steel pod. Cables pass in and out of the pod, glowing with energy.
+
+As soon as you're within arm's reach, a shining interface materializes in the air between you and the pod. There are a few strange symbols arranged in a circle around a filigreed pentagon similar to the tattoo on the Last Castoff's head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Once again, a shining interface materializes in the air. There are a few strange symbols arranged in a circle around a filigreed pentagon similar to your tattoo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The glimmering interface awaits input, but your attention is pulled back to the crystalvores.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

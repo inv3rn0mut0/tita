@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\d_oasis\quest_d5201_storms_grief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Storms' Grief</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Talk to Laughs-at-the-Storms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Get rid of Elia's Anguish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Get the Glow Braid from Storms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Check with Storms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Received Glow Braid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Stole the Glow Braid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A merchant named Laughs-at-the-Storms may have some Glow Braid, one of the artifacts I need to complete Mazzof's Gate of Kutallu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ekevarria sold her last Glow Braid to a merchant named Laughs-at-the-Storms. I should be able to find her in the Marina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Storms has agreed to give me the Glow Braid if I can get rid of this necklace for her. Unfortunately, this necklace seems to come back to her no matter how she's tried to get rid of it. I'll have to find a more permanent way to get rid of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Laughs-at-the-Storms has the Glow Braid. Now I just need to figure out how to get it from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I got rid of Elia's Anguish. At least I think I did. I better go talk to Laughs-at-the-Storms to see if it worked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I returned to Storms and she was happier than she's been in years. Elia's Anguish is gone for good, she says. She gave me the Glow Braid in thanks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I stole the Glow Braid from Storms. She wasn't too happy about it, but at least I have one of the artifacts I need now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I tried dropping the necklace into Myrl's stone head, but it just came back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I returned to Storms and she was happier than she's been in years. Elia's Anguish is gone for good, she says. She gave me the Glow Braid in thanks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I stole the Glow Braid from Storms. She wasn't too happy about it, but at least I have one of the artifacts I need now.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_one_true_love</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>One True Love</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for Clues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Inquire with the owner of the hostel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Search Caravanserai for evidence of Perseia's whereabouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Decide what to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Found Her!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She's Just Not Worth It</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Don't Look Behind the Curtain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Obvious Fib</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You're Getting Sleepy...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Omahdon with the evidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Return to Omahdon with the evidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Confront Tranquility with the evidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Confront Tranquility with the evidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Left Sagus Before Completing Quest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Omahdon, a man I met at the Caravanserai, is looking for his lost love, Perseia. He says that she suffers from a madness that causes her to flee from imagined dangers, and he has been trying to catch up to her for years. Omahdon tracked Perseia to Sagus Cliffs, and he asked me to help him look for her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Search for evidence of Omahdon's "one true love" in the Caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ask the owner of the hostel about Omahdon's "one true love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Omahdon is certain that Perseia stayed in Caravanserai for a time. He describes her as beautiful, with purple hair that floats around her head on winged hair combs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Tranquility revealed that she hosted Perseia for a short time, and she related a tale that was very different from Omahdon's. She says that Omahdon found Perseia entombed in the Valley of Dead Heroes and became obsessed with her. He used ancient science to bring her back to life, then expected her to love him in return. Perseia didn't share his feelings, and she has fled from him ever since. 
+
+Given this information, I must decide whether I should help Omahdon or hinder him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I found out that Perseia returned to the Valley of Dead Heroes, where Omahdon originally found her. I told him where she went, and he set off in pursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I convinced Omahdon to give up his search for Perseia. Hopefully he'll find better ways to occupy his time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I conspired with Tranquility to give Omahdon a false lead. He's now taking an airship in the wrong direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I lied to Omahdon about where Perseia went, but he found me out. He's now taking an airship to the Valley of Dead Heroes, in the hope of finding Perseia there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Tranquility has used her psychic abilities to hypnotize Omahdon. He is now a "guest" at her hostel. Tranquility will keep him there for a while, giving Perseia time to escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I found a hair comb in the local hostel that may have belonged to Perseia. Omahdon will want to see this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I discovered a device on the plateau above Caravanserai that records what happened in the past. It showed me an image of a purple-haired woman who matched the description of Perseia. She was speaking with the keeper of the local hostel. Omahdon will want to hear about this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Omahdon confirmed that the comb belonged to Perseia and is now convinced that the hostel-keeper lied to him. I should confront the hostel-keeper, Tranquility, and find out what she knows about Perseia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I told Omahdon about the image I saw of Perseia talking to the hostel-keeper. Omahdon is now convinced that the hostel-keeper lied to him. I should confront the hostel-keeper, Tranquility, and find out what she knows about Perseia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I've left Sagus Cliffs and don't know when or if I'll be returning. Omahdon will have to continue his search for Perseia on his own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The woman Omahdon is seeking has long violet hair, adorned with many animate combs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>According to Tranquility, Omahdon's "one true love" is actually running from him... which is why Tranquility wouldn't tell Omahdon where she went. He is apparently obsessed with her, even though she wants nothing to do with him. Perhaps I could convince him to end his pursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Tranquility says that Omahdon found the preserved corpse of his "beloved" in the Valley of Dead Heroes, fell madly in love with her, and somehow managed to raise her from the dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>According to Omahdon, Perseia's madness causes her to believe that he is her enemy, not her lover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I found one of the woman's combs in an end table at the Caravanserai's hostel. The owner of the hostel must have met Omahdon's "beloved"... and might know where she went.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I learned that Perseia went back to the Valley of Dead Heroes after leaving Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Instead of telling Omahdon where Perseia really went, I could try to deceive him by providing a false lead and sending him in the wrong direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I convinced Tranquility to use her hypnotic abilities on Omahdon. She can put him into a trance and keep him as a "guest" at her hostel for a while, giving Perseia more time to escape. All I need to do is tell Omahdon that Tranquility wants to speak to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I found a old hair comb in a locked draw in the hostel in Caravanserai, complete with a few strands of hair whose color matches Omahdon's description of his lost love's hair. It's possible the woman stayed at the hostel recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>One of the Memovira's guards suggested that Perseia probably stayed at the Caravanserai's inn. I should check there for some sign of her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Tranquility, the keeper of the hostel in Caravanserai, said that she couldn't recall anyone fitting Perseia's description.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

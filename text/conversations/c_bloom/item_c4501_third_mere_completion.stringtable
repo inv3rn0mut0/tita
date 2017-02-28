@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4501_third_mere_completion</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You swim back through the familiar haze of the Bloom's Meres, the thick swaddling slowly giving way to clarity. You brace yourself for the probing of the Sorrow's mind seeking yours, but it does not come.
+
+And neither does the circle of light you have come to associate with waking from these Meres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Instead, you feel a profound and oppressive weight settle around you, a gloomy foreboding that skirts the edges of panic. Even as you settle into your body, you cannot shake the feeling that something is not right.
+
+{ART: This is a static image of the PC standing in the vault by the Merecaster}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A sudden, piercing squeal, the noise of an enraged insect colony, and then a flat burst of static accompany a dramatic drop in pressure in the vault. Everything sounds momentarily as if it's underwater, and time itself appears to have paused. 
+
+{SOUND: Angry Bloom sound, filtered through heavy distortion, then static}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Memovira loses her composure for a moment, her decades' long facade crumbling and restoring itself in a flash, and naked panic etches itself into her skin. She seizes control of herself, and shouts to you: "Man the weapons! Your nemesis has come!"
+
+{SCRIPT If Memovira alive}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The vault itself seems to beckon to you, as if urging you to prepare for the fight of your life.
+
+{SCRIPT If Memovira is dead}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_coty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Coty stands at the edge of the swirling pool, looking into its turgid depths. The smell does not seem to bother him. It is as if he is entranced... or perhaps not fully here. He doesn't appear to notice you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What are you looking at, Coty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Back quietly away from Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[You leave him alone and continue on.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Coty drags his gaze away from the pool reluctantly and slowly. Though his eyes fall on you, he doesn't seem to see you. His voice is gray and sluggish, like the water, the sound of despair and anguish.
+
+"She's in there... she's... she's drowning..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>His eyes sharpen on your face, focusing hard and fast, and horror blooms in them. "You have to save her! You have to save her! She can't swim!"
+
+He tries to pull you toward the pool. "Save her, please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Wrest free of his grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You break free of his grasp and back away before he can grab you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>He hauls you to the edge of the pool. He's far stronger than you would have expected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You slap Coty's hands away from you, brushing them from your clothing. He's left clutching nothing but empty air, and he stares at his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you try to escape Coty's grasp, you lose your footing. You writhe and twist to land well, and you wind up dunking your face directly into the foul, whirling pool, and you inadvertently swallow a mouthful of its discharge.
+
+Flashes of tormented souls erupt through your mind and a vast pain rumbles through your guts and your consciousness. You scramble to your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Coty's attention snaps back to the pool. The urgency in his voice fades into apathy. "Save her. She... She's in the pool." 
+
+In a moment, he returns to his original spot and his original pose. It's almost as if he's recreating a tableau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You catch your balance, trying to keep yourself from falling into the filthy liquid, but even as you gain your footing, a small hand erupts from the turbulent fluid. It latches around your ankle, and the residue of Bloom-fluid on it begins to burn your flesh.
+
+Coty's face is nearly pressed to yours. Through gritted teeth, he hisses, "She's *drowning*. Save her." 
+
+He releases his grip on you and shoves. Hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Resist Coty and get away from the pool!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You bat his hands away and slip to the side. He's left shoving empty air.
+
+Rather than pursuing you, he stops and looks at his empty hands, as if he expected to see you at the end of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>His strength continues to surprise you. His grip is implacable and precise, and he directs you into the pool with stunning ease. You close your eyes and catch your breath before you hit the stinging, roiling fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You kick yourself free from the hand around your ankle, and the sudden shift in your center unbalances Coty. He plunges into the pool in your place. He bobs to the surface once, and screams, "Save her!"
+
+A small girl splashes from the fetid waters and overwhelms him. Her arms wrap around him, and they are gone from your sight.
+
+{SCRIPT: deactivate Coty}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You dodge to the right... directly into the path of Coty's hands. You flail uselessly and tumble into the pool, and its waters rush into your nose, mouth, and eyes like questing fingers. 
+
+As the liquids burn into your soft tissues, as the grip of the drain in the pool holds you under the surface, you have a brief hallucination of a ghostly girl wrapping her arms around you in a fatal, hungry embrace.
+
+And then the light fades, and all you know is pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You're still in control, though. You kick yourself to the surface and get ready to stroke toward the rim of the pool. At that moment, you feel arms embracing your legs and a tremendous weight starting to pull you under. 
+
+Beneath the polluted waters of the pool, you can dimly see the silhouette of a ghostly girl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Attempt to free yourself from the embrace and get yourself free from the liquid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Attempt to pull the girl up from below the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You thrash around in the water and manage to kick yourself free. As you pull yourself out of the vile fluid, you see the girl swirl down into the churning waters, and Coty howls in anguish. As you scramble to your feet, his form grows transparent and dim, and he fades from your sight altogether. All that remains of him is a quickly fading echo of loss and pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You kick and struggle, but her grip on your legs seems implacable. You fight to the surface and gasp for air, but she keeps trying to drag you down to die with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You pull a leg free from her feeble grasp, and you kick her in the face with a powerful blow. She releases her grip, and two powerful strokes take you to shore. You pull yourself dripping from the pool, and you have time to see Coty reaching for his lost sister, despair filling his innocent face... and then he fades from reality, trailing a whimper of sadness as he goes. 
+
+{SCRIPT: deactivate Coty}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You struggle and fight, but her grip is unbreakable. She pulls you under, and the Bloom's fluid rushes into your mouth. You swallow a mouthful, and your ability to resist crumbles. As the acidic fluid devours your soft tissues, the girl's embrace tightens. The last thing you experience is the concentrated anguish of the Bloom's victims in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You thrash and struggle, and it seems like the girl is trying to resist you... but at last, you heave yourself across the lip of the pool. She's holding tight to your legs, so you pull them out of the fluid, and she comes with them.
+
+Her likeness to Coty is unmistakable. She smiles gratefully at you, and that smile stays in your mind as the rest of her fades away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The slimy fluid makes it difficult to get a firm grasp on her. Just when you think you've managed to dislodge her from your legs and pull her up, she slips from your grip. At least you haven't drowned... yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You hold your breath and close your eyes, and you grab the child under her arms, dislodging her from your legs. With a solid kick, you breach the surface, and one more stroke takes you to shore. You throw her up across the lip of the pool and follow her moments thereafter.
+
+She coughs once, twice, and sits up. Even covered in the filth of the Bloom's fluids, her resemblance to Coty is unmistakable. She smiles at you, grateful, and then she fades from sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You struggle and fight, but her grip is unbreakable. She pulls you under, and the Bloom-juices rush into your mouth. You swallow a mouthful, and your ability to resist crumbles. As the acidic fluid devours your soft tissues, the girl's embrace tightens. The last thing you experience is the concentrated anguish of the Bloom's victims in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Coty helps you to your feet. He meets your eyes and embraces you warmly.
+
+And then he too fades away, but you can *feel* his warmth within you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Look into the pool yourself and search for what he was looking at.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You think you see a childlike silhouette under the murky waters, but you're not entirely sure if your eyes deceive you. You lean closer. A fish-pale hand bursts from the water and grasps your ankle like an iron manacle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You strain and stare, but you don't see anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Beneath the murk and turmoil, you see the faint image of a small girl trapped in the currents of the pool. The swirling waters take her away from you, but she circles back around moments later.
+
+Suddenly her hand rockets from the water, grasping your ankle like an iron manacle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You kneel down near the pool to look more closely, and as you peer, two waves in the pool meet. The result is a glob of Bloom-fluid spurting up... and it lands directly in your eye.
+
+It burns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Attempt to pull her from the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Attempt to free yourself from her grasp.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>After a few treacherous moments, you get a secure grasp on her slippery arm, and you pull her from the pool.
+
+She lies gasping on the ground, and she looks up at you. Her face is remarkably similar to Coty's, but younger. She smiles gently, gratefully, and then fades from sight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You reach down to grab her, but you're unable to find purchase on her arm, and you can't get the traction to back away. At least she hasn't let go. At least you haven't fallen in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You grab her slimy forearm and *yank* with all your might. She flies from the pool, and you ease her down to recover.
+
+She lies gasping on the Bloom's floor, and she looks up at you. Her face is like Coty's, but heart-breakingly younger. She smiles gently, gratefully, and she fades from your sight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>As you reach down to grab her arm, you overbalance... and plunge into the fetid pool. The Bloom-juice burns your skin, and the girl in the water keeps pulling on your ankle, trying to drag you down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You kick and flail, and finally manage to shake yourself free of her grasp. She slides under the polluted water and disappears with hardly a ripple.
+
+You have time to see Coty reaching for her, despair filling his innocent face... and then he too fades from reality, trailing a whimper of sadness as he goes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Try as you might, you can't seem to shake her grip on your leg.
+
+Coty looks on in horror. "Save her! Please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You kick back violently and the small hand slips back into the water. 
+
+You have time to see Coty reaching for his lost sister, despair filling his innocent face... and then he fades from reality, trailing a whimper of sadness as he goes. 
+
+{SCRIPT: deactivate Coty}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You shake your leg, trying to dislodge her. In the process, you lose your footing, and she pulls into the turbid stew.
+
+The Bloom-juice burns your skin, and the girl in the water keeps pulling on your ankle, trying to drag you down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Go with Coty to the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Coty continues to stare into the depths of the pool, hardly registering your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Are you really Coty? Or are you an echo of him, dredged from the Bloom's memories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>He looks from the pool, slowly, reluctant to tear his gaze away. When at last he sees you, he reaches out to touch you. His voice is leaden and despairing.
+
+"She's in there... she's... she's drowning..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText> Follow-up PQ. 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Try to see what he's looking at.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Try again to see what he is looking at.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bank 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Break her grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Try to break her grasp again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Pull her from the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Try to pull her from the water again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Try to pull the girl up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Keep trying to pull the girl above the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Kick free of her embrace and try to climb out of the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Try again to break her grasp and escape the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Script Node 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"No! Cassandra! Cassa..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ca... Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Allow him to push you into the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Coty steadies you, ushering you away from the pool's edge. He meets your eyes, the frantic anguish and fear gone, and he embraces you warmly.
+
+And then he too fades away, but you can *feel* his warmth within you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She slips from your grip again. You're not sure how much longer you can attempt this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>You struggle, but still she won't let go. You're not sure how much longer you can do this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>She still holds your leg strong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You still can't get a grip on her, though her grip on your ankle is as strong as before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>His thoughts repeat his words exactly, but flat and without emotion. It's impossible to tell if he's real or some sort of illusion summoned from the memories of the real Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

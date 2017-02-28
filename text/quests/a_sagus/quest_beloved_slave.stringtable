@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_beloved_slave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Beloved Slave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for the missing slave girl, Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Convince Rhin to join the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring Rhin back to Tol Maguur in Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Find a way to make Tol remove her 'curse.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find Rhin again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gave Rhin back</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bought Rhin's freedom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Killed Tol to remove curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Handed over Rhin to remove curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Paid Tol to remove curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Convinced Tol to let Rhin go and remove the curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Lost" Rhin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Killed Tol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Convinced Tol to let Rhin go and remove the curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Killed Tol to remove curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Let thugs take Rhin back to Tol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Resolve the situation between Rhin and Tol Maguur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Killed Tol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bought Rhin back</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Convinced Tol to give Rhin up</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Tybir convinced Tol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tell Tol Maguur that Rhin is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Left Sagus before completing quest (Rhin not in party)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Left Sagus before completing quest (Rhin in party)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tol Maguur, a slaver in Circus Minor, has enlisted my help to find her 'ward,' a girl named Rhin. If I bring Rhin back to her, Tol says that she has valuable information to trade in return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tol thinks that Rhin is hiding in the district of Cliff's Edge. She described Rhin as scrawny, with dark, curly hair. She also said that Rhin suffered a head wound and tends to babble about her gods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found Rhin hiding in the ruins of a collapsed building in Cliff's Edge, but I still need to convince her to join my party so that I can bring her back to Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Rhin has agreed to join me. I should bring her to Tol Maguur and resolve the situation between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I refused to hand Rhin over to Tol Maguur. In response, Tol used the Tides against me, afflicting me with some kind of curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>As you approached Tol with Rhin in tow, she ducked away and ran off, obviously not pleased with going back to her former master. She's likely hidden herself again, and almost certainly not in the same place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I turned Rhin over to Tol Maguur. Rhin wasn't particularly happy, but Tol seems determined to keep her safe, at least. 
+
+In return for my help, Tol taught me to shape the Tides into a tool - a surge of Tidal power - that I can use to my advantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You offered Tol enough shins that she agreed to let Rhin stay free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I killed Tol Maguur, freeing Rhin and lifting the 'curse' Tol placed upon me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Having little recourse, you turned Rhin over to Tol, who promptly removed the curse she had placed on you.
+
+ADDENDUM:  You promised Rhin you would return to free her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>You paid Tol a sufficient amount of shins for her to let Rhin go, after which she removed the curse she had placed upon you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I managed to convince Tol to set Rhin free and remove the curse she placed upon me. Tol also taught me to shape the Tides into a tool - a surge of power - that I can use to my advantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I informed Tol that Rhin ran away. She was very unhappy, and she refused to give me the information she promised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Upon confronting Tol about Rhin, a fight broke out. Tol was killed in the ensuing fracas, and Rhin is now free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I managed to convince Tol to let Rhin stay free and remove the curse she placed on me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Tol Maguur lies dead, and the curse she placed on me has been lifted as a result.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>I found Rhin, but a group of thugs intervened, and I let them take her back to Tol. Presumably, they got the bounty instead of me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>A slaver named Tol Maguur claims that Rhin, the girl I found in Cliff's Edge, is her property. She demanded that I return Rhin to her immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>I killed Tol Maguur, so Rhin is no longer a slave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>I paid Tol Maguur the price she asked, so she relinquished her claim upon Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>I convinced Tol Maguur to let Rhin go free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Tybir did *something* to convince Tol Maguur to free Rhin. Tol left the city afterward, and Tybir appeared quite pleased with himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Rhin ran away from me, and I doubt I'll ever see her again. I should return to Tol Maguur in Circus Minor and tell her what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>I've left Sagus Cliffs behind, and I doubt I'll be returning to the city. Tol will have to find Rhin on her own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>I left Sagus Cliffs with Rhin, and I doubt I'll be returning to the city. Tol won't be getting her hands on the girl any time soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Otero, a talkative child I met in the city, claims to know Rhin. He says that she's good at finding places to hide, often in collapsed buildings. He also paints a much darker picture of the relationship between Tol Maguur and Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Aidan Sitabo saw a little girl matching Rhin's description. She was hiding in the ruins of a collapsed house in Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Loss-of-self saw a little girl matching Rhin's description crawling into a ruined house. The house is located near the steps leading from Cliff's Edge to Caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I promised Rhin that I'll return later and free her.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_artaglio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Artaglio and his troop remained in Chiurgeon's Slump. Free from the desires of the Maw, Artaglio became more jovial, friendly even. He drank less and extorted less - though he still extorted of course. A man's got to make a living *somehow*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>
+
+A few days after he'd heard the Last Castoff returned as the new Memovira, Artaglio paid him a visit to thank him for his help. He would never serve under a castoff again, of course, but he assured the Last Castoff that he'd get no trouble out of Chiurgeon's Slump.</DefaultText>
+      <FemaleText>
+
+A few days after he'd heard the Last Castoff returned as the new Memovira, Artaglio paid her a visit to thank her for her help. Artaglio would never serve under a castoff again, of course, but he assured the Last Castoff that she'd get no trouble out of Chiurgeon's Slump.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>What was left of Artaglio's Irregulars left the Bloom in disgrace. With nowhere to go, they each ended up going their separate ways. Each of them outrunning their past. Each of them haunted forever by it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ranard, Artaglio's second, continued in his commanding officer's traditions as best as he could. Artaglio's Irregulars eeked out a modest life in Chiurgeon Slump even without their leader.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>
+
+When they heard that the Last Castoff had returned - as the new Memovira, no less - they came to offer their services, hoping for an increase in pay and authority. They got both.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>
+
+When they heard that the Last Castoff had returned - as the new Memovira, no less - Ranard told his men they were digging in. They created a barrier at the entrance and posted more guards, hiring some of the former Memovira's guards who had run after the destruction of her fortress.
+
+The Irregulars of Chiurgeon Slump were a thorn in the new Memovira's side for many, many years.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_excited_man</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This man watches the execution with fevered eyes. He shakes his fist. "Traitor! Traitor to the city!"
+
+As you approach him, he gives you a savage grin. "Nothing better than seeing a traitor die, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Why is it taking so long?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kill him now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Traitor!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dirty scum deserves it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You don't deserve to live in Sagus Cliffs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What if he isn't a traitor? What if he was wrongfully accused?"
+
+{SCRIPT: Tybir has mentioned turning crowd.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Do you truly care if he's a traitor? Or do you just like watching men tortured to death?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Of course he's a traitor! He was tried and convicted! Now he'll taste some Sagus Cliffs justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He snarls at you. "How dare you? It's justice that's important to me! And protecting my city!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Long live Sagus Cliffs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"And is justice always handed out equally in Sagus Cliffs? I'll bet the rich never pay for their crimes around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Then I'd think you'd be interested in making sure the *real* traitor gets caught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Of course it is. Forgive me for suggesting otherwise. I'm sure you're a true patriot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"And is justice always handed out equally in Sagus Cliffs? I'll bet the rich never pay for their crimes around here. Not even the traitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I guess he will. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He pauses. "You've got a point there. I've never seen any highsiders spill their guts on the platform, or heard of any of 'em ever being accused of treason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>His eyes narrow. "What do you know that I don't?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Are you saying this man isn't a traitor? That he doesn't deserve to be up there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"This poor fool took the fall for somebody else. That's a mockery of Sagus pride. We should free him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"This poor fool took the fall for somebody else. That's a mockery of Sagus pride. We should free him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The man looks at you and nods approvingly. "I like your fire, friend. And I agree. Us small fish are always taking the fall, but not this time!"
+
+He shakes his fist at the overseer. "Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Justice!"
+
+{COLIN/GEORGE: Was this bark intended to also be spoken by the Unmoved Woman? -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The man grinds his teeth, thinking, then finally nods. "Aye. Us small fish are always taking the fall, but not this time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The man looks at you, thinking, then shakes his head. "No. This has nothing to do with justice. You're just a soft hearted fool who wants to free this villain from the pain he deserves. Well, you won't sway me, simp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The man looks at you and nods approvingly. "I like your fire, friend. And I agree. Us small fish are always taking the fall, but not this time!"
+
+{SCRIPT: The man will show up later at the chiurgical parlor, and if the player joins the Jagged Dream, he'll give him an additional reward.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The man looks at you, thinking, then glares. "This is some traitor trick, isn't it? You're trying to free your fellow traitor before he gives up your name! Well, I'll not fall for it!"
+
+He starts pointing at you and shouting, "Traitor! Traitor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>His smug righteousness stirs your emotions. You feel them knotting and unknotting within you, and you know that you could shape them to your will and manipulate this man - *this whole crowd* - to demand Ris's freedom. All you'd have to do is *push*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Tidal Surge] Push.
+
+"Think about it again. I'm sure you'll see it my way."
+
+{SCRIPT: Increase Sorrow Urgency.}
+{SCRIPT: Remove appropriate amount of DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Your emotions strengthen within you, and you shape them into a ball of righteous fury, then spread your arms and let that fury ripple out from you in all directions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The people in the crowd sway as the invisible force hits them. Their fists clench and their eyes grow bright.
+
+The man before you is invigorated as well. He smiles at you, fevered but unfocused. "You're right! Of course you're right! The innocent have taken the fall in this corrupt city for too long! Well, no more. Justice! Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Aligern stares, horrified. "Did you just tear the free will from an entire crowd of people? You heartless... thoughtless...."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I though you'd lost him. That was almost... magical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Let your emotions subside. 
+
+"You're probably right. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He starts pointing at you and shouting, "Traitor! Traitor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Panic swells within you, strirring your emotions. You know that you could shape them to your will and silence this man - *this whole crowd* - and force them to do your bidding. If you wanted the people to rise up and free Ris, all you would have to do is push.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Tidal Surge] Push. 
+
+"Stop! The traitors are those who condemn the innocent and let the guilty go free! Bring them down! Free the prisoner!"
+
+{REASON: PC has pushed the excited man to a Red decision.}
+{SCRIPT: Remove appropriate amount of DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Let your emotions subside.
+
+"You win. I'll go turn myself in now. So long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Huh? Really? I...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What are we waiting for? Let's go! Let's go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I told you I wouldn't help you with your tricks. Get away from me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The man glances at you, then returns his full attention to the execution. "Good to see you again. Back to see the traitor die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ha! I thought so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Let him go! Let him go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Justice, the Sagus Cliffs way!" He jerks a thumb at the dais. "We make traitors and murderers spill their guts, then strangle them with 'em. We also force 'em to speak their nightmares to scare other criminals into going straight." 
+
+He laughs. "And if that doesn't do it, then knowing that the Devourer of Wrongs is going to eat your body after you die will. Makes me sick just thinking about it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"They're killing another traitor! Strangling him with his own words. Bad folk die hard in Sagus Cliffs." He grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"What exactly is happening here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tell me again what's happening here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"To see justice done!" He thumps his chest. "If somebody hurts my city, I want to see them hurt twice as bad. And getting crushed to death by your own words is as bad as it gets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Because they want to see evil punished. That's why I'm here, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Why is everybody watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Tell me again why everyone is watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He raises a meaty fist. "You better believe it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Kill the traitor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Stir the crowd's emotions. *Demand* Ris's freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Your emotions strengthen within you, and you shape them into a ball of righteous fury and release it, letting it ripple out from you in all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Aligern stares, horrified. "Did *you* do that? Enforce your will on an entire crowd of people? You heartless... thoughtless..."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Are you joking?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lad."</DefaultText>
+      <FemaleText>"Are you joking?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I thought you'd lost him. I don't know what you did, but that was almost... magical."</DefaultText>
+      <FemaleText>Tybir shakes his head, amazed, then whispers to you. "Well done, lass. I thought you'd lost him. I don't know what you did, but that was almost... magical."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Nothing. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He gives you a strange look, but says, "Sure, sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I don't think this man is the *real* traitor. It's too easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"No, this man *can't* be the real traitor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>His eyes narrow. "Are you just saying that or do you know something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Really, now, tell me what you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Trigger Conv Node 95</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Script Node 96</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

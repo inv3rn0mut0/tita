@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_astronomicalmerecaster_bluemere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As soon as you place this device in the palm of your hand, the stately dance of the clockwork planets mounted upon it becomes a frantic, spinning reel. In the heart of the thing, a contemplative hum grows, as though the machine itself were studying the path of the planets above it. 
+
+Listening, you hear shadows of words within that sound, speaking of the mere within this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You place the device in the palm of your hand again. As the planets spin faster and faster, you again sense the shadow of the mere inside this machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Inspect the merecaster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You study the whirl of the planets in your palm. Your eyes might be deceiving you, but it does seem as though some of the orbs are slightly transparent, and that tinier planets are orbiting within *them*. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Enter the mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Put the merecaster away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The merecaster is quiet and unresponsive. It seems there's no way to access it again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

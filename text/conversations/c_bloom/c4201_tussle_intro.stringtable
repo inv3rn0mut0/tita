@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_tussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[As the portal behind you closes, two sinister creatures spawn from the Bloom's mottled flesh before your very eyes.
+
+(NOTE: This encounter is happening because you've been doing things that anger the Bloom.)]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[A sinister creature spawns from the Bloom's mottled flesh before your eyes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[A moment later, another creature, twin to the first, emerges as well.
+
+(NOTE: This encounter is happening because you've been doing things that anger the Bloom.)]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Script Node 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Hold! Something's here... prepare yourselves!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ummmm... you guys feel that? I think my goosebumps have goosebumps all of a sudden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Everyone stay back! This big sack of guts is about to throw something our way!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Script Node 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A scene of horror lies before you. The walls and floors turned against the inhabitants of this chamber, opening toothy orifices to drag them down and devour them. 
+
+Judging by the half-devoured wagons and other debris, this was a market of some kind... or a trade post. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A scene of horror lies before you. The walls and floors turned against the inhabitants of this chamber, opening toothy orifices to drag them down and devour them. 
+
+Judging by the half-devoured wagons and other debris, this was a market of some kind... or a trade post. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>To your left, across the room, is a massive, slumbering Maw. Its mouth gapes open, and a portal shines within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You hear faint whispers all around you... harsh and menacing, growing in number. Their hatred is palpable, as is their rage for the wound you inflicted upon the Maw in Chiurgeon Slump...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

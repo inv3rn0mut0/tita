@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_emptycage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Empty Cage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for the frame in the murdens' lair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring the frame to Orth Faung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Aligern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Faung examined the frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Aligern and I aren't friends (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Entered Endgame Without Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Aeon Priest Orth Faung has asked me to retrieve a 'frame' for him. He claims that murdens stole it from him, and he needs it to complete his research for Aligern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>If murdens stole the frame, they would have hidden it somewhere in their lair. I doubt it will be easy to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I have the frame, I should return it to Orth Faung in Chiurgeon Slump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Faung was delighted to see the frame again. He wants me to bring Aligern to see him, as he thinks he can somehow use the frame to 'end Aligern's pain'... whatever that means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>By examining the frame, Orth Faung discovered that Aligern's living tattoos are the transmuted forms of his family and friends. Once he has helped me deal with the Sorrow, Aligern now has a plan to restore them to life. He was uncharacteristically emotional, and I got the sense that he's extremely grateful - not only to Faung but to me as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I had to tell Faung that Aligern and I parted on bad terms. Faung returned to Sagus Cliffs to look for him. He promised he would tell Aligern that I helped find the answers he has sought for so long. Whatever happens, I doubt I'll see either of them again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>With the resonance chamber activated, I don't know when I'll be able to return to the Bloom. Hopefully Aligern and Orth Faung will be able to resume their research at some point.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

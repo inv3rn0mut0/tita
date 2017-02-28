@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_c4411_candy_dispenser</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This is a rectangular device with the likeness of a furry, feline-like creature's head at one end. It may be some kind of toy, or-
+
+The device warms in your hand, and the creature opens overlarge eyes and gazes up at you with love-struck awe. 
+
+"Mrrr?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mrrr!" the creature on top of the device says, overjoyed to be out in the light again. The hands protruding from either side waggle ever so slightly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You withdraw the dispenser once more. The creature's desiccated head hangs limp to one side, almost obscuring one of the hands protruding from the side of the device. 
+{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Squeeze the protruding hands.
+{GAVIN: Is item_c4411_candydispenser_HeadIsDead=0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Squeeze the protruding hands again.
+{GAVIN: Set item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You pinch the hands against the sides of the device. 
+
+"Eee," the creature says, its eyes widening. A tiny bulge moves up its tinier throat. "Eee! Eee! BLARF."
+
+It spits out a rectangular tablet with a tiny *poot*.
+
+{SOUND: High-pitched, cute versions of the barfing above.} 
+{SCRIPT: Player gets tablet.}
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You pinch the device's hands again. 
+
+"Eee," the creature murmurs, looking concerned. "Eee! Eeerg. Eeeragh." Patches of its fur are falling out, but it carries on with unwavering determination. "MrrraaaaaBLARF."
+
+It spits out a second tablet with a *poot*, gazes up at you in round-eyed, rolling horror, and dies in your hand. 
+{SOUND: High-pitched, cute versions of the barfing above.} 
+{SCRIPT: Player gets tablet.}
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The skull of the dead creature on top of this dispenser is disintegrating, and one of the protruding hands looks loose enough to fall off.
+{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Dismantle the device and search for valuables inside.
+{SCRIPT: One step easier if the player has examined the device (Node 14)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Examine the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Examine the device again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>With twin *clicks*, the outlines of long, slender, four-fingered hands protrude from either side of the device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You pick up the object. It smells of fruit and makes your skin tingle. You look back at the creature. 
+
+"Mrrr!" it says, its eyes darting between the tablet and your mouth. 
+
+Apparently, you're supposed to eat it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You turn the device over to examine the casing. The creature coos with interest at the sight of the floor. 
+
+On the bottom, opposite the head, you find a carving of a stylized sun with a hole at its center. You don't recognize the symbol, however, and can't tell if it's a maker's mark or something else entirely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The creature whoops as you flip the device over to look at the sun carving on the base. It still means nothing to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Put the dispenser away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You pry at the sides of the device, slipping your fingernails along the fleshy seams beneath the now-useless hands and tugging at them as carefully as you can.
+
+Without warning, the device *cracks* apart with a spray of pink fluid and tiny organs.
+{SCRIPT: Small, gory explosion.}
+{SOUND: Small, gory explosion.}
+
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You pry ineffectually at the seams in the device until you hear a brittle snap from within. 
+
+"Ak," the dead creature says. Its tiny mouth doesn't move. "Ak," it says again, louder. 
+
+Then, it is shouting. "Ak! Ak! AK! AK!" You have just enough time to wonder what the word means when the device explodes in your hand. It was, apparently, an alarm. 
+{SOUND: "Ak" rising in volume and tempo}
+{SCRIPT: Increases character Might pool by one}
+{SCRIPT: Removes dispenser from inventory.}
+{SCRIPT: Flash of light centered on PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"What's your name?"
+{GAVIN: Is item_c4411_candydispenser_HeadIsDead=0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Can you speak?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Mrrr," the creature responds, rubbing its furry head against the pad of your thumb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The creature purrs deep in its throat, making the device rumble in your palm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You flip the device over to look at the sun carving on the base. It still means nothing to you. 
+{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You tip the device over to examine the casing. The dead creature's head lolls bonelessly, like a pendulum made of flesh. 
+
+On the bottom, opposite the head, you find a carving of a stylized sun with a hole at its center. You don't recognize the symbol, however, and can't tell if it's a maker's mark or something else entirely. 
+{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Tiny indentations beneath the protruding hands catch your attention. They seem more than simple decoration. 
+
+You run your fingers over them, probing carefully. Ribs. They appear to be this creature's ribs, pushing through the warm skin of the device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The creature's fur falls away in a shower of tiny hairs, and its flesh puckers and dries, tearing like old paper. The large eyes burst like squashed grapes with a final, oddly-satisfying *pop*.
+
+It seems you will be getting no more tablets from this device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>When the glare fades, you feel stronger, as though the creature gave some portion of its life to you upon its death. 
+
+You have no idea why. And now, you never will. 
+{SCRIPT: Increases character Might pool by one}
+{SCRIPT: Conversation disabled after this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sorting through the gore, you find a tiny, blinking nodule. Perhaps, this is what was keeping the creature alive all this time. 
+{SCRIPT: Conversation disabled after this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>When the glare fades, you feel healthier. Stronger. It seems likely that the creature was kept alive in that device by some sort of organic power cell, which you managed to rupture during your experiment. 
+Why it made you stronger instead of killing you when it exploded is anyone's guess. 
+{SCRIPT: Increases character Might pool by one}
+{SCRIPT: Conversation disabled after this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Squeeze the hands again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Nothing emerges from the creature's ruptured throat but a wheezing gasp and a puff of putrid air. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

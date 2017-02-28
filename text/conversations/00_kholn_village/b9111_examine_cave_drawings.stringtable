@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_kholn_village\b9111_examine_cave_drawings</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>123</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The paintings seem to dance across the rock face. You can make out people and strange creatures, but there seems no rhyme or reason to the pictures or their movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Matkina raises an eyebrow. "It's a story. I can't believe I didn't see it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Obviously it's a story, but of what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the drawings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave the drawings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The drawings shift around in two obvious groups: one on a kind of map, and the other permeated with circular runes. All of it is framed in a kind of scribbled writing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Examine the map and its related drawings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Examine the drawings permeated with runes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The paintings shift and move across the rock face. You can make out people and strange creatures, but there seems no rhyme or reason to the pictures or their movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The paintings shift and move across the rock face. You can make out people and strange creatures, but there seems no rhyme or reason to the pictures or their movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The paintings shift and move across the rock face. You can make out people and strange creatures, but there seems no rhyme or reason to the pictures or their movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Matkina raises an eyebrow. "It's a story. I can't believe I didn't see it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Matkina raises an eyebrow. "It's a story. I can't believe I didn't see it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[DEBUG] What's the solution?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>First, decipher the writing to "activate" the solution.
+
+Then the solution is in two parts. Examine the drawings with writing, and touch the herald wielding a blade....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>First, decipher the writing to "activate" the solution.
+
+Then the solution is in two parts. Examine the drawings with writing, and touch the four-armed warrior....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>First, decipher the writing to "activate" the solution.
+
+Then the solution is in two parts. Examine the drawings with writings, and touch the three figures standing in a line....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>First, decipher the writing to "activate" the solution.
+
+Then the solution is in two parts. Examine the drawings with writings, and touch the three figures locked in combat....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The drawings with writing part of the solution is broken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>...Then go into the map designs and touch the group of islands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>...Then go into the map designs and touch the deity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>...Then go into the map designs and touch the wild animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Wild is broken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I grew up in this village. When I was little, I'd come up here to be alone and play with the paintings. I never thought about how they connected to each other."
+
+"But look, the islands and clouds are common settings. The deity, the herald, and the warrior are the protagonists in almost every scene. I'm *sure* it's a story. Touch them and see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She shrugs. "I have no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What's the story about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The map is made up of three designs surrounding a number of islands. The designs and the islands pulse with a golden light. You feel like they're waiting for you to do something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The runes are circular and flowing. they weave in and out of four figures, each of which pulse with a golden light like they're waiting for something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Touch the group of islands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Look at the other group, with the circular runes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Touch the herald wielding a blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Touch the image of the deity, the herald, and the warrior standing in a line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Touch the image of the deity, the herald, and the warrior locked in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Look at the other group, with the map.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The map shifts and spins. The islands grow to take up the whole space, big enough that you think they might represent continents or even moons. Lush trees sprout from each one, and falls of water - or maybe roots - plunge off the sides. The glowing man looms large in the center like some kind of deity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The deity raises his hands. Out of each of the islands arises a number of smaller beings. The people vary in color and appearance, some with tails or extra arms and eyes. All of them turn to the deity and raise their hands to him, palms outward. You guess the gesture is a kind of worship.
+
+The deity then ascends above the islands and disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Matkina huffs in annoyance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"These creation myths are all the same. Some god makes people he doesn't care about. They look up to him, then he abandons them. Why make them in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"If he's a god, maybe he has reasons we don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Maybe by leaving, it forces the people to grow stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"It's just a myth. You're reading too much into it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It's just trying to make sense of life. To find meaning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Are you mad because they were abandoned or you were?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>She frowns. "Maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Are we done here yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Hmph. What good's a god who isn't there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What a stupid reason to paint a story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She gives you a sidelong glance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The scene shifts toward the smaller beings working on the islands. The clouded area with the giant, glowing deity fades and disappears.
+
+Slowly, gradually, the scene darkens, the people hunch over as they work, until most of them become the wild animal you first touched. One by one, they cease working and wander off aimlessly, or else attack each other, like beasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>One of the smaller beings, shaded in violet, remains unchanged, though all around her the others have become wild creatures. She bears a horn, giving the impression that she's some kind of herald.
+
+The herald falls to her knees and pleads to the sky. Then she rises up to the clouds where the deity sits, but the deity ignores her. She pleads and begs, but the deity casts her back to the islands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The glowing deity casts the herald down to the islands.
+
+The herald takes up a twisted blade and goes to the wild creatures around her. As she touches each one, the creatures turn back into small beings like the herald herself - colored differently, or with more arms or fewer eyes, but definitely beings of the same sort.
+
+The herald leads this host to the clouds where the deity waits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>There is a great battle, but the deity is too powerful. He flings them back to the islands with great sweeps of his hand. Some of those struck stand up, albeit slowly. Many more do not stand up at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>From the corner of your eye, you notice Matkina is trembling. "Nothing," she says. "It's nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You're trembling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>She hesitates, then shakes her head. "It's stupid, but... I feel like the herald is me and the deity is *him*, the so-called Changing God.
+
+"I left this village a long time ago to take on our father, but now, in this village... what if everyone I care about is destroyed in the process?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"It's not your fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"It won't happen. We'll stop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"It was worth the risk to you once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You don't know that." She scowls, and you swear you see a tear go back *into* her eye. "It doesn't matter. Whatever happens, I won't let *her* hurt these villagers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You're right. Whatever happens, I won't let *her* hurt these people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>She shakes her head again. "It wasn't a risk before. Now that it is... No, it's not worth it. Whatever happens, I won't let *her* hurt these people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Smaller beings on the islands struggle to their feet. The herald goes to them, pointing at the clouds with her blade, apparently urging them to face the deity.
+
+A green warrior with four-arms picks up his own blade and points it at the herald instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The herald rises to the clouds, twisted blade in hand.
+
+The deity in the clouds has his back to the herald, unprepared for this second attack. The herald, likewise, does not see the four-armed warrior who has followed her to the clouds with his own host.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>There is a great battle in the clouds above the islands. The herald fights the deity. The four-armed warrior and his host attack the herald, and the deity faces them both.
+
+One by one, the hosts of the herald and the warrior are sent crashing to the islands. None stand back up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The battle continues until only the deity, the herald, and the warrior remain. All others are dead on the islands, but these three remain locked in combat until the scene fades and the original designs return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>As the scene plays, a humming grows from within the wall. You feel a sucking sensation and suddenly the world goes black.
+
+In the darkness, you hear Matkina mutter, "I'll be damned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Bank 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Something tells you these drawings aren't just decorative or even informative. There is some functional purpose behind them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Try to determine the original purpose behind the glowing designs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Lore: Wilderness] Something about the kneeling herald doesn't feel right. The creatures around it look different from the others, like they were added later. It might be a mistake in the painting, but you feel like it isn't - like the herald is not part of the paintings' original purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Lore: Wilderness] The islands aren't right. Of course they're representative, but their shape feels *false* somehow, like even prior world geography wouldn't work like that. You think that the group of islands was added hastily and is also not what you're looking for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Lore: Wilderness] The way the islands arrange themselves around the deity doesn't match the islands in other scenes. Maybe that's intentional, but it feels like the deity is also not part of what you're looking for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Try to determine the original purpose behind the glowing figures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Lore: Civilization] The runes around the three figures in a line don't match the other runes, as though the characters were randomly chosen. It might be intentional, but you think the image of the deity, the herald, and the warrior standing in a line was added later and is unrelated to the drawings' function.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Lore: Civilization] The runes around the four-armed warrior look more decorative than functional, as though the characters were randomly chosen. You don't think the four-armed warrior is vital to the function of the paintings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Lore: Civilization] You don't understand all of the runes, but those around the herald wielding a blade seem to be nonsense. It's doubtful these are related to the original function of the paintings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Lore: Civilization] The three figures locked in combat doesn't match the other paintings in style. It feels like it was added later and is probably not related to the function of the paintings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>A humming grows from within the wall. The pictures stop moving, and you feel a sucking sensation. Suddenly, the world goes black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Maybe you're reading too much into it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Yeah." She wipes her nose with the back of her palm. "You're probably right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[DEBUG] Just open the damn portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Open the cave portal again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Try to figure out the function of the paintings and how they work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Problem Solving] There are two groups with four designs each. Touching a design in one group causes it to glow while "turning off" the other designs in that group. So two pictures are glowing at any given time.
+
+It seems if you "turn on" the correct two designs, one from each group, it will unlock whatever this does.
+
+But it looks as though that function needs to be activated somehow before it will work. Possibly deciphering the writing will help with that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Touch the group of islands that look like the picture Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Touch the design that looks like a deity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Touch the deity that looks like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Touch the wild animal that looks like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Touch the design that looks like a wild animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Touch the kneeling herald that looks like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Touch the design that looks like a kneeling herald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Touch the herald wielding a blade, like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Touch the four-armed warrior that looks like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Touch the figure that looks like a four-armed warrior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Touch the deity, the herald, and the warrior standing in a line, like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Touch the deity, the herald, and the warrior locked in combat, like what Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>The writing shifts when you touch it. You can't understand most of it, but you figure out enough to touch the right characters. As you do, the other drawings glow brighter and move faster, as though you've set something in motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The writing shifts when you touch it, but you can't figure out what it says or what purpose it serves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The writing shifts when you touch it. They're instructions to activate the other pictures. You touch the right characters, and the other drawings immediately glow brighter and move faster, as though you've set something in motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>The writing is a complete mystery to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Try to decipher the scribbled writing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Try to decipher the writing again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The drawings shift around with your activity then become still once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Activate the writing the way Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>As the scene plays, a humming grows within the wall and the various pictures move around in an agitated way. The activity dies down suddenly, though.
+
+It seems like it *wants* to do something. Perhaps it needs to be activated first somehow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>As you lean closer, the drawings become still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Examine the drawings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>All that remains now is to touch the two pictures that Tik showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Can we go please? You're not getting anywhere, and we're running out of time."
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"What if these pictures are the key to getting into the cave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I think these pictures do something. I just need to figure it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"All right. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I just wanted to see the story. Let me try to activate it like Tik showed us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Who's the superior officer here? We'll go when I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ugh, finally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>She crosses her arms. "Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"You realize nobody's ever made them do anything, right? These paintings have been here for thousands, maybe hundreds of thousands, of years. They probably don't do anything at all. But if we don't leave soon, Ledak's going to ask dangerous questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Just a little longer. I feel like I'm close to something."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

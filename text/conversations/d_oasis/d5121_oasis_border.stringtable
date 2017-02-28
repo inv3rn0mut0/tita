@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_oasis_border</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Oasis's curved wall of water stands before you, shimmering in the hard desert light. Ripples run across it with every move you make, but somehow the surface tension never breaks. Beyond the shimmer, fish swim and seaweed sways.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Touch the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Put an ear in the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Your finger easily penetrates the surface of the water, and a few drops trickle down to your wrist. As you pull out again, a few more drops dribble from the hole, but then it closes up again as if it never was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You press the side of your head to the surface and allow your ear to sink into it. Immediately, the sounds of the Oasis reach you through the gurgling of bubbles - the quavering calls of undersea creatures, the chiming of underwater bells, and behind it all, the shouting of an angry mob, somewhere far in the distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Taste your finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It tastes salty, like the water in Garravia Sound near Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You press the side of your head to the surface and allow your ear to sink into it. Immediately, the sounds of the Oasis reach you through the gurgling of bubbles - the quavering calls of undersea creatures, the chiming of underwater bells, and far in the distance, voices raised in vibrant but melancholy harmony. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

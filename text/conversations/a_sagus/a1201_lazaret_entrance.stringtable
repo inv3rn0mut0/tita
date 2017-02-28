@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_lazaret_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This metal door is thick, heavy, and unmarked by time. Double rows of circular bumps run horizontally and vertically across its surface. 
+
+As you approach the door, one of the bumps suddenly slides open, revealing a circular aperture. A few tiny, waving strands of synth emerge from the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This metal door is thick, heavy, and unmarked by time. Double rows of circular bumps run horizontally and vertically across its surface. It is firmly sealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText> Follow-up PQ. 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the door more carefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the door again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The metal surface is infused with miniscule threads that are barely visible to the human eye. They only run in straight lines and right angles, and they seem to converge at the circular bumps. 
+
+Upon closer inspection, you notice that each of the bumps is unique - some have flat faces, others are actually many-sided polygons, and a few are marked by tiny apertures. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The metal is infused with miniscule threads. They seem to converge at the circular bumps, all of which are subtly different from one another.
+
+You don't find anything that seems to be an access device, and touching the door has no effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Unfortunately, you don't see anything that resembles a knob, keyhole, or access device. You try touching both the flat planes of the door and the small bumps, but nothing happens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Knock on the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Leave the door alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You knock lightly at first... then harder. The door makes no sound at all, nor does it shudder or yield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"There's no one home, dear. Hasn't been for thousands of years." She peers at the door. "One of my colleagues at the Order claimed that she got inside, but I don't believe her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sound-proof, fire-proof, explosion-proof. No point in knocking. It's not going to open up... not even for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Leave the door alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The waving strands whip out, wrapping themselves around the eye. For a moment, the eye comes to life, buzzing and whispering, getting warmer in your hand. The synth fibers make soft, fluttery sounds in return. After a moment, they withdraw.
+
+The door slides open, and you step into the chamber beyond...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Hold the metallic eye near the open aperture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Use the metallic eye to open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Once again, the synth fibers connect themselves to the eye, commune with it for a few moments, and then withdraw. The door slides open, and you step into the chamber beyond...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>This metal door is thick, heavy, and unmarked by time. Double rows of circular bumps run horizontally and vertically across its surface. 
+
+As before, one of the bumps slides open, and a few waving strands of synth emerge from the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

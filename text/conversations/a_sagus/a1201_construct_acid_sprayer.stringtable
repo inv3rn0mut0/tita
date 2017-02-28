@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_acid_sprayer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A long tube emerges from the plating of the dead construct and winds upwards. The duct terminates in a hollow cone. Every few seconds a minute drop of green liquid drips out of the end and steams as it strikes the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The fluid is some kind of highly corrosive acid. It would do severe damage to organic tissue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A round dial rests at the base of the cone, ringed by a thin crust of corroded metal. It appears to be a valve that controls the flow of the noxious substance, but it looks like it hasn't been moved in centuries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[While you're unsure of how you attained this knowledge, your understanding of machines tells you that the pipe is constructed of telescoping rings, allowing it to flex. Someone with a sharp eye for targeting might have better luck hitting enemies with the spray.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Your understanding of machines tells you that the pipe is constructed of telescoping rings, allowing it to flex. Someone with a sharp eye for targeting might have better luck hitting enemies with the spray.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Briefly open the valve and try to aim the spray.]
+
+{SCRIPT: Trigger cone targetting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Open the valve and try to aim the spray again.]
+
+{SCRIPT: Trigger cone targetting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText> Addend. 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Fluid continues to drip from the tube.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[The fluid must be some kind of highly corrosive acid. Aimed the right way, it could cause prolonged chemical burns on anyone it hit.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[While you're unsure of how you attained this knowledge, your understanding of machines tells you that the pipe is constructed of telescoping rings, allowing it to flex. Someone with a sharp eye for targeting might have better luck hitting enemies with the spray.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Your understanding of machines tells you that the pipe is constructed of telescoping rings, allowing it to flex. Someone with a sharp eye for targeting might have better luck hitting enemies with the spray.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A lambent green fluid drips from end of the device's nozzle and hisses angrily on the metal surface beneath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to turn the valve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Try to turn the valve again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>With a crack, the valve budges a centimeter. A thin stream of noxious fluid pours from the nozzle and hisses into the metal surface.
+
+You open the valve a bit further and aim the ensuing spray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>All attempts to turn the valve are useless. There's a reason it hasn't been used in centuries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Open the valve for a second and aim the spray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Open the valve and aim the spray again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>A round dial rests at the base of the cone. Now that the corrosion has been broken through, it should be much easier to turn the valve on and off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A noxious green fluid continues to drip from the nozzle, hissing as it hits the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Script Node 34</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The rust and grime freeze the turret in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Trigger Conv Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

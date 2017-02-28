@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_matkina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Matkina continues to cut and slash, carving sigils of pain into the helpless creature's exposed flesh. Aligern regenerates quickly after each cut, the wounds closing on the heels of each incision. The two of them might be here forever - or at least until the Bloom finishes devouring the shade.
+
+Matkina's echo doesn't notice you, being intent on her tortures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Before you is an archetype of Matkina, the Matkina you first saw in Sagus Cliffs - the White Death, a deadly assassin whose rage is her focus. You're lucky in that her focus is on another victim altogether - a helpless unfortunate being digested by the Bloom, whom she is taking great delight in torturing, prolonging his agony. Her face is a grim mask, a cruel, savage sneer that holds no humanity.
+
+Whatever this abomination is that she torments, it regenerates as quickly as she cuts it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matkina continues to flay and slice the helpless shade of Aligern. As you watch, she peels back an eyelid and cuts it off... and Aligern's body extrudes a new one in moments. Matkina's delighted laugh is hideous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Matkina's focus remains on the abomination in the wall, a tortured soul whose misery is made worse by her foul ministrations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Matkina, you need to stop this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave Matkina to her tortures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Sometimes it's best to just walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Her attention snaps away from her victim and locks onto your face. Her concentration is pure and whole, and behind her black eyes is an unholy rage. Her lip curls, and she licks her teeth.
+
+It's clear she's about to attack you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Attempt to dodge her attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She drops into a fighting crouch, and you idly wonder whether her numenera translated along with the worst parts of her personality.
+
+And then you have no more time to wonder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[DEBUG: Yes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[DEBUG: No]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[She vanishes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[You die? She continues her relentless attack on Aligern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Successfully avoid her attack, but she appears to be unaware of your presense and is a mindless automoton.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Take damage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[You dodge her attack and move between her and Aligern. She once again gains focus on Aligern and leaves you alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Fumble and take damage. She attacks again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Her attention is no longer on Aligern. She looks like she will continue to attack you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Divert her attention to Aligern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Use an item(?) to divert her attention back to Aligern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[You step between her and Aligern and dodge at the last moment. She hits Aligern and continues attacking him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[The item(?) diverts her attention and her focus is off of you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Her mindless nature gives you the sense that it's best to leave her alone and there's nothing you can do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Divert her attention back to the wall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Use an item to divert her attention.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[The item(?) diverts her attention and her focus is off of you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[You step between her and the wall and dodge at the last moment. She hits the wall and continues attacking the abomination.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[She looks like she will continue to attack you instead of the abomination on the wall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Before you is an archetype of Matkina, the Matkina you first saw in Sagus Cliffs - the White Death, a deadly assassin whose rage is her focus. You're lucky in that her focus is on another victim altogether - a helpless unfortunate being digested by the Bloom, whom she is taking great delight in torturing, prolonging his agony. Her face is a grim mask, a cruel, savage sneer that holds no humanity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I... I would never do that. Not to Aligern. Not to anyone. I have been cruel, but never for pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Oddly, he's not looking at his double trapped in the wall, at least not at first. He's studying the tattoos. Then he shakes his head to clear it, and says wryly, "I always suspected Matkina had it in for me."
+
+He turns to you. "What are you going to do about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I know that face," she says quietly. "I remember that feeling. But I've never tortured for entertainment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Heh. She certainly needs *some* sort of outlet for that pent-up rage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She raises her blade, but something like recognition flickers into her face. She studies you carefully, taking in your face, your bearing, your tattoo... and suddenly she folds in on herself. The rage and hatred vanish from her eyes, and she lowers her knife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She raises her blade. Clearly, you haven't penetrated the fog of the Bloom's anger, and she is on the verge of bloodshed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Your words are like cold water dashed in her face. She blinks, rationality returning, and she looks at you with fear and anguish written on her face. Her voice is cracked from disuse. "Where did... how did I get here?"
+
+She doesn't wait for an answer. She turns from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You speak, and she smiles.You hardly even see the blade as it licks out and kisses your cheek. 
+
+Her smile is almost beatific. She waits, your blood dripping from her knife, for you to speak again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>With her attention on you, you take to your feet. She is after you in a moment, soundlessly pursuing you through the Bloom. You chance a look back over your shoulder. She carries her blade low, ready to strike, and a chilling smile has pasted itself on her face.
+
+{COLIN: This description feels to me like it requires a cutscene. I'm not sure having her chase you works as a solution to this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You run and look over your shoulder to make sure she's following. But she's not. Instead, her attention has locked back onto her original victim. She reaches out and surgically removes another flap of skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>To ensure her attention, you strike her lightly across the bridge of her nose, and turn and pelt away. With a wordless howl, she leaps to pursue you. You lose her around the corner, and soon as her line of sight has broken, she ceases to howl.
+
+Peering back around the corner, you see that she has taken a sudden and abiding interest in the victims embedded in the walls there.
+
+Her hatred drains away. Her face goes slack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You turn to run, but you trip over your own ankles, and Matkina's echo stands above you, waiting... *hungry* for your pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>She blanches as your stern tone washes over her. She cringes, drawing back, and in so doing, the venom and spite disappear from her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She sneers, and her grin grows wider, more fearsome. She turns back to her victim, prepared to take more flesh from his body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Your words are like cold water dashed in her face. She blinks, rationality returning, and she looks at you  with fear and anguish written on her face. Her voice is cracked from disuse. "Where did... how did I get here?"
+
+She doesn't wait for an answer. She turns from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Her knife is almost too fast for you follow, and it streaks a shallow gash across your cheek. Her voice is harsh. "Stop? No. *Start*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Confusion and loss radiate from her slight form. She raises her hand and looks at it carefully, and kneels to place her blade on the floor. She stands, not taking her eyes from her hand, and wanders away. As you watch, she places her hand on the Bloom's wall, and it accepts her greedily.
+
+{SCRIPT: Path Matkina to a nearby wall, despawn her}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Matkina, this isn't you. Your personality has been altered by the Bloom, the worst parts of it brought to the fore. You can fight this. You can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Matkina, you're a better person than this. Rise above the hatred the Bloom has imprinted onto your mind."
+
+{COLIN/GEORGE: It seems strange that the player could retry this persuasion and each time she just "raises her blade" but doesn't attack. Maybe not allow a retry? Or have a follow-up failure that is attack?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You round a bend, breaking her line of sight with you, and her footfalls immediately cease. Peering back around the corner, you see that she has taken a sudden and abiding interest in the victims embedded in the walls there.
+
+Her hatred drains away. Her face goes slack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Try to draw her away from her victim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Try again to draw her away from her victim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Matkina! Stop that, this instant!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I told you to stop!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>But wait! Her victim is Aligern - or at least, an Aligern who is trapped in the Bloom's walls, being slowly digested into its flesh. His tattoos are sucked from his arms, splayed out next to him in crude caricatures, like cave drawings of people. His extremities are trapped, and he's unable to defend himself from her assault. He simultaneously cries in agony and cackles madly at her. "Your fault, castoff! You and your wretched sire! You destroy the world!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's not me, Aligern. It's not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Run away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She starts after you, and then reconsiders. She turns back to her victim, and begins to carve again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Just you and me, my precious, my sweet..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>She croaks back, in a voice rusty from disuse, "I give a laak's shit what you told me to do. Fight. Or die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>This time as you turn to run, her hand snakes out and grabs your collar. You turn, and she waves her knife from side to side.
+
+Her meaning is clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

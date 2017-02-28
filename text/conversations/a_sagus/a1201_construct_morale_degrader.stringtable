@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_morale_degrader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Flickers of greenish energy race across rancid organic fibers in the center of a metal disc. A slight yet implacable sense of unease surrounds the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Glimmers of green energy continue to lick the rotting fibers of this device. The needling sense of discomfort is stronger than ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Looking at the strands more closely, it's clear the feelings of dread are not imagined. They are a real effect of psychic energies emanating from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[You may be able to manipulate whatever power remains in the device.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attempt to wrench the fibers out of the socket.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Touch the fibers and try to use your willpower to project the dismaying psychic field toward your enemies.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>With the last of the energy dispersed, the device is, after unknown centuries, dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The rotting tendrils squelch at the pressure. With a strong grip, it's easy to rip them from their sockets. As soon as they are removed, a wave of grim energy radiates outward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Grabbing the rotting tendrils proves fruitless. They squelch and resist any attempts at finding a solid grip to wrest them free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[As you pull rotting and dessicated chunks of matter from the socket, you feel a wave of noxious psychic energy claw at your temples. Doubt and dismay begin to creep in but you manage to hold it at bay through sheer will. As you watch, everyone else on the reef, friend and foe, are wracked by the same pulse of self-recrimination and fear.]
+
+{SCRIPT: Hit all mobs except user with DIsmay Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[As you reach your fingers into the socket, you somehow trigger the device's defenses. A shock of greenish energy runs up your arm and into your temple. You've never felt such hatred and sadness at your own stupidity. Dismay washes over you.]
+
+{SCRIPT: Hit only user with Dismay Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The waves of dread coming from the device are the direct result of psychic energies coming from deep within the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Focusing on the energies in the device is too difficult. The waves of fear and nausea become too overwhelming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[You close your eyes and begin to picture the green sparks, hear the soft crackling they emit, smell the ozone they leave behind. As the mental image focuses, you draw the sickly energy out of the socket and begin to whip it outwards at Qorro's gang. When you open your eyes, your enemies are clutching their heads, weeping, doubled over. The psychic field has penetrated their minds. You get the sense that your own mental energy amplified the power of the device.]
+
+{SCRIPT: Hit enemies with Dismayed Fettle, duration increased}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[You close your eyes and begin to picture the green sparks, hear the soft crackling they emit, and - a flash of light or a crack of synth on metal snares your attention. As your mind rips away from the device, a line of its energy snaps out at you, striking your temple. You've never felt such hatred and sadness at your own stupidity. Dismay washes over you.]
+
+{SCRIPT: Hit user with Dismayed Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Script Node 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Wrench the fibers out of their sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to pull the fibers out again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Touch the fibers and try to project the device's energies at the enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Try to direct the device's energies at the enemy again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Script Node 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Script Node 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You sociopath!" he cries, the lines of his face deepening. "You did this on purpose!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He snorts. "Is that supposed to help us? I notice you're unwilling to actually *hurt* them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You idiot! You should know better than to tamper with the numenera carelessly." Most of her reflections are holding their heads or stomachs in pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You bumbling laak-sniffer! Didn't we warn you about treating the numenera carelessly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Leave him alone, Aligern. He is still newly born."</DefaultText>
+      <FemaleText>"Leave her alone, Aligern. She is still newly born."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"So like you, Aligern, to bring the people around you to tears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Impressive control." There is no joy in his expression, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Freshly born, and he's already more skilled and daring than you, Aligern."</DefaultText>
+      <FemaleText>"Freshly born, and she's already more skilled and daring than you, Aligern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Noticing the failure, Aligern yells at Callistege, "Now is not the time to scavenge oddities! Focus!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Noticing the failure, Callistege laughs at Aligern, "Try smashing it with your head next time! It's hard as stronglass!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Damn it, Callistege, this is *not* the time for your experiments. We need help here! Unless of course you had no intention of helping us in the first place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Your mind isn't nearly focused enough to control those emanations. Stop trying before you hurt yourself. Again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[As you are overcome, Aligern glances over and grumbles, "Serves you right, Callistege. I've learned not to fool blindly with the numenera."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[As you are overcome, Callistege chuckles, "I didn't think it was possible for you to be *more* dour, Aligern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[As you are overcome, Aligern glances over and grumbles, "Castoff! Take care!" Callistege laughs. One pities you and the other finds you a clown. You are nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Be careful, damn it! You can't just *mess* with this stuff to see what happens!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Although the sickening feeling remains, the device becomes dark and dormant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The device itself becomes dormant, and the feeling of unease around it is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>After a few moments, the dread dissipates. The device remains as it was before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Perhaps *you* can't, dear. Some of us are capable of cleverness and daring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Script Node 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Everyone in range doubles over with grief and nausea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Bank 58</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bank 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You double over with grief and nausea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText> Addend. 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>With focus, those energies are directed out at Qorro and his gang.
+
+As the psychic field penetrates their minds, they clutch their heads and double over in pain and nausea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Touch the fibers and try to project the device's energies outward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Try again to direct the device's energies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Script Node 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The ancient machine emits a dull hum, ignoring your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

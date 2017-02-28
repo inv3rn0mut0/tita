@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_covetous_hearts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Covetous Hearts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retrieve the Navigational Cortex from the Anchorage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Dracogen with the Cortex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retrieved the Cortex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Dracogen in shame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>No Cortex For Dracogen (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entered Endgame Without Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ask Dracogen about his efforts to acquire the Cortex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Dracogen with the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Return to Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I've learned that Dracogen desires an item called the Navigational Cortex, which is a prized possession of the lascars in the Lost Anchorage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dracogen is definitely interested in obtaining the Cortex, and he admitted to sending a team to steal it... but they were slain in the attempt. If I try to acquire the Cortex for him, he recommends that I rely on guile and deception, not force. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I have the Navigational Cortex, I should return to the Memovira's Courtyard and give it to Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Dracogen was pleased that I succeeded where his previous agents failed, and he rewarded me as agreed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>The lascars have barred my entry into the Anchorage, making it impossible for me to retrieve the Cortex. I should return to Dracogen and report my failure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I reported my failure to retrieve the Cortex to Dracogen. He didn't seem particularly upset, as if he never expected me to succeed in the first place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I awakened in the Labyrinth when the Resonance Chamber was activated. I doubt I'll have a chance to get the Cortex to Dracogen now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>If I'm willing to engage in some illicit business, I should see if Dracogen still desires the Cortex. He might be willing to offer something valuable in return. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Dracogen professed interest in the Cortex, but he refused to speak further about it until I bring him the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I revealed to the lascars that the Ninth World is their legendary home, so they abandoned the Anchorage in a mass exodus. Unfortunately, they took the Cortex with them. I should return to Dracogen and tell him that I won't be able to retrieve the Cortex for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I revealed to the lascars that the Ninth World is their legendary home, so they abandoned the Anchorage in a mass exodus. Unfortunately, they took the Cortex with them. I should return to Dracogen and tell him that I won't be able to retrieve the Cortex for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've learned that outsiders aren't allowed to access the Navigational Cortex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>One of the lascars, a man named Pilot-Major Genjes, is working near the door to the chamber where the Cortex lies. If I want to sneak inside, I'll have to distract him somehow.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

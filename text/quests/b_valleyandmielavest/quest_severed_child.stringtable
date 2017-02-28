@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_severed_child</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Severed Child</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ask around about Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ask Oddwald about Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Visit Choi's tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ask about Choi's surname - Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Investigate the tomb of Ronos Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Learn more about Marcysa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Find the owner of the Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>I *know* Inifere's pain now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Inifere is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>I convinced Inifere to leave the Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>I left the Valley without solving the mystery of the memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ask Oddwald about Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Visit Choi's tomb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>I rescued Choi from Inifere's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Find Choi's Marker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Revisit Ronos Cai'sul's Marker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>See if anyone knows the name Choi Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ask Ronos about Choi Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I saw a disturbing memory inside a floating crystal in the Valley. The memory belonged to a man tormented by horrors beyond his control - and bloodthirsty cultists who kill for him whether he wants them to or not.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The memory contained few leads to follow, but the name of a young girl was mentioned - Choi. This Valley is full of the dead and their memorials. Maybe someone knows more about what happened to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Motley said if I wanted to find something specific in the tombs, I should ask someone named Oddwald the Sane. The code for his tomb is 5-1-4-3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Beltrax recognized the name Choi. He said he saw a tomb with that name at the location 4-2-2-1.
+
+He also said to "hold my breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I found Choi's marker. It had a very strange epitaph, but I learned Choi's surname is Ca'isul - the same as Ronos Cai'sul, the Memorialist I met when I entered the Valley. Perhaps he can shed some more light on this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've learned that there is another Cai'sul enshrined in the Necropolis. Perhaps there's some relation to the girl Choi. The tomb code for Ronos Cai'sul is 2-4-1-3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ronos Cai'sul was tracking Inifere and the cultists! His epitaph mentioned a guide named Marcysa, also interred in the Necropolis. I feel like I'm getting closer to an answer. Hopefully, the trail will end in her tomb: 1-2-5-4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I found a Merecaster, of all things, inside Marcysa's tomb. I don't know why it's there, but I have a feeling I know who it belongs to - the man in the memory, the castoff behind all the horrors of the Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Inifere *was* the man at the center of the memory from the floating crystal. It was his regret over Choi - and all the actions of his cultists - that flooded my mind when I touched the crystal. I have experienced his life and *know* his pain now.
+
+Perhaps he, also, can find peace now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Inifere was almost certainly at the center of the mystery from the floating crystal. He's dead now. Hopefully in death he will find the peace he never knew in life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Inifere was almost certainly at the center of the mystery from the floating crystal. I was not able to solve the full mystery, but I did convince Inifere to leave the Valley. Perhaps he'll find peace outside the Gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I was forced to flee the Valley before I could solve the mystery from the floating crystal. It was not my mystery to solve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I found a strange... man? ...in the tombs named Oddwald. He seems to live down here. Maybe he knows where I can find Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Oddwald's answer was a little strange, but he did give me a tomb code for what I *hope* is the child Choi. The code is 4-2-2-1.
+
+He also told me to "hold my breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Choi's... spirit, I suppose, was in the chaos of Inifere's mind. I managed to pull her out of his mind and into mine while I was in Inifere's Mere. Maybe it will help her - and Inifere - to find peace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>The memory contained few leads to follow, but the name of a young girl was mentioned - Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>I found Choi's marker. It had a very strange epitaph, but I learned Choi's surname is Cai'sul - the same as Ronos Cai'sul, the Memorialist I met when I entered the Valley *and* the name on another marker I found within the tombs. Perhaps Ronos's marker holds another clue to this mystery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>I found Choi's marker. It had a very strange epitaph, but I learned Choi's full name is "Choi Cai'sul." Maybe someone in the Valley will recognize the name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>I met a Memorialist with the same surname as Choi. Perhaps he knows something about her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ronos refused to provide any further information. Maybe Oddwald will know something about Choi's surname.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I was right! The Merecaster belongs to Inifere. If he's the troubled man from the crystal's memory, perhaps I can use the Merecaster to help him - or at least to end all of this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ronos refused to provide any further information. Maybe there's someone else who can help me - someone who knows the Necropolis inside and out.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

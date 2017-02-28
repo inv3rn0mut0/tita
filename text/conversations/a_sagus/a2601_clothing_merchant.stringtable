@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_clothing_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>203</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A tall, thin, and exquisitely dressed older man stands in the shade of an exquisitely crafted stall. The cut, color, and quality of his clothes are a symphony of harmonious coordination, while the expression of benevolent condescension he gives you would be more at home on the face of a king.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sangolin bows as you enter. "Welcome back, sir. It is an honor to serve you again. What can I do for you?"</DefaultText>
+      <FemaleText>Sangolin bows as you enter. "Welcome back, madam. It is an honor to serve you again. What can I do for you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sangolin bows as you enter. "Welcome back, citizen. It is an honor to serve you again. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A tall, thin, and exquisitely dressed older man stands in the shade of an exquisitely crafted stall. The cut, color, and quality of his clothes are a symphony of harmonious coordination, while the expression of benevolent condescension he gives you would be more at home on the face of a king.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'd like to see what you have to sell."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Can I buy an official city badge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Are you sure you can't sell me a city badge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Let's talk about Government Square again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Have you seen a white-skinned, hard-faced woman in the neighborhood? Very tough and dangerous looking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Have you seen a heavily armored glaive around here? Walks like he's asleep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Of course, sir." 
+
+He puts a finger to his chin. "Let me think, there's Council Tower just over there, and the Order of Truth. And you can't forget the Red Thicket - that walled courtyard on the edge of the square. Or were you curious about our fountain here?"</DefaultText>
+      <FemaleText>"Of course, madam." 
+
+He puts a finger to his chin. "Let me think, there's Council Tower just over there, and the Order of Truth. And you can't forget the Red Thicket - that walled courtyard on the edge of the square. Or were you curious about our fountain here?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What do you know about those creatures in the fountain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me about the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What can you tell me about the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Can you tell me about the House of Empty Time?"
+
+{SCRIPT: Player has interacted with the House of Empty Time.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"What can you tell me about the Council Clerk?"
+
+{SCRIPT: Player has met the Council Clerk or heard about him. I added a conditional for hearing of the clerk, but not for meeting him.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What do you sell here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Tell me again what you sell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I sell the finest citywear for discerning men and women, as well as quality armor for those traveling to less civilized locales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The finest citywear and armor for those who can afford it. Indeed, our quality is so high that we are the certified providers for the official badge of Sagus Cliffs." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He frowns for a moment, thinking, then nods. "Yes. In fact, I believe I sold her a cloak once. The way she wore it, it seemed as if she wished to hide her face, which, with a face like that, I could readily understand."
+
+He looks in the direction of the council building. "I got the impression that she might do *secret* work for the families. But I couldn't be sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>He shakes his head. "If I ever saw anyone like that, you can be sure I would report them to the Levies immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"City badges are not for sale to anyone. They are *given* to duly elected or appointed public servants of Sagus Cliffs. And it is illegal for me to give them to anyone who does not work for the city. I would be breaking the law." 
+
+He considers. "Of course, most public servants do offer me some remuneration for the materials. But no. No, I would not take the risk, nor betray my trust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Positively. As I said before, I would be breaking the law if I did. Far too risky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Certainly, sir. Right this way."
+
+{SCRIPT: Opens merchant window.}</DefaultText>
+      <FemaleText>"Certainly, madam. Right this way."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Certainly, sir. And allow me to include our exclusive Cliffs Collection Armors, available to citizens only. Right this way."
+
+{SCRIPT: Opens merchant window.}</DefaultText>
+      <FemaleText>"Certainly, madam. And allow me to include our exclusive Cliffs Collection Armors, available to citizens only. Right this way."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Please do come again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"How does one become a citizen of Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me again how to become a citizen of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"The Slave Families require an oath, and you must also sacrifice a year of your life to create a Levy. But I am not the man to talk about such things. You should speak to the Council Clerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"As I said, you should talk to the Council Clerk about that... though I applaud your interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Sangolin bows deeply as he sees you. "Welcome back, sir. I see that you have become a citizen since we last spoke. Congratulations! It will give me the greatest pleasure to show you our exclusive Cliffs Collection."</DefaultText>
+      <FemaleText>Sangolin bows deeply as he sees you. "Welcome back, madam. I see that you have become a citizen since we last spoke. Congratulations! It will give me the greatest pleasure to show you our exclusive Cliffs Collection."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>BRIBE</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>PERSUASION
+
+EASIER IF DONE THINGS FOR CITY
+
+EASIER IF TYBIR IS THERE</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"What is the Red Thicket?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Have you seen a heavily armored glaive around here? Walks like he's asleep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Have you seen a white-skinned, hard-faced woman in the neighborhood? Very tough and dangerous looking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He shakes his head. "If I ever saw anyone like that, you can be sure I would report him to the levies immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He frowns for a moment, thinking, then nods. "Yes. In fact, I believe I sold her a cloak once. The way she wore it, it seemed as if she wished to hide her face, which, with a face like that, I could readily understand."
+
+He looks in the direction of the council building. "I got the impression that she might do *secret* work for the Families. But I wasn't about to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"One of the stranger and more poignant attractions here in the Square. The creatures are called Jalleys, and they chatter in a thousand dead tongues. The Priests say that a new Jalley is born each time an old language dies."
+
+He shakes his head. "You could listen to them for a month and never hear the same language twice, or understand a single one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"There is not a finer or fairer legislative body in the Ninth World. And I don't say that just because they are my most valued patrons. They have run this city well and fairly for centuries, ever since Chila's rebellion. And thanks to me, they look magnificent while doing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"They are a credit to our city. Wise scholars and deep thinkers." He smiles. "And excellent customers as well. They are very particular about their robes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"That archway near the Order of Truth? A most peculiar thing. It seems to be a way of transporting children... somewhere. I have seen some go in, and others come out, and I don't know where they go or where they come from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He smiles. "There's a fellow with hands everywhere. And I mean that quite literally. He has his papers and documents stored in a hundred places all over town, but can pluck them from the air around him at will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ah, yes. The Whispering Wood, I call it. A very curious place. You can talk as loud as you like in there, and no one but the person you are talking to can hear you. It is often used for secret meetings and the like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Certainly. What would you like to know about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tell me what you know about the people in this district."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I have more questions about the people around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I'm not one to gossip, sir. But if you insist. Who do you wish to know about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"By all means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"By all means. Who do you wish to know about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Do you know Danaea's story?"
+
+{SCRIPT: Player has met Danaea.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Irathor Breen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Have you heard of Iyene Who Knows?"
+
+{SCRIPT: Player has met or heard about Iyene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"That poor woman. From one of the oldest families, and more noble than most, and yet she is cursed. I don't know the details, but she has been trying to get the Order of Truth to exorcize some sort of demon from her for years, and they haven't been able to help her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"They say she knows everything, but that's a lie. She doesn't know how to dress herself, that's for certain. I've offered to help her, but she won't come in my shop. Says I'm too expensive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"That sounds like a reasonable price for boots. I'll take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Very good, sir. I'll wrap them up for you. You'll find the *extra buckle* in the left boot."
+
+{MONEY}
+{LOOT}</DefaultText>
+      <FemaleText>"Very good, madam. I'll wrap them up for you. You'll find the *extra buckle* in the left boot."
+
+{MONEY}
+{LOOT}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Then it appears we will not be able to do business. Are you certain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I don't have that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Then I cannot sell you the boots. I'm afraid the price is firm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>He purses his lips. "I'm afraid I am unbribable, my friend. But... if you were to purchase this fine pair of red boots for, say, [Global: a2601_SangolinBribe] shins, it is possible I might leave *something of value* in the left boot by accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"The boots are [Global: a2601_SangolinBribe] shins. The *extra buckle* is free of charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What would it take to make you take the risk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I want to hear your offer again. For the boots with *something of value* left inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Think nothing of it, sir. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to congratulate you on your first position with the city, I will also give you this fine pair of gloves, with our compliments."
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText>"Think nothing of it, madam. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to congratulate you on your first position with the city, I will also give you this fine pair of gloves, with our compliments."
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Think nothing of it, sir. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now."</DefaultText>
+      <FemaleText>"Think nothing of it, madam. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles.
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Sangolin sighs apologetically. "I'm terribly sorry, sir. Normally, I would take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</DefaultText>
+      <FemaleText>Sangolin sighs apologetically. "I'm terribly sorry, madam. Normally, I would take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Sangolin frowns. "It pains me to say this sir, but I do not believe you. Do not attempt to fool me again."</DefaultText>
+      <FemaleText>Sangolin frowns. "It pains me to say this madam, but I do not believe you. Do not attempt to fool me again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Actually, I've just been made undersecretary to the overseer of executions. I guess the letter of commission hasn't come through yet. That's not a problem, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"As I said, you wouldn't be breaking the law. I'm a city official. The paperwork just hasn't arrived yet."
+{SCRIPT: One step easier if PC has completed the Shaky Foundations Quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Wait until Sangolin isn't looking and try to steal the badge from the mannequin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Waiting until Sangolin is turned away from you, you pluck the badge off the mannequin. 
+
+He turns back just as you hide it. He suspects nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Waiting until Sangolin is turned away from you, you try to pluck the badge off the mannequin, but you fumble it and he turns back before you can try again. Fortunately, he suspects nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Waiting until Sangolin is turned away from you, you pluck the badge off the mannequin, and then - just to make sure you look the part - you take a pair of fine red gloves as well. 
+
+He turns back just as you finish hiding the badge and the gloves. He suspects nothing.
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Waiting until Sangolin is turned away from you, you try to pluck the badge off the mannequin, but you fumble it. 
+
+You whip your hand away as Sangolin turns back, but it seems he caught the motion out of the corner of his eye. He crosses to the mannequin and removes the badge.  "I must remember not to display this when I'm the only one in the shop. Too many thieves about these days, don't you think?"
+
+{SCRIPT: Makes deception one step harder.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ah, but you won't be breaking the law. My friend here has just been made undersecretary to Overseer Yeen. A messenger should be coming shortly with the letter of commission, but you know how Yeen is. Always a bit sloppy with his paperwork."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"That's all right, Tybir. He'll hear soon enough. Sangolin, Yeen's delay won't be a problem, will it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Of course not, sir. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles.</DefaultText>
+      <FemaleText>"Of course not, madam. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Sangolin sighs apologetically. "I'm terribly sorry, sir. Normally, I would take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</DefaultText>
+      <FemaleText>Sangolin sighs apologetically. "I'm terribly sorry, madam. Normally, I would take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Of course not, sir. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to congratulate you on your first position with the city, please accept this fine pair of gloves, with our compliments."
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText>"Of course not, madam. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to congratulate you on your first position with the city, please accept this fine pair of gloves, with our compliments."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Sangolin frowns. "It pains me to say this sir, but I do not believe you. Do not attempt to fool me again."</DefaultText>
+      <FemaleText>Sangolin frowns. "It pains me to say this madam, but I do not believe you. Do not attempt to fool me again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Seeing what you're up to, Tybir distracts Sangolin by asking him about a beautiful waistcoat. While they are both turned away from you, you pluck the badge off the mannequin. 
+
+Sangolin turns back to you just as you hide it. He suspects nothing.
+{GAVIN: Tybir attitude adjustment here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Seeing what you're up to, Tybir distracts Sangolin by asking him about a beautiful waistcoat. While they are both turned away from you, you pluck the badge off the mannequin, and then - just to make sure you look the part - you take a pair of fine red gloves as well. 
+
+Sangolin turns back to you just as you finish hiding the badge and the gloves. He suspects nothing.
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Seeing what you're up to, Tybir distracts Sangolin by asking him about a beautiful waistcoat. While they are both turned away from you, you try to pluck the badge off the mannequin, but fumble it, and Sangolin turns back before you can try again.
+
+He saw nothing, but Tybir rolls his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Seeing what you're up to, Tybir distracts Sangolin by asking him about a beautiful waistcoat. While they are both turned away from you, you try to pluck the badge off the mannequin but fumble it. 
+
+You whip your hand away as Sangolin turns back, but it seems he caught the motion out of the corner of his eye. He crosses to the mannequin and removes the badge.  "I must remember not to display this when I'm the only one in the shop. Too many thieves about these days, don't you think?"
+
+Behind him, Tybir sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Thank you, Tybir. But there's no need to press the issue. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Sangolin frowns. "It pains me to say this sir, particularly since I have heard of all you have done to help Sagus Cliffs, but I'm afraid I do not believe you are a city employee. Do not attempt to fool me again."</DefaultText>
+      <FemaleText>Sangolin frowns. "It pains me to say this madam, particularly since I have heard of all you have done to help Sagus Cliffs, but I'm afraid do not believe you are a city employee. Do not attempt to fool me again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Sangolin sighs apologetically. "I'm terribly sorry, sir. Knowing how much you have already done for this city, I wish I could take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</DefaultText>
+      <FemaleText>Sangolin sighs apologetically. "I'm terribly sorry, madam. Knowing how much you have already done for this city, I wish I could take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Of course not, sir. After what you've already done for this city, I know you'll make a fine official. I'll wrap up a badge for you right now." He smiles.</DefaultText>
+      <FemaleText>"Of course not, madam. After what you've already done for this city, I know you'll make a fine official. I'll wrap up a badge for you right now." He smiles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Of course not, sir. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to thank you for what you've already done for Sagus Cliffs, please accept this fine pair of gloves, with our compliments."
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText>"Of course not, madam. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to thank you for what you've already done for Sagus Cliffs, please accept this fine pair of gloves, with our compliments."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Think nothing of it, sir. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to thank you for what you've already done for Sagus Cliffs, I will also give you this fine pair of gloves, with our compliments."
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText>"Think nothing of it, madam. I know too well the slowness of the city bureaucracy. I'll wrap up a badge for you right now." He smiles. "And as a way to thank you for what you've already done for Sagus Cliffs, I will also give you this fine pair of gloves, with our compliments."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Think nothing of it, sir. After what you've already done for this city, I know you'll make a fine official. I'll wrap up a badge for you right now." He smiles.</DefaultText>
+      <FemaleText>"Think nothing of it, madam. After what you've already done for this city, I know you'll make a fine official. I'll wrap up a badge for you right now." He smiles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Sangolin sighs apologetically. "I'm terribly sorry, sir. Knowing how much you have already done for this city, I wish I could take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</DefaultText>
+      <FemaleText>Sangolin sighs apologetically. "I'm terribly sorry, madam. Knowing how much you have already done for this city, I wish I could take you at your word, but in matters regarding city business I must be exceptionally cautious. I'm afraid we'll have to wait for the paperwork to arrive."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Sangolin frowns. "It pains me to say this sir, particularly since I've heard of all you have done to help Sagus Cliffs, but I'm afraid I do not believe you are a city employee. Do not attempt to fool me again."</DefaultText>
+      <FemaleText>Sangolin frowns. "It pains me to say this madam, particularly since I have heard of all you have done to help Sagus Cliffs, but I'm afraid do not believe you are a city employee. Do not attempt to fool me again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Certainly, sir."</DefaultText>
+      <FemaleText>"Certainly, madam."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Good afternoon, citizen," he says, bowing slightly. "I am Sangolin, and this is my shop, Sangolin's Fittings. Welcome! How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Good afternoon," he says, bowing slightly. "I am Sangolin, and this is my store, Sangolin's Fittings. Welcome! How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Good afternoon, citizen." He peers at you, eyes widening in recognition. "Why, you're the one who got those *creatures* to stop digging under our feet! Peliai told me all about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Good afternoon." He peers at you, eyes widening in recognition. "Why, you're the one who got those *creatures* to stop digging under our feet! Peliai told me all about it." 
+
+He beams at you. "I am Sangolin, and this is my store, Sangolin's Fittings. You are entirely welcome! How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Each of the jalleys in the fountain speaks in a different dead language. I find their babbling to be a pleasant undertone, like the pattering of rain, but they drive some people mad." He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Tell me about the fountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tell me again about the fountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Tell me about Council Tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Tell me again about Council Tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"What can you tell me about the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Tell me again about the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Can you tell me about the House of Empty Time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Tell me again about the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"What is the Red Thicket?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Explain the Red Thicket again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"What can you tell me about the Council Clerk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Tell me again about the Council Clerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Do you know Danaea's story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Tell me again about Danaea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Have you heard of Iyene Who Knows?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Tell me again about Iyene Who Knows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Try again to steal the badge when Sangolin isn't looking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"One of the stranger and more poignant attractions in the Square. The creatures in it are called jalleys, and they chatter in a thousand dead tongues. The Priests say that a new jalley is born each time an old language dies."
+
+He shakes his head. "You could listen to them for a month and never hear the same language twice, or understand a single one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"It is ancient beyond reckoning. The Tower's roots go all the way down to the forges in the Underbelly. And within it sits the Council of Sagus Cliffs - the finest, fairest legislative body in the Ninth World. And I don't say that just because they are my most valued patrons. They have run this city well for centuries. And thanks to me, they look magnificent while doing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"It is the seat of our wise and magnanimous rulers. The Council has governed our city since the legendary days of Chila the Great."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"They are a credit to our city. Wise scholars and deep thinkers." He smiles. "Excellent customers as well. They are very particular about their robes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"The intellectual center of Sagus Cliffs. Their relentless pursuit of knowledge is an inspiration to us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"That archway near the Order of Truth? A most peculiar thing. It seems to be a way of transporting children... somewhere. I have seen some go in, and others come out, and I don't know where they go or where they come from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I know little about it. It is a door to nowhere, and every once in a while children come out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"The Whispering Wood, I call it. A very curious and ancient place. You can speak as loudly as you like in there, and none but your partner can hear you. A great place for diplomacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"It is a place to exchange secrets. A place of soft air and unheard words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>He smiles. "There's a fellow with hands everywhere. And I mean that quite literally. He takes care of all the Council's documents, and has his papers and documents stored in a hundred places all over town, but can pluck them from the air around him at will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"He keeps the Council's business running smoothly, and has a most unusual filing system. If you need to deal with the city bureaucracy, he's the one to talk to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"That poor woman. From one of the oldest families, and more noble than most, and yet she is cursed. I don't know the details, but she has been trying to get the Order of Truth to exorcize some sort of demon from her for years, and they haven't been able to help her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"From what I hear she is possessed, quite literally. She wants the Order of Truth to help her repossess her self, but so far they haven't helped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"They say she knows everything, but that's a lie. She doesn't know how to dress herself, that's for certain. I've offered to help her, but she won't come in my shop. Says I'm too expensive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"She knows everything but style. Secrets, yes. What to wear, not so much. I despair of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>He clears his throat and directs your attention to a well dressed mannequin wearing the badge of a city official. "Also, it is our honor to have been chosen to provide the city of Sagus Cliffs with the official badges worn by all properly credentialed city employees. You may trust in their trust in us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Thank you, Tybir, but that's asking too much of this gentleman. Perhaps we could mitigate the risk to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Script Node 209</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Trigger Conv Node 210</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"I'm sorry. These armors are made custom for our finest clients. We don't have something you could purchase at this time."
+{SCRIPT: temp placeholder until we get store tech.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"How well do you know Alcen Perie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Tell me again about Alcen Perie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"She stops here often, though she doesn't always buy something. I know little else about her, except that she is a chiurgeon who administers to children." He raises his eyebrows. "I don't think that's *all* she does - sometimes I see her speaking to strangers from elsewhere in the city - married couples, usually. It all seems very hush-hush, if you know what I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"She is a chiurgeon by trade, and she enjoys fine clothes, apparently. Alcen is one of my best customers, but she keeps her personal business to herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Is that all for today? Can I interest you in our fine collection of armor, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>He stares at you and shakes his head. "Truly, Overseer Yeen is hiring almost anyone these days. There was a time when city officials were expected to *know* Sagus Cliffs." He tuts disapprovingly. "Never mind. You asked about Council Tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>He tuts disapprovingly. "You say Overseer Yeen commissioned you? Truly, Yeen's standards are slipping dramatically. This should be basic knowledge for any civil servant."
+
+He shakes his head. "My apologies. You asked about the Council Clerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"That's all right, Tybir. He'll hear soon enough. Sangolin, Yeen's delay won't be a problem, will it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>He laughs softly. "Friend, you are no city official. All those questions you asked me betray your ignorance." He spreads his hands wide. "I bear you no ill will, but I cannot simply *give* you a city official's badge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Actually, I've just been made undersecretary to the overseer of executions. I guess the letter of commission hasn't come through yet. That's not a problem, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>He stares at you and shakes his head. "Truly, Overseer Yeen is hiring almost anyone these days. There was a time when city officials were expected to *know* Sagus Cliffs." He tuts disapprovingly. "Never mind. You asked about the Red Thicket."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>He stares at you and shakes his head. "Truly, Overseer Yeen is hiring almost anyone these days. There was a time when city officials were expected to *know* Sagus Cliffs." He tuts disapprovingly. "Never mind. You asked about the fountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

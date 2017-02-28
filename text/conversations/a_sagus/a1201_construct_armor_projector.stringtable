@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_armor_projector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>There is a shallow depression in the surface here, like many others scattered around the construct. Unlike the others, energy still pulses across this one at random intervals. A slight yet implacable sense of unease emanates with each wave of energy.
+
+There is a loose lens at the center of the depression. You think you could redirect the psychic effects somewhere more useful, but it'll be tricky to get to it in between the energy pulses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Random energy pulses continue inside the shallow depression. The lens provides warning before each pulse, but it could also be helpful in redirecting the protective energy to something more useful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The energy pulses have ceased. It seems whatever power was left in there has been spent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>On closer examination, the loose piece in the center is a kind of lens, and it glows briefly just before each pulse. With one eye on the lens, it should be easy to keep away from the energy field after all.
+
+The lens seems to direct and focus the energy, though it has been knocked out of place. Perhaps the energy field's protection could be redirected somewhere more useful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[As the sparks flash once again, you think you might have seen something reflective in the hole. Finding it through the small aperture could present a challenge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[If the gleam you spotted is a lens, it's possible it could be refitted to the hole, focusing the lingering energy.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[If the lens can be refitted to the opening, it could focus any lingering energy.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Redirect the lens to direct the psychic energy at your enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try to redirect the lens again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>With careful timing, it is easy to twist the lens into what is hopefully a more favorable position. The lens glows, warning of an impending energy pulse. The field of energy extends outward and worms into eyes, ears, and mouths of Qorro's team. Hope drains from their faces, replaced by a numb stare. Then the shallow depression becomes dark and dormant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>With careful timing, it is easy to twist the lens to what is hopefully a more favorable position. The lens glows, warning of an impending energy pulse. The field of energy pulses outward this time, but the lens is not aiming at anything useful. The energy bursts into the air, sending a bubble of dust and leaves away, and then dissipates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[With deft assurance, you slide the lens into the open then finesse it into place. One, two, three sparks arc before the light focuses through the lens and emerges like a bubble. The energy film covers your skin and you feel more resilient. Just as the bubble recedes into the lens, a second burst rushes out, further reinforcing the energy shield.]
+
+{SCRIPT: Add double Armor Fettles}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[As you slip the lens out of the opening, it catches on the rim and a fine crack laces through the glass. You fit the optic into place and the sparks grow in speed until they coalesce into a bubble of energy that encases you. You feel more resilient, but then small cracks form a web in the energy and slice into your muscles. Though it does not hurt, you feel feeble, faint.]
+
+{SCRIPT: Add Armor and Disrupted Fettles}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Random energy pulses continue inside the shallow depression. A glass lens lies detached in the center, but it will be tricky timing to get to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bank 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Grab the loose piece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Try to get the loose piece again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Snatching the piece in between energy pulses, it becomes clear that the piece is attached somewhere beneath the depression. It's a lens of some kind. Without it, the pulses of energy have changed their shape.
+
+The lens glows briefly before each pulse. Perhaps it could be used to refocus the protective energy somewhere more useful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>A pulse of energy flings away all small objects in the depression, including any hands that were attempting to scavenge loose pieces of numenera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Taking care to avoid the sparking fibers, you reach your fingers into the opening and feel around until you land on a cold, smooth surface. With deft assurance, you slide the object out of the aperture. It is a small glass lens. Perhaps it could be fitted onto the hole?]
+
+{SCRIPT: Add lens to inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[You reach your fingers into the aperture and feel around. After a few seconds without anything of interest, you find purchase on a smooth, round surface. As you begin to pull it out, a spark from a nearby fiber leaps to your hand. You snap your hand out of the hole, bouncing the object off of the rim as it emerges. You hear a small pop. Once it's free, you see a glass lens the size of the hole - laced with a fine crack.]
+
+{SCRIPT: Add cracked lens to inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[With the lens in hand, you may be able to fit it back into its original position.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Try to place the lens into the aperture.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Try again to place the lens into the aperture.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[With deft assurance, you finesse the lens into place. One, two, three sparks arc before the light focuses through the lens and emerges like a bubble. The energy film covers your skin and you feel more resilient.]
+
+{SCRIPT: Add Armor Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Twisting and carefully pressing the lens against the opening, you fail to find the proper alignment. As frustration mounts, you return your attention to the activity around you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[With deft assurance, you finesse the lens into place. One, two, three sparks arc before the light focuses through the lens and emerges like a bubble. The energy film covers your skin and you feel more resilient. Just as the bubble recedes into the lens, a second burst rushes out, further reinforcing the energy shield.]
+
+{SCRIPT: Add double Armor Fettles}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[As you twist and press the lens, trying to find the correct position, it catches on the rim and a fine crack laces through the glass. You finally fit the optic into place and the sparks grow in speed until they coalesce into a bubble of energy that encases you. You feel more resilient, but then small cracks form a web in the energy and slice into your muscles. Though it does not hurt, you feel feeble, faint.]
+
+{SCRIPT: Add Armor and Disrupted Fettles}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Try to place the lens into the aperture.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Try again to place the lens into the aperture.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[You finesse the lens into place and the sparks begin to grow in speed. After just a few seconds, the flickers coalesce into a bubble of energy that encases you. You feel more resilient, but then small cracks form a web in the energy and slice into your muscles. Though it does not hurt, you feel feeble, faint.]
+
+{SCRIPT: Add Armor and Disrupted Fettles}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Though you take extreme care with the damaged lens, a small slip of your fingers applies pressure to the crack. The seam splits along the diameter of the glass and webs out at the center. Within a moment, the fragments fall apart in your hands.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[You finesse the lens into place and the sparks begin to grow in speed. After just a few seconds, the flickers coalesce into a bubble of energy that encases you. You feel more resilient. While the crack you made glows along its length, your precision seems to have allowed the light to stay focused.]
+
+{SCRIPT: Add Armor Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Though you take extreme care with the damaged lens, a small slip of your fingers applies pressure to the crack. The seam splits along the diameter of the glass and webs out at the center. Within a moment, the fragments fall apart in your hands, one shard slashing your palm as it drops away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[With the cracked lens in hand, you may be able to fit it back into its original position.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Random pulses of energy continue inside the shallow depression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Without any antagonists to aim it toward, the device doesn't serve any obvious purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

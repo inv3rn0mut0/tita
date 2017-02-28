@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The murdens halt you again, bristling at your approach. They point toward the exit with their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Move aside, or I'll tear out your feathers and roast you on a spit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Draw your weapon and attack them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The creatures lower their weapons slowly and back away to the corners of the room, never taking their eyes off you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The static in your head grows louder, more insistent and frightened. The creatures turn and flee through a doorway into an adjoining room. The way is clear... for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Back away from the murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'll pay you to stand aside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The murdens clack their beaks and hold out their clawed hands, eyes glinting in the dim light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pay the murdens [Global: c4221_MurdenSentryBribeAmount] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The mental static grows louder and more insistent, a pitch of rising excitement, as the murdens count their newfound wealth, snapping and biting at each other as they fight over who will get more. Finally one draws blood, the other yields, and they both retreat to their nests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Use the Magmatic Annulet to communicate with the murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You touch the annulet, and immediately the murdens clutch their heads and double over. They croak piteously, stricken by some terrible agony. 
+
+As soon as you release the annulet, they shake their heads, and it's clear that their pain is gone. Though they have not yet cleared the path, they seem wary of you now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>One of them points its blade toward the adjoining room. They back slowly and nervously away, keeping their eyes on you the whole time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Their down ruffles, and they shake the weapons at you with undisguised menace. It appears they neither believe you nor trust your intent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I have nothing of value in there. All that I possess are shins."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The larger murden hisses angrily and holds out its hand. You place [Global:c4221_MurdenSentryBribeAmount] shins into its greasy palm, and it backs away to its nest, its companion trailing behind it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The larger murden hisses angrily and points again to your pack. It clearly doesn't believe you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>In response, they puff themselves up, showing their size and strength. At the same moment, their psychic static increases, and you can sense derision and mockery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The murdens' hissing and clacking increases, and now they're shaking their weapons directly at you. This could lead to bloodshed if you're not careful.
+
+Worse, their psychic bleedthrough assaults your senses, leaving the world looking fuzzy and unclear.
+
+{SCRIPT: Add Dismayed fettle to PC}
+
+{GEORGE: I chose Dismayed because the -2 penalty applies in Dialogue and Exploration; I'd have gone with Dazed but that's Crisis only}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The creatures pause in their ever-moving dance and gape at you... and then one throws down its weapon and flees, with the other hard on its heels.
+
+{GEORGE: If we can't have these guys despawn, I'll just delete the node - if it's a crit success, they should be out of the fight}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The murdens stop their posturing for a moment as they process your words, and they hiss and bob their heads in mockery. Worse, the blanket of psychic malaise that hangs around them seems to thicken.
+
+{GEORGE: I chose Dismayed because the -2 penalty applies in Dialogue and Exploration; I'd have gone with Dazed but that's Crisis only}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I mean you no harm. I've come to retrieve the standard for Artaglio's Irregulars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Once again - I want to retrieve Artaglio's standard. I mean no harm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>They regard you with a mixture of curiosity and admiration. The psychic noise becomes a hushed whisper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Either cosmetic reactivity or maybe the player gets away with giving fewer shins.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The static in your mind rises and falls in an imitation of laughter. The larger murden points again to your pack, clearly not believing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>They paw through your pack, scattering your goods, but don't find enough shins to satisfy their needs. The static around them intensifies with their anger. They're not going anywhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Script Node 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Script Node 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Two hunched, avian humanoids stare at you, their bright and hate-filled eyes shining above dirty yellow beaks. You recognize them at once... *murdens.* They emit a kind of psychic fuzz, a mental blanket that makes it difficult for you to concentrate. 
+
+One puffs up its greasy black feathers to make itself look larger, while the other scrapes close to the ground. Their arms wave and gesture, and the intent is clear: *Go no further.*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Your ability to read minds only exacerbates the static, amplifying it to painful levels. It takes a supreme effort of will to shut out the noise.
+
+Apparently, reading the minds of murdens is a bad idea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>They shake their weapons at you again. It's clear that they still don't believe you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Forget it. I'm not going to pay you right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Hissing, the murdens withdraw their hands and puff out their feathers, making it clear that they're not getting out of your way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Offer whatever shins you have.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You drop your remaining shins into the murdens' hands. They clack their beaks again, expecting more. When you offer nothing further, they shriek with rage and hurl the coins back in your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The murdens scuttle forward, snatching the shins from you, snapping and biting at each other as they fight over who will get more. Finally one draws blood, the other yields, and they both retreat to their nests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I've changed my mind. I'll pay you to stand aside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Will you take [Global: c4221_MurdenSentryBribeAmount] shins as payment?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The murdens glance at each other as if doubtful of your intent, but they extend their hands anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Eyeing you hatefully, the murdens withdraw their hands again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

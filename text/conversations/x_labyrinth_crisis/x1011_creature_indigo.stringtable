@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_indigo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Unvisited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Blue option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Red option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Indigo option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Gold option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Silver option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Some extra info.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Extra info simple]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Examine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Examine again]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Unvisited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Visited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Visited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[All done]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>At first, this tank appears to contain a dense, jumbled mass of sharp-edged onyx. It is only when a cluster of eyes flickers beneath a slick membrane that you realize you are looking upon the oily carapace of a huge insect - a nchalsik, your memory whispers - compressed into a tiny space. 
+
+A flood of bubbles rises from the bottom of the tank, bearing you with them into the depths of the creature's mind, seeing what it sees. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The massive insect shifts within its creaking tank, and a storm of bubbles fills your vision. When it clears, you are back in the nchalsik's mind as it considers turning the pack against its tyrannical elder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>At first, this tank appears to contain a dense, jumbled mass of sharp-edged onyx. It is only when a cluster of eyes flickers beneath a slick membrane that you realize you are looking upon the oily carapace of a huge insect - a nchalsik, your memory whispers - compressed into a tiny space. 
+
+A flood of bubbles rises from the bottom of the tank, bearing you away from the dangers of this place into the depths of the creature's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The massive insect shifts within its creaking tank, and a storm of bubbles fills your vision. When it clears, you are back in the nchalsik's mind as it considers turning the pack against its tyrannical elder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The tank creaks on its bolted foundations as the monstrous black creature within spins and claws at the glass in an unconscious frenzy. It is a thrashing blur behind the white-tinged froth, and you can no more make contact with its mind than you can make out a single detail about it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>What will you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Convince the nchalsik to reason with the pack elder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The hunter's outrage melts into a calm serenity that fills her language ducts and billows from her pheromonal slits. 
+
+She rises from her servile crouch, speaking with a mixture of scents and claw gestures. The elder's pride falters, and he focuses on the pack. He sees the unhealed rifts in their graying carapaces, their chipped claws. Tangible clouds of shame radiate from his powerful frame as he leans down to return his hunters' kills. 
+
+You feel the Tides embrace and flow through you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Back in the strange laboratory, five hulking, smoky creatures bound onto the platform, sucking at the air with crackling snarls. The sour dread in your gut recognizes them for what they are: hands of the being that hunted you while you regained your memories. Fragments of the Sorrow. 
+
+Four of them lunge into the machines connected to the remaining tanks, wreaking chaos on their delicate innards. The fifth fragment focuses its eyeless gaze on you and your ally. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Sorrow Fragment emerges from machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>After returning to your own body, a dull heat settles in your gut, and an oily haze crowds your vision. You sense... no, you *know* that the Sorrow has focused its dire attention directly on you. 
+
+The remainder of the Sorrow fragments spill from the devices they were infesting, and join the hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>That was the last of the creatures. You steel yourself for the deadly race to the tank at the back of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You lean against a tank to catch your breath, eyeing the remaining creatures in the tanks. You will need to be swift to avoid the Sorrow fragments hunting for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Blue attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Blue attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Blue attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Goad your host into attacking the larger, stronger creature. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Your will focuses her outrage into a needlepoint of fury, and she lunges at the elder, tail uncoiling with a rattling whipcrack. 
+
+Barbed tails carve whistling paths in the air. Claws flash and ichor sprays, turning dirt to mud. You sense sorrow rising from the pack. They will survive - they always do - but soon, an elder or a hunter will be dead. There will be no victory here. 
+
+You feel the Tides embrace and flow through you just as the dying elder tears out your host's throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Red attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Red attunement crit success.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Red attunement crit fail.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Allow the nchalsik to rally her pack against the elder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The hunter pours her outrage into her language ducts, and she rises, wearing her scent like a cloak, her pheromones singing of injustice. Of starvation. Of the disastrous pride of the elder, and the slow death of the pack. 
+
+They breathe her arguments in, *absorbing* them, and flinch, as if waking from a nightmare. Then, as one, the pack streams at the elder, and tears him to shrieking pieces. 
+
+You feel the Tides embrace and flow through you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Indigo attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Indigo attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Indigo attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Calm your host, and tell her to give the elder nchalsik what he wants. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The impulse to stand against the elder dies a reluctant death in the nchalsik's chest. He is the strongest warrior she has ever known, and he protects the pack from the predators at the edges of their territory. Even if one, two, or twenty nchalsik die from starvation, the pack will survive. It always has. 
+
+Bending low, your host offers her kill to the elder with shaking claws. You feel the Tides embrace and flow through you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Gold attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Gold attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Gold attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Make the nchalsik confront and intimidate the elder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You stoke the outrage of the hunter into a roaring bonfire of confidence, and she knows she must confront the elder herself. She's the only one who can. 
+
+She rises, baring claws still wet with her prey's blood. Pheromones boil off her as she meets the elder's eyes. After a long moment, the elder hisses his respect. She - and the others - can keep their prey this time.  
+
+You feel the Tides embrace and flow through you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Silver attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Silver attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Silver attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Your own voice speaks in the back of your mind, just above a murmur. 
+
+"Designate - nchalsik. Intelligent insectoids with a strong affinity for the Indigo Tide. This creature does not merely place its society above its own well-being. It places the collective above the well-being of *every* nchalsik. Any number might be sacrificed to overcome an existential threat to the group. Only elder nchalsik are vulnerable to self-indulgent pride."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Your voice murmurs at the back of your mind again. 
+
+"Designate - nchalsik. Intelligent insectoids with a strong affinity for the Indigo Tide. This creature does not merely place its society above its own well-being. It places the collective above the well-being of *every* nchalsik. Any number might be sacrificed to overcome an existential threat to the group. Only elder nchalsik are vulnerable to self-indulgent pride."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Examine the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Examine the nchalsik again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>At first, this tank appears to contain a dense, jumbled mass of sharp-edged onyx. It is only when a cluster of eyes flickers beneath a slick membrane that you realize you are looking upon the oily carapace of a huge insect - a nchalsik, your memory whispers - compressed into a tiny space. 
+
+A flood of bubbles rises from the bottom of the tank, bearing you away from the dangers of this place into the depths of the creature's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The nearby machine is no longer pumping oxygen into this tank. Removing the Sorrow fragment from the machine should allow you to make contact with this creature. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>The massive insect shifts within its creaking tank, and a storm of bubbles fills your vision. When it clears, you are back in the nchalsik's mind as it considers turning the pack against its tyrannical elder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The nchalsik has nothing more to share with you. Bubbles slip from her joints as she coils ever tighter into an armored ball. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Your young host clutches a steaming haunch of meat and crouches with the other hunters, shivering with outrage. Like the rest of the tribe, she is starving... and the pack elder does not care. 
+
+Flexing scarred talons, the elder unfolds above them and demands that its hunters turn over all their kills - again - to honor *him*. 
+
+Your host makes a sound like grinding glass at the back of her throat. The pack will not turn on its elder unless *someone* rises first. Her legs flex beneath her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Your young host crouches with the other hunters, clutching a steaming haunch of meat, and shivering with outrage. She, like the rest of the tribe, is starving. And the pack elder does not care. 
+
+The elder unfolds above them, flexing scarred talons, and demands that its hunters turn over all their kills - again - to honor *him*. 
+
+Your host makes sound like grinding glass at the back of her throat. The pack will not turn on its elder unless *someone* rises first. Her legs flex beneath her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>A wide tube runs from the side of this tank to a clanking machine nearby. Chains of finger-length bubbles hang frozen within, ripe with oxygen. 
+
+The presence of the fragment within the machine must be limiting the flow of oxygen to the drowning creature in this tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Your young host crouches with the other hunters, clutching a steaming haunch of meat, and shivering with outrage. She, like the rest of the tribe, is starving. And the pack elder does not care. 
+
+The elder unfolds above them, flexing scarred talons, and demands that its hunters turn over all their kills - again - to honor *him*. 
+
+Your host makes sound like grinding glass at the back of her throat. The pack will not turn on its elder unless *someone* rises first. Her legs flex beneath her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText> Follow-up PQ. 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Examine the nchalsik. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Examine the nchalsik again. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_piquo_bloody_mess</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You almost don't recognize the temperamental mutant boy you met in Cliff's Edge. Piquo's eyes drift over you blankly. He is as pale as if the pool of blood at his feet is his own, and in the dark of the Underbelly, the ragged red crease dividing his face glows.
+
+"I d-don't understand," he whispers. "They told me she was here, near the water. Where is she?" He swallows, looking away from the tiny, flayed, misshapen hand before him. "Where's Crooked Qeek?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"That's... what's left of her. I'm very sorry, Piquo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You know what happened to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Remain silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He turns away to shut out the ragged remains of his friend. The candle flames bathe his face in raw, red light and deep shadow. 
+
+"It's her, isn't it? I came too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"No," he says, swallowing, turning away to shut out the ragged remains of his friend. The candle flames bathe his face in raw, red light and deep shadow. 
+
+ "Yes. Yes, I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"No. That hand's too small," he says, his voice breaking. "It has to be someone else's." 
+
+He turns away to shut out the ragged remains of his friend. The candle flames bathe his face in raw, red light and deep shadow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You made me come back," he moans, pressing his hands to his temples. "They're all dead. If I'd stayed up there, if I'd *changed*, I never would have known. I would have been *happy*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Don't blame me. This is your fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You would have been ignorant, you mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He flinches. For a moment, tears threaten to blind him. Then, he slashes his forearm across his traitorous eyes and glares at you.
+
+"They were content to suffer," he growls. "To be ignored. Maybe Qeek would have lived if I'd come back sooner. If I'd never left. Or maybe I would have died *years* ago. No one would have saved her *then* either. No one would have noticed!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Gritting his teeth, he turns his back on you and walks away, leaving you alone with the remains of Crooked Qeek.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You're thinking about this wrong. You're free now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm sorry I brought you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He glares at you, his tears held back by the walls of his grief, waiting for you to shout at him... to blame him as he blames himself.
+
+When it becomes clear that you are not going to do either of these things, Piquo chokes back a sob, and spits at your feet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Say nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>::sobs::
+{SCRIPT: Piquo exits and despawns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I wish I was!" he screams. Tears fly from his eyes like shining beads. "What good does knowing she's dead do me? What is knowledge worth if all it does is hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>He blinks once, delicately, and tears spill from his eyes as if your apology was the only thing holding them back. 
+
+"It's not your fault," he says, cradling himself in shuddering arms. "She would have lived if I'd come back sooner. Or if I'd never left."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Free," he says, laughing bitterly. He slashes his forearm across his streaming eyes and glares at you. 
+
+"I'm going to see her skinless hand every time I close my eyes until I die. Does that sound like freedom to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

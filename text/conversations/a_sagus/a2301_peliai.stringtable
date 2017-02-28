@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_peliai</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>407</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This violet-skinned visitant paces back and forth before the cavern's opening. It wears fine clothes that serve to accentuate the tall, thin crest on its head. A symbol has been painted on the crest, mirroring the insignia marked on its chest. Its clothes are finely tailored and well made.
+
+The name of the creature's race crawls to your mind. It's a varjellen. This one has temporarily chosen to be female.
+
+Her bulbous eyes flash quickly around her surroundings before focusing directly on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I hope you have news for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Tell me about the quest I should be on...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She pauses. "If you can negotiate a lasting settlement that does not require such drastic measures, you may also pursue that method. But I have been trying for days with no success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"If I knew that, I would do it myself. Talk to the stichus over there. Find some other way to infiltrate their tunnels. I don't care how you do it - I want *results*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How do you suggest I enter the sticha lair?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I have the sticha eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Excellent. Pass them to me, and I will go and show these... these... these *excavationists* that the Slave Families mean to halt their demolition of our city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Give her the sticha eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"No. I'm keeping them for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She accepts the eggs from you. A hard, triumphant smile curls the corner of her lipless mouth. "Now we will see how they negotiate."
+
+{QUEST END NODE 5}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Then you will die." She snaps her fingers, and her levies leap into combat!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I fought the sticha. Unfortunately, they got the better of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You did *what*?" She considers. "That would explain why they seem to have disappeared from sight for now. Still, I am surprised that they left you alive. Ordinarily they would have torn you apart."
+
+She taps her lips. "Do not imagine that this is an ideal resolution."
+
+{QUEST END NODE 7}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I convinced Ch'kekt that digging deeper would be a benefit to both the sticha and the humans. There's no need to steal their eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I told Ch'kekt about a rock formation that would better suit their needs. The sticha will be leaving soon. There's no need to steal their eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You left their eggs with them? How will we enforce their exile without that leverage?" She smooths her crest and blinks her eyes slowly. "Fine. We can work with this for now. We have time to engineer another solution." 
+
+{QUEST END NODE 6}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You left their eggs with them? How will we enforce their exile without that leverage?" She smooths her crest and blinks her eyes slowly. "Fine. We can work with this for now. We have time to engineer another solution." 
+
+{QUEST END NODE 12}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I've handled the negotiations with the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She lifts one foot to begin pacing, to start considering her options, and she stops. She slowly turns toward you, each eye rotating separately. She lowers her foot, and turns to face you squarely, and bites off each word.
+
+"What. Did you. Do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I convinced them to dig deeper underground, where they won't threaten the city. I kept their eggs, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I convinced them to move to another place with better rock. I kept their eggs too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I used their eggs as leverage and convinced them to dig deeper underground, where they won't threaten the city. They agreed, so I gave the eggs back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I used their eggs as leverage and convinced them to move to another place with better rock. They agreed, so I gave the eggs back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I could have enforced better terms had you left the negotiations to me, but I cannot argue with the efficacy of your results."
+
+{QUEST END NODE 8}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The residents of Cliff's Edge owe their gratitude." She bows stiffly, her crest settling on her skull for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I could have enforced better terms had you left the negotiations to me, but I cannot argue with the efficacy of your results. Give me the eggs, please. We will enforce their exile with their children as leverage."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Yes, here you go!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[No, I'm keeping them as payment for being so awesome.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Wonderful! Thanks for your help.]
+
+{QUEST END NODE 13}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Well, damn. I guess you earned it, though. Fine.]
+
+{QUEST END NODE 18}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You did *what*?" Her crest trills and flutters in outrage. "What have you done? Do you realize that we have no way to *enforce* your agreement? They could come back at any time! Any time!" She throws her fists at the roof of the Underbelly in frustration.
+
+{QUEST END NODE 16}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You did *what*?" Her crest trills and flutters in outrage. "What have you done? Do you realize that we have no way to enforce your agreement now? They could come back at any time! Any time!" She throws her fists at the roof of the Underbelly in frustration.
+
+{QUEST END NODE 17}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I misspoke - I'm still working on it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She interrupts her pacing and her quiet muttering to shoot you a dark glare. "If you will not help, you are of no use to me... or to those whose houses are collapsing into the sound. Aid me, or begone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I already have sticha eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Her eyes snap into sharp focus on you. "Is this a fact? *How many* do you have? Did you secure them all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What can you tell me about the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Can you tell me anything more about the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Who prepares the eggs for you?"
+
+[need conditionals]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Can you tell me who prepares the eggs for you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[it's Mechela, who is a skilled tinkerer with numenera and deals regularly with the sticha. (Mechela's shop is not far away.)]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She warbles deep in her throat. "I am Peliai, an accredited agent of the Slave Families. I act with their full faith and authority to resolve the sticha crisis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I am Peliai. I am in the employ of the Slave Families who govern the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Filthy animals, scuttering insects... who can say if they're even sentient? First and foremost, they *dig*... and they care nothing for the homes they destabilize or the lives that are lost when our buildings collapse."
+
+"They do not speak the Truth reliably, so we cannot know if they understand the damage they cause." She frowns. "Though I suspect that they do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She shivers and draws into herself. "Vicious scuttlers. If only someone made a large enough boot. I do not believe any of us will be safe until they have been relocated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I am Peliai, an agent of the Slave Families. They have entrusted me to deal with the sticha. We are losing far too many homes - and citizens - because of their digging, I mean to execute those orders faithfully. With your help, I hope. You seem trustworthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I am Peliai, an agent of the Slave Families. They sent me here to deal with the sticha crisis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Do not tarry. The city crumbles above us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"They will have cleared away any eggs that you missed, no doubt."
+
+She sighs. "Very well. Give me what you have, and I shall go to forge a deal with the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[She'll also confide to Silver players that sticha eggs are quite valuable on the black market - they store a large amount of electrical energy and, when properly prepared, are very useful as power sources. ]
+
+[need conditional]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[If the player expresses interest, she'll offer to share some of the illegal profits with him.]
+
+[add "share the profit" conditiona]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[who prepares your eggs?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Who's in charge of the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Between us, because I feel I can trust you, my employers in the Slave Families suspect that sticha eggs were smuggled in from the Bloom. Perhaps they were a curiosity, or perhaps they were intended for a darker purpose... to undermine the city!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ask me your questions. Perhaps we shall find a way to deal with these monsters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[can't determine who is in charge amongst the sticha... if anyone is.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[I will splut the profits with you]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Where did the sticha come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Can you tell me where the sticha came from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What are the sticha doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Can you tell me what the sticha are doing here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Her eyes wobble in frustration. "If I knew, I would send them back there in a trice. Some years ago - perhaps decades - they simply appeared here, and they have been causing problems ever since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Anything else I convey is rumor and speculation. What I have told you is what I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I cannot imagine. They dig incessantly. They insist upon digging tunnels underneath the city, destabilizing the crag upon which Sagus Cliffs is built. Countless buildings have collapsed or fallen into the sea - more so than is ordinary, based on the shoddy construction so many of our residents employ. The problem has struck Cliff's Edge especially. Many loyal citizens have perished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"They dig, and dig, and dig more. What they want is a mystery. They do not respond to us. They do not speak. They simply... dig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"How do you communicate with them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Can you tell me how you communicate with them again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"How can I reach the sticha lair?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I'm still looking for a way into the sticha lair. Any other ideas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Her crest flutters as she hisses in irritation. "I have not the faintest idea. I do not even know if they fully understand the Truth. Perhaps the one that points at itself and chitters can help. I call it Ch'kekt. It can mutter a handful of words and perform some sign language... I have tried to negotiate with it, but I have gotten nowhere."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Through the large one that I call Ch'kekt. I hope you have patience for its charades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"If I knew, I would go there myself. The sticha are quick to dispatch intruders, and I doubt they would take humans or varjellens there of their own accord. Perhaps a construct of some sort or a digging machine. But I know little of fabrication or manufacturing, so I will leave that for you to explore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Some sort of digging construct, perhaps?" She leans close. "This is your puzzle, my friend. I am merely your employer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[it's Mechela, who is a skilled tinkerer with numenera and deals regularly with the sticha. (Mechela's shop is not far away.)]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I destroyed all the eggs in their lair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Actually... let me ask a few questions instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"If you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I have news about the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Good news, I trust?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Actually... let me ask a few questions instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Then ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I have no additional news. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Do not tarry! The city crumbles above us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Do you have all of them this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"All that survived, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Bring me all the eggs, and I shall see that you're handsomely rewarded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I'm looking for a pale woman named Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Can you tell me what you know of Matkina again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"You mentioned the Slave Families. Who are they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Can you tell me about the Slave Families again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>She bows to you. "Your work has saved the city. The sticha have agreed to abide by the Council's terms. They will be digging deeper into the rock, far from human habitation, and I will retain their eggs as a guarantee of their good behavior. Here."
+
+She hands you a pouch. "A reward, and the city's gratitude."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"You have lived up to your reputation. Now, I may have mentioned previously that the sticha eggs serve as an admirable power source." She presses one into your hand. "Here. This is for your labors." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>•	If Mechela happens to be dead already (killed by the murderer in Underbelly), then Peliai will still give the player the egg cluster, but she'll mention that Mechela was the person who had performed this "service" for her before, so it's unfortunate that she's dead. The player will have to take the eggs to the Order of Truth and see if they can turn them into power sources. (Peliai doesn't cover the cost in this case.)  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"How much will you pay for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Do you have all their eggs, at least? All their remaining eggs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"As do we all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>She waves off the levies who flank her. Her gestures are short and choppy, sharp and irritated.
+
+"It's these damnable sticha," she says. "I speak to them. I offer, cajole, negotiate, and threaten. Yet they persist in their digging, and every day another house on the cliffs above slips into the sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Your pardon." Her voice is high and fluting. "May I have a moment?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText> 
+
+"You," she says. Her voice is high and fluting. "I would have a word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"If their digging does not cease, the city itself may crumble. So here is my request. Find a way into their deepest tunnels, remove their precious eggs, and return them to me. These hostages to their future shall ensure the future of the city above."
+
+She spreads her hands. "I trust your... discretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I won't help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I think I can help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Good. We need to stop the sticha before they bring down the entire substructure of the city."
+
+She pauses and lowers her voice. "If you manage to infiltrate their lair, be sure to acquire *all* their eggs. I suspect they will have multiple clusters, and we will need them all if we want to negotiate from a position of strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I've decided to help you with the sticha problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I just wanted to ask a few questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Very well. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"If you cannot be bothered to help me, why should I lift a finger to help you? Begone, I said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>She pauses, thinking. "You can help me?"
+
+She coughs out a mirthless laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Then you are turning your back upon the people of this city. Should you change your mind, you may of course reapply to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Are you still here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I've already been to the sticha lair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I'd like to ask some questions before I go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>She sighs. "Very well. Be aware that the time you spend with me is more time for the sticha undermine the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Her eyes swivel into sharp focus on you. "Is this a fact? *How many* do you have? Do you have them all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Yes, I have all of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I'm not sure. I may have missed some."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Never mind. I wanted to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>She sighs. "Make it quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Return soon. The city crumbles above us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"You *smashed* some of them?" Her lipless mouth is agape. "I requested that you retrieve them, not make an example of them!"
+
+Her crest deflates momentarily, and then she fills it again. "Nevertheless. Give me the eggs, and I shall forge a peace with the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Yes. I have all of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I'm not sure. I may have missed some."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"All that survived, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Never mind. I wanted to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"No. I must attend to business.allow me to address my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Farewell, and my thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>She drops her voice. "It's a shame. The eggs would have fetched a good price. They serve as highly efficient organic power sources. It would have been in our best interest to have them all. Nonetheless, your task is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Her bulbous eyes swivel toward you. "You destroyed some? Do you know... never mind. Never mind. Give me the eggs and I will be sure to handle them appropriately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>(Truth) "I don't have them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Without the eggs, how will we maintain leverage over the sticha? Who can say if they will return to their digging? You may have doomed us all. The damage the sticha have wrought may well be irreparable."
+
+She sighs and smooths the front of her coat. "We shall see. You have performed a task for the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Excellent. Give them to me, and we will maintain leverage over the sticha should they re-emerge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Give me two of the clutches, then, and keep the third for yourself. I require mine in order to maintain a degree of control over whether the sticha re-emerge, but yours..." Her eyes gleam. "You may use it as befits a person of your stature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Speak to Mechela, who owns a shop near here. Sticha eggs serve as an admirable power source, and Mechela can convert these eggs into a usable form. There shall be no charge. Consider this a gift from me to you for your labors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Give Peliai two of the egg clusters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"I'm keeping all the eggs for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"How much will you pay for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Her eyes narrow to slits. "I shall use the full force and authority of the law to gain possession of those eggs. They are the property of the city of Sagus Cliffs and the Protectorate that encloses it. You will be carrying illegal numenera, and I will prosecute *vigorously*." 
+
+She leans in. "By this I mean that my levies will reduce you to a smear. Will you give me those eggs now, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Very well. This is your choice."
+
+She snaps her fingers, and her levies leap to the attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Give her the sticha eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"No. I'm keeping them for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>She smiles thinly. "I will offer [Global: a2301_StichusEggsPeliai] shins. No more. Do not push me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"It's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you [Global: a2301_StichusEggsPeliai] shins in return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"I am grateful that we could come to an agreement. Here is your *official* reward as well." She takes the eggs from you and also hands you a pouch. 
+"Remember, Mechela will help you convert the eggs into a usable form. Should she not be available, perhaps you could ask at the Order of Truth."
+
+{LOOT: FULL QUEST REWARD}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"I shall use the full force and authority of the law to gain possession of those eggs. They are the property of the city of Sagus Cliffs and the Protectorate that encloses it. You will be carrying illegal numenera, and I will prosecute *vigorously*." 
+
+She leans in. "By this I mean that my levies will reduce you to a smear. Will you give me those eggs now, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you a pouch. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."
+
+{LOOT: FULL QUEST REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you a pouch. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."
+
+{LOOT: FULL QUEST REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you a pouch. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."
+
+{LOOT: FULL QUEST REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"How much will you pay for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>She smiles thinly. "I will offer [Global: a2301_StichusEggsPeliai] shins. No more. Do not push me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"It's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you, and hands you [Global: a2301_StichusEggsPeliai] shins in return.
+
+{LOOT: PARTIAL REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[Silver option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>She scoffs and then points to the sigil marked upon her breast. "The Slave Families are the descendants of those brave souls who rose against the injustice of the previous rulers of Sagus Cliffs. Led by Chila the Great, they cast down the tyrants and tore their families asunder. The faithful who stood with Chila saw their service rewarded with stewardship of the city. Their descendants carry on with this grand tradition."
+
+She bows. "They have made me their agent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"They are the leaders of the city, the shepherds of the poor and downtrodden. It is through their beneficence that we continue to survive against those who would exploit us." 
+
+She waves a hand to indicate the surrounding cavern. "They have made me their agent so that I can carry their word even to the darker recesses of the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"The name is familiar, and pale humans are rare. One would imagine I might recall someone of that description. Alas, I do not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Nothing I have not already told you. My regrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I'm looking for a pale woman named Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Can you tell me what you know about Matkina again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Her crest deflates and reinflates slightly as she says this, and... it reminds you somehow of evasion. Deception.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"You *are* familiar with Matkina, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>She holds up her hands. "Only by reputation. It may be that she found employment with the Council at one time. I know no more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>She assesses you carefully for a moment, and then nods. "You speak of the White Death, do you not? The assassin Matkina? I have heard of her. It is whispered among the servants of the Slave Families that she performs the occasional... excision... for our employers."
+
+"I tell you this because you seem a person of note," she adds. "I know nothing more, though. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Nothing I have not already told you. She has... worked... for my employers previously. I have seen evidence of her handiwork in Government Square, but I do not know her current whereabouts. My regrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I told them that the city would send them a gift of electrical numenera from time to time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>She stops, a thought striking her. "Did you promise them anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>She presses a slightly trembling hand to her head. "I wish you hadn't done that, but perhaps it was the only way to achieve optimal results." 
+
+She considers. "Very well. You have achieved your objective. Here is your payment."
+
+{LOOT: PARTIAL QUEST REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Good. Then our work here is complete and I can return to Council Tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Now. If you could return those eggs so that we will have leverage if the sticha return..."
+
+She holds out her hand expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>She hands you a pouch. "The city of Sagus Cliffs owes you its gratitude."
+
+{LOOT: FULL QUEST REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Farewell."
+
+{SCRIPT: EXIT PELIAI AND HER LEVIES}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>She holds herself very still. She breathes once, twice, three times, and says, with her voice carefully controlled, "That would explain the sticha's departure. I hope you understand the magnitude of what you have done."
+
+She relaxes. "But that is in the past. The sticha are gone - for now - and thus you are due some reward, at least."
+
+{QUEST END NODE 7}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"I will credit you in my report to the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Now begone."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"I will credit you in my report to the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Give me two of the clutches, then, and keep the third for yourself. I require mine to maintain leverage over the sticha, but yours..." Her eyes gleam. "I trust a person of your reputation to be discreet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Between the two of us," she whispers, "the amount of energy a single stichus egg generates is remarkably high. Profit hides within each. Bring me all of their eggs, and I will split the proceeds with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>She inflates her crest in a gesture that seems to indicate both surprise and respect. "Is that so? What happened there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>She accepts the eggs from you. A hard, triumphant smile curls the corner of her lipless mouth. "Now we will see how they negotiate."
+
+{QUEST END NODE 5}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>She accepts the egg from you. A hard, triumphant smile curls the corner of her lipless mouth. "Now we will see how they negotiate."
+
+{QUEST END NODE 5}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"I am glad that our relationship has been mutually beneficial."
+
+{LOOT: FULL QUEST REWARD}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"I am glad that our relationship has been mutually beneficial."
+
+{LOOT: FULL QUEST REWARD}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"I am glad that our relationship has been mutually beneficial."
+
+{LOOT: PARTIAL QUEST REWARD}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Speak to Mechela in her shop. She can convert these eggs appropriately for you. There shall be no charge. Consider this a gift from me to you for your labors."
+
+She gathers her levies and bobs her head at you. "A fine day's work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Regrettably, Mechela was the human who converted these eggs for me. Her death has robbed me of a suitable contact with whom I have influence. Your other option is to appeal to the Order of Truth. Perhaps they will be able to assist you in an appropriate conversion."
+
+She gathers her levies and bobs her head at you. "A fine day's work."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>She frowns, then counts out [Global: a2301_StichusEggsPeliai]  shins and drops them in your hand. "And so I owe you payment for your time."
+
+{LOOT: PARTIAL QUEST REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Farewell. I doubt we will cross paths again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Give her the sticha eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"I am grateful that our joint efforts have increased the safety of our city."
+
+She takes the eggs from you. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"My employers will hear of you."
+
+{SCRIPT: Peliai and her levies leave}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"I am grateful that our joint efforts have increased the safety of our city."
+
+She takes the eggs from you. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"I am grateful that our joint efforts have increased the safety of our city."
+
+She takes the eggs from you. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"I don't think so. I'll keep them for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"I shall use the full force and authority of the law to gain possession of those eggs. They are the property of the city of Sagus Cliffs and the Protectorate that encloses it. You will be carrying illegal numenera, and I will prosecute *vigorously*." 
+
+She leans in. "By this I mean that my levies will reduce you to a smear. Will you give me those eggs now, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"How much will you pay for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>She smiles thinly. "I will offer [Global: a2301_StichusEggsPeliai] shins. No more. Do not push me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"It's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you, and hands you [Global: a2301_StichusEggsPeliai] shins in return.
+
+{LOOT: PARTIAL REWARD}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Now. If you could return those eggs so that we can hold them in trust, as a possible deterrent should the sticha return..."
+
+She holds out her hand expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you a pouch. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."
+
+{LOOT: FULL QUEST REWARD}
+{QUEST END NODE 13}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"My employers will hear of you."
+
+{SCRIPT: Peliai and her levies leave}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you a pouch. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."
+
+{LOOT: FULL QUEST REWARD}
+{QUEST END NODE 13}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"I am grateful that we could come to an agreement."
+
+She takes the eggs from you and hands you a pouch. "On behalf of the Slave Families and the entirety of Sagus Cliffs, our thanks."
+
+{LOOT: FULL QUEST REWARD}
+{QUEST END NODE 13}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"No. I'm keeping them for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"I shall use the full force and authority of the law to gain possession of those eggs. They are the property of the city of Sagus Cliffs and the Protectorate that encloses it. You will be carrying illegal numenera, and I will prosecute *vigorously*." 
+
+She leans in. "By this I mean that my levies will reduce you to a smear. Will you give me those eggs now, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Fine, take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"If the digging does not cease, the city itself may crumble. So here is my request. Find a way into their lair, remove their precious eggs, and return them to me. These hostages shall ensure the future of the city above."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Do not wait to pursue a solution. Lives are at stake!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>{DEBUG} I need to do some debugging, stat!
+
+{SCRIPT: The nodes that follow here are solely for debugging the quest. Feel free to use these if you want, and delete if no longer needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>She bows. "No problem. I understand the need for some workarounds. What conditions would you like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Give me three stichus eggs, set remaining to 0</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Give me 2 sticha eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Give me 1 stichus egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>I totally blew it with the sticha. Set Dealt_With to 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>I negotiated a dig with the sticha. Set Dealt With to 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>I negotiated relocation with the sticha. Set Dealt With to 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Take 3 eggs from me!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Did you have to take their eggs to do it?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Yes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>No.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Set remaining to 1 or 0?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Set remaining to 2, 1, or 0?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Give me no stichus eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Dude, I gave their eggs back. Set to 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Take 2 eggs from me!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Take 1 egg from me!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>OK. Did you destroy any? Set Remaining to 3, 2, 1, or 0?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>OK.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>3 eggs remain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>2 eggs remain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>1 egg remains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>0 eggs remain. I wiped em out!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Oh, I promised the sticha you'd pay tribute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Blast!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Our business here is finished. Good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"A pity you fought Ch'kekt. I do not believe the others are smart enough to negotiate a settlement. Still, I imagine they will think again before they intrude into our space."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"I may have mentioned previously that the sticha eggs serve as an admirable power source." She presses one into your hand. "Here. This is for your labors. I trust someone of your stature to be... discreet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Regrettably, Mechela was the human who converted these eggs for me. Her death has robbed me of a suitable contact with whom I have influence. Your other option is to appeal to the Order of Truth. Perhaps they will be able to assist you in an appropriate conversion."
+
+She gathers her levies and bobs her head at you. "A fine day's work."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Speak to Mechela in her shop. She can convert these eggs appropriately for you. There shall be no charge. Consider this a gift from me to you for your labors."
+
+She gathers her levies and bobs her head at you. "A fine day's work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"I shall use the full force and authority of the law to gain possession of those eggs. They are the property of the city of Sagus Cliffs and the Protectorate that encloses it. You will be carrying illegal numenera, and I will prosecute *vigorously*." 
+
+She leans in. "By this I mean that my levies will reduce you to a smear. Will you give me those eggs now, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Actually, I went ahead and investigated the sticha situation myself. I have news for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Then I shall treat you as an agent of the city in this matter. I appreciate your initiative." She bows slightly. "What news do you bring?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>She sighs. "I had hoped for better news. But they will have taken what remains and moved on. Give me what you have, and we shall maintain leverage over the sticha should they emerge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>(Lie) "I couldn't find any eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Truly?" She looks at you with a scowl. "Without the eggs, how will we maintain leverage over the sticha? Who can say if they will return to their digging? Your obliviousness may doom us all. The damage the sticha have wrought may well be irreparable."
+
+She sighs and smooths the front of her coat. "We shall see. You have performed a task for the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>She looks away and breathes deeply. "I offered you a chance to help the city. To help *me*. And now you choose to lie to me? Let me make this plain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>She regards you sourly. "I admit that I hoped for better - much better - from someone like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"I've handled the negotiation with the sticha already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Now begone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>[DEBUG]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>[Start Tussle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>She hands you a synth ball with a blinking device inside. "Once you're in the lair, activate this. It will show you all the tunnels, the egg clusters, and the sticha themselves. Better to know what you face before you charge ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>[Debug: walk away cutscene...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>This violet-skinned visitant paces back and forth before the cavern's opening. It wears fine clothes that serve to accentuate the tall, thin crest on its head. A symbol has been painted on the crest, mirroring the insignia marked on its chest. Its clothes are finely tailored and well made.
+
+The name of the creature's race crawls to your mind. It's a varjellen. This one has temporarily chosen to be female.
+
+Her bulbous eyes flash quickly around her surroundings before focusing directly on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Your pardon." Her voice is high and fluting. "May I have a moment? I am Peliai, a representative of the Slave Families."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText> "You," she says. Her voice is high and fluting. "I would have a word. I am Peliai, a representative of the Slave Families."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"The creatures that were here... the sticha. They have disappeared. They had been causing me considerable trouble, and now they have vanished. Do you have any notion as to what might have caused this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>(Lie) "I ventured into their tunnels and drove them off. They won't return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"No idea. I'm just passing through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"I was in their tunnels. We struggled. I lost. When I woke, they had taken their eggs and gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"While I am glad the sticha have fled, I worry that they will return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>She looks shocked, and then pleasure wreathes her voice. "Then you have potentially resolved a problem for me. The sticha were causing some disturbances in the city above - undermining foundations and so forth - and I sought a way to make them move. You have saved me that work, and so allow me to present to you a token of my esteem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>She presents you with a small bag of coin. "Please accept my gratitude. Had you been able to guarantee a more lasting stability, or that the sticha might not return, my reward would have been higher."
+
+She waves a hand dismissively. "Now I must consider the ramifications."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>A flash of displeasure crosses her face, replaced quickly by blank professionalism. "Perhaps it is for the best. You have unknotted a concern of mine, in a way we might describe as unorthodox, but... the sticha were causing some disturbances in the city above - undermining foundations and so forth. I sought a way to make them move. You have saved me that work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Farewell, stranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Well. *Someone* caused the sticha to vanish. I must investigate further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>She waves a hand dismissively. "Now I must consider the ramifications."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"I've destroyed all the sticha eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"I've already been to the sticha lair and destroyed some of their eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>She holds herself very still. She breathes once, twice, three times, and says, with her voice carefully controlled, "That would explain the sticha's consternation and anger. I hope you understand the magnitude of what you have done."
+
+She regards you sourly. "You have made my job impossible. I must consider the ramifications." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"You *what*?!" For a moment she is speechless, and then she composes herself. "No, we can work with this. Very well. What I want you to do now is go back into their cavern and retrieve those other eggs. Let me be clear - do *not* destroy them. Bring the remaining eggs to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"You have ruined everything. Years of planning. Do not bother me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>She hands you a synth ball with a blinking device inside. "Once you're in the lair, activate this. It will show you all the tunnels, the egg clusters, and the sticha themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"What do you want with the eggs again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"They will be hostages to the sticha's good behavior. Ransom, if you will. I would prefer to ensure that the sticha will leave off their digging permanently, and I can't guarantee that if they have no incentive to behave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>{COLIN: if you attack and killed Chkekt. From here they could have stolen eggs or not.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"You damned fool!" the varjellen snaps. "Fighting the sticha? You've ruined everything!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Slaughtering the sticha doesn't solve our problem. It may very well have made it worse. Do you have their eggs, at least? Can we use those as leverage?" She motions to her her levies, and they seize your arms before you can react. With rough hands they pat you down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"You say you will not help me, and then you murder the insectoids? You have driven them deep underground, where we cannot reach them. You have put the city into grave danger, you fool."
+
+She gestures, and her levies pin your arms against your sides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>The levies smoothly extract the sticha eggs from your possession. The varjellen stares at you angrily, her crest inflated and inflamed, and she snaps, "At least you're not entirely worthless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>This violet-skinned visitant stares angrily at you. It wears fine clothes that serve to accentuate the tall, thin crest on its head. A symbol has been painted on the crest, mirroring the insignia marked on its chest. Its clothes are finely tailored and well made.
+
+It's a varjellen. This one has temporarily chosen to be female.
+
+Her bulbous eyes flash. "You are a fool." She gestures. Her bodyguards pin your arms. "You have driven the sticha underground where we cannot reach them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Finding no eggs in your possession, the levies release you. The varjellen stares at you angrily, her crest inflated and inflamed, and she snaps, "You're entirely worthless. No eggs at all? How will we ever enforce a peace with the sticha now? I want nothing more to do with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Finding no eggs in your possession, the levies release you. The varjellen stares at you angrily, her crest inflated and inflamed, and she snaps, "You're entirely worthless. No eggs at all? How will we ever enforce a peace with the sticha now? I want nothing more to do with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"The Council didn't send you, that much is plain." Her voice is high and fluting. "You're aware that this cave isn't safe, I hope. What exactly do you want?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Your pardon." Her voice is high and fluting. "This place isn't safe. Do you want something of me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Maybe I can help you negotiate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"What Council do you serve?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"I was wondering what you're doing here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"What are you doing here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"I am conducting a diplomatic negotiation on behalf of the city. Unfortunately, I am not dealing with a *reasonable* species." Her crest flutters irritably. "I've made no progress at all. Days wasted in this miserable tunnel, and I have *nothing* to show my superiors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Trying to conduct a diplomatic negotiation. The stakes are considerable... but I have nothing to show for my efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"You carry yourself with poise and confidence. I've learned to be a judge of such things." She puffs up her crest. "Perhaps you *would* be a skilled negotiator, but that isn't what I need. The circumstances call for a new tactic."
+
+She nods. "If you truly think you can help, let's put you to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>She looks you up and down, considering. "Doubtful. But you might have other skills I can use. The circumstances call for a new tactic, and these levies cannot do what needs to be done. Nor can I."
+
+The varjellen nods. "If you truly think you can help, let's put you to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>She gives you an incredulous look. "The ruling Council of the city, of course. The heads of the Slave Families. You must be new to Sagus Cliffs. Very new."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"An agent and negotiator, dispatched here by the Council... but that should be obvious from my clothing and my guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"An agent of the Council, as I said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"This cave isn't safe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Not unless you trust the discretion of the sticha - those insectoid monsters that are prowling about. Most people are afraid of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>The varjellen fixes her bulbous eyes upon you. "What is it? I told you that it isn't safe here."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

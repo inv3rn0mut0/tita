@@ -1,0 +1,3994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>797</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The view from this window would inspire an author to pen his greatest masterpiece. Unfortunately, the window is boarded up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>There is nothing interesting about this artwork.  You curse yourself for having wasted your time examining it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This tablecloth is red.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>This piece is titled: "Numenera DLC Promotional Artwork"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A forgery of The Scream.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>This chest surely contains great treasures; but I'm not letting you open it! Muahahaha!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Inside this chest are horrors too horribly horrifying to imagine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>These cave paintings dance in front of your eyes like a mirage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>These "trees" appear to be some petrified organic substance bursting out of the ground. No wonder all the village trees are leafless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>This is the corner of the house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>This is a wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Will the flame to die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The view from this window would inspire an author to pen his greatest work.  A shame that the window is all boarded up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>This is my test wall examinable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Various items lie scattered on this table, many of them silver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>This tapestry depicts a stylized hammer, possibly a symbol of the religion practiced here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>It's not clear if the items on this table are intended for food preparation or ritual display... or both.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A frayed military banner hangs limp in this windless portion of the Bloom. It depicts a snarling weasel, which you suppose could be dangerous in its own way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A towering collection of glass and metal stands before you. Various brightly colored liquids swirl around through tubes and gasses both pleasant and putrid are emitted from vents along its length.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Behind the massive glands that block the doorway, you see nothing but solid flesh. This chamber has been cut off from the rest of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>These bloomtongues wave languidly around, occasionally caressing nearby objects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Strangely, the entrance you previously used is no longer there. Dun, dun, DUN!!!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>This heavy door is sealed shut. It's the only thing that stands between you and the void.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>These ornate doors are firmly shut. When you get close to them, a voice says something in an alien tongue. You don't understand the words, but they sound suspiciously like a rejection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>This display shows a list of arrivals and departures, all of which have the word "DELAYED" next to them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Framed by luxurious curtains, this window reveals the surface of an ocean world, far below. The view is reminiscent of what you saw when you were born, but the water has a purplish hue, and the scattered landmasses are brown and dead. This is clearly not the Ninth World.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Several crude shanties are wedged into a corner, fashioned from scraps of wood, cloth, and metal. Whoever built them was apparently not concerned with safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Stamp out the flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>This massive vehicle appears to have crashed through the nearby wall. Bloom-flesh has resealed the hole and is beginning to grow across the vehicle's surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A large fortress made of a stone-like material dominates the courtyard. The gate is one of the few places the Bloom-flesh that creeps up the walls hasn't engulfed yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Skeletal remains and bits of armor form a small pile here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Small posts topped with lights line the walkways.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>This wagon is laden with basic supplies from outside the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The sign reads "This way to Little Nihliesh" in a difficult-to-understand scrawl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The walls of this dwelling are covered in papers with various threats and slurs written on them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>An enormous statue of what appears to be a woman stands here, nearly consumed by the surrounding Bloom-flesh. The portions that are not yet covered appear to be made of a silverish material.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>A large and ornery specimen of an aneen is hitched to a wagon with a garish sign that reads "Wogvar's Waste Disposal". You suppose you'd be angry too if you had to drag someone's crap all over the place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>A sign here appears to have said "Trade Post" at one point, but someone has smeared the 'P' and painted an 'L' in its place recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>This rack holds countless tools of the leatherworker's trade. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Tools lie scattered on the workbench, along with fragments of leathery Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The table is covered with an array of bizarre gadgets and devices of obscure purpose and questionable utility.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>On the shelves, you see a few discarded notes and old books. A rack of test tubes sits alone and forgotten, overgrown with Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>These tanks contain floating blobs of plant or algal matter. They could serve as a basic (but unpleasant) food source.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The upper half of a person's torso projects from the ground here. It looks like the floor came alive and partially swallowed them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>All that's visible of this poor soul is a grasping hand and a silent, screaming face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>A merchant's wagon lies on its side, partially embedded in the ground. You suppose its owner is somewhere nearby, in similar condition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>This man appears to have survived whatever swallowed the rest, only to starve afterward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>This was likely once an entrance to another area, but is now blocked and impassable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>This is the Bloom Heart Interior, where the player will engage in a Crisis with the Bloom itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>This is the Bloom Heart Exterior. At this point you've entered the depths of the Bloom, and things are very tense and scary. Oh, and this is all temp, in case you couldn't tell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Obstacle Course - Right</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Various Inclines - Left</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Narrow passages - Just ahead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You recognize the vehicle as a catena - a hyperdimensional transport from a prior world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>This display shows countless suns, viewed from a moving point of reference. It plots distances and routes between them at a dizzying speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>A mass of Bloom-flesh quivers on the table, picked at by humming machines. Every so often one of them administers an electrical shock to the flesh, which responds with a scratchy little whine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>This creature was half-dissected and then forgotten. Its innards have turned putrid and black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>This desk is littered with what appear to be journals recording medical experiments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[TEMP] This cylindrical tank contains a thick, bubbling green fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>After placing several of the sheets together, you realize that they form a map of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Scattered amongst the devices, you recognize a few navigational aids, primarily used for tracking or determining one's location relative to a fixed point. You wonder if Ioxu was trying to survey the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Hidden Cache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>In the distance, you can see additional levels of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>A distant path makes you pause, wondering how to get there and where it goes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Examine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The fire flickers and crackles with mischievous intent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>A strongbox with a crude lock lies on the floor here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Unlock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Vicious fanged jaw protrude from the floor, snapping in a rhythmic cadence that's almost hypnotic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Jump over it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Jump back over it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>This ancient door looks like it hasn't been opened in millennia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>It's older than anything you can see in the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>And its age and style are different even than the buried ruins that the village is built on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>There are no visible seams or hinges. Even if it *can* be opened, it hasn't been in millennia, maybe longer.There are no visible seams or hinges. Even if it *can* be opened, it hasn't been in millennia, maybe longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A pile of bones and other remains lies here. Just as your eyes move on, you see something glint in one corner of the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Loot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The varjellen nano lies dead upon the floor, apparently murdered by cultists. He and his bodyguard took several of the cultists with them, but it seems that they were overwhelmed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Interact with the book</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>An enormous, dusty book shut tight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>A corpse lies half-dissolved by the nearby pool of bubbling chemicals. It's Qianne, the woman who lives near the catena in the courtyard. It appears she was injured and thrown into the pool, but struggled halfway onto the bank before succumbing to her wounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Pieces of what you assume to be Shinwise lie scattered on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>This dead man wears the uniform of the Memovira's thugs. He was killed by a sharp blade - probably not long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Book of Knowledge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Orb of Insight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>A bright, multicolored orb sits on a pedestal of bluish-white marble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>A piece of sundered coral. Vibrant light plays on its surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>A chalice of blue-green glass, whose mouth is too narrow for a human to reasonably drink from.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Something huge is buried underneath the rock. It glows with the same blue energy as most of the other relics around the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>This detritus is so heavy the villagers have just left it here. There's no sign of whatever it broke off from.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Once part of some astronomic power generator, or perhaps a colossal weapon, this half-buried device now serves as a night lamp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>A guard house built from huge slabs of rock. It must have required monstrous manpower to get them all in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Whatever this used to be, it is now just an exotic part of the landscape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>This is the entrance to the rest of the village, but there's no way to get up there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>These "torches" appear to broken shafts of something larger buried beneath the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Interact with the sphere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Whatever this used to be, it is now just an exotic part of the landscape. With a secret container cobbled onto it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Cracked, glowing glass protrudes from beneath the surface. The villagers have built a circle around it and use it as a kind of watchfire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Sealed grate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Open the valve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Interact with the chalice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Interact with the coral</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>It sounds exactly like you would expect a locked door in the middle of the night to sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>These mushrooms are reacting to the pulses of the rings. A sharp citrus scent fills the air each time their spores burst forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>This is a lot of water for a desert cave. It can't be natural.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>There used to be a control panel here, but it's been... erased somehow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"That's the last time I let you out of my sight. Now get to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Stupid soldier. Stupid well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Though whoever's in there is snoring like a cragworm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>It almost doesn't sound human.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Whatever this used to power, it is now just an exotic part of the landscape. Someone has cobbled a hidden container using the machinery inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>There is a sealed grate on the side of this pipe, and nearby a small valve wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>A stack of parts made of metal, synth, and other unrecognizable materials lies here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>A large insectoid creature juts from the ground, mandibles outstretched. It appears dead, but every so often it twitches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Bedraggled slaves look up at you through a net of energy that is stretched over the pit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>A large ball of flesh rests on the dais, occasionally rolling slightly when the floor undulates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>The water smells brackish. With the surfeit of buried ruins around here, you wonder whether it's really water at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The villagers have fashioned a primitive prayer gate, using the half-buried structures for support.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The villagers have built a gate, using the half-buried structures for support.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>The villagers have fashioned a primitive prayer gate, using the remains of half-buried power terminals for support.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The villagers have fashioned a primitive prayer gate, using ancient electrodes as stanchions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Dark water murmurs at the bottom of this pit. The echoes sound metallic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Dark water murmurs below. It sounds as though it has filled a massive buried chamber, part of whatever is buried underneath the village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Dark water tumbles and echoes into the blackness below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Dead Aneen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The savaged corpse of an aneen lies here, almost skeletal by this point. A small amount of meat remains on its skeleton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The pedestal has been completely engulfed by the flames.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Memory Coral</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>This man is very, very dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Open Container</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Unlock Container</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Real Man Bonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The "portal" through which you appear to have arrived in this place is something you'd rather not think about too much.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Chalice of Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>The pedestal is bare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Nothing remains of the enormous book except an empty lectern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>The lectern has been completely engulfed by the flames.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The chalice's pedestal has been completely engulfed by the flames.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Nothing remains of the strange chalice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Only shattered remnants remain of the once-beautiful coral.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The coral has been completely engulfed by the flames.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>This Maw is huge, far bigger than the others you have encountered so far.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Attack Maw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Attack the Maw with the Transdimensional Scalpel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Another cyst lies here, similar to the one you opened in the Vast Interior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Tidal Surge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>A tongue-cluster stands here, gently writhing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Tongue-cluster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Talk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The cyst lies open and empty, its contents having moved on to other things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Cyst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The upper torso of a woman lies juts from the floor here, her arms reaching out futilely and a look of pure terror on her face. A small satchel lies slung across her shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Loot Satchel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>A pair of legs sticks up from the ground here. Every so often they kick weakly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>The head of a young man lies here, endlessly repeating the word "hungry" in a staccato whisper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>A hand extends from the Bloom-flesh here, its fingers curled tightly around the hilt of a knife which crackles with unknown energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Pry Open Hand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>A hand extends from the Bloom-flesh here, open and empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Hand Gripping Knife</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>A corpse lies here, embedded facedown in the Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Corpse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>A head and arm emerge from the ground here, looking for all the world like this person is attempting climb out of their current predicament.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Carve meat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Heart Maw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Some kind of writing above the door. It matches the paintings on the rocks nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>An ancient monster. Could that be what was behind the door?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>These drawings glow with some inner light. They seem to move, too, in the corner of your eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>This appears to be the back end of the crashed vehicle you saw in the Memovira's courtyard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>A large sign nailed to this door reveals that the owner has left for Sagus Cliffs until the situation between the Bloom and his neighbor has been resolved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>(TEMP) Inkpot asks you to stop and chat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Sorrow Flames</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Smother flames</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Combat Supplies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>This is a basic trigger. It should make this sign disappear when exited.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>This tent is made from scavenged canvas and flimsy wooden poles. It smells faintly of sweat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Someone built this simple structure from a motley assortment of planks and timber. The wood is rotting in the damp air of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Two large tendrils extend into the courtyard from one of its side walls. You'd almost mistake them for enormous roots if the wound near their base didn't reveal torn flesh and bone-like phalanges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>A fleshy spout hangs from the wall, spewing yellowish 'water' into the pool below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Perform Task</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Did something bad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Did something good</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Asset Tester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>The most recent attack on the tower has knocked a panel loose here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Prying away the loose panel has revealed a dark chamber underneath the dais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Pry open the loose panel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Poke inside the dark chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Dais Panel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Transdimensional Bolt Thrower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>It's *almost* a ballista. It looks like it would be pretty powerful if it were fixed up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>The cobbled ballista emits a low hum that's grows louder each minute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Repair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>The village is larger than it looks, continuing in caves and bridges below. It would be very hard to attack this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>The Bloom Hates You</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>This ramp has been pulled up recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>This is a conversation trigger. It should fire a conversation with the NPC inside it when triggered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>This is a float barkstring trigger. It should cause a barkstring to appear above the block inside the trigger when activated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>This is a global variable trigger. It should make a red globe appear on the ground when entered due to a global being set to one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Loot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>This is a hide object trigger. It should make the npc walking into it disappear. He walks into it pretty quickly, so if you're testing this trigger, you may want to move the PartySpawner right next to this trigger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>The metal gates are firmly shut. They are blemished with age but still strong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>These tents look and smell like nests of vermin. They're littered with moldy blankets and scraps of rotting food.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>This is the muscular orifice that first expelled you into the Bloom. It quivers and clenches in agitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>The symbolism on the gates doesn't match any nation you know, so they likely predate the Sagus Protectorate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>These shanties are constructed entirely of tanned Bloom-flesh, with a framework of harvested bone and gristle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Odd-looking symbols flicker across these screens. They appear to be communication devices, but they only respond to Dracogen's touch. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>This foul-looking growth is covered in pulsating sores. They look like they're ready to pop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>'Sundermun and Sundermun, Bloom-flesh and Sundries'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Each of these vats is filled with colored dye, extruded by tiny, wriggling creatures that congregate near the bottom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Pointed out to Ioxu that he has years' worth of data to analyze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Pointed out that Ioxu's automaton bodyguard's weapon systems are mostly inoperational</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Pointed out that Ioxu's field generator is failing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Ioxu revealed how to shut down the field generator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Learned Coty is good with his hands</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Know that Sundermun Younger is leaving soon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Grisseler advised the Memovira to listen to you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Released Shinwise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Used Annulet on them</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Used Annulet on him</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Text and symbols flash across this screen, all of it meaningless to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Inside this device is a sizable lump of Bloom-flesh. It lies upon a comfortable-looking cushion and appears to be asleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>The top of this machine is covered in glass lenses of varying shapes. It appears to be some kind of monitoring device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Lines swoop and whorl across this leathery sheet, depicting what appears to be a map.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>This bucket is filled with quivering chunks of Bloom-flesh and organelles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>The bed is stained with Bloom-juices and smells of preservative chemicals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>This metal cart is heavily armored. Its surface has been damaged by countless blades and projectiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>The size and condition of this tent leave no room for doubt that it belongs to the person in charge around here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>The blood covering this gurney does not inspire much confidence in its owner's professionalism.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Detailed diagrams of various body parts cover a membrane stretched within a metal frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>This is a simple military tent, made to be raised and broken down quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Inside this basket are several tumorous blobs. They appear to be slowly ingesting each other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>This gruesome illustration depicts a human body suffering a multitude of different types of physical trauma. Next to each are annotations such as "Exquisite reaction!" and "Result is disappointingly premature loss of consciousness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Diagrams depicting the human head and brain stand in a corner of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>A pillar of abominations is erupting from the floor. Puss and bile drip from the tortured mangle and collect to form a moat at its base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>The mouths on this pillar are softly breathing in and out. Long streams of yellow drool flow into the depression below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>The walls are composed of half-formed organs and pulsing arteries. You can hear fluids pumping within, and the sounds of flesh chafing against flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>A cluster of artery Bloom tubes pulsing and spewing bile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>A large swirling pool of truly vile liquid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>This fat, blubbery flesh is soft and yielding, threatening to suck you down if you tried to wade through it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Bone emerges from the walls like sap, growing itself into fantastical shapes. Skeletal remains are scattered amongst them, slowly dissolving into the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>The reef of bone is almost beautiful. Perhaps these are the skeletal remnants of the Bloom's victims, transformed by the Bloom for some purpose of its own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>A recently dead aneen lies lifeless on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>For the Bloom itself to have such massive ruptures with intestines spilling through, there must be an unimaginable force of pressure permeating the vast innards of the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Coruscating rings of blazing energy hover vertically just inches from the fortress wall, offering no clue as to their true function.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[TEMP] This is a description of the skeletal remains on the ground near Waits-for-prey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>The corpse of an insect of gigantic proportions lies here. On closer inspection, you see that it appears to be in the midst of getting absorbed into the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>An enormous statue of a woman wielding a hammer stands here, its lower half lost to shadow in the depths of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>This shelf holds a number of odd offerings - a skull, a sealed jar, some candles, a metal cup, and the shrivelled remains of a small hairless creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Rumpled blankets and rags lie on the floor, exuding a sour, sweaty odor. This is probably where some of the cultists sleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>This polished skull is chipped and pierced in many places. Oddly, it has no teeth, suggesting that it swallowed its prey whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Words dance across the face of this scroll in a script so tiny you can't quite make it out. Only the title is legible: "The Chronicles of Chila the Great, Volume 6."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>These sturdy jugs contain a slimy, viscous fluid. A tendril of Bloom-flesh squirms around in one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Blood and viscera cover the ground. A small pile of cracked bones is all that remains of Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>This wheeled vehicle looks like it was abandoned here during some kind of military assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>This makeshift bed consists of rags, dirty feathers, and assorted junk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[TEMP] This is a description of the murden chief's nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>A cleverly-made bed lies at the back of the cell, cobbled together from scraps of wood and rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Manacles hang from the ancient stone plinth, but they're rusted and useless. No one has been chained here in a long time. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Skinned creatures hang from wooden poles, dripping blood on the ground. This room must serve as the murdens' larder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Manacles hang from the top of these plinths. Blood and viscera cover the floor around them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>You don't know what kind of creature this was. Frankly, you don't *want* to know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Beneath the grate, a vertical shaft descends into darkness. Faint whispers echo from somewhere far below. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>This chest is initially an examinable, then switches to a lootable after it is clicked once (a visual effect also appears to highlight that it should be clicked again).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>This chest uses a scripted interaction that opens a loot window.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>This chest displays both an examinable and a loot window simultaneously when clicked.  We'll need to work on the placement, but you get the idea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>This chest displays an examinable when clicked, then opens a loot window when the examinable text goes away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>This chest looks like it might have something in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>This device appears to be one of the engines that once drove this vehicle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[TEMP] This is a description of the fallen chairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Embedded in the metal wall is a complicated display. A number of charts seem to track positional variables. Unfortunately, the text is in a language you've never seen before, so you can't discern anything more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>This statue depicts an eyeless, many-breasted mutant. It appears to be screaming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>This statue is identical to its nearby twin, except for the fact that its head has fallen off. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>This structure was built in a style you've never seen before. The stone is pitted and ancient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>The whole middle section of this building is gone, erased from existence by something that passed directly through. The most likely culprit is the vehicle that rests a short distance away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>You can see vague figures moving around inside the bubble-like house. It's not clear how they get in or out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>A mechanical contraption looking like a cross between an insect and a snail lies motionless on the ground here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Towering before you stands a massive rib bone, with most of the flesh eaten away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>The corpuscular maws appear to be eating away the large pile of intestines of this creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Deep inside the rotting viscera, something rumbles and thrashes about. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>This object has no instigation point but a Use Radius of 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>This object has an instigation point to the lower-left.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Mentioned Vonetian's knowledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Conveyed Dakore's information about Bloom-doubles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Informed her about the Bloom's intelligence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>This round orifice is rimmed with rows of razor-sharp fangs. Human flesh and hair cling to some of the teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>This gaping orifice must have opened beneath the wagon, and Bloom-tendrils pulled it down. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>This toothy orifice is frozen in the act of devouring a table. You notice small notches in the wood on one side, tallying sales... or days spent in this nightmarish place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>A mouth full of thorny fangs gapes in the floor. It's dormant now, but the teeth are wet with blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>The fleshy ground is torn here, revealing a mass of glistening, boneless creatures. It's not clear if they're parasites or some foul progeny of the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>This mysterious device spews out brightly colored cubic bubbles, the result of a chemical process you can't begin to fathom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>This table is covered with strange instruments and controls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Three sturdy metal levers jut from a mechanism affixed to the floor. Etched along their bases are a series of symbols marking each position to which the levers can be set.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>You died in Ossiphagan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>You returned empty-handed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>You weren't gone long enough to have really tried</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Rescued Little Nihliesh patrol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Rescued Old Slave Block patrol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>This jagged hole is where you crashed through the dome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>You impressed Auvigne with your first answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>You impressed Auvigne with your second answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>The metalwork upon this door is intricately wrought, twisted into wild, alien shapes. It is firmly sealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>A cable connects this spout to the collection device. The nozzle looks like it may have been attached to another machine at one time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>[Examined Blue object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[Examined Blue object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>[Examined Blue object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[Examined Red object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>[Examined Red object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>[Examined Red object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[Examined Indigo object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>[Examined Indigo object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>[Examined Indigo object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>[Examined Gold object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>[Examined Gold object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[Examined Gold object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Examined Silver object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Examined Silver object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>[Examined Silver object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Words float in the air: "Fire Wight. Neither truly undead nor made of fire, this luminous being has strong ties with the Gold Tide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Words float in the air: "Nevajin. An enigmatic symbiote with a proclivity for the Blue Tide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Words float in the air: "Nchalsik. An intelligent insect with a strong penchant for the Indigo Tide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Words float in the air: "Quishamis. A crystalline being aligned most closely with the Red Tide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Words float in the air: "Tusked Grorthas. An incredibly strong animal with a predilection for the Silver Tide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>The water is clear, almost unnaturally so, revealing ruins upon ruins as far as you can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>The strange lines and rippling forms of the sunken buildings are dramatically different from the architecture above the waterline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>This device is collecting black goop from somewhere underwater and pumping it to the nearby spout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>You have thoroughly investigated the bowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>The tube through which you crawled to enter this place has vanished, replaced by a blank wall just a few steps down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>You can't identify the material that floats nearby, but the symbols that run along its edges are the same as those on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>A perfectly circular hunk of debris floats a few paces from the edge, spinning quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>The sharp-edged star tumbles out of reach, and shows no signs of coming any closer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Every so often you catch a glimpse of your reflection in the underside of this object. Its expression is different each time it comes into view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Countless scratches and wounds mar the surface of this door. Someone made a great effort to get inside... to no avail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>The light around the door's frame dims and flares, like a roaring fire in a high wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>This mirror looks strange, as though what you see in it is real and *you're* the reflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>You cannot reach this orb from where you are, but you spot tiny specks swooping and diving within its watery depths. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Reflections slide and flow across the face of this distant orb. It turns to follow your movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>This floating orb shimmers with energy, but watchful shadows prowl within. You cannot reach it from where you stand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Metal waves roll over the floor below, sending vibrations through the soles of your boots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>A twisted piece of scrap juts from the upper housing of this machine. It looks as though a part of it was ripped violently away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>A yawning intake marks the front of a long-dead construct. Inside, the metal is pitted, black, and ancient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>This massive construct was trying to climb across the top of the Reef when it 'died.' Its surface is pocked with tiny scars and scorch marks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>This jagged wound seems to have been the fatal wound that 'killed' the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>A long cable extends from this spout, but at the point where it dips below the water, it's been snapped in half.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Tiny, glowing motes float through the interior of this tower. Each one is surrounded by much smaller motes, like thousands of worlds circling their suns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>The flexible tubes that are attached to this machine appear to be later additions. Someone cobbled the device together, but its function is unclear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Sparks pour from the arm's shattered housing, filling the air with the greasy stench of burnt metal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Broken fragments of the domed ceiling are scattered on the floor. They appear to be made of transparent synth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>This trigger is supposed to test scripted interactions, but it's not set up fully yet.  Move along, move along. Nothing to see here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>This trigger is supposed to do something only when a specific object (NPC) enters it, but it's not set up fully yet.  Sorry!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>As you stare at the prismatic vortex, you are nearly overcome by a melange of sensations and emotions - pride, despair, longing, pain, mirth, and more wash over you, and it takes an effort of will to pry your gaze away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>No sign or symbol tells you what might be behind this enormous door. A dull chill radiates from its bronzed, segmented surface, and the thick, metal wheel seems frozen into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Nevajin - Blue Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Fire Wight - Gold Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Nchalsik - Indigo Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Quishamis - Red Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Tusked Grorthas - Silver Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Arcs of pure energy twist from here to the platform above. Dust and small particles are sucked in one end and emerge from the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Arcs of pure energy twist from here to the platform below. Dust and small particles are sucked in one end and emerge from the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Below this sign are the generic NPCs that don't belong to any particular zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Below this sign are the generic NPCs from Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Below this sign are the generic NPCs from the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Below this sign are the generic NPCs from the Oasis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>You don't recognize the body in this chamber, but it bears a tattoo like your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>The erratic, almost angry movements of this metallic cube suggest it is better left alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Although this cube hovers in the air, you can feel the ground shudder with its vibrations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>This is a basic trigger. It should make this sign disappear when entered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>This is a basic trigger. It should make this sign disappear when entered and reappear when exited.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>These look remarkably like the resonance chamber. This laboratory must have been constructed from memories of your sire's first experiments with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>* Edit *</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Your dominant tide is Blue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>The Sorrow looms from this skillfully-created mural - you can almost feel its clammy tendrils wrapping around your heart. Its inhuman victims twist and writhe, pleading for an impossible mercy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>[Across this bridge lies the end of the Alpha Systems Test.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Spotted Lord Vuntgen's bead
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Dominant tide is Gold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>It's unlikely that the opportunistic mercenaries will follow you if you retreat into the reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Aligern in your party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Callistege in your party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Tybir in your party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Told Ch'kekt about a better rock source</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Offered Ch'kekt tribute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Have one sticha egg cluster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Have two sticha egg clusters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Have three sticha egg clusters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Offered to return the sticha eggs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>A months-old layer of dust cakes this sign, which reads "Skoura the Wise, Scholar of the Iron Wind". </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Far below, you can see a ledge jutting out from the cliff face. A collapsed tunnel appears to have been once used to access the strange objects cradled in the corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Tarnish wants the crippled foreman to live</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Order of Truth explained transferring energy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Companion aided</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>The grisly crime scene is blocked by Fulsome and his thugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Escape</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Escape</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Egg Cluster Tidal Surge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Knowledge of Hatching Process</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Embedded in the cliff wall is a massive structure that clearly predates the buildings that surround it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Small vandalous phrases are etched into the lower portions of these statues - declarations of love, defamatory attacks, and announcements of localized existence whispering in stone from across the centuries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>The energy trapped within the disks inset at the top the pillars that line this wall appears to pulse slightly differently as people walk in front of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Armors of wildly different materials are arrayed neatly within the stall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>This stall stands empty. Deep ruts in the layered rugs hint at heavy furniture hastily moved when the last occupant vacated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Canopied wagon beds lie forlornly against the wall. Bereft of axles or any other means of locomotion, they don't appear to be going anywhere soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Myriad statues sit at various stages of completion, each featuring a figure that leaves you with a feeling of profound disquiet when you look at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>In several of the pieces, the creature depicted appears to almost lunge out of the stone, almost as if hurtling itself at the sculptor. Perhaps that's why they were left unfinished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Various devices clutter the three tables of this stall. Some of them spark and twitch, as if objecting to the proximity of their neighbors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Twin creatures of a type you've never seen flank a central orb, their cultural significance lost on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>You feel a slight tugging in the corner of your mind when gazing upon this symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Subtle energy plays along the cables, though whether to prepare the fish for consumption or deter their theft you couldn't say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Airships are known to be nearly uncrashable due to their leisurely cruising speeds and simplified controls. This crash must have taken a rather unique confluence of events to occur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Strange fluids rush from these pipes, hinting at vast machinery and pipage within the cliffs themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>The purpose of this protrusion eludes you, but the fact that there is one of them lined up with each outlet pipe emerging from the cliff wall can't be a coincidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>The continual rise and fall of the pistons on this device suggest a massive mechanical effort. Structural similarities with the pipes in the area hint at them being part of the same machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Judging by the tiles, shingles, and bricks that are piled here, these are the remains of collapsed buildings, carefully pushed out of sight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>This hatch appears to be the only visible means to enter the building. It's firmly sealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>The shape of this operating table provides little information regarding the physiology of the beings it was originally designed to treat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>These displays show information regarding patients, conveniently visible from anywhere within the parlor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>This facade is all that remains of a house. The rest has collapsed into the sea, hundreds of meters below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>The books jamming the shelves of this desk are divided equally between obscure medical texts and mechanical how-to manuals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>These shelves abound with beakers, flasks, and other myriad containers. The utter lack of labels on any of them is somewhat worrying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>The skull-like relief could be a warning, or perhaps a notice that something harmless but related to death waits below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>The size of the human figure that's repeated throughout the camp is highly unusual. Its use as a symbol suggests the elevation of humanity, or perhaps a specific person.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>From a distance these books and scrolls appear to be haphazardly piled together, but closer up small plaques with categories inscribed on them reveal an order to the seeming chaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Books and scrolls line shelves extending into the depths of the stall. It is obvious that these are true lovers of the written word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>The mural above the door depicts five people, their positioning suggesting trust and comradery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>This spherical pod is made of a silvery metal interlaced with ribbons of energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Devices near the head of this bed move to match the current time of day, shading the eyes of their occupants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Folding screens provide the illusion of privacy to room occupants, if not the real thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Packed bundles and sealed urns line the area, waiting to be taken into the city or loaded onto a ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Driftwood held aloft by suspension platforms provide a useful if somewhat perilous bridge between the dock and ships moored in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>The technology that suspends the tables prevents them from being easily flipped, dragged, or moved. Given the location, this is probably a good thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>The bar appears to have some sort of connection to the flagons upon it, moving them to and fro as needed and preventing them from being picked up until they've been paid for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>This craft is capable of carrying one person, two at most. The interior is richly appointed with satin pillows, and the air feels cooler inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>These plants cling to the top of the wall, their roots hanging in empty air. Their means of obtaining nourishment eludes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Provoked the murden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Atop a nearby plateau, you can just make out the top of a small dome of scintillating blue energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>The final words of countless men and women are scrawled upon the stone wall. Some apologize to loved ones, while others rage against an injustice or a slight. A few left only their names.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>The clay containers smell of cheap wine and spoiled food. A dirty wash basin sits atop a barrel of stagnant water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>A tunnel once led in this direction, but the ceiling has collapsed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Tybir influenced the clerk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>This synth sarcophagus could hold a large human. Its surface is pitted, as if it survived a sandstorm, and the original color has worn away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>The light that shines from within this stronglass chamber has a cruel and clinical glow. Its doors are firmly sealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>A mass of leathery flesh sags against the railing. Sharp probes are stuck into its skin, surrounded by festering sores that ooze a foul-smelling oil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>The meaning of these glowing screens is unclear to you, though a few seem to be maps or charts. They're ancient technology, predating the Order of Truth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>These books are piled haphazardly on the floor. They reflect a dozen areas of inquiry, most of which are entirely unrelated to each other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Negotiated an agreement with the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>This desk is tidy and neat. A book entitled "Ecology of Biomechanical Hybrids" is open to a sparse entry on "The Enigmatic Nychthemeron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>This glowing display shows a globe - the Ninth World, probably. Green lines depict trajectories that a ship could follow into the void between worlds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Tiny dwellings are carved into the rock wall, 'furnished' with reeking bedrolls and bug-infested rags.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>A flight of stone steps descends into the water. The cavern beyond gradually widens and connects to the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>This tunnel is blocked by debris, but it's loose enough that a burrowing creature could easily push its way through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>This vat is filled with wriggling reptilian tails, knotted and tangled together. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>A swollen mass of wet, glistening muscle quivers in the vat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Hundreds of leathery wings flutter against each other like they're trying to escape. They grow haphazardly, one sprouting from the next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Energies from this massive engine are channeled into metal pipes, sent below ground, and distributed throughout Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Hundreds of broken numenera are piled here. The workers are scavenging them for parts if they're useful... or throwing them into the furnace if they're not.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>This ancient ship is embedded in the rock, and only its lower portion is visible here. The workers are using its roaring engines as a smelting furnace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>This machine collects and collates a variety of samples, preparing a full analysis of their physical, psychic, and dimensional properties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>A pair of gauntlets sits on the table. They look as though they're intended to provide real-time analysis and physical monitoring of any human arm placed inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>On the shelf is a collection of wafer-thin slides containing cross-sectional cuts of living tissue. Some of the flesh still squirms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>This device appears to store nano-spirits and states of energy. It is dusty and unused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>These shanties contain simple bedrolls and a few scattered tools. They're probably used by the workers during particularly long shifts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>A hideous façade is carved into the rock. It depicts corpses, giant maggots, and a ghastly woman who feasts upon human limbs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>The bed of this old pushcart is stained with blood and other, more unpleasant things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>A plump, middle-aged woman lies upon the slab. Her head has been stripped of flesh, her eyes placed neatly on the slab beside it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Under the cloth lies the corpse of a man in dirty, mismatched armor. He appears to have been stabbed dozens of times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>This corpse has been partially eaten, gnawed by human teeth. The body cavity is splayed open, and most of the organs are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>This corpse is in a wretched state, its head and limbs crushed to pulp, with bits of wood and debris embedded in the skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>This altar is made entirely of human bones, with a carved skeletal head mounted above. Live maggots wriggle in its empty eye sockets. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>The corpse of an elderly man lies under the shroud. His face is peaceful, and you see no obvious cause of his death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>A teenage girl lies dead on this slab. Most of her bones are shattered, suggesting that she fell from a great height.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>This pushcart holds the emaciated corpse of a pauper. His toes and fingers have been chewed to the bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>This merchant stand displays expensive clothing and finely-wrought armor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>The smooth metal door has no apparent handle or hinge. Entry must be controlled from inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>The top of an ancient starship protrudes from the ground. Much like its twin across the square, the interior has apparently been repurposed by the people of Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>This appears to be the top of an ancient starship. From somewhere far below, you can feel the distant rumble of its engines, but it doesn't look like it's going anywhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Stylized writing along the base of the statue reads, "Chila the Great, who struck off our chains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Carved into the base of the statue are the words, "The Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>A strange tattoo marks the side of the statue's head. It's vaguely similar to your own... but you have no idea who the statue depicts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Trash is piled against this building, as if someone has been sweeping the square each day and leaving all the detritus here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>This structure is made of a strange material that seems halfway between wood and stone. Alien symbols are drawn in red upon the walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Strange symbols are traced upon the surface of the device. You've seen these markings before...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>This machine feels familiar... and important. Heavy cables extend into the rock behind it, as if connecting to more machines underground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Sleek and streamlined, this machine hums with energy. You're fairly certain that it came to life just as you entered the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Some of the glowing bands on this machine have gone dark. It seems to be dying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Metal panels and parts have been torn from the wall, as if someone was trying to rip their way out... to no avail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>This "booth" was once a metal tank that held some sort of liquid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>This fancy couch might have come from an aristocrat's house... except for the stains and the smell of vomit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>An odd, lilting song occasionally rises from within this machine, as if a musician is trapped inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>You can hear liquid coursing through these ancient pipes. This whole building seems to predate the Ninth World.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>These pipes are pumping fluids from somewhere outside the bar. Someone added the spigots later, so the fluids probably weren't intended for drinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>The metal bar was cut from the same material as the walls and floor. Cups are filled with the most vibrantly-colored drinks you've ever seen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>A sickly green crust scabs over numerous cracks and divots in this turret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>A spherical head hangs loosely from this stanchion. A single metal fiber holds it in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>This dilapidated structure has been converted into a cheap boarding house. Inside, people sprawl on filthy mattresses in a dimly-lit room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Dotted with airholes, several crates aboard this ship rattle and jump, apparently just as eager to disembark as the crew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Proportionally speaking, the creature that laid these eggs must be truly formidable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>You suspect it would be very difficult to ascend the ladder with ravening abykos clawing at your heels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>This appears to be a mechanical door. You can't commit your attention to opening it while murdens continue to attempt to fillet you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>Touched the nychthemeron's cage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Informed Canadu of Beleazar's plan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Beleazar is intimidated by Callistege's presence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Beleazar is irritable due to Aligern's presence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Blue is one of your dominant tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Red is one of your dominant tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Indigo is one of your dominant tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Gold is one of your dominant tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Silver is one of your dominant tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Tybir is in the party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Aligern is in the party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Callistege is in the party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Matkina is in the party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Erritis is in the party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Rhin is in the party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Loss-of-self feels somewhat helpless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Loss-of-self feels very helpless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Loss-of-self feels extremely helpless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>The probability engines have been shut down</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Scored 2 or higher on Snerf's quiz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Completed the Shaky Foundations quest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Saw machine memory</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>If you can bring the whole party to this escape route, you could affect a hasty retreat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>This device seems to be the source of the low hum that permeates the cavern. It's receiving power through thick cables from two large machines against the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>The device stands silent, bereft of power. It smells of burned synth, suggesting that it's been seriously damaged and may not be repairable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>This machine is similar to the one next to it, but it doesn't have any sort of interface or control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>A phobit appears to be trapped in the central crystal. It flickers excitedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>This machine is powered down, and its three crystal chambers are empty. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>The machine once again vibrates with energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Klin'Kar and the others are making it fairly clear that you won't leave this platform until you find the Memorialists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>The path suddenly ends here, interrupted by an enormous fanged mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>This immense pile is comprised of shiny baubles, decorative objects, and broken bits of numenera. Most of the 'treasure' has no practical value whatsoever. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Despite appearing loose, the individual cubes that comprise this mass are bound together by invisible forces. The murdens must have moved the entire object at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>The true purpose of this object eludes you. It could be an anchor, the tip of a gigantic weapon, or even just a piece of sculpture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Skeletal remains of a human lie amidst the treasure, clad in shiny armor. Unfortunately, the armor is purely ornamental.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Brightly colored bits and bobs form a small pile here, all of it completely worthless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>As chaos swirls around you, it is impossible to concentrate on this elaborate device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Crumbling masonry serves as a testament to a past effort to reinforce the walls, but the Bloom seems to have other ideas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Delny is present</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>[This is some temp. text describing how dark and gappy this dark gap is.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Strips of flesh have been torn from this corpse, and the eye sockets are empty. Judging by the armor, this was one of the Memovira's thugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Convinced Tol a tiny bit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Convinced Tol a little</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Convinced Tol a lot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Angered Tol a tiny bit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Angered Tol a little</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Angered Tol a lot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Masquerading as TCG</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>The battle standard of Artaglio's Irregulars is tattered, filthy, and stinks of murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>Studied procedure a little</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>Studied procedure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>Studied procedure thoroughly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Studied lascar's movements a little</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Studied lascar's movements</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Studied lascar's movements thoroughly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>[A glimmering manifestation of memory, just like those you encountered when you first awakened.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>It's probably your imagination, but the infinite, swirling clouds seem to reflect your emotions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>It's difficult to focus on this gate. Your mind keeps telling you it isn't there, even though it clearly is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>The tunnel appears to be made of metal, but it beats in time with your own heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>These mooring posts are to keep ships from drifting off, or at least they were back when ships used to stop here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>Wooden slats have been cobbled with ancient machine parts to create makeshift cargo pads. Though still functioning, they look like they've been cast aside and neglected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>A foul-smelling liquid pours out of these spouts to the rest of the Valley far below. Its mist feels cool in the bright sun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>A faint humming emanates from these two statues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>It looks like somebody meant to add to this platform once. That project has since been abandoned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Crisp, pungent water issues from an inhuman head. There's nothing further up the slope to indicate where the water is coming from.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>A recent landslide has closed off what was once a pass out of the valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>This symbol is painted everywhere, so much so that the air is thick with the coppery scent of blood - both dry and fresh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>The glowing liquid seeps out from cracks deep within this central hill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Silk ribbons and banners flap softly against stone. These decorations are recent - perhaps several years old - but like everything else here, they've been forgotten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>These rocks appear to have been brought in from the outside and *welded* into place somehow, sealing this entrance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>This is the same viscous substance sealing the middle door, but something has melted it away. The dregs remain immovable, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>Abandoned bowls, rotted fruit, incense, and other oddities fill the corridor - tokens brought to honor the dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>These green lights are part of the original architecture, built into the wall itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Thousands of names scroll across the surface of this sphere. There is no indication of how they died - assuming that's what the names mean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>This jar is filled with ashes - more ashes than one human body could produce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>This jar is warm to the touch and vibrating slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>A susurrus of voices whispers from this jar every so often.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>These lights - bending and refracting in upon themselves - must have been brought to honor someone important. The names have been worn away by time, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>An enormous cavern yawns beyond the platform. A seemingly infinite number of honeycombed rooms stretch out past where you can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>This frieze appears to have been defaced. There are two figures facing each other in anger, but it's impossible to make out any more than that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>These statues are all of the same person - the First Castoff, presumably. Each of them wears a different mask.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Where the blood does not obscure it, vaguely humanoid shadows lie within these pods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Most of these pods can be opened on one side. Several contain humans - many of them Sagus citizens, by their clothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>The air around this teleport pad is hot and smells of sulfur. You can't see how to make it function, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>There are traces of sand on this teleport pad, and it's far warmer than the sanctuary's temperature. It smells of seawater and bone. It's not active right now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>The air above this teleport pad is musty and smells like the entrails of some dead beast. It's unclear how Paj made it work, because it's not functioning for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>These machines draw power from somewhere underground, using it to generate the shields that color the sky. There are several of them around the sanctuary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>It's the tip of some much larger machine - perhaps whatever's powering the shield generators around the sanctuary. It hums softly, almost musically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>This building contains living quarters, presumably for castoffs who make a semi-permanent home here. The doors to the structure are locked at the moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>The enormous tower jutting out of the ground looks like a weapon or an antenna of some kind. It makes a soft hissing noise and smells faintly of yeast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>One would have a fantastic view of the plateau from the building on this verdant crag. This all feels extremely familiar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>It looks dark and cool inside this living structure. Unfortunately, the door is locked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>A warm glow emanates from the windows of this house, but the windows are frosted. You cannot see inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>A strange burbling noise emanates from deep within this device. It looks out over the valley like a guardian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>The passageways of this structure are much too small for a human to enter. Thick flora blocks your view of what lies inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>It looks like the clock from Circus Minor but different somehow... *Wrong*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>The air is warm next to this machine, and you feel dizzy whenever you go near it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>This burning building looks like homes you've seen in Sagus Cliffs, but of a much older style.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>This is all just a memory, but the heat from the rubble - as well as the smell of burning wood and flesh - feels very real.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Blood-curdling moans can be heard from inside this structure, but there's no way in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>She looks so real. Her chest moves up and down with each breath. It's strange to see the ghostly woman both inside this chamber and out of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>What's left of the woman inside is unrecognizable... and smells too real for your taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>These machines make no sounds or motion at all. Like the other machines here, they seem to be just a facade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Whatever caused this destruction did an extremely thorough job of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>This looks exactly like the machine in Caravanserai, but this machine is quiet and unresponsive - like a model of the real thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>The rug and jar are mundane but not generic. This place was not built from your memories, but you *know* you've seen these before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>It would take immense strength to create homes from these slabs of rock. You remember now - these are the homes of Kholn Village, from the Mere Matkina gave you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>These hovels are markedly different from the stone homes below, as if they were from a different village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>Voices whisper to you from the gold expanse beyond this "village." None of it's real. It's just the memories of your fellow castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>The water is warmer around these globes. Their diffuse glow gives light to this entire portion of the Oasis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>This looks like some kind of underwater cafe. The water is warmer here, pleasantly so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>The water pulses with the shimmering of this dark veil, belying the falsity of this underwater fabrication.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Dim, sickly lights flicker underneath the surface of this massive carapace. Whatever is buried underneath here is never getting out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Someone has created a makeshift lean-to from pieces they found here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>These shifting, roiling infinities bely the reality of the mounds of junk. This is a place of memories, nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>Several small animals chitter somewhere beneath the detritus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>This pile of debris rises and falls almost imperceptibly in regular intervals, as if something were breathing underneath it - though certainly nothing could live under there...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>A sharp, lemony scent pervades the air here. Every few minutes, a whiff of decaying flesh gusts forth before the lemon scent returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>There appear to be a set of controls on the chamber. It's unclear whether they will help you raise the floors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>The portal out of this fathom lies just out of reach. You'll have to find some way to get to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>* Edit *</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Theboros has agreed to fight in the Endless Battle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Dhama has agreed to fight in the Endless Battle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Used Word of Qra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Played the game somewhat well</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Played the game well</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Played the game really well</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Using Dhama's strategy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>This murden's entrails speckle the floor underneath it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>What remains of this creature's feathers are charred to the root.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>What looks like a child's drawing has been scraped out in blood around this murden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Both birdlike eyes have been plucked from this creature, the aqueous humor splatted back in its face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>A succession of ragged holes run in a straight line from this murden's forehead down to its groin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>A matte black panel on the wall can be used to open and close this door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Familiar with the cliff's footholds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Damaged Peerless doubts itself</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>These packs are lived out of, but appear ready to leave at a moment's notice. They smell faintly of herbs and ozone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>First flesh anchor sacrificed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>Second flesh anchor sacrificed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Third flesh anchor sacrificed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Miel Avest's shield generators have been deactivated, removing the sanctuary's protection. Each one appears to have enough energy left to protect a small radius around them, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>* Edit *</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>Piles of rubble are strewn all over the once peaceful sanctuary. Most of it looks loose enough to move, but not without a good amount of work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>This tentacled Maw appears to be dead. Its flesh is being reabsorbed into the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>This tentacled Maw appears to be dead. Its flesh is being reabsorbed into the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>'To Little Nihliesh'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>'To the Trade Post'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>This construct is equipped with innumerable monitoring devices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>The portal has collapsed into this tiny, pulsing sphere. Something about it strikes you as angry, though you'd be hard pressed to say why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Cramped writing loops around this scroll in strange patterns and shapes. The only text you can read clearly is the title: "The Chronicles of Chila the Great, Volume 2."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Mutants beginning to trust you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Mutants trust you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Mutants trust you deeply</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Examined Field Generator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>Forced Tash to act against his will in his mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Connected through Magmatic Annulet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>[Silver: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>[Indigo: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>[Gold: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>[Red: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>[Blue: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>The varjellen nano lies dead upon the floor, apparently murdered by corpuscular maws. Nearby splotches of ichor point to a valiant last stand, but in the end he was overwhelmed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>The varjellen nano lies dead upon the floor, apparently murdered by cultists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>This material is springy to the touch but impossible to damage. You can make out only diffuse shadows beyond it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>This synth panel lies flush with the ground. You can see no way to pry it open. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>Cobalt petals fold over a short metal stem. Calcified minerals holds the ancient weapon closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>Strips of Bloom-flesh fill the bottom of the basket. Some of them look like they've been gnawed by human teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Coty imbibed the Violence Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Offered to pay for Coty's equipment (and have the shins)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Offered to pay for Coty's equipment (but don't have the shins)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>This man suffered a serious wound to his abdomen and probably died recently from loss of blood. He wears the uniform of the Memovira's thugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Though the portal from Chiurgeon Slump is gone, it left a hideous scar behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>The merchants have unpacked their wagon and repaired some of the broken tables that you saw here earlier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>This shelter is built from a variety of exotic materials - synthsteel, pliable metals, and adamant silk. It looks like it's been here a long time and has probably served many different groups of explorers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Warmth radiates from this device, providing relief from the frigid air. It could be the equivalent of a campfire... or it could have some other, long forgotten purpose. Or both.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>A meal for two is set underneath this pavilion, but there is no one to enjoy it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>The shimmering film appears to be as strong as steel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>The water emerging from these tubes tastes like thyme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Strange liquids and even creatures sit in these jars and containers as though for sale. However, they are as immovable as the rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>The Sorrow shattered the mirror leading back to the dark fathom. Glass shards hiss when you touch them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>The swirling depths flicker with mysteries and powers you cannot define.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>The portal to Chiurgeon Slump is gone. All that remains is a hideous scar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Tybir likes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Tybir loves you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Pointed out Ragmin is a father</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Did not disrupt Zerian's life in his Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Sided with you in Memovira's Fortress</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Glowing petroglyphs portray the myth of the Endless Battle from the local population's perspective: Two gods met in battle, laying waste to the nearby villages without any sign the titans noticed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>You can just make out a passage leading downward beyond this point, but a tightly-grouped cluster of crystals blocks the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Erritis likes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Erritis loves you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>You have blue or silver as one of your dominant tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>You threatened Doran while masquerading as the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>There is no door or portal back to the fathom you came from - only a diffuse light with no discernible source.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>Intense cold rolls over you with each burst of light. Presumably, this machine was something of your sire's, constructed from castoff memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>This ancient stone structure seems out of place in the Bloom. Similar buildings are scattered around the chamber, as if an entire town was swallowed up by the Bloom and deposited here in the distant past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>You can dimly make out a misshapen figure that huddles under the makeshift shelter. Its head lolls against the ground, nearly twice the size of its body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>This three-dimensional image displays an evolving, root-like system... or perhaps an organically-growing data structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Like everything else in the chamber, this device is perfectly polished and clean. Every so often, it emits a loud signal that vibrates the whole room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>Waves of coherent thought radiate from the orb, flooding your mind with strange, abstract calculations and mathematical formulae. It shines so brightly that you can't look at it for long. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>You can't read the text on this display, but the graphics seem to depict atmospheric conditions and power levels in the room. It's just a monitoring station - nothing can be controlled from here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>The low hum that previously undulated through your flesh is silent, but flickers of energy wisp from the machine. Some power still remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>The passageway leading to the next segment of the vehicle is blocked by debris. This is as far as you'll be able to go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>The lascar is distracted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Showed her the book on the Angule Knights</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>The aneen's limbs are stiff, and it stinks of decay. It appears to have been stabbed and hacked to death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Found sun carving</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>A soft mass of herniated flesh spills from the wall. Some of its folds look large enough to crawl comfortably inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Fluid pumps through the giant viscera. Occasionally a larger shape will pass through one of them, and you dimly hear a gurgling sound or a soft moan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>A wall of bones grows jagged and sharp, covered with tiny protrusions that would rip bare flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>You have the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>One companion entered the Bloom-tongues with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Two companions entered the Bloom-tongues with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Three companions entered the Bloom-tongues with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>Slashed Bloom-tongues with Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>The abykos is free within the heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Deadened the sensory organs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Gained control of the Bloom's arteries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>Gained control of the Bloom's sensory organs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Understand the Heart as a biological system.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>Understand the Bloom's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Aligern likes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>Aligern loves you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Aligern dislikes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Aligern hates you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>Callistege likes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>Callistege loves you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>Callistege dislikes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>Callistege hates you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Matkina likes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Matkina loves you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>Matkina dislikes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>Matkina hates you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>Rhin likes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Rhin loves you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>Rhin dislikes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Rhin hates you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>Tybir dislikes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Tybir hates you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>Erritis dislikes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>Erritis hates you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>You recognize this corpse as Qorro, the mercenary who tried to ambush you in the Reef. His face is frozen in an expression of surprise, as if he can't quite believe that he's dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>The sphere sits dark and forlorn, displaying none of its former radiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>Qorro is irritated with you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>Qorro is very irritated with you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>Qorro doesn't suspect you're the star</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>Qorro suspects you're the star</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>Loss-of-self feels helpless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>Loss-of-self feels quite helpless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>Loss-of-self feels extremely helpless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>Shut down probability engines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>Madelia's neighbor's house fell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Gave Snerf accurate information</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Negotiated agreement with sticha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>Remembered discovery of Archopalasian sphere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>Member of Dendra O'Hur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Inifere questions your interpretation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>Inifere disagrees with your interpretation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Inifere respects your interpretation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>Inifere agrees with your interpretation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>Recognized as a visitant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>Recognized malevolence like Dracogen's</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>Commanded Tol to leave once</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Red Tide dominant and specialized in Tidal Affinity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>Offered to set Tol free</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>Matkina is fond of you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>An impenetrable field of energy seals off part of the cave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Told holograms Qianne is alive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>This castoff is trapped in some kind of stasis. The energy field seems linked to the enormous machine next to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>Several houses were destroyed by sticha digging.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>Failed to intimidate Murden Chief</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Mutants know no backup is coming</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>Mutants think backup is coming</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>Mutants concerned Memovira will fight dirty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>In its dilapidated state, this statue cannot emit enough sound to captivate the sticha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>Reminded Paj that the First killed Aadiriis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>Paj knows the First destroyed Miel Avest to get to you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>Paj realized the First must have destroyed Miel Avest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>Stood against Kalaghat Anvor in a Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Defeated by Kalaghat Anvor in a Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

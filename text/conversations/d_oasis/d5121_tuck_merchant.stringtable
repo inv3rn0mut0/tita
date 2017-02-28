@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_tuck_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"How can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Can I ask you something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sure, I'll have a look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How did you get your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Can I interest you in something I actually have in stock?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Of course. Have a look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Heh. It's the most common name in Jerboa. Me, the Hakim, half the kids in my class at school. We're all named after the founder and savior of this city, the great Tuck."
+
+"Some people bear the name with pride. Think it connects them to his greatness. I don't pay much attention to the old legends. Just a name to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Thanks for stopping by! More power to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He takes his goggles off and tilts his head, squinting at you curiously. "Funny you should ask. Can't say I remember his name, but if I recall correctly he looked an awful lot like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Don't know exactly, but my guess is the caravan got turned around in the desert and can't find it's way here. Happens all the time, unfortunately."
+
+He grunts with annoyance. "Price one pays for living in the middle of the Lost Sea, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I thought it was you! You look a little different these days, but people change, don't they?"
+
+He looks apologetic. "Unfortunately, I don't know what you did with the reactor. You and old Mazzof took it away, but I never heard for what."</DefaultText>
+      <FemaleText>"I thought it was you! You look a little different these days, but people change, don't they? I mean, you weren't a woman then, for instance."
+
+He looks apologetic. "Unfortunately, I don't know what you did with the reactor. You and old Mazzof took it away, but I never heard for what."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Who did you sell the last one to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Why is the new one late?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The shelves and tables of this stall are crammed with every imaginable kind of portable power source. Some are even functioning.
+
+In the middle of the mess is a man in a leather apron and complicated goggles. His wild red hair is singed in places, and there are tiny burn scars all over his cheerful face. He waves a gloved hand as you enter.
+
+"Welcome, friend, to Tuck's Palace of Power. If you need to get something running, I've got the source. You might even call me a sourcerer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Tuck salutes as you enter. "Welcome again, friend, to Tuck's Palace of Power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm looking for a limnic reactor. I was told you might have one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I'm still looking for a limnic reactor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'd like to see what you have in stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Can I see your stock again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Tuck shakes his head sadly. "You won't believe it, but I've been waiting on one for two months. First one I've been able to get a line on in fifteen years."
+
+He sighs. "Wish I could get 'em in more often. Sold the last one as soon as I got it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Tuck shrugs. "And I still don't have one. Don't know when the new one will show up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'm all ears, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Actually, it *was* me. Can you tell me what I did with it. I have a terrible memory." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"No idea. Not my place to ask, really. I just sell the stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Interesting. What did he do with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He gives you a suspicious frown. "Are you trying to pull a fast one on me? You couldn't be the same fellow. You'd be older now."
+
+He turns away, surly. "Anyway, I've got no idea what the buyer did with it. I don't ask, generally. Not my business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What is the Lost Sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I really need that reactor. Is there any way to track down the caravan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Tuck raises a quizzical eyebrow. "You're here and you don't know about the lost sea? How did you get here?"
+
+"It's the vast desert that surrounds the Oasis on all sides. And there's something not quite right about it. Hard to navigate. Go in without special equiment, and you can wander around in circles until your bones fall out of your skin. 'Many a dead fool in the Lost Sea,' as they say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He scowls. "Wellll, it wouldn't be easy. You'd need a way to navigate, and special gear for traveling in the desert. If I were you, I'd wait. Much safer that way. Caravan could show up any day."
+
+"But if you're dead set on it, ask Akilah over at Caravan Supply. She has all that sort of thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The shelves and tables of this stall are crammed with every imaginable kind of power source. Some are even functioning. In the middle of the mess is a man in a leather apron and complicated goggles. His wild red hair is singed in places, and there are tiny burn scars all over his cheerful face. He waves a gloved hand as you enter.
+
+"Welcome to Tuck's Power and Salvage! If you need to get something running, I've got the - "
+
+He pauses, and cocks his head at you. "Er, you look familiar, friend. Have you been here before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I don't think so. I'm looking for a..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I doubt it. I've never been to Jerboa before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'm not sure. Can you remember anything else about me coming in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wait! Wait!" He holds up a hand and massages his brow with the other, thinking furiously. Finally he claps his hands. "I know what it was!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Very strange. Very strange. I'm sure I sold something to you before. I..." He stops dead and claps his hands. "That's it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He frowns, thinking. "I know I sold you something, but..." He stops dead and claps his hands. "That's it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I sold you a Limnic Reactor many many years ago. Or if it wasn't you it could have been your brother, that's how much you look like him."
+
+He chuckles. "You know, it's a strange coincidence you coming in just now, because I've been waiting on a Limnic Reactor for two months!"</DefaultText>
+      <FemaleText>"I sold you a Limnic Reactor many many years ago. Or if it wasn't you it could have been your sister, that's how much you look like her."
+
+He chuckles. "Actually, it's a strange coincidence you coming in just now, because I've been waiting on a Limnic Reactor for two months!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Yes, that was me. Good to see you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"That wasn't me. It was somebody else in my body."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>I'm afraid not. And the caravan that was bringing the one I'm expecting probably got lost in the Lost Sea, which means nobody's *ever* going to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"My my. Isn't it a small world? What can I do for you this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He gives you a blank look. "I'm not sure I want to know anything else about that. Er, what can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Tuck gives you a friendly salute as you approach his stall again. "Welcome back, friend. I'm glad you didn't wait another fifteen years to return this time. How can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"How would one go about recovering a Limnic Reactor from a caravan lost in the Lost Sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He chokes, then recovers himself. "Ha! One wouldn't. Not if one were sane. But, if one were so stubbornly inclined, one would first need a way to find the caravan, and second, not get lost. Both of which would be nigh impossible. It is, after all, the *Lost* Sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I notice you have the same name as the Hakim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Heh. It's the most common name in Jerboa.Comes from that old tale about the flood and... some Gibber prophet named Baji or something? I don't know that much about it, to be honest. I don't go to the temple much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Nice seeing you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I found the Limnic Reactor in the Lost Sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Congratulations! Now if you'll just had it over, I'd be happy to sell it to you." He grins. "Only joking, of course. For what you went through to get it, you deserve it. Use it in good health."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"It seems I need a new one. You haven't got one in stock?"
+
+{SCRIPT: Only plays if Node 52 has played.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'm looking for a Limnic Reactor. But it sounds like you don't have one in stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"So, how would I find the caravan?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What did you say about finding the caravan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"And how would I not get lost in the Lost Sea?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What was your suggestion for not getting lost in the Lost Sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He shrugs. "That, I'm afraid, is not my area of expertise. I just make things go. Try one of the other merchants here in the Marina or in the Sunken Market. They have all kinds of what-nots for sale. Maybe one of them is a caravan locator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I didn't. I said you should ask around the Marina or the Sunken Market. I don't know anything about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Don't go?" He laughs at his own wit, then points out across the market. "You might ask Akilah, across the way. She sells maps and equipment to the caravans that travel the desert. If anyone can help you, it's her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I said you should talk to Akilah. She sells that kind of stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Well, as I said, I was looking for a Limnic Reactor, but it sounds like you don't have one in stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked the PC to look for Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Do you know a woman named Misha?"
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Now that's an unusual name. I'd remember someone with a name like that if I heard, it, but I've never heard it before, so, no. I can't help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Misha, Misha, Misha. No, I don't think so. I know a Muska, and a Masha, but no Misha."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

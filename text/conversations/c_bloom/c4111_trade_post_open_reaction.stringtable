@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_trade_post_open_reaction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you emerge from the Trade Post, you hear sharp intakes of breath. The two merchants you met earlier are staring at you in amazement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"That great jaw, and the... the teeth... they're *gone*!" The portly human beams at you. "Was this *your* doing? If it was, you have our deepest thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"But we are no better off," the varjellen points out. "Our wagon is still supper for Bloom-thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quite right." The human frowns. "But it's still damned impressive. I thought the Bloom only answered to the Memovira. Where is *she* when we need her help, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As you emerge from the Trade Post, you hear sharp intakes of breath. Two merchants - a fat human and a sickly-looking varjellen - are staring at you in amazement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Indeed," the varjellen ducks its head. "Trade awaits us in the Ascension-place. We should go. Before Bloom-thing tries to eat us again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Yes, yes." The human nudges his friend. "But it's still damned impressive, eh? I thought the Bloom only answered to the Memovira. Where is *she* when we need help? Hiding in her fortress, that's where."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Quite right." The human scowls. "But it's still damned impressive. I thought the Bloom only answered to the Memovira. Where was *she* when we needed help, eh? Hiding in her fortress, that's where."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Indeed," the varjellen ducks its head. "Trade awaits us in the Ascension-place. We should go."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

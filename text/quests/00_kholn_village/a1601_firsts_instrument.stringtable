@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_kholn_village\a1601_firsts_instrument</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The First's Instrument</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Enter Tash's Merecaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search Kholn Village</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Talk to Colonel Ledak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Talk to Colonel Ledak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Learn what the jahk does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Learned what the jahk does and changed reality through the Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Changed reality in the Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Matkina says some knowledge from her past has been taken from her. She thinks it has something to do with an instrument called a jahk. The First Castoff sought after it long ago, but Matkina doesn't know why nor why she lost her memories over it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>To find Matkina's lost memories, I have to enter a device called a Merecaster. Supposedly, it will allow me to witness an event in the life of another castoff, in this case a man named Tash. Matkina hopes that following the memories she *does* have will help her find the rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The First Castoff, being Tash and Matkina's leader, believes the jahk is somewhere in Kholn Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>We found the place where the jahk used to be, but it was gone. Matkina plans to tell our superior officer that the jahk isn't there. Maybe he'll know what the jahk is supposed to have done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>We left the village without finding anything. Matkina plans to inform our superior officer that the jahk isn't there. Maybe he'll know what the jahk is supposed to have done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Colonel Ledak revealed that he had the jahk the entire time. I need to get it from him, or learn from him what it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>In Tash's Mere, I discovered the jahk can make teratomorphs cower. It may have other functions as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I died in Tash's Mere before I could find out what the jahk does. But Matkina doesn't mind. She seems far more interested in the fact that I changed reality through the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Neng, the leader of the village, says the only place the jahk might be is in the cave by the falls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Tik, a boy in the village, says he's been in the cave, but he hasn't seen any kind of instrument inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I examined a series of strange paintings outside the cave, but they didn't seem to do anything. Maybe there's no way into the cave after all. We should head back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>The Jahk is a powerful artifact from a prior world. I don't know everything it does, but it has a powerful effect on skin-dancers and maybe normal humans as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I was kicked out of the Mere before I could find out what the jahk does, but Matkina thinks I learned something even more important. My actions within the Mere can change reality, a thing nobody thought was possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

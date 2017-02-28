@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_ronos_caisul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>166</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As the Children of the Endless Gate vanish into the Valley, two dusty figures clamber out of a hidden niche. The first is a slight, nervous man in a hooded robe of blue and white. He bows. "I am Ronos Cai'sul, a Memorialist of this place. My companion is Beltrax, an explorer and knowledge seeker."
+
+He bows to you. "We are truly grateful for your intercession with those monsters. We've have helped, gladly, but..." He shoots a look to his friend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Have you changed your mind about accepting my request to end the scourge of the Children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He is a bearded man with a wide smile, and he carries a variety of well-worn weapons on his person. A bandolier of small images and trinkets crosses his body. He claps a hand to Ronos's shoulder. "I wouldn't let him. My job is to keep him safe. I couldn't let him risk his skin, and for that you have my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Those cultists - the Children of the Endless Gate - they have overrun the Valley of Dead Heroes. They slaughter the visitors. They hound us, the Memorialists, and have brought horror to every corner of this ancient place. Please - you have shown your mettle in dealing with these murderers. I beg of you - please find a way to make them move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What if I refuse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He sags with relief. "Thank you, friend. The coming of the Children has been a relentless nightmare for us. I wish you the best of luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He holds his hands up in despair. "Then the cultists will slaughter us all and overrun the Valley, and all the knowledge we have accumulated over the centuries will vanish from the world for good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'll help... for a reward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Honestly, I don't really care that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Is preservation of knowledge not its own reward?" He looks at your face and holds up placating hands. 
+
+"I wasn't planning on hiring a solution, I must admit. Return to me when you've finished, and I will see what I can pull together from the tributes and numenera we have found here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Go, then. I will be waiting for word." He turns away, clearly finished with the conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"And thank you, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He sighs. "If I cannot offer you any inducement, what hope do we have? If you change your mind, I will be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'll wait here. It's not safe to go anywhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Oh, gods. Did you come to kill me, too?" It's the Memorialist that was hiding from the cultists at the entrance to the Valley. The skinny man looks nervously at the people nearby. "I have information. I can be useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>His eyes alight when he sees you return. "The Children of the Endless Gate have curtailed their activities, and I have no doubt it was due to your actions."
+
+He presses a device into your hands. "Please. Take this as a token of our gratitude."
+
+{LOOT: Decent artifact}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>He bows nervously. "Welcome back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Then neither have I changed my mind about talking to you." He turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"No, I haven't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll remain, in case you reconsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'll help. Tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'm not interested in that. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>He swallows nervously. "Have you... have you come to end the scourge of the Children of the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"No, I haven't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Then... then I have no reason to talk to you." He backs away, ready to run.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'll be here - safe - if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Have you... taken care of... the cultists? The longer it takes, the more I fear for all of us." He puts his hand across his eyes. "I'm sorry. I shouldn't rush you. How can I help you?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Listen. The cultists who were after us, they said that they would bring a new age of understanding... through slaughter, it seems. If they are not stopped, then who knows what horrors they'll wreak? Will you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He sighs. "As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He cocks his head at you. "Hello again, friend. There is something I feel I was meant to tell you, but I..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Suddenly, he claps his hands to his head. "Ah! I am bedeviled by visions!" He squeezes his eyes shut. "I see... I see circles in red. A great gate, yawning. My friends, slaughtered, and the Valley a charnel house. But... no. My friends are happy and well. Yet you have done something... something of great help to the valley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He holds up his hand, and rises shakily to his feet. "Don't tell me. Don't explain." He reaches into his pouch, and pulls out a device. "This is for you. I don't know why, but I feel... compelled... to give it to you. Take it."
+
+He says, "How very strange, this feeling. But it feels *right* as well. In any case, welcome back, friend."
+
+{LOOT: Decent artifact}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Tell me about the Valley of Dead Heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Tell me about the valley again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me about the Memorialists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me about the Memorialists again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"A Memorialist placed a whisperlock preventing access to the Necropolis. Do you know the passcode?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I *really* need the passcode to the whisperlock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Then Talira was successful? Oh, joy!" The look of relief on his face is palpable. And then it turns to worry and anger.
+
+"I should not be giving out the passcode without discussion with the other Memorialists. Especially not to you. I nearly died because of you. Beltrax *did* die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Then Talira was successful? Oh, joy!" The look of relief on his face is palpable.
+
+His expression turns to worry. "Alas, I don't know the passcode. Talira said, if something should happen to her, that we should seek the name of the ceturl prince. But I do not know what this means. Perhaps its finding will come more easily to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"No, nothing you say can convince me, not even if Talira were... well..." He seems uncertain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"All she told us is that we should seek the name of the ceturl prince." He holds up his hands. "I know nothing more - I have not sought out the prince of whom she speaks. Come to think of it, I don't even know what a ceturl is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You'll give me the passcode or I'll turn you over to the cultists myself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Talira is alive, but the only way to keep her that way is to give the code to the cultists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>(Lie) "Talira is alive, but the only way to keep her that way is to give the code to the cultists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"If you give me the code, you'll be the hero who saved the Valley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I found a tomb for a girl named Choi Cai'sul. Is she any relation to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He gasps. "You wouldn't!" He looks into your face and sees only promise there. 
+
+"Very well," he mutters. "I see how it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"But... but that would defeat the purpose of putting the lock on the vault in the first place, wouldn't it?" He paces a quick line, muttering to himself. At last he looks up. "No. Talira is one of the elect - one of those who knows the truth of this afterlife. She must be saved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A hero? I..." He thinks for a moment, rubbing his chin. "I was a hero in my True Life, I am sure. I could do no less than follow in his steps. Very well. I am decided."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You need to act quickly if you're to save Talira!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What do I gain from trying to trick you? Use your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Choi *Cai'sul*? How interesting! No, sadly, I've never heard the name. I took my name not from Choi's marker, but from the hero I was in my true life - Ronos Cai'sul. Here. Let me give you the code to that tomb, so that you can visit it yourself." He clears his throat. "Maybe Choi's name is in the histories - if you can access them, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Forget it. Answer some other questions, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"If I can..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He scribbles numbers on a scrap of cloth and hands it to you. "2-4-1-3."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Why should I tell you anything after what you did?"
+
+He sighs dejectedly. "Because I already said I would help you. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"If you don't start talking, I'll make sure you won't ever talk again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What if I told you I was sorry? I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>His eyes dart everywhere, and he sees no help in his surroundings. "You're a monster," he whispers. "Very well. You win."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He considers for a moment. His eyes dart around to the others nearby, and at last he licks his lips. "I don't think that you'd be able to do anything like that. Not now. Not with all these people here. So no, I won't tell you. Find the information someplace else, if you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You think to appease me with simple words." He shakes his head. "But our teachings show that many people of many backgrounds have walked this world, and I try to recognize that others see their roles in life differently than I. So... I accept your attempt at an apology."
+
+"At any rate, you asked about the name Choi Cai'sul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He stares at you, aghast. "You have seen the damage done here in the Valley, yet you make idle threats as a joke? No, I don't think I'll tell you anything. Find the information someplace else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Unfortunately, I've never heard the name. I took my appellation not from Choi's marker, but from the hero I was in life: Ronos Cai'sul. Here. I'll give you the code to that tomb, though there isn't much to see without access to the archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>
+
+He lowers his gaze. "You seem like a strong person, able to handle problems. I trust you are strong enough to stop them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It has been a burial ground for the world for...  at least millions of years. Yet," and he holds up a finger like a lecturer, "yet we have uncovered no bodies in the Valley itself. Oh no. Despite all the memorials, obelisks, and urns above the ground, we have not been able to find evidence of a single body!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"A mausoleum of many prior worlds. A place of stunning sadness, unimaginable pride, and great wonder. A true representation of the secrets of the Ninth World."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Markers exist beyond counting. Some are in scripts we cannot understand. Some are in materials we have never seen. But the bodies themselves lie in a great space beneath the ground. Above the ground, there is no sign of life. None at all, except what we bring with us."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I do not know that tomb. You might be able to find it yourself at the entrance to the great Necropolis. You can enter it up there." He points off in the distance and up - the entrance must be in the cliff face somewhere. "You must be strong or careful, though - or both. The Children are vicious and unpredictable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>
+
+"If Talira was successful in placing the whisperlock, you'll need the code... and I don't know it, sadly. The cultists have forced us to take drastic measures to protect the integrity of the Valley's tombs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"My true name is Ronos Cai'sul of the Memorialists. I came here from Sagus Cliffs to inter my beloved wife. That was over a decade ago. I remained because I felt a close connection to the place... somehow. When I discovered the name of my true self, I knew. This world is the afterlife, and the graves here are our own. Now I study the world of the living, hoping to bring others to the enlightenment I reached."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I once believed in this life as most do, until I saw the tomb of the hero I was in my True Life. Now I help guide others through the Valley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"We're ordinary people, really. People who understand the truth that this world is really the afterlife, and that the tombs here are our graves. We maintain the Valley so that no name is forgotten, so that everyone can come here and remember their True Selves. Once all the tombs have been claimed, we shall see a glorious resurgence of humanity. Likewise, if we allow the names to be forgotten, devastation will sweep across the land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"We are simple caretakers of life, that is all. We want to safeguard the message of the Valley's truth, and to ensure that all names will never be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"A colleague of yours was taken prisoner! I need the code for the whisperlock she placed on the Necropolis. Do you know it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What did you say about the passcode for the whisperlock again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"All she told us is that we should seek the name of the ceturl prince." He holds up his hands. "I know nothing more - I have not sought out the prince of whom she speaks. Come to think of it, I don't even know what a ceturl is."
+
+But you do. You have seen the ceturl obelisk. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"All she told us is that we should seek the name of the ceturl prince." He holds up his hands. "I know nothing more - I have not sought out the prince of whom she speaks. Come to think of it, I don't even know what a ceturl is."
+
+But you do. You have seen the ceturl obelisk. And now you know the code: It is Guni.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"She told us to seek the name of the ceturl prince. But I do not know what that means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I found a tomb with your name on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"By accident? Perhaps it is fate." He beams. "Such ingenuity I had in life! Such power!" His face falls. "If only I could remember the code to access my records, I might recall more of the knowledge I had in life. Ah well." He waves his hand. "It will come to me in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I... I..." He wrings his hands. "I don't dare!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Well, you've already shown yourself to be a dangerous thug. Maybe you're in league with those dreadful Children! So... with regret..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Answer some other questions for me then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>His entire body sags in relief. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Choi's thoughts jangle about in your head as you stand before this man who calls himself "Ronos Cai'sul." 
+
+She starts with alienation and rage at this... theft of her father's self. But with the fickle speed of youth, her heart changes, thudding along until it reaches its ultimate conclusion - that this is how the world reworks itself and tries again, like a child kneading clay between her fingers and dreaming of all it can be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>And with that, Choi's entire essence changes. She's no longer a corpse moldering inside you. She's not a curse hung from your mind, a grit of regret that could, in time, rasp your soul raw. 
+
+No. 
+
+She's the opposite now: a balm, however slight, the sense that what is broken can be repaired, what is severed, made whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Then, you're alone again in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You're a monster," he whispers. "I'd be dead already if you were serious, though. You are not going to stir me. Go find your answers elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"You're a monster to joke about that," he whispers. "You are correct about not being a threat, however. You are not going to stir me. Go find your answers elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>He rubs his temples. "The best place to start would be at the entrance to the Necropolis. An associate of mine, Talira, went to place a whisperlock on the main gate to prevent the cultists from reaching the interior of the Necropolis. She has not returned. Probably the Children have killed her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"You've done a fine job, Beltrax, but now I'm concerned our savior may be ill-disposed toward us." 
+
+He turns to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Do you know the passcode for the whisperlock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>He shrugs apologetically. "I'm sorry. Until you bring me word of Talira, I can't tell you anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>(Lie) "I'll help. Tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Talira said to seek the name of the ceturl prince, whatever that means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I'm looking for the tomb of the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I cannot stop the cultists if I can't get into the Necropolis. Give me the code."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"But... but..." He drops his face into his hands. "All right. Fine."
+
+"I don't know the code. Talira gave me a hint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"You... you survived! You must be very strong. Tell me, is Beltrax - my friend - is he...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Unfortunately, I've never heard the name. I took my appellation not from Choi's marker, but from the hero I was in life: Ronos Cai'sul, whose tomb you've already seen. If there is any relation, it might be in Ronos's histories. But you'll have to figure out how to access them yourself. I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Choi *Cai'sul*? How interesting! No, sadly, I've never heard the name. I took my name not from Choi's marker, but from the hero I was in my true life - Ronos Cai'sul - whose tomb you've already seen." 
+
+He clears his throat. "If Choi is any relation, then maybe her name is in Ronos's histories - if you can access them, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"What if I *have* come to kill you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I won't kill you, but let's see what you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>The well-armed woman nearby - and her two well-armed friends - casually place hands on their weapons.
+
+"There will be no killing *here*, friend," she says. "The cultists have learned that already. You should, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>He looks at the well-armed people nearby. "They'll protect me. The *cultists* won't even fight them, so don't try anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>He swallows. "Anyway, I'll tell you whatever you want to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Sure. Just ask. I'll answer what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>He swallows, then nods a little shakily. "Maybe... maybe you are." Then his eyes get a hint of hardness to them. "Maybe you can *prove* it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I don't want to hurt you. I'm sorry for what happened to your friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"All right. I'll help stop the cultists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I want to help stop the cultists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Your friend didn't survive the battle. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Your friend wasn't much of a fighter, I guess. He didn't make it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Beltrax survived. He's looking for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Beltrax wasn't much of a fighter, but I managed to save his life. He's looking for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I failed you and your friend. No, he didn't make it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Your friend couldn't save *me*. No, I don't think he survived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Oh, that is good news! Excellent news! I shall return to him immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"He's a better fighter than you think," he says, grinning widely. "I shall return to him immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Oh." His shoulders fall. "That is ill news, friend. It's probably safer for me to stay here. I have a request to make of you, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"If you have further need of me, you will find me with Beltrax at the Valley's entrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Farewell, friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>He shakes his head. "The Children of the Endless Gate are slaughtering everyone, bringing horror to every corner of this ancient place. If someone doesn't stop them, I fear the Valley will soon be home *only* to the dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I suppose you'll 'turn me over to the cultists' if I don't answer." He sighs dejectedly. "It doesn't matter. It's not as though this were the secret clue to a whisperlock that one of my own risked her life to place." He scowls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Do you know anything about a dead girl named Choi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Did you say Choi?" Beltrax interrupts in surprise. "*I* remember that name. It was from a tomb in the Necropolis, though I don't remember anything else about it. The name only stuck in my mind because of the strange way the tomb... made me see it. I can't explain it. You'll have to see for yourself. Just remember to hold your breath."
+
+He scratches his chin. "I remember I had joined one of the Memorialists for her rounds that day. That particular marker was in tomb 4-2-2-1."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Surprising that you would know a tomb I do not, Beltrax! Good thing for our friend, though." He beams.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"No, I've never heard the name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"You... you're alive! I thought Klin'Kar had killed you for sure." He looks down, seemingly ashamed. "My friend and I hid as well as we could. We saw what happened. After you... fell, the cultists came right to our hiding place - as if they knew where we were the whole time!"
+
+He sighs, wiping a bit of dirt from his face. "Beltrax teleported me to safety. I can only assume he... he didn't make it."
+
+He gives you a half-hearted smile. "But you survived, at least. That's something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Truly, I don't know what brought you to the Valley, friend. But we are all grateful that you came. Is there anything else I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I *know* where it is. Isn't that why you asked me to come along? We need to get to the Necropolis, up along the cliff face. We'll have to use the minnims to get up there, but it's easy enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>He bows nervously. "This is true. You must be strong or careful, though - or both. The Children are vicious and unpredictable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Are these Inifere's disciples? I don't know him, except by reputation. Melmoth hated him and what he'd done with the *purity* of the Dendra. I hear the Children are flat-out insane."
+
+She stands, arms akimo. "What do you say? Shall we see if the rumors are true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>She looks at you and shrugs. "Nothing I like better than a family reunion."
+
+She adjusts her knives in their sheathes.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

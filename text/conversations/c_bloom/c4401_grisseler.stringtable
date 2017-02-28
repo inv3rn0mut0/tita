@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4401_grisseler</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A group of armed men approaches from behind you. Most of them appear to be soldiers of the Memovira, but they seem uncertain - even frightened - as if they know this is no place for them. Their companion is Grisseler, the Bloom-guide you met outside the Trade Post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"If you came here to kill me, then go ahead and try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The Memovira is doomed. The Bloom bonds with one person for a while, and then it devours them - it's all part of a feeding cycle, and her time has come."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Grisseler motions to the Memovira's soldiers, and they start to advance toward you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Grisseler's eyes widen with a sudden understanding. "Twenty years in this place. Twenty long years, and I never seen it before, never seen it clear.  But you're right. She builds 'em up full of power and hate, then she eats 'em and chooses another to rule in their place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Can't say I'm happy to meet like this," says Grisseler. "If it was up to me, I wouldn't be here at all. But the thing is, the Bloom's taken a real *strong* liking to you. That makes you a threat to the Memovira, and I happen to owe her a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Grisseler pulls a long device with a narrow metal tube from a holster on his back - a slugspitter. The soldiers with him unsheathe their blades. As they do so, the whispering voices of the Bloom - ever present in the air - grow more intense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You get very clear sensory impressions of *hunger* and *meat*. At the same time, you feel a sense of protection - perhaps even possessiveness - directed at you. Something is about to happen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Touch the Magmatic Annulet and try to understand the Bloom's voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'm just here for a merecaster. I'm not interested in power, and I'm no threat to the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Grisseler nods slowly. "You ain't known for clawing after power and fame, that's true enough."
+
+{SCRIPT: Add asset that makes all Difficult Tasks in this dialogue one step easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"We both know that ain't true. Your reputation is louder than you think. You're just the sort of person who might like to challenge the powers that be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"If you can hear the voices of the Bloom, then listen to them now. It's not going to let you kill me - it'll eat you alive."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>...when suddenly, the entire chamber pitches and rolls. Bloom-tongues erupt from the floor beneath your foes, cruelly raking their faces and arms, dragging them down into the Bloom-flesh. Shrieking piteously, they vanish into the floor. Grisseler's eyes are wide and disbelieving , staring at you with something like reverence, even as he is devoured one last time.
+
+{SCRIPT: Player screenshake, then Bloom-tongues should erupt around Grisseler and Memovira guards, knocking them prone. When player clicks to next node, the soldiers should die.}
+
+{AUDIO: We should hear screams as Grisseler and the Meovira guards are killed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Then they're gone, and the chamber is empty. The voices of the Bloom are soft and enticing, as if inviting you into the creature's heart... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The soldiers, already uneasy in the depths of the Bloom, begin to mutter amongst themselves. Grisseler glances about. "Maybe so. Can't say I appreciate the old girl's tone right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"That kind of talk might scare these fellas." Grisseler nods at the soldiers, who glare at you to show they aren't scared at all. "But I've been eaten by the Bloom three times, and here I stand. The Bloom don't scare me, and neither do you. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The soldiers, already uneasy in the depths of the Bloom, look like they're about to break and run. Grisseler's eyes widen, as if he suddenly hears something new in the voices of the Bloom. "You're right. How did you know it before I did?" He stares at you with an almost religious reverence. "If the Bloom wants you here, I ain't one to argue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Put away your weapons, boys. If we leave here now, we *might* not get eaten." He nods to you. "Watch yourself. They'll be waiting for you topside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Grisseler squints at you hard. "Think you can tell *me* what the Bloom wants and what she don't? You been here what? A few days? I been here twenty *years*, you arrogant little bastard!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why would you owe the Memovira anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Grisseler's voice is uncharacteristically solemn. "The last time the Bloom ate me, I came crawling out of that foul sphincter in the courtyard... a Bloom-guide with no legs. The Memovira was the one who got me these." He touches his artificial limbs. "If not for her, I'd be just another cripple, curled up under some lean-to, begging for alms. I'd be nothin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"So the Bloom must have *called* you here. And I ain't one to argue with the Bloom." He squints at you with something like admiration... or perhaps envy. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"That... can't be right. After twenty years in this place, I woulda seen it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"This is a mistake. The Memovira sent me down here - she has no reason to double-cross me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"The Bloom brought me down here for a reason. It *wants* me to be here. Are you sure you want to stand against the Bloom?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Well, that's what she did. Maybe she thinks you're scheming to take her place. You've got *power* over the Bloom, more than I've ever seen before." He looks distinctly uncomfortable. "Sorry about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A group of armed men approaches from behind you. Most of them appear to be soldiers of the Memovira, but they seem uncertain - even frightened - as if they know this is no place for them. Their companion - a lean and wiry man - seems entirely at ease. Instead of feet, you notice that he has two hand-like appendages, fashioned from metal and synth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Name's Grisseler." says the wiry man. "You don't know me, but I've seen you around the Bloom. Heard about you too... from *her*." He gestures all around, and you get the sense he's referring to the Bloom itself. "Folk like us... folk she likes... she talks to us all the time, don't she?"
+
+"Thing is, the Bloom's taken a real *strong* liking to you. That makes you a threat to the Memovira, and I happen to owe her a favor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Put away your weapons, boys. If we leave here now, we *might* not get eaten." He nods to you. "This ain't over. But I won't fight you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Grisseler shakes his head, as if making up his mind. He motions to the Memovira's soldiers, and they start to advance toward you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Memovira's soldiers glance at Grisseler, uncertain as to whether they should attack or not. He hesitates...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The Memovira's soldiers mutter uncertainly, and Grisseler lowers his slugspitter. "Maybe not. Might be that the Bloom *chose* you for something. Or you might just be dinner." He flashes an unpleasant grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Grisseler motions to the soldiers, and the whole group leaves without another word. The voices of the Bloom grow softer now, as if inviting you into the creature's heart...
+
+{SCRIPT: Grisseler and the soldiers exit and despawn. Set variable so that Grisseler appears in Memovira's fortress later.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Maybe the Bloom just wants you here for dinner. Either way, I have a debt to repay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The last time the Bloom ate me, I came crawling out of that foul sphincter in the courtyard... a Bloom-guide with no legs. The Memovira was the one who got me these." He touches his artificial limbs. "If not for her, I'd be just another cripple, curled up under some lean-to, begging for alms. I'd be nothin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{THIS WILL NEVER PLAY.  THE FOLLOWING NODE IS CALLED VIA SCRIPT AFTER A CUTSCENE.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The Bloom brought me down here for a reason. It *wants* me to be here. Are you sure you want to stand against the Bloom?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"The Memovira is doomed. The Bloom bonds with one person for a while, and then it devours them - it's all part of a feeding cycle, and her time has come."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Grisseler's eyes light up with sudden understanding. "Twenty years in this place. Twenty long years, and I never seen it before, never seen it clear.  But you're right. She builds 'em up full of power and hate, then she eats 'em and chooses another to rule in their place."
+
+His eyes grow wide. "That means *you're* the one..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Grisseler squints at you hard. "Think *you* know the Bloom better than *me*? You been here what? A few days? I been here twenty *years*, you arrogant little bastard! If she had any kind of 'cycle,' I of all people would know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>His eyes widen with a sudden understanding. "*You're* the one, the one she's been whispering about." He lowers his slugspitter. "Damned if I didn't see it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You think you know the Bloom better than me? I been eaten by the Bloom three times, and I've crawled through her guts for twenty long years. If the Bloom's on anybody's side, it's mine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>His eyes widen with a sudden understanding. "*You're* the one, the one she's been whispering about." He lowers his slugspitter. "Damned if I didn't see it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

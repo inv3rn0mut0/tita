@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_dracogen_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>210</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText> "And what is this?" a friendly voice booms. Opening your bleary eyes, you see an earnest, gray-skinned non-human with a toothy smile. He is tall and wide across the shoulders, and exudes great strength. His hands terminate in long claws. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Whoa, what can you you tell me about this place?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"It is. The Bloom is a living creature. It's not native to the Earth, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Bloom is controlled by a crime lord, the Memovira, who also determines who enters and leaves
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Dracogen is an information broker, but he is trusted by everyone in the Bloom... and they also know not to cross him</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Bloom contains portals (Maws) that lead to many different worlds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Dracogen already knows that the player is a castoff from his tattoo. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText> One way or another, he needs to find out (or deduce) that you're looking for Merecasters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He also knows about the Sorrow, but he tells the player that the Sorrow can't get inside the Bloom... not yet, anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dracogen has dealt with castoffs from the compound before. The castoffs gave him a Merecaster for safekeeping. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He'll give that Merecaster to the player - and also introduce the player to the Memovira, who has the other Merecasters - but only if the player does a service for him. He wants the Magmatic Annulet from a place called the Ascension. This bestows "Dracogen's Price." Dracogen tells the player that the portal leading to the Ascension can be accessed from a nearby Trade Post. (Player's first quest objective is to go to the Trade Post.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Dracogen introduces himself, provides some information on the Bloom, and says he can get the player in to see the Memovira if the player fetches him a Magmatic Annulet from a place called the Ascension.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"But where are my manners? Tsk." He studies you briefly, his eyes roving across your body with practiced ease. "My name is Dracogen, and you're in the Bloom. I dare say you didn't expect to arrive here quite like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText> Addendum 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>His voice is warm and welcoming, but there is something about his tone that suggests something more predatory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What just happened to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You were spat out by the Bloom. I suppose it didn't like your taste." He strokes his chin and looks at you appraisingly. "But I think we can find some value for  you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I need to talk to the person in charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The Memovira? The ruler of the Bloom? She's closed her gates to outsiders. You'll have no luck getting in to see her." He pauses, as if struck by an idea. "Of course, I might be able to pull some strings..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"How did I get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He laughs. "That's a number of questions in a single package. Do you want the anatomical, historical, civic, or mercantile explanation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"It looks like this place is alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Let's talk about its history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tell me about the people who live here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Actually, let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I suspect you have questions." If anything, his smile grows wider. "Let me answer them for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I have questions you can't possibly answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"That may be, but I think you'll find me surprisingly well informed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Information is my profession. For instance, just by looking at you, I can see that you're a castoff of the Changing God, and from the looks of things, you've just come from Miel Avest, and with some haste. I'd hazard a guess that you're here for a Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>(Lie): "You're mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Bank 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ask away, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Lying to me is probably the worst way to start our relationship. Let me tell you this: I recognize your tattoo. Most castoffs prefer not to come to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"How did you know that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"If information is your profession, you should be able to tell me where I can find the Merecasters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I was the one who brokered the deal that brought the Merecasters here. Do you know why your brethren chose to store their Merecasters here, rather than in the safety of Miel Avest? I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"That reason is...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Can you tell me where to find these Merecasters, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"They wanted to keep the Merecasters away from the Sorrow, and what better place to do it than the Bloom. Do you know what the Bloom is? It's a hyperdimensional creature of incredible psychic energy, and it's completely capable of holding the Sorrow at bay. For a time, anyway - certainly enough time for you to get what you came here for and get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Dracogen's my name. I trade in information, favors, and numenera. It so happens that I'm looking for something in particular right now - something that I think you might be uniquely suited for, as a castoff of the Changing God. For your help, I'll trade you a Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bank 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"If you'd come down from the Memovira's fortress or along one of the roadways, you'd know the path you took. But like so many of those here, you've been devoured, my friend." A small smirk. "No worries - you're not being digested. You've just come through a Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Bank 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Can you tell me about the Bloom again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bank 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He says, patiently and slowly, "My name is Dracogen. I trade in knowledge and artifacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What's a Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"The Bloom is a living entity of incredible power, both physically and psychically, It reaches through dimensions, fastening its tendrils in strange places. Where these tendrils attach are plaecs called Maws,  Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, though, the Maws close, cutting off those dimensions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What else did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>He chuckles. "I don't know how it got here, but it's been here for... well, since before humanity rose again. It moves slowly... it's been dragging itself toward Garravia Sound for centuries. It's so slow that people have built their homes here. The Great Chila discovered her power in the slave pits here, and countless others have made their fortunes on the Bloom's byways. Others, unfortunately, do not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"As I said, information is my profession. And I've dealt with your kind before. Both I and the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You've been in Sagus Cliffs, yes? So you know what those people think about these people. It's true, in part, what they say: the Bloom is home to artists, criminals, dreamers, and the desperate. It's the home of last resort. It's also an opportunity, for those with daring in their hearts. It's ruled by a woman called the Memovira - the speaker to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What just happened to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You were spat out by the Bloom. I suppose it didn't like your taste." He strokes his chin and looks at you appraisingly. "But I think we can find some value for  you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Can you tell me more about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I need to talk to the person in charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"The Memovira? She's closed her gates to outsiders. You'll have no luck getting in to see her." He pauses, as if struck by an idea. "Of course, I might be able to pull some strings..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What can you tell me about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Why has she closed her gates?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"What do you mean by that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"My trade is information, but this is a piece you can find from anyone. The Memovira: our beloved ruler." If you detect a trace of scorn in his voice, he masks it well. "She provides the protection for the caravans that come from the far reaches of the Bloom, taking a small tribute before they ascend to the city. But she's closed her gates, and the Bloom is closing its Maws." He pauses. "You have come at an interesting time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I deal in knowledge, my friend, but this is a piece of information you can have for free." He lowers his voice, leaning in to speak confidentially: "The Bloom is angry, friend. It's angry or it's bored, and that makes it agitated. It's closing Maws - its gates to other worlds - and the Bloom's ruler, the Memovira, is trying to stem the rising chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I don't intend to be coy with you. I'm willing to help you if you'll do something for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I deal in knowledge, favors, and numenera. I was the one who brokered the deal with your brethren in Miel Avest so that they could keep their Merecasters beyond the Sorrow's reach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"How can I get in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"A trade? What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I'm not your errand boy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Unless I miss my guess, you've come to the Bloom to retrieve a Merecaster. There are two people with Merecasters from Miel Avest here: the Memovira, and me. You want your precious artifacts? Then we're going to trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"How do you know about Merecasters or Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You know about Merecasters, Miel Avest, and the Sorrow? I have more questions for you, then..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I said I *deal* in knowledge. That means I trade for it, and I trade fairly. Ask anyone around here about my integrity. You might also ask them what happens to those who try to cross me. That said, I don't think that our relationship starts best with threats. Instead, I'll start it with a promise: If you want my secrets, you'll take the job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Tell me about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Tell me more about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Tell me more about this job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The Bloom is a living entity of incredible power, both physically and psychically, which is why it's able to hold back the Sorrow. More interestingly, the Bloom's tendrils reach through the dimensions. Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, the Maws close, cutting off those dimensions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Recently, I learned that a specific artifact had been bruited away to a place called the Ascension of Kex-Lianish, and I need it back. It's called a Magmatic Annulet, and it is of great interest to me. *Great* interest. If you retrieve the annulet for me, I can give you two things: a Merecaster, and an introduction to the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What do you mean, 'maw'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Tell me more about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Where am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The Bloom is a living entity of incredible power, both physically and psychically, which is why it's able to hold back the Sorrow. Because the Bloom's tendrils reach through the dimensions, they need an anchor. Those anchors are called Maws. Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, the Maws close, cutting off those dimensions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Fine. Tell me what you know about Merecasters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"You want me to do something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Wait, the Bloom has gates to other worlds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Are you telling me that the Bloom is alive and sentient?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Interesting? What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"What do you mean, the Bloom is closing its Maws?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The Bloom is far more than most outsiders understand. I know what they say about us in Sagus Cliffs, and part of it is even true. But yes, the Bloom is alive, incredibly powerful, and it can reach through dimensions to anchor and sustain itself. Its gates are called Maws, and they are exactly what they sound like - mouths that reach through space."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"What's more, the Bloom is powerful enough to withstand even the Sorrow... at least for a time. Why do you think your brethren in Miel Avest entrusted their Merecasters to our care?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"If the caravans can't reach their destinations, the Memovira doesn't make any money for protecting them through the Bloom. If she doesn't make money, she can't pay her enforcers. And if she can't pay her enforcers, that means that ambitious others might take this time to make a move. As I said: interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"The Memovira: our beloved ruler." If you detect a trace of scorn in his voice, he masks it well. "She provides the protection for the caravans that come from the far reaches of the Bloom, taking a small tribute before they ascend to the city. But she's closed her gates, and the Bloom is closing its Maws. That means people are getting restless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"If the caravans can't reach their destinations, she doesn't make any money for protecting them through the Bloom. If she doesn't make money, she can't pay her enforcers. And if she can't pay her enforcers, that means that they'll need to find new employment... or make their own. Freelance enforcers tend to become criminals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Tell me more about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Tell me more about the Maws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Tell me more about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"The Memovira: our beloved ruler." If you detect a trace of scorn in his voice, he masks it well. "She provides the protection for the caravans that come from the far reaches of the Bloom, taking a small tribute before they ascend to the city. But she's closed her gates, and the Bloom is closing its Maws, and it looks like her power structure is crumbling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"To explain what I need, I need to make sure you understand the nature of the Bloom. And I need you to understand who you're dealing with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Who *am* I dealing with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What do I need to know about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Maybe you should tell me about the Memovira instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Who *are* you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Numenera? I could use some powerful items."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>He swells with momentary pride. "I am Dracogen. I'm the man who can find what you need, even if you don't know you need it. I deal in information, and I pay those who work for me handsomely. Ask anyone here, and they'll tell you I trade fairly. You might also ask them what happens to those who try to cross me. But I don't think that our relationship starts best with threats. Instead, I'll start it with a promise: If you want my secrets, you'll take the job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Then you'll be happy to know that I trade fairly with those who trade fairly with me. Ask anyone. And once you do the job I'm asking you to do, we can talk about more powerful artifacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>He laughs. "Some might call her a crime lord, but it's a matter of perspective. How do you govern and protect a group of fractious anarchists, dreamers, madmen, and transient caravans except through force? She makes some money selling things that they don't allow in Sagus Cliffs, but the people of Sagus Cliffs have a more comfortable existence and don't need to *stoop*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Crumbling? Crumbling how?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Tell me more about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Tell me more about the Maws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Crumbling? Crumbling how?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Tell me more about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"If the caravans can't reach their destinations, she doesn't make any money for protecting them through the Bloom. If she doesn't make money, she can't pay her enforcers. And if she can't pay her enforcers, that means that people are going to be looking for protection... elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"The Bloom is a living entity of incredible power, both physically and psychically, which is why it's able to hold back the Sorrow. Because the Bloom's tendrils reach through the dimensions, they need an anchor. Those anchors are called Maws. Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, the Maws close, cutting off those dimensions. That's what's happening now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Who's next in line?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Who's next in line?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Any number of people want the job. The question is how they convince the Bloom they're the right person to talk to it." A small smile crosses his lips. "But that's informatiom you'll have to trade for, and I've already asked for moore than enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"The Bloom is a living entity of incredible power, both physically and psychically, which is why it's able to hold back the Sorrow. Because the Bloom's tendrils reach through the dimensions, they need an anchor. Those anchors are called Maws. Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, the Maws close, cutting off those dimensions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"The Bloom is a living entity of incredible power, both physically and psychically, which is why it's able to hold back the Sorrow. Because the Bloom's tendrils reach through the dimensions, they need an anchor. Those anchors are called Maws. Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, the Maws close, cutting off those dimensions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Remember: the Magmatic Annulet from the Ascension. Best of luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>He catches himself, and a small smile crosses his lips. "But I've spoken enough. Anything more, you'll need to trade for, and I've already asked for more than enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Tell me more about the traders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Other dimensions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"You'll see some as you travel through the Bloom looking for the annulet. Ask them yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Did you think this is the only world? If there are other worlds, there must be ways to reach them. The Bloom is one such way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Tell me more about the Maws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Do you know why it's closing its Maws?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I trade in information and knowledge. You want to know that piece of wisdom, you'll have to trade for it. Right now, I don't think you can afford it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Tell me about this job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"What are they whispering?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"The Memovira's not her real name - it's more like a title, the person who speaks to the Bloom. But the Bloom isn't listening to her like it used to. People begin to whisper." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>He smiles unpleasantly. "That they smell blood. Some of the more ambitious of the denizens smell blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Who's next in line?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Any number of people want the position. The question is how they convince the Bloom they're the right person to talk to it." A small smile crosses his lips. "But that's informatiom you'll have to trade for, and I've already asked you to do a job for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Tell me more about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bank 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Tell me about the Memovira again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Remember: the Magmatic Annulet from the Ascension. Best of luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Bank 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Again? She's the ruler of the Bloom, because she can speak to the Bloom, because she is willing to do the work that needs to be done, and she can bring force to bear on those who resist. Some call her a criminal, but no one with legal authority in Sagus Cliffs seems to do anything about her reign. It's a little too convenient for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Bank 160</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Tell me about the Bloom again, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Bank 162</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"It's a huge, hyper-dimensional creature that people live in. People travel the tendrils through the Maws the Bloom creates, and they bring back interesting wares. But the Maws are closing now, and the Memovira is trying to consolidate her power. That's why I need you to do this job for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>He swells with momentary pride. "I am Dracogen. I'm the man who can find what you need, even if you don't know you need it.  I'm the one who convinced your brethren in Miel Avest that they should hide their Merecasters here to keep them from the Sorrow. Ask anyone here, and they'll tell you I trade fairly. You might also ask them what happens to those who try to cross me. But I don't think that our relationship starts best with threats. Instead, I'll start it with a promise: If you want my secrets, you'll take the job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"What makes you think I'm connected to the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"If information is your profession, you can answer some questions for me, like: how do you know what I'm here for?"
+
+{SCRIPTER: Check to see if neither Riastrad nor Matkina is in the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"But where are my manners? Tsk." He studies you briefly, his eyes roving across your body with practiced ease. "My name is Dracogen, and you're in the Bloom. I dare say you didn't expect to arrive here quite like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Can you tell me about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Bank 174</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>He glances sidelong at Riastrad. "Though some, of course, have no choice."
+
+{SCRIPTER: Check to see if Riastrad is present and in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>He gives Matkina a slight ironic bow. "Present company excepted, though I have not seen your face in some time."
+
+{SCRIPTER Check to see if Matkina is present and in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Bank 178</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Tell me about this job you want me to do again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Bank 174</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"As I said, information is my profession. And I've dealt with your kind before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>He glances sidelong at Riastrad. "Under better circumstances, in some cases."
+
+{SCRIPTER: Check to see if Riastrad is present and in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>He gives Matkina a slight ironic bow. "Always a delight to see you, though I don't imagine the Memovira shares my sentiments. She's still quite angry."
+
+{SCRIPTER: Check to see if Matkina is present and in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Bank 178</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>{SCRIPTER} Check to see if Riastrad is present and in party</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>{SCRIPTER} Check to see if Matkina is present and in party AND NOT Riastrad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Bank 189</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Bank 190</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Bank 191</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Bank 192</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Can you tell me about the Memovira again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Could you please tell me about the Bloom again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Bank 189</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"If information is your profession, you can answer some questions for me, like: how do you know what I'm here for?"
+
+{SCRIPTER: Check to see if neither Riastrad nor Matkina is in the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Bank 162</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"A Maw is one of the many mouths of the Bloom, reaching through the dimensions." He looks at your face, and answers your unspoken question. "The Bloom is a living entity of incredible power, both physically and psychically, which is why it's able to hold back the Sorrow. Some enterprising individuals travel these tendrils, exploring the new dimensions and bringing back strange and wondrous items for trade here. Sometimes, the Maws close, cutting off those dimensions. That's where you come in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"It's a huge, hyper-dimensional creature that people live in. People travel the tendrils through the Maws the Bloom creates, and they bring back interesting wares. But the Maws are closing now, and the Memovira is trying to consolidate her power. That's why I need you to do this job for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Bank 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Bank 209</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Bank 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>He swells with momentary pride. "I am Dracogen. I'm the man who can find what you need, even if you don't know you need it. I deal in information, and I pay those who work for me handsomely. Ask anyone here, and they'll tell you I trade fairly. You might also ask them what happens to those who try to cross me. But I don't think that our relationship starts best with threats. Instead, I'll say that if you do something for me, I can give you a Merecaster and an introduction to the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I'm Dracogen, an information broker. And I'm still willing to trade you a Merecaster and access to the Memovira if you'll do a job for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Satsada whispers a slight imprecation in your mind.
+
+{SCRIPTER: Check to see if Riastrad is present and in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>She gives him a slight nod back. "I've been... busy."
+
+{SCRIPTER: Check to see if Matkina is present and in party AND NOT Riastrad.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Satsada whispers a slight imprecation in your mind.
+
+{SCRIPTER: Check to see if Riastrad is present and in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Matkina smirks. "With any luck, she'll be angrier soon."
+
+{SCRIPTER: Check to see if Matkina is present and in party AND NOT Riastrad.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I ask again: what makes you think I have any connection to the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I've dealt with your kind before." He taps his head, the location where you wear your tattoo. "The living tattoo gives it away. Now, let's talk about trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

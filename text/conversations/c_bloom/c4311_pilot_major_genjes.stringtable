@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_pilot_major_genjes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"How is it I can serve?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tell me about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He wipes a cloth across a clear glass eye, and glances at you. "You have spoken with some, yes? We have lived here long. Many captains past, we discovered we would have to wait for the Ship to come. Until that time, until the Arrival, we survive. We wait. And we train."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Worry stamps its lines on the features of this man. Like the others in the Anchorage, he wears a suit of ornate armor, but he has set aside his helmet. His hair is thinning, and wrinkles web around his eyes and across his forehead.
+
+He is tinkering with some display, but he turns away from it to address you. "Greeting. I am Genjes, Pilot-Major of this Anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What is this room?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He beams, proud of his surroundings. He gestures at the blinking projections on the walls, at the great orb that spins in the middle of the room. "This, friend, is the Cortex Chamber. Inside this shell is the navigational cortex, the mind that watches the Void. The Anchorage's sensors, its antenna arrays, its projectors, its knowledge... all these things concentrate here. It is a... *holy*... place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I serve, outworlder. Am the keeper of the navigational Cortex, its servant. I watch the sensors, I listen to its words. Information from antenna arrays filters in here - *all* knowledge of the Anchorage passes the Cortex. If I fail in my duties, the Ship might arrive without my foreknowledge. So I clean, and listen, and study. If the Ship should come in my life - and I believe it may - I will take its mind in mine and we will plot a course for Home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"According to the cortex, the way to your Home is through the portal to the Bloom."
+
+{GEORGE: Should we conditionalize/branch this as we did with Janur, if the PC has stolen the cortex?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I found this lascar helm in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Is that... does that helm belong to Jemadar Achilli?" He snatches it from your hands and studies it carefully. "Void take it. I hoped she still survived." His accent grows thicker with emotion. "Please show to Janur. Find out what Achilli discovered. Make life count."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Knock Genjes unconscious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>As he bends over a low mirror, you place an expert blow at the base of his neck, and he falls, suddenly and silently, into a heap.
+
+{SCRIPT:  Knock Genjes out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As Genjes bends over a low mirror, you swing at his neck... but your blow is misplaced, and you strike his armor instead. He stumbles forward, whirls, and pulls his weapon. "Ayu! A-ka visti!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>As Genjes bends over a low mirror, you strike the base of his neck, precisely and with exactly the right amount of force. He pitches forward unconscious to the ground, and an interesting-looking device falls from his pocket. You take it.
+
+{SCRIPT:  Knock Genjes out}
+
+{SCRIPT:  Give out loot}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>As Genjes bends over a low mirror, you strike at the base of his neck. At least, that was your plan. Instead, you trip over a small protrusion on the floor as you step toward him, and you fall down and strike your own head.
+
+Genjes hurries to your aid. "This is a dangerous room for you, outlander. Perhaps you should leave." His eyes are level. "You may accidentally hit me next. Guards will escort you. Guards!" 
+
+{DAMAGE}
+
+{COLIN/GEORGE: I don't know if this wording makes it clear that the player will get locked out completely if he agrees.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You said a Ship. The Cortex said a Ship. But no Ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Must verify calculations and check maintenance of antenna array."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You attack us? You die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Kal-vanis toh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You check the sensors and arrays? Good, because I noticed that they seemed to be out of alignment when I came in here."
+
+{JESSE: I made the unlocks for this option both knowing what Genjes does and what the room is; using the Has Conversation Node Been Played in nodes 9 and 11}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ah! So delicate. I tell the others in control room they must watch themselves, but do they?" He makes a small adjustment to the device he is working on, sets down his tools, and leaves the room.
+
+{SCRIPT:  Make Genjes path wherever makes sense for the option written.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Farewell, outworlder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Script Node 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"So I have update for you. The Ship of which you spoke? Was a report in error. Such a Ship did not come." His crestfallen face tells you everything. "Cortex has never made an error before. So strange. Shakes one's faith." He looks as if he is choking back tears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He freezes. The rag he is holding drops from his hand as his whole body turns rigid and nerveless. "Do you... I must see." He shoulders you aside and places his hand on the cortex, assuming an attitude of total concentration.
+
+His face pales, and for a moment you think he might faint. He pulls his hand from the cortex and runs from the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ch'vastin? Aru? Sensors function?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"What is the Cortex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tell me about the Cortex again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What is the Cortex?" He opens his mouth, and shuts it quickly. "I almost speak too fast. It is our watcher of the Void. It is the keeper of our history. It knows the night skies of a million worlds. It holds our traditions and tells us how to live in accordance with old crews. It keeps us alive, maintains the Anchorage."
+
+He bows his head in reverence. "It alone is the voice of truth. Never has it been wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It is the keeper of our past, stranger. It remembers our struggles. It watches the Void for the Ship. It is our most valued asset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He continues work on a small device, not looking up at you. "Ha! How do you know proper alignment? Very funny." He smiles to himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Again?" He throws down his tools. "How many times? I tell them and tell them but they are never careful. If the Ship does not come, who will they blame? Idiots who keep knocking delicate array or Pilot-Major Genjes?" He stomps away, clearly upset, leaving his work unfinished. This might make it easier to open the cortex...
+
+{SCRIPT:  Provides a positive asset when attempting to remove the cortex.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>He sets his tools carefully down and looks at you steadily. "What know you of our arrays and sensors? How would you tell the alignment?" He keeps a steady gaze on you, and then returns to his tools. "Of course you mean no harm. Do you?"
+
+{SCRIPT:  Applies a negative asset to reattempting this task.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I saw someone bump into some delicate machinery in the control room. I could have sworn they said something about the antenna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Apologies for rushing out. Worried about sensors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Kenasti! An-hila! What happens!?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me about the Ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me about this room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me about this room again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What do you do here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"We are lascars. We serve the Anchorage, we await the Ship, and we survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"In here is where we keep our history and future. Without the Cortex Chamber... and cortex inside of it... we lose hope. Knowledge contained in this room, it guides us and molds us. Here we learn to be better people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I am the keeper of the Cortex. I clean the sensors, maintain the antenna arrays, and I study so that I will be ready when the Ship comes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Tell me about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>A moment later, the captain comes racing in. She too places her hand on the cortex orb to verify your information. She falls to her knees as the cortex verifies Genjes's claims, and rises unsteadily. Genjes helps her rise, and his eyes are troubled.
+
+{SCRIPT: Cutscene to make the captain appear here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Genjes remains behind. "A word, outlander. I have studied all my life to pilot the Ship. I have been proven the best of my generation. Now... the crew is Home. The Ship never came. I never shone. My purpose has ended." He meets your eyes. "I thank you for the gift of Home, but... I almost wish you had never come."
+
+Head down, he follows the remainder of the crew out the portal.
+
+{SCRIPT: Path Genjes to exit}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Captain Janur summons the crew, and when they have assembled she speaks to them for long moments in their own tongue. Her face shines; you hear gasps and cries of muted praise. Some weep openly.
+
+When she finishes her speech the lascars line up outside the portal to the Bloom. 
+
+"Outlander, whatever lies beyond the Bloom is the place we call home. Our service is done. Our thanks."
+ 
+She presses the navigational cortex into your hand, and follows her crew out of the Anchorage.
+
+
+{SCRIPT:  Probably need a cutscene here for her  retrieving the cortex, handing it over, and her and all the lascars but Genjes heading through the Bloom portal.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>They escort you to the airlock, and deposit you there wordlessly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Then we have no choice but to fight." He draws his weapon!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"It was promised of old. It will carry us Home." He smiles. "Is perhaps... ridiculous?... for outworlders to understand. So many crews have passed on, so many lives ago, yet still we believe. Some question whether it comes. Many have died before its arrival. Yet *still* we believe. What is life without belief? Why do we keep on with routines and rituals, if not for belief that someday we will go Home?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Tell me about your people again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I'd like that tour you offered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>He smiles widely, spreading his hands.
+
+"Yes. Course. Follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You have already seen the elevator room. You will now see the observation deck, where we watch for the coming Ship. Where we study the path of the stars. Follow, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Script Node 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Script Node 79</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bank 80</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tell me about the Anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Tell me about the Anchorage again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bank 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"It is many things to us," he says, his brow wrinkling. "A home. A reminder of who we once were, and a promise. No, a prophecy. No..."
+ 
+He trails off, clicking his tongue, then brightens. "Can show you the Anchorage instead of just telling you about it. Can give you a tour. Yes?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Can I offer you a tour instead? Can I take you with me, and show you how we see it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"It does all that?" Aligern says, raising his eyebrows. "That's something. That's really something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"It truly does all of that?" Callistege says, eyebrows rising. "Remarkable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"It does all that?" Erritis exclaims. "That's amazing. I hope I don't break it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'd be less trusting of voices of truth if I were you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"That's lovely," she says. "Thank you for telling us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"It does all of that?" he says, whistling. "Sounds incredibly... what's the word I'm thinking of? Ah. Valuable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Genjes bows his head again with a small, perfect smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Genjes blinks several times, then smiles carefully. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Genjes's face goes utterly, carefully still, and he does not respond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He gives her a radiant smile in return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[DEBUG] Just start the tour already. Sheesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He smiles widely, spreading his hands.
+
+"Yes. Course. Follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText> Follow-up PQ. 101</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I'd like that tour you offered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Do you have time to give me that tour you offered yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Bank 104</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Now?" Genjes says, looking alarmed. "Would be happy to, but many tasks..." He flushes as his grasp of your language abandons him in his embarrassment. 
+
+"Not now," he mumbles looking away. "But soon? Very soon. Please return later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He flushes. 
+
+"Apologies, but still not. Am awaiting crucial messages. But soon, I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Yes," he says, smiling wildly. "My thanks for patience and apologies for delay. Follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What a remarkable idea," Tybir says in your ear. "He'd have to leave the Cortex door to do it. Say yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"What a wonderful idea," Matkina says in your ear. "That'll take him away from the Cortex door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"What a grand idea," Callistege says in your ear. "That'll take him away from the Cortex door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Script Node 111</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Script Node 112</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

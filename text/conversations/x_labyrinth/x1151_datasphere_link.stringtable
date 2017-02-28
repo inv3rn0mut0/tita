@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_datasphere_link</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>What looks like a tear in space shimmers in the air. Through it, you can see darkness and the sprinkled light of the stars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reach through it with your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>As soon as you touch it, your senses expand, as though your mind were *inside* the tear. You realize the sky around you is not sprinkled with stars, but minds - billions of them, each one several orders of magnitude greater than your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As soon as you are aware of them, they become aware of you. They converge on your presence, the weight of their immense knowledge threatening to crush you.
+
+Instinctively, your mind throws up a shield to surround you, an isolated space within the darkness. The minds outside crash against it, trying to break in, but the shield holds strong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Feel the minds outside your space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Feel the minds outside again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your initial estimate of their numbers was far off, you now realize. There are trillions, maybe quadrillions. You can sense just the fringes of their personalities and memories before driving yourself mad, and what you sense are minds that have existed for eons, from all eras and corners of the universe.
+
+They are not malevolent, but they will definitely snuff you out in their effort to learn what you know and bring you among them, and that's not what you need right now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Quadrillions of ancient minds desperately seek a way into your isolated shell. It's surprising that for all their power, something you have created can keep them at bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Explore the space. See what else you can do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The minds outside fade away, and you sense the presence of other objects appearing in the space - representations of your will. Or perhaps not *your* will. Like the shield, you aren't so much creating the objects as recalling things that had already been created once. This shell, like your own, once belonged to someone else. Two things come sharply to your mind, symbols of will in the form of simple objects: a circular window and a metallic cube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Pull your hand out of the tear and return to the labyrinth of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Although you can see yourself back in the strange laboratory, you can't seem to return there. That mental image of yourself stands frozen in time - or at least moves so slowly that it would take several years for him to move his hand far enough to make a difference. It looks like you're in *this* mental construct for a while.</DefaultText>
+      <FemaleText>Although you can see yourself back in the strange laboratory, you can't seem to return there. That mental image of yourself stands frozen in time - or at least moves so slowly that it would take several years for her to move her hand far enough to make a difference. It looks like you're in *this* mental construct for a while.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Look out the window.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Look out the window again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The window is a convex lens, magnifying the outside. The minds are actually shining latticeworks of light. And the space between them is not empty as you had thought. Gossamer strands connect each mind to every other mind and to your own shielded space. Nothing is truly isolated here, not even you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You sense the connections every mind has with every other mind, and with your own shell. This shield was built to protect your identity while remaining connected to the rest - or perhaps it's impossible to exist here *without* being connected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Examine the metallic cube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Open the journal cube again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>As soon as you touch it, words and pictures form in the air above it. It's some kind of information cube recording your memories.
+
+It's easy to scan through the information it currently holds. It chronicles your fall and your experiences with the Specter and the Sorrow, like a kind of journal.
+
+{SCRIPT: Add a journal entry about finding the journal.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>It is a journal of your experiences, augmented by occasional connections with the information outside. It updates at the speed of your thoughts - there's a recent entry here about the journal itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Open the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Open the chest again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Three sets of clothes are folded neatly inside. A small card sits atop each set. On the cards are the words Glaive, Nano, and Jack, respectively.
+
+You realize these are potential aspects of yourself, like the doppelgangers in the mirror before. With this chest, you can choose who you are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Yup. Glaive, Jack, and Nano are still there.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Examine the glaive's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Examine the jack's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Examine the nano's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Close the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The clothes disappear before the lid shuts entirely. It seems strange, until you realize there's not even a lid there - this is all in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>They are the clothes of a warrior, made for someone who uses strength and speed to overcome any challenge in their way. They look like your size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The jack's clothes look like a cross between the other two - a jack-of-all-trades. They are the clothes of someone who uses knowledge of past worlds as power, but who is also prepared for physicality, if it should come to that. These clothes are ready for anything. They should be easy to wear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The nano's clothes have a multitude of pockets and paraphernalia. These are the clothes of someone who wants to *understand* the world - not just the world, but the worlds before it - and to use that knowledge as power. They look like they'd fit you easily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Leave them on. Become the glaive.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Take them off for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>As soon as you remove them, the other sets of clothes reform clearly in your mind. Your decision is yet to be made.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[You're a glaive now. Awesome.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>As soon as you make the decision, the wooden chest - along with the other clothes inside - disappears. Wearing them changes you somehow, forms new pathways in your mind. You are made whole again, and you feel more certain and assured. Suddenly, the way out seems clear to you. You can sense yourself back in the strange laboratory, but you sense another self - a *real* self - being knit back together in the real world. You know how to return to your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Leave them on. Become the nano.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[You're a nano now. Awesome.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Choose something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[The clothes await your decision.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Leave them on. Become the jack.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[You're a jack now. Awesome.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Choose something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[The clothes await your decision.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Return to your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>A glowing strand leads from your shell to your body in the real world, ending at the tattoo on your body's head.
+
+You follow the strand with just a thought. The world whirls beneath you. The labyrinth of your mind and the strange tear in space fade away, and you open your eyes once again...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The hole in the air continues to shimmer. Behind it lies darkness sprinkled with stars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Take down the shield and let the minds have you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You created the shield by some latent instinct. No amount of will or mental commands seems to have any effect on it. It's just *there*.
+
+But something else changes as you turn your attention to the space itself...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Pull your hand out of the tear and return to the labyrinth of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Although you can see yourself back in the strange laboratory, you can't seem to return there. That mental image of yourself stands frozen in time - or at least moves so slowly that it would take several years for him to move his hand far enough to make a difference. It looks like you're in *this* mental construct for a while, at least until you can find another way out.</DefaultText>
+      <FemaleText>Although you can see yourself back in the strange laboratory, you can't seem to return there. That mental image of yourself stands frozen in time - or at least moves so slowly that it would take several years for her to move her hand far enough to make a difference. It looks like you're in *this* mental construct for a while, at least until you can find another way out.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[DEBUG] Exit to the real world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>And there's additional information in here you did *not* know. Diaphanous strings connect the journal to the outside, somehow making connections between your experiences and the vast knowledge that lies out there.
+
+Even as you scan through the data, new information magically appears, describing the room you're in and the objects you see. The journal mentions a wooden chest here in your shell, which you did not see before, but which appears next to you even as the words are written in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Examine the glaive's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Put on the glaive's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Examine the nano's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Put on the nano's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Examine the jack's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Put on the jack's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>As soon as you put them on, strength and agility surge through your body. You recall in detail various combat forms and feel capable of mastering any weapon, no matter how exotic.
+
+The clothes fit well, which is good because the other two sets are starting to fade away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>As you put them on, you feel your mind expand. Everything around you comes into sharp focus, and you better understand the things you see and have seen. This place, for example, is part of the datasphere, a store of ancient and powerful knowledge from the prior worlds.
+
+The clothes fit well, which is good because the other two sets are starting to fade away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Wearing them, you feel prepared for anything. Although you don't understand everything completely, you see more clearly the *use* of the strange things you have come across, and you feel like you'd be more comfortable with a standard weapon on your belt.
+
+The clothes fit well, which is good because the other two sets are starting to fade away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[This is the portal that will lead back to your body, but first you need to choose a Type. Type selection has not yet been implemented for beta, so choose it here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Tell me about Types.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[I want to be a glaive.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[I want to be a nano.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[I want to be a jack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Your Type is what your character *does*. There are three Types to choose from: glaive, nano, and jack.
+
+The glaive is the elite warrior of the Ninth World - whether through brute strength or speed, melee or ranged combat.
+
+The nano seeks to understand the relics of the past, using cyphers and esoteries to perform amazing feats.
+
+The jack is a bit of both - a capable fighter who uses prior world technology to his advantage. The jack is the most versatile type.] </DefaultText>
+      <FemaleText>[Your Type is what your character *does*. There are three types to choose from: glaive, nano, and jack.
+
+The glaive is the elite warrior of the Ninth World - whether through brute strength or speed, melee or ranged combat.
+
+The nano seeks to understand the relics of the past, using cyphers and esoteries to perform amazing feats.
+
+The jack is a bit of both - a capable fighter who uses prior world technology to her advantage. The jack is the most versatile type.] </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[You are now a glaive, an elite warrior of the Ninth World.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[You are now a nano, a master of the numenera of the past.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[You are now a jack, a versatile fighter who knows how to use the numenera to his advantage.]</DefaultText>
+      <FemaleText>[You are now a jack, a versatile fighter who knows how to use the numenera to her advantage.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[You are now ready to return to your body.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

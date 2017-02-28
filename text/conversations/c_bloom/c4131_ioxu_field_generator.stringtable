@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4131_ioxu_field_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An odd device sits in the middle of the room. It almost looks like a capsule of some sort, but it is covered with ducts and ports and vents, and a strange blue light emanates from it. Cables run from its base throughout the room, attached to various devices. It vibrates with a mild, occasionally stuttering pulse, and when it falters, the field that protects the interior of the shanty briefly fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The machine encapsulates a piece of Bloom-flesh, which is wired with various leads. It appears the core is a counter-stimulus device to drive the Bloom back. Resonances and frequencies use the flesh of the great predator against itself, creating a kind of energy field that repels the Bloom and keeps it from entering this chamber.
+
+... but the constant pressure from the Bloom's hunger is driving the machine toward irrevocable, irreversible breakdown. You do not think you can repair it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Your careful examination of the device leaves you no wiser as to its purpose. It is completely mysterious to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Examine the device again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The generator hums quietly, filling the room with a not-unpleasant noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The machine encapsulates a piece of Bloom-flesh, which is wired with various leads. It appears the core is a counter-stimulus device to drive the Bloom back. Resonances and frequencies use the flesh of the great predator against itself, creating a kind of energy field that repels the Bloom and keeps it from entering this chamber.
+
+... but the constant pressure from the Bloom's hunger is driving the machine toward irrevocable, irreversible breakdown. You do not think you can repair it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Shut the device down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try again to deactivate the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The device sits quietly in the center of the room, robbed of its power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>After some tentative exploration around the device's extrusions and vents, you discover a rubbery switch that you think powers the energy field. When you pinch it, the machine falls silent. The flicker around the room vanishes utterly, and a deep shudder roils the Bloom. The walls of the room groan.
+
+{SOUND: Slithering flesh, a deep rumble, possibly the ping of a couple nails hitting a wooden floor}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As you poke and prod at the various pieces of the device, you manage to change some frequency or modulation. Whatever the case, you attract the attention of the varjellen scribbling away at his desk. He looks sharply at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Determining to shut the machine down most effectively, you find a hidden panel that allows you access to the device's interior. The tube leads to a central chamber, in which a piece of Bloom-flesh pulses and throbs into various leads.You detach the lump of flesh.
+
+The machine falls silent. The flicker around the room vanishes utterly, and a deep shudder roils the Bloom. The fleshy walls of the shanty groan and push.You hear nails pop from the planks in the floor.
+
+{SOUND: Groaning, creaking wood, possibly the ping of a couple nails hitting a wooden floor}
+
+{DESIGN: Adding Bloom-flesh item - PC should be able to sell it for a hundred shins or so}
+
+{LOOT - ESSENTIAL}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Destroy the device.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to destroy the device again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Though it was designed to be durable, the machine's creator clearly never intended for abuse at this level. After a few well-placed hits, the generator sputters and dies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The device is stronger than it looks, and it resists your best efforts to damage it. You strike it a few times, but the mechanical hum drones on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The device looks durable, but removing its armored exterior is simple. Once you accomplish that, its interior lies open and vulnerable. A few precise strikes render it worthless, and a few more leave it completely irreparable.
+
+{SCRIPT: This should also cause the generator to only display a bark saying it's been destroyed as well.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You hold the machine steady and deliver a punishing blow. Unfortunately, your thumb was in the way, and the only damage you deal is to your pride and your hand.
+
+Ioxu glances over sharply at the commotion.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The wreckage of the machine is complete. Its inner workings are broken beyond repair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Scavenge what you can from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You pry open a few loose panels and take some loose bits of metal and other, more exotic materials that could serve as shins. You don't see anything else of value.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Scavenge what you can from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Most of this lore is beyond you. You don't know what's useful and what is not. However, as you graze your hand through the interior workings of the machine, you discover a small tube. Examining the tube, you conclude that it contains some sort of device that you may be able to make useful. You pocket it.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The varjellen looks up sharply at you. "What have you - " He glances at the generator. "You have killed me. My blood will stain your legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The air rushes from the shack, and then spills back with a foul gust, as if the Bloom itself were breathing into the ramshackle enclosure. Holes tear open in the air, vivid, viscous wounds, and tiny masses of animate Bloom-flesh tumble out of each.
+
+Their disgusting pseudopods reach out for you, questing, hungering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Do you intend to erase me? No. This will not be." With the crook of a finger, Ioxu sets his construct on you!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Shut the device down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You follow Ioxu's directions to find the switch. It's down near the ground, and it's covered in a warm, almost fleshy material. You pinch it, and the machine falls silent. The room's protective field vanishes utterly, and a deep shudder roils the Bloom. The walls of the room groan.
+
+{SOUND: Slithering flesh, a deep rumble, possibly the ping of a couple nails hitting a wooden floor}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Your fumbling at the machine knocks it slightly off-kilter. This time the varjellen rises, his face a mask of rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Be careful with the device! Should it lose power, the Bloom would destroy me. I do not consent to this destruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The varjellen leaps to his feet. "Imploring and beseeching come not easily to me, but now I must beg: Do not do this. Please. All that I am will be destroyed."
+
+{SCRIPT: Automaton has been disabled/destroyed}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Your fumbling at the machine knocks it slightly off-kilter, and the varjellen rises to his feet.
+
+{SCRIPT: If construct is not functioning or is dead}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"My defenses are already destroyed. Pleading comes to my mouth only with difficulty, but now I implore you to leave me with my life. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You run a hand over the machine, accidentally snapping a piece of it off. The machine continues to vibrate. Maybe you didn't do any real damage to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The varjellen glowers at you and shoos you away from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Attempt to break the Device in combat]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The air rushes from the shack, and then spills back with a foul gust, as if the Bloom itself were breathing into the ramshackle enclosure. Holes tear open in the air, vivid, viscous wounds, and tiny masses of animate Bloom-flesh tumble out of each.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You pry open a few loose panels and take some loose bits of metal and other, more exotic materials that could serve as shins. You don't see anything else of value.
+
+Thanks to your </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You pry open a few loose panels and take some loose bits of metal and other, more exotic materials that could serve as shins. 
+
+Thanks to your skill with machinery, you're able to gather some extra shins from what seemed to be inaccessible nooks. However, you don't see anything else of value.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Shut the device down.
+
+
+{SCRIPT: Would like the successful examination of the machine to provide an asset for this}
+
+{JESSE: I added the KnowGeneratorIsFailing to the ShutdownList - cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Destroy the device.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Shut the device down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You follow Ioxu's directions to find the switch. It's down near the ground, and is covered in a warm, almost fleshy material. You pinch it, and the machine falls silent. The flicker around the room vanishes utterly, and a deep shudder roils the Bloom. The walls of the room groan.
+
+{SOUND: Slithering flesh, a deep rumble, possibly the ping of a couple nails hitting a wooden floor}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5221_cintra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>92</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The ghibra female remains by the grave, keening softly. She does not look up at your approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Why are you crying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I am sorry for your loss. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Cintra looks up at you, eyes full of wonder. "It worked. I can sense my child growing stronger. I can hardly believe it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Don't grieve. A child without a father is better off unborn. I'm living proof. Besides, it's just an egg, isn't it? Let it die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She glares at you. "What? How dare you! I had always heard that air-breathers were callous and unfeeling, but I never believed it." She turns away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She clutches your hand. "Thank you! This means more to me than I can - "
+
+She cuts off and fishes in the folds of her flowing mourning clothes. "Oh, but I must try. Please, it isn't nearly enough for saving the life of a child, but take these shins. You deserve a thousand times as many."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Thank you. I will take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"There is no need to pay me. Keep your shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Twice as many would be appreciated. You have no conception of what that took out of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Please."
+
+{SCRIPT: give shins to player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You are far too generous. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I... well, it will be all I have, but, certainly. The sacrifice you made is a cost that can never be recovered. I, on the other hand, will surely find more shins, somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Leave the ghibra to its grief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh, Hiulen. How can you be gone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Is there some way I can help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It is not your concern. Please. Leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Very well. I offer you my condolences none the less. I hope the hurt heals soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>A sob convulses her. "How can it? How can it ever heal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You are mourning the death of a loved one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Wait next to her in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>After a moment, the ghibra looks up at you with hopeless eyes. "I mourn the death of two loved ones. My bonded, Hiulen, who lies here, entombed in coral, and... and his child, who will soon lie beside him because Hiulen did not live long enough to name her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I don't understand. Why will the child die without its father?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She takes a moment to compose herself, then speaks. "A few ghibra are born within the body, like humans, but most are born of eggs, left by the mother in the spawning ground of Oblevis Reef for the... father to name and give them the strength to hatch. My..."
+
+A sob escapes her, then she continues. "My husband was killed before... before he could do this, and so my child will now die unborn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Is it possible that someone else could name the child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She shakes her head. "A husband gives more than a name. He gives part of himself, weakens himself, to make the child strong enough to live. I know of no male willing to make such a sacrifice unless he would also be a husband and father, and I do not want a husband, except for he who - " 
+
+Her sobs overcome her as she looks again at the grave. "Except for he who I can no longer have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>A ghibra keens at the foot of a newly shaped grave, face buried in its hands. The sound it makes seems half-singing, half-crying, but without the tears. Its gills are red and swollen with emotion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The ghibra is still keening at the grave, quieter now, but just as lost to despair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Can I do anything? Can a woman name the child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You are horrible. I will not speak to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"How about Aligern? Aligern, will you name this woman's child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Perhaps Tybir? Tybir, will you come to this woman's aid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Erritis, will you take the hero's part and save this unborn child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Riastrad? Satsada? Could you help this woman?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You would ask that of a man as cursed and beset by ghosts as I? No. A child would be better in oblivion than with me as a father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"W-what? Me? I... Well, it's not that I wouldn't be delighted, and I have certainly proved myself capable of bringing a child into the world many times over, but this, er... weakening she spoke of.  Though of course I have no troubles in that area, I... I wouldn't want to, uh... develop any, as a result, if you understand me."
+
+He clears his throat. "In short, though I am flattered beyond measure that you would think of me, I'm afraid I will have to decline. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Absolutely!" He claps his hands together. "Let me at those eggs! I'll have 'em for breakfast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Riastrad says nothing, but Satsada's voice rings in your head. "It is difficult enough for you and I to reach poor Riastrad. To hope that he would be able to connect with and bond with an unborn mind? Or that he might have strength enough to spare? Would that we could, but I believe it is impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You are too kind, but there is nothing I need than anyone living can give me. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You have returned. Thank you again for your kind words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"The savior of my child returns. Thank you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I can't thank you enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText> Follow-up PQ. 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Can an air breather perform the naming ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"What does strangeness matter if the life of your child is at stake?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"If your child will die anyway, isn't it worth the risk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText> Follow-up T. 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>She looks up at you, confused. "An air-breather? I have never heard of such a thing. I don't know if it is even possible."
+
+She looks away. "No. I am sorry. It is too strange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"No. You don't know what you risk, and nor do I. It might kill you. It might kill my child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"The risk of further heartbreak? The risk of a sickly or somehow... twisted child?" She shudders, but then folds her hands together, thinking. "But if I say no, will I always regret? Could I continue to live, wondering what might have been?"
+
+She raises her head and looks directly at you, eyes filled with both dread and hope. "If you are willing, sir. I will not say no." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Oh, Hiulen. How can you be gone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Go to the spawning grounds. If this is possible, you will feel the presence of an egg with my... life in it. Connect with that egg, and...." She shrugs. "I don't know. That is a thing between a husband and his child. It is not for a woman to know. Hopefully, you will feel what to do. If not, you will at least have tried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"How did your husband die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"He was killed when Atolyu Cay was destroyed." Her features harden. "Those who destroyed it do not know they claimed one more life than they thought, may Ny'kul seal their gills."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Thank you. And good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She lets out a squeal of dismay that returns your attention to her. Her eyes are wide with alarm. "No," she says. "Not him. There's something...." She shakes her head. "No. Just... no."
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Cintra shakes her head. "No. Only a man's spirit can bring forth the child. But I thank you for the offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Then can I help you in some other way? Do you need shins? A place to rest? A place to live?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I'm sorry. I wish there was more I could do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You are very kind. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText> "Please. Go away and leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He looks offended. "Is she saying my meat wouldn't go with her eggs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She shudders. "Please, make him stop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I am willing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She nods. "Then go to the spawning grounds. If this is possible, you will feel the presence of an egg with my... life in it. Connect with that egg, and...." She shrugs. "I don't know. That is a thing between a husband and his child. It is not for a woman to know. Hopefully, you will feel what to do. If not, you will at least have tried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Cintra inclines her head to Satsada. "Even if it is not, I... No disrespect to your companion, but I would like the father of my child to be of... sound mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Satsada returns the nod. "I understand. We take no offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I wasn't thinking of me, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Not you?" She looks concerned. "Then, who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I... I'm not sure. Who are you speaking of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Would you be willing to try a man I vouch for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I'm sorry. I wish there was more I could do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I went to the spawning grounds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"It's true. I could do nothing. But I did observe something interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Why did you bother? I told you. A female can do nothing there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"You're right. It was a fruitless exercise, but I had to try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I appreaciate the thought. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>She turns her head, her voice bitter. "What did you observe? The dying of my child? How kind of you to return and tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Think of it this way. Your child did not die before helping others. There was a purpose to their life, no matter how brief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Perhaps. You believe your child has been taken from you. I say you have many children now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I saw that the dark eggs, the ones which had not bonded with a father, were fading not because they were unloved, but because they were giving their strength to the eggs around them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"And you think that is supposed to give me some kind of solace?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Whether it does or not, you have strengthened your community. That is irrefutable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"It was just an observation. Take it however you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Yes. From reef to reef. I... I suppose that does give me something." She arranges her features into a smile. It might almost be genuine. "Thank you for the new perspective. It helps... a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I will take it alone, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Your 'bonded?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"My life mate. 'Husband,' I think you would say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Never mind. I changed my mind. I am willing."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

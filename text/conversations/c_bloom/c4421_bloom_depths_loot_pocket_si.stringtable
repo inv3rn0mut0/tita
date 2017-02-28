@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_depths_loot_pocket_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A pocket of flesh peels open as you approach. Strange devices lie in its black depths, including a medallion made of concentric circles. They are covered in the Bloom's foul ichor, though the medallion looks familiar to you for some reason.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The pocket of flesh peels open. Deep inside, covered in ichor, lies a medallion of concentric circles and other strange objects the Bloom stored for some ineffable reason.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The pocket of flesh peels open. A black, viscous substance clings to the inner walls.
+
+There is no longer anything inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Take the medallion and everything else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As soon as you touch the medallion, a vision overwhelms your mind.
+
+You're underwater. The fading pulse of a sonar alarm ripples through the water, then is gone. Some invisible pressure crushes against your body, making it impossible to move.
+
+A ghibra with intricate markings holds the medallion in front of you. A castoff tattoo is clearly visible even among the markings. "Fool! The Tidal energies that connect us also sustain us. Using this talisman wouldn't free us. It would *kill* us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"How *dare* you!" you shout back. "You're a small-minded child, Thom, worse than your sister Maralel." Yet his words frighten you. *You* didn't know that about the talisman. How did he?
+
+"I can see now that I was too generous," you say, knowing it to be bravado. "You castoffs are selfish, but no matter. Even now, I grow a new body, a catalyst for the resonance chamber, more powerful than the talisman ever was. When it is complete, you and your ilk will be but a distant memory in *my mind*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You won't have the chance." With a flick of his finned hand, Thom sends the talisman floating off behind him into the dark. "Your resonance chamber can be used to destroy itself rather than us. My people will find it and use the talisman to do exactly that."
+
+He makes a complicated gesture with his fingers. "In the meantime, you..."
+
+Thom's voice grows muffled and fades. Your mind - your sire's consciousness - flees his imprisoned body, abandoning it to the ghibra in favor of a new host.
+
+{SCRIPT: Journal entry: "When I found the talisman it triggered a powerful memory. The Changing God had tried to steal the talisman from the ghibra. He meant to use it as a catalyst for the resonance chamber, until Thom - a ghibra castoff - told him it would kill them all.
+
+He said he'd make a new catalyst, a body - *my* body, I think. Thom threatened to use the chamber to destroy itself instead, then the memory ended."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The memory fades. You are back in the stifling air of the Bloom, the talisman in your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

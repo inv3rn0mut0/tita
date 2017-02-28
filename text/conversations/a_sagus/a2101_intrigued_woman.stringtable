@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_intrigued_woman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman listens intently to the ravings of the man on the nearby dais, hanging on every word. She gives you a hesitant smile. "Can you understand it? I know he is speaking great wisdom, if only I could decipher it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What does it all mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Truths are being revealed, I'm sure of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I wish I understood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Is he giving us the answer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Why is the sense of it hidden from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What if I told you he was innocent? Would you still be willing to let him die to acquire wisdom?"
+
+{SCRIPT: Tybir has mentioned turning crowd.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What if I told you he was innocent?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She spreads her hands. "Does it matter? He's going to die no matter what I do, and what he says could be *important*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"That would be terrible, wouldn't it? But his words seem so wise..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Stay true, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"As important as an innocent man's life? Help me save him. Wisdom can be gained without harming another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"As important as an innocent man's life? Help me save him. Wisdom can be gained without harming another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Perhaps you're right. I hope you find some truths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Even if that were true, it is wisdom gained through another man's pain. Can that even be called wisdom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"So, you'd stand by and let an innocent man die just to gain wisdom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The woman hangs her head. "You're right. I have put my curiosity above a man's life. I will do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I see merit in your argument, but I feel he is so close to revealing something truly profound. I must listen a little longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The woman hangs her head. "You're right. I have put my lust for knowledge before a good man's freedom. I will do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You cannot turn me from the path of knowledge with your small minded morality. The guilt I will suffer for letting this man die is a small price to pay for what I will learn from him."
+
+{SCRIPT: I need help coming up with an interesting critical fail state.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The woman hangs her head. "You shame me, friend. I have put my lust for knowledge before a good man's freedom. That is not the path to enlightenment. Perhaps your way is. I will do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Her disregard for Ris's pain stirs your emotions. It would be so easy to manipulate this woman - *this whole crowd* - to demand Ris's freedom. All you'd have to do is *push*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Stir the crowd's emotions. *Demand* Ris's freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Your emotions strengthen within you, and you shape them into a ball of righteous fury and release it, letting it ripple out from you in all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The people in the crowd sway as the invisible force hits them. Their fists clench and their eyes grow bright.
+
+The woman in front of you is transformed as well. She twitches with feverish emotion. "I have been so selfish. How could I allow my lust for knowledge to consume my decency. This man must be saved. His pain is all our pain. Until he is free, none of us is free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Aligern stares, horrified. "Did you just tear the free will from an entire crowd of people? You heartless... thoughtless...."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I though you'd lost her. That was almost... magical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She takes a small bag from her satchel. "Here. Take this humble offering for showing me the fallacy of my thinking."
+
+{SCRIPT: Give the PC a small loot drop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'm not going to help you. You must accept this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Let's do this while my spirit is strong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The woman continues to listen to the ravings of the condemned man. "I must remember every word so I can find the insight in them later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What exactly is happening here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"An execution." She gestures toward the man on the dais. "They put the condemned into a trance, and he speaks of the wondrous things he sees. His words become tendrils of corrupted flesh, which are wrapped around his body until they crush him to death. Then the Devourer of Wrongs eats him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tell me again what's happening here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"It is an execution. The condemned man is in a dreamlike state, and he describes all that he sees. His words become corrupted flesh that squeezes him to death."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She gives you a strange look. "You speak like one of the priests from the Order of Truth. But you're right, of course, and I wish it had occurred to me before." She fumbles in a pocket and brings out a few crumpled papers and a stubby pencil. "I'll record what I can, and next time, I'll be better prepared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Thank you, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She frowns, thinking. "I suppose you're right, but I still want to hear his words..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She purses her lips. "I didn't know. That would make me appear heartless, wouldn't it? To tell the truth, I *still* want to hear his words..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Let him go! Let him go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She shudders. "Most are only thrill seekers and the morbidly curious, but some of us gather to hear the words of the condemned. They are said to contain the most sublime truths, for they are born from dreams of death. We listen and try to understand their meaning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I cannot speak for the others, but I am here because I believe the ravings of a dying man contain the deepest truths, if we can only understand them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Why is everybody watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tell me again why everyone is watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aligern stares, horrified. "Did *you* do that? Enforce your will on an entire crowd of people? You heartless... thoughtless..."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Are you joking?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lad."</DefaultText>
+      <FemaleText>"Are you joking?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I thought you'd lost her. I don't know what you did, but that was almost... magical."</DefaultText>
+      <FemaleText>Tybir shakes his head, amazed, then whispers to you. "Well done, lass. I thought you'd lost her. I don't know what you did, but that was almost... magical."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I don't think there's anything to understand. They're just the ravings of an innocent man in pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"No, I think learning from an innocent man's suffering is wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Maybe we just haven't listened long enough. Anything he says might be important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Is it? I suppose. But what he's saying could be *important*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Yes, you might be right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Trigger Conv Node 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Script Node 85</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

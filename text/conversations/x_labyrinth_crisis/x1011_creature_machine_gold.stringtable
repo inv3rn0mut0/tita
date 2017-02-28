@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_gold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Difficult Task to unlock creature]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Failure. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Try DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Try DT again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[DT not done revisit]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[DT done. Go away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>An aura of bruised light clings to this rattling machine. Water splashes in the tubes leading to the nearby tank, but does not reach it. The creature is too distressed for any connection until the Sorrow fragment within the machine is driven out and the water flow is restored. 
+
+There are no external controls or access port on the machine, but there is something unusual in the billowing clouds of blazing steam: the outlines of a transparent wheel, hanging in the air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up PQ. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You focus, pushing the pursuing creatures from your mind, and study the innards of the machine through gaps and corroded vents. Eventually, you see the problem. A simple spring has come loose, preventing water from flowing into the lower reaches of the device. 
+
+You carefully thread the spring back into place, and water gushes through the lower tubes into the creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sweat pours from your brow as you study the machine before you, but between the clanking of the parts within and the pursuing creatures, you simply cannot concentrate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You blink, and time seems to slow into a crystalline haze as your gaze dissects the parts of the machine into individual segments. In an instant, you know how it works, and what has gone wrong. 
+
+You carefully tighten a single spring in the machine's fast interior, and water gushes through the lower tubes into the creature's tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Heat pours from the machine before you, and sweat stings your eyes. You need just a little more time to figure out how this device works - and time is in short supply. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Determine what's wrong with the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Try examining the machine again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText> Follow-up PQ. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>With a *crash*, something breaks loose from the wheezing machine. After a moment of silence and a greasy cough, the pump restarts itself, and clear water gushes through the tubes into the creature's tank. The creature should be calm enough to connect to now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The casing echoes with a hollow *BLANG*, and the creature inside hisses and writhes. Tentacles whip from inside the machine, grasping at your head. Clutching your temples, you hear the steam wheezing through the machine. The beast has begun moving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The source of the ghastly clanking shudders with the blow. Something tinkles gently, and a smooth whirring cycles up, faster and faster...
+
+Clear water gushes through the tubes into the creature's tank, much faster than it was before. It is entirely possible that this machine has been upgraded with a swift kick. The creature should be calm enough to connect to now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The machine makes a sad *clunk* as the kick strikes an unexpectedly fortified section of the machine's casing. The flow of water does not resume. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Dislodge the Sorrow fragment and restore the water flow by kicking the machine. Hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Kick the machine again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You spin the wheel, hard, and jerk your hands away just before boiling steam jets from the sides. That was close. 
+
+A few turns and near misses later, the steam has dwindled, and the horrible clanking within the device has stilled. Pure water surges through the tubes into the creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You manage to spin the wheel several times before steam jets from the sides, forcing you to jerk your scalded hands away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You cleverly wait for steam to stop jetting from the sides of the wheel, then lunge forward, and spin it as hard as you can. 
+
+The steam dies a whining death, and the horrible clanking within the device stills. Pure water surges through the tubes into the creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You reach out to take hold of the wheel just as steam jets from the sides, scalding your palms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Spin the wheel until the steam stops leaking. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Spin the wheel again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A moist clanking intensifies in the Sorrow-infested machine's frozen guts. A transparent wheel hangs in the air among billowing clouds of blazing steam.
+
+The burning creature in the nearby tank has dwindled, and now more resembles a cloud of candle flames than a man. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Sorrow fragment has been driven out and the water supply restored to the nearby creature's tank. The creature should be all right to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>This machine supplies the nearby tank with a steady supply of fresh, unclouded water. Rather than vanishing into oily smoke, the glowing creature appears to be absorbing the water through its flesh. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The beast has emerged from the machine to attack. Water flows freely from the machine to the nearby creature's tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The Sorrow fragment leaps out of the side of the device with a crackling roar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Turn the wheel made of steam. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Make another attempt at turning the wheel made of steam. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>It is nearly invisible, but it feels like warm metal. It spins quickly. Eventually, the steam cloud fades, and the horrible clanking within the machine stills. Pure water surges through the tubes into the creature's tank, as the wheel fades into insubstantial mist. The creature should be calm enough to connect to now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>An unexpected jet of steam bursts from the cloud, making it impossible to get close to the wheel. Close behind, the Sorrow fragment, tendrils spiraling, bursts out. Its tentacles slice at your mind, ignoring skin and bone, striking your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The wheel is nearly invisible, but it feels like warm metal. After three swift spins, the steam cloud recedes into the machines, easing the horrible clanking within it. The wheel, also, seems to fade away.
+
+Pure water surges through the tubes into the creature's tank. The creature should be calm enough to connect to now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>A vicious, boiling jet of steam lashes out painfully from the cloud at your face. It is impossible to get close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Cascade 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>With the water flowing smoothly, a curved metal rod underneath the water pops out onto the ground. The machine doesn't appear to need it anymore. It was some sort of data tunneler, which isn't very helpful here, but it could make for a handy single-use teleporter by crossing two exposed wires at one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>With the water flowing smoothly, a gleaming stronglass dome pops up from a socket inside the machine. Brilliant energies swirl inside. It might make a useful weapon against the Sorrow fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Script Node 51</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

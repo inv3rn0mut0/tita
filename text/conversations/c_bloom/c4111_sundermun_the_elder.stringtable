@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_sundermun_the_elder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This man runs a bazaar that is both fitting and curious for this place. The goods on display all appear to be crafted from Bloom-flesh itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Let me see your wares."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Can I ask you about...I'm not even sure what to call it. That cyst thing over there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He frowns slightly and looks over to where you're pointing. "Oh, that thing. That's been there for as long as I can remember. I usually forget it's even there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I couldn't help but notice that you and your apprentice look very much alike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Well spotted, well spotted." He grins widely, a twinkle in his eye, "And why would you speculate that is, sir?"</DefaultText>
+      <FemaleText>"Well spotted, well spotted." He grins widely, a twinkle in his eye, "And why would you speculate that is, madam?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I have a proposition for you. I happen to know a young man looking for employment, and I think he'd make a great apprentice for you. What do you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The wide smile disappears from the merchant's face as he considers your proposal briefly. "No, I'm sorry." He shakes his head. "One apprentice is enough for me, I don't really have the need or the space for more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Thanks for your time. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Convince Sundermun to take on Coty as an apprentice.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sundermun thinks, then nods. "Give me the shins and bring this young man of yours to me. I'll put him to work."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Sorry. That doesn't change anything. I plan to leave soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Sunderman grins and claps you on the back. "Now you're talking sense. I'll need someone to look after the place when I leave too. All right. Bring the boy to me. I'll put him to work. And to show how much I appreciate the help, I'll only take half the shins you were offering for his room and board. How's that?"
+
+{SCRIPT: Money deducted needs to match HALF the amount on node 56.}
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You take me for a dupe? Trying to sell me some Sagus scum who'll rob me blind the first time I leave him alone in the store? Thank you, *sir*, but you'll have to find some other sucker. No sale."</DefaultText>
+      <FemaleText>"You take me for a dupe? Trying to sell me some Sagus scum who'll rob me blind the first time I leave him alone in the store? Thank you, *madam*, but you'll have to find some other sucker. No sale."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hello!" he exclaims. "Admiring my stock? You won't find anything else like it, not even here in the Bloom! All hand-crafted and one of a kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Back for more? Who could blame you! Crafted from the most unique Bloom-flesh we can find!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He frowns in the direction you're pointing. "That thing? Been there as long as I can remember. I usually forget it's even there.Thanks for reminding me." He shudders. 
+
+"Always figured the Bloom must have captured something in there it thinks is dangerous. And what the Bloom thinks is dangerous, I don't particularly care to meet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>He regards you with a squint. "Whatever was in there was probably pretty dangerous, and now it's out, thanks to *ahem* a certain someone who thought they knew better than the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"He's probably your son."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I think he's your cousin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Your features are nearly identical... as if you're the same person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Heh, wrong! We are, in fact, one and the same person!" He leans in and grins. "I see you don't believe me, so let me explain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Hah, well done!" He claps you on the back. "Not many people manage to figure that one out. Let me tell you what happened. Or will happen, if you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sorry, but I don't have time for guessing games."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"One day soon, my younger self will be walking along when the Bloom will open a Maw beneath him, and he'll tumble into another world, years in the past. Or maybe the journey to the past will be when he tries to come back. Whatever the case, it'll take him many decades and worlds to travel back here." He smiles wistfully. "I envy him the experiences he will have but thank him for the memories."
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Doesn't knowing what will happen change the future?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"It sounds like a dangerous journey. Shouldn't you warn... yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I have more questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I did! But I didn't listen." He smiles affectionately at his younger self. "Besides, when I think about all the stories I've filled my head with, it's hard to remember exactly what I said about when the big day is." He leans in close and whispers, "But it's coming soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He frowns, puzzled. "Why? I knew what was coming, but it hasn't changed my past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Would it help if I paid for his room and board?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Talk of money brings Sundermun's good cheer back. "Well now, I appreciate the generous offer. [Global: c4111_SundermunCotyRoomAndBoard] ought to be enough to cover his expenses... at least until he's useful enough to cover them himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Come back soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Can I ask you about that cyst at the edge of the platform?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Can we talk about the cyst thing again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He frowns slightly and looks over to where you're pointing. "Oh, that thing. That's been there for as long as I can remember. I usually forget it's even there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Not much more to say. It's just a part of our environment. I do have some thoughts about it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Would you be interested in taking on another apprentice? I know a young man who needs a job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>The merchant's brow furrows as he considers your proposal. Finally he shakes his head. "No, I'm sorry. I've only room for the two of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I have some questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hmmm, nevermind. Thank you for your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Go right ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Even time is not simple in this world. I think he is you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Sundermun thinks, then nods. "Bring your would-be apprentice here. I'll see if I can find him some work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Sorry. That doesn't change anything. I'm set here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Sunderman grins and claps you on the back. "Now you're talking sense! Bring the boy to me. I'll put him to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You take me for a dupe? Trying to sell me some Sagus scum who'll rob me blind the first time I leave him alone in the store? Thank you, *sir*, but you'll have to find some other sucker. No sale."</DefaultText>
+      <FemaleText>"You take me for a dupe? Trying to sell me some Sagus scum who'll rob me blind the first time I leave him alone in the store? Thank you, *madam*, but you'll have to find some other sucker. No sale."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Fair enough. Anything else I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText> Follow-up PQ. 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"What exactly do you sell here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Tell me again what you sell here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Bloom-flesh, my friend. Bloom-flesh! We craft everything out of it - clothing, armor, building materials, jerky, you name it! The Bloom cultists in particular love wrapping themselves in Bloom-flesh, but everybody buys from us - even the murdens!"
+
+"You might say our business is... blooming!" He raises his eyebrows at you expectantly.
+
+{WORDPLAY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"We craft unique specialty items from Bloom-flesh, as well as more mundane items such as clothing and building materials."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You have an apprentice now, but he'll be gone soon. This young man is talented with his hands, and he'll serve as an excellent replacement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"This young man is very skilled with his hands. He'll pick up the craft and pay for himself in no time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Your apprentice will be going away soon. Don't you want a replacement before then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Your store is clearly flourishing. If you don't need another pair of hands now, you will soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Your store is clearly flourishing. If you don't need another pair of hands now, you will soon, and these will come cheap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Never mind. I have more questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Go right ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText> Follow-up PQ. 138</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"How's Coty's apprenticeship working out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Is Coty still working out alright?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText> Follow-up PQ. 141</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"What do you know about the Bloom cultists?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Tell me again about the Bloom cultists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText> Follow-up PQ. 144</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"What do you think of the murdens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"What's that you said about murdens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"He's a bit rough around the edges, but all in all, he's doing well. The boy really is quite gifted for this sort of work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"He's getting better every day. Thanks again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Got some odd notions, those folk. They worship the Bloom as a deity and aren't afraid of being eaten." He shrugs. "Crazy, of course, but they're my best customers, so I just smile and nod when they natter on about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I've said all there is to say. They're good customers, and while their beliefs aren't mine, they do me no harm."
+
+"If you want to know more, just ask them. Last I saw, a few of them were hanging around Ioxu's shop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Sundermun grimaces. "Those hunch-backed beak-faces'll steal anything they can get their claws on. We sell clothes to 'em, and because of that they mostly let us be, but I trust them as far as I can throw them, and I'd advise you to do likewise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Steer clear of them. That's the best advice I can give you when it comes to murdens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Let me see what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ha!" his apprentice laughs. "Good one, Sundermun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Near a display of goods that all appear to be made of Bloom-flesh - either tanned, beaten, carved, or cured - stands an old man who looks fairly tanned, beaten, carved, and cured himself. He also has startling yellow eyes - just like his apprentice.
+
+"Hello!" he exclaims. "Admiring my stock? You won't find anything else like it, not even here in the Bloom! All hand-crafted and one of a kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Back for more, I see! Who could blame you? All our products are crafted from the most unique Bloom-flesh we can find!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Near a display of goods that all appear to be made of Bloom-flesh - either tanned, beaten, carved or cured - stands an old man who looks fairly tanned, beaten, carved and cured himself. He also has startling yellow eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Thanks, Sundermun," says the older merchant. "I liked it myself when I first heard it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Tell me of some of those memories - or experiences - you had and will have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Tell me more of your adventures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>He looks over at his younger self, who is assiduously *not* listening. He laughs a little and speaks softly. "My first journey was to a desert world, where the natives looked like humanoid spiders - it's the best way I know to describe them. They spoke with their minds and a combination of colors that danced between their fingers. It was difficult to get them to understand me, but we managed to find a way. I'm lucky they didn't eat me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Well, when I got back to our world, I didn't know it was the past, right? But no one I knew was alive yet. I went home and met my parents at the age my young self is now. I realized I needed to light out and get my feet under me, because I've never been enough of an idiot to ignore good advice from my older self."
+
+He and his younger self laugh at this.
+
+"I set my heart on reaching the Steadfast. When I came on her, she was..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Wait, why'd you stop talking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>He laughs ruefully. "Because I remember how frustrated I was when the old man wouldn't tell me about the beautiful woman he met. But let me tell you this. She was tall and dark, with eyes that dropped away into eternity. Her voice was the sweetest music, and when she spoke I had to concentrate to get her meaning, because otherwise I'd drift away on the song. Her form was a delight, and we shared a time that - " He breaks off again, blushing. "It was the best time of my life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>He laughs. "That's all the stories I can tell you. Right about here is where I tell you that I need to save some surprises for my young self." He laughs again. "Sometimes this timestream seems to make things especially easy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Where did you meet the beautiful woman from your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ha! I'd rather not open myself up for the competition, and I'd like to make sure Sundermun over there doesn't just dance through life. He's got to experience *some* things on his own, you know."</DefaultText>
+      <FemaleText>"Ha! I'm not casting any aspersions on your own looks - or opening myself up for competition, as the case may be. I'd like to make sure Sundermun over there doesn't just dance through life. He's got to experience *some* things on his own, you know."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"All right. What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Bank 197</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"I'm not planning to woo her. I just want to know the rest of your story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I don't have any designs on her, I swear. I just want to know how you met her... and where."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>He thinks a moment, then shoos his younger self away. "I met her in the city of Jargolamis, one of the famed Twinned Cities of Rarmon. She was helping restore Jargo Tower, and she took as her life's work the restoration of the Umbil skyway. She's likely still there. It's where I plan to meet her when my younger self goes on his adventure." He smiles wistfully. "It'll be a long journey, but worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>He shakes his head, smiling. "I hope you'll forgive me, but I'm not taking any chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>He thinks a moment, and shoos his younger self away. "I met her in the city of Jargolamis, one of the famed Twinned Cities of Rarmon. She was helping restore Jargo Tower, and she took as her life's work the restoration of the Umbil skyway. She's likely still there. It's where I plan to meet her when my younger self goes on his adventure." He smiles wistfully. "It'll be a long journey, but worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>His face closes, and he peers at you suspiciously. "You'll have to be satisfied with what I've told you already. A man's got to keep *some* things to himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I'm looking forward to retirement, to tell the truth... and to see what the future holds. I've been under fate's thumb, or whatever you want to call this self-observational phenomenon, and it's about time I experienced life like the rest of you do." He pauses, pensive. "I only hope she remembers me, and that she doesn't care that I've grown old."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Heh. I think we've talked quite enough about that particular topic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Script Node 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Come one, come all! Bloom meat, jerked and seasoned!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Be a part of the Bloom! *Wear* a part of the Bloom! Bloom-leather here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Need a hanging for the wall? A sheet for the door? Why not use Bloom-leather?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"The Bloom surrounds you all day - now let it surround you all night! Bloom-flesh blankets here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Bank 212</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Tell me more about the beautiful woman you met in your travels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"It's not just Bloom-stuff we have here! Come and see our wares!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"When I'd gained their trust, I worked with 'em as a guide and hunter - I'd flush their prey and they'd snare it with great chemical lattices. But one was always looking at me like he wanted to get a taste of me, and one day he made a move. I ran and found the Bloom's Maw still open. But time *bent*, and I came back in the past."
+
+He looks at his young self. "The one you want to watch for is Izzgilwlridil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Tell me more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Not boring your ears off yet, eh? Heh, fine. We spent glorious years together, she and I. But as the time went on, I aged and she stayed radiant. She was an Augur, see? Long-lived and wise. Eventually I told her I had to return to the Bloom to teach myself how to live, and that it'd be years before I could make it back to her, and I'd be old when I got back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"She didn't care, she said. She'd find a way to make me young again, and to grant me the span her kind takes for granted. When the boy here heads off on our adventure, why, then I'll go west again and find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I have some questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I have some more questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Who wouldn't, when confronted with such unusual merchandise? Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Not much to say. It's been there forever, likely the Bloom tucking away something it considers dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"The one you *opened*, allowing that horrible creature to escape? No, I'd rather not even think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"That young man I know still needs a job. Can he be your apprentice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Sundermun shakes his head. "I don't need another apprentice. I already said no, and I won't be convinced otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Agreed. Here's the money."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Sundermun grins and claps you on the back. "All right. Send the boy to me. I'll put him to work. He's lucky to have a friend like you, especially around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"I don't have that kind of money right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Sundermun nods. "Fair enough, but that's the only way I'll take the boy on. If you gather the shins, come back and we can talk again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Maybe there's another way I can convince you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I have [Global: c4111_SundermunCotyRoomAndBoard] shins. That should pay for his room and board."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Depends. Do you have the money we discussed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Sundermun nods. "Fair enough, but that's the only way I'll take the boy on. If you gather the shins, come back and we can talk again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Oh." Sundermun looks disappointed. "Well, you're the customer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I've already told you everything that isn't... well, private."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"All right, but I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Farewell then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"You must be counting the days until you see the Augur woman again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Coty can make a good life here," Rhin whispers. "Let's go and tell him!"
+
+{ADAM: Please review Rhin voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Never mind. I have more questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Go right ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_indigo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Difficult Task to unlock creature]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Success! Go interact with the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Failure. Try again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Try DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Try DT again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[DT not done revisit]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[DT done. Go away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A choking sound comes from within this machine. Inside the casing are two deflated air bladders, side by side, and a matted nest of cords and tubes. It is not immediately apparent where the Sorrow fragment is, or how it is stopping the airflow to the nearby creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up PQ. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The hoses lead from the bladders down through a snarled nest of wires. A faint clicking sound comes from the nest.
+
+Behind the wires, there is a hexagonal cylinder jammed in place. It's filled with tiny rafts of drifting clouds... enveloped in nets of bruise-black lightning, the same color as the Sorrow fragments. With a flick of a finger, the cylinder spins, the machine coughs, and air flows freely into the creature's tank. The creature should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The interior of this machine is a mess. Hoses cross - and sometimes join - wires, leading in every direction. Before you can study it fully, the infesting creature coagulates and rushes toward you. Its tentacles slash at your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A faint clicking sound emanates from within a nest of wires. Behind the wires, there is a hexagonal cylinder jammed in place. Each of its six chambers holds a glass tube, filled with tiny rafts of drifting clouds... enveloped in nets of bruise-black lightning, the same color as the Sorrow fragments. With the flick of a finger, the cylinder spins, the machine coughs, and air flows freely into the creature's tank. The creature should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The mess of cords and hoses inside the machine is far too jumbled. It's impossible to make any sense of where they go or what they do. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Figure out how the Sorrow fragment is stopping the flow of oxygen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Look for the Sorrow fragment in the machine again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText> Follow-up PQ. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You hammer the full bladder with your fists until it collapses, wheezing. The other bladder fills with the air you've freed. 
+
+Before long, the machine is chugging along smoothly, pumping oxygen back into the creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You land several punches on the air bladder before accidentally striking the solid metal wall behind them, bruising your knuckles.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Your fist whistles into the hollow space within the machine, hitting the full bladder head-on. It collapses, wheezing, and the other bladder expands. 
+
+Before long, the machine is chugging along smoothly, pumping air back into the creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You swing a mighty fist at the expanded bladder, and strike the solid edge of the opening with a resounding *BLANG*. It really, really hurts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Punch the expanded bladder to kick-start the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try punching the bladder again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You squeeze the air from the full bladder, watching as the other one fills your waiting hand. When it's as full as it can get, you press the air from that one as well. Some of the stagnant bubbles in the tube ooze towards the creature's tank as you rhythmically squeeze the bladders faster and faster. 
+
+Before long, the bladders are expanding and contracting on their own. Your efforts must have restarted the machine's stalled engine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You spend a few moments squeezing alternate bladders, and begin to hear the whirring of the machine's engine restarting... but you lose the rhythm, and the engine falls silent once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You squeeze the air from the full bladder, and the machine's engine unexpectedly hums back into life, sending a flurry of bubbles through the tube. Before long, the bladders expand and contract on their own. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You wrap your hand around the bladder, but no matter how hard you try, you can't squeeze a sliver of air out of it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Alternate squeezing the bladders, forcing air through the tube. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Squeeze the bladders again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Leave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The air bladders within this machine are still motionless, and the nearby creature's struggles are getting weaker as its airflow is cut off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Air flows freely into the nearby creature's tank. It should be calm enough to connect with now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Chains of pure oxygen bubbles stream from this machine into the nearby creature's tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The Sorrow fragment strangling this device has emerged. Oxygen floods the tube leading to the nearby creature's tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The oily beast lunges from this machine with a crackling growl and hungry eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bank 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Cascade 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The churning of the bellows dislodges a curved metal rod, throwing it out onto the ground. The machine doesn't appear to need it anymore. It was some sort of data tunneler, which isn't very helpful here, but it could make for a handy single-use teleporter by crossing two exposed wires at one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The churning of the bellows dislodges a gleaming stronglass dome from a small socket. Brilliant energies swirl inside. It might make a useful weapon against the Sorrow fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Script Node 47</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

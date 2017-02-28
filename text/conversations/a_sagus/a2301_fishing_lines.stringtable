@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_fishing_lines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This thin, glowing thread pierces the surface of the water and plunges deep into the black depths like a white line drawn in shining ink. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The simple fishing pole nods over the surface of the water, dragged down by the weight of the braided line. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The glowing wire sinks into the water like a thin shaft of concentrated daylight. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The pole creaks beneath the weight of the line. Leaning closer, you see that the string is composed of transparent, braided threads. 
+
+{SCRIPT: Fishing Line B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave the fishing line alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tug on the line.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tug on the line again.
+
+{SCRIPT: This node doesn't become available until the day after Node 8 is first activated.}
+{SCRIPT: The player can only gather loot from a line once a day. Once they do, the generic line (Node 27) plays.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Examine the line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leave the fishing line alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tug on the line again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tug on the line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You pull on the line, and something in the dark below pulls *back*. You press your lips together, and reel in your catch.
+ 
+A muddy cipher dangles from the end of the line. 
+
+{SCRIPT: Fishing Line B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The line slices cleanly through the water, but nothing in the depths below takes any interest. 
+{SCRIPT: Fishing Line A}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You try flicking the shining string, and your finger goes right through it. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You flick the braided line, then rub it between your fingers. It feels like oily metal. 
+{SCRIPT: Fishing Line B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Could you try catching something for me? I've had no luck today. Besides, everything down there is pretty much stronger than me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You take hold of the fishing rod and begin reeling in the line...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>A fish wiggles on the the hook. The air smells faintly of anise.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A sharp-eyed (and somewhat sarcastic-looking) fish hangs from the barbed hook.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>A muck-coated oddity hangs from the hook. You grab it. 
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A sludge-covered cypher spins from the hook. You take it.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You haul a flaming word out of the water. Though you don't speak the language, you know the word means 'loss'. 
+
+The word sinks into the dark water again, dissolving, bearing the blackened hook with it. 
+{SOUND: Splash, sizzling}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>...but the hook seems to be caught on something. You pull as hard as you can. Deep below the water, something roars bubbly laughter, and your hook slingshots out of the depths, curves past your nose, and plops back into the water at your feet. 
+{SOUND: Splash, deep laughter.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The hook pops out of the water, leaving a thin, utterly impossible column of empty air all the way to the bottom. In the moment the surrounding water rushes to fill it from the top down, you hear a forlorn melody curling from the depths. 
+{SOUND: Splash, "forlorn melody"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>...but nothing is on the hook. The water is absolutely still today, and no fish stir in its depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Try catching something for Crooked Qeek.
+
+{SCRIPT: Should only be available if Crooked Qeek is still alive. If she has died since FishingForQeek was set to 1, FishingForQeek should be set back to 0, and/or Node 8 should be enabled.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Try catching something for Crooked Qeek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You pull on the line, and something in the dark below pulls *back*. You press your lips together and reel in your catch. 
+
+A muddy cypher dangles from the end of the line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"It's beautiful!" Crooked Qeek breathes. "I was just hoping for fish! I can sell it and eat for weeks!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'm keeping it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Hand it over to Crooked Qeek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Joy drains from her face, and she nods. 
+
+"You caught it," she says softly. "That's fair."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You pass the cypher to her, and she squinches her eyes shut in unmitigated joy. 
+
+"Thank you! Use my fishing pole whenever you want!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>...but nothing is on the hook. You might have better luck tomorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

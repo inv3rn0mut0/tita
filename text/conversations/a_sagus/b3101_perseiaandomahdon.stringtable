@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\b3101_perseiaandomahdon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You immediately recognize this bespectacled man from Caravanserai in Sagus Cliffs. His name was... Omahdon. 
+{SCRIPT: Omahdon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>And that means that the purple-haired woman is Perseia - the woman you helped him find. He turns to you, fury in her eyes.
+
+"You. Hello. Would you please tell him to leave me alone?" she says through her teeth. "He won't listen to me!"
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's my fault. I tried to lie about where you were, but he saw through it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I was the one who told him where you were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You heard her. Leave her alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"And a good thing I did!" Omahdon says. "This is no place for you, my love. Not any more."
+{SCRIPT: Omahdon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"And thank you, dear friend," he says. "She will come to her senses. I know she will."
+{SCRIPT: Omahdon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"My friend, you misunderstand," Omahdon says. "This is precisely the condition I described to you before - she looks upon me, the love of her life - and sees an enemy." He tries to lay a calming hand against her cheek and she swats it away. His expression hardens. 
+
+"Thank you for reuniting us, my friend," he says, and there is naked malice in his smile now. 
+{SCRIPT: Omahdon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Perseia turns a withering look on you. 
+
+"Oh, thank you *so* much," she spits. "Just go. Go before you help me any further."
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>This woman studies the Necropolis, ignoring you utterly. Something about her seems familiar, even though you've never seen her before. Something to do with... Caravanserai?
+
+You shake your head. This isn't someone your predecessor knew, that's for certain. 
+
+She feels your gaze and turns, eyebrows arched.
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You recognize this woman from the description that Omahdon gave you in Sagus Cliffs. This is Perseia, Omahdon's 'lost love'. She certainly doesn't appear as confused as Omahdon made her sound. Instead, she's studying the Necropolis with a frustrated expression. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Script Node 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"My love, please! You're not thinking clearly!"
+{SCRIPT: Should play when player first comes within visual range.}
+{SCRIPT: Ohmadon}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::mutters::
+{SCRIPT: Should play when player first comes within visual range.}
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>::sighs::
+{SCRIPT: Perseia}
+{SCRIPT: Periodic, infrequent bark.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You don't know *what* I'm thinking. Leave me alone!"
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Perseia, isn't it? A man named Omahdon was looking for you. I convinced him to give it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Perseia, isn't it? A man named Omahdon was looking for you. I sent him in the wrong direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Perseia, isn't it? A man named Omahdon was looking for you. Tranquility and I put a stop to that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>::growls::
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You what?" she says, whirling around. Her eyes are wide, pale circles. "And you're certain he hasn't followed you anyway?"
+
+She studies your face, and relaxes. "Thank you. You have no idea how much you've helped me."
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You what?" she says, whirling around. Her eyes are wide, pale circles. She studies your face, smiles a little, and relaxes. "Good. I hope the 'wrong direction' was an ember scion vent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You what?" she says, whirling around. Her eyes are wide, pale circles. She studies your face, smiles a little, and relaxes. "Good. I hope whatever you did was permanent."
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Trying to get into the Necropolis," she says. "Those damnable cultists won't let anyone near, though."
+
+She catches your eye. "Never mind. None of this is your concern."
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Do I know you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"No," she says, after studying your face a moment. "I apologize, but I'm not in the mood for company."
+
+She returns her gaze to the Necropolis.
+{SCRIPT: Perseia}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She turns back to the Necropolis. 
+
+"Damnable cultists," she mutters. "I need to get back inside, but I can't risk... "
+
+She catches your eye. "Never mind. None of this is yoru concern. You've done more than enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"This is something I need to handle myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>::sighs::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

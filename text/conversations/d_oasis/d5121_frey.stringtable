@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_frey</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The man turns from the guards at your approach. He snarls. "What do you want?"
+
+{SCRIPT: The following bark dialog should play as the players approach the scene. Frey - "But I have to get in! My friend is dying in there!"
+
+Guard - "Sorry. No guide, no stone, no entry."
+
+Frey - "But guides can't take Jerboans to the Gibber's Chiurgeon's Ward! I need to go to the Chiurgeon's Ward!"
+
+Guard - "Then talk to the Hakim. She can make exceptions. We can't."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The guard shrugs. "Nothing to do with us, friend. You don't have an agnition stone or a guide. Those are the rules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He grinds his teeth. "I told you! I'm not important enough to get a stone, and a guide won't help. They're not allowed to take you anywhere except the tourist spots. I've got to get to the Chiurgeon's Ward!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Good riddance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I found your friend's name on a grave in Oblevis Reef. I'm sorry to tell you, he's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He rolls his eyes. "Wrong name, do-gooder. The ghibra I was looking for was Other Backer Name. And he's still dying."
+
+{SCRIPT: Replace "Other Backer Name" with a backer name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I didn't get the name wrong. And the grave I found it on was a century old at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He shrinks back from you, giving the guards a furtive look. "All right! All right!" he whispers. "So I don't have a sick friend. Can you blame a man for wanting to get into the Oasis? I've got nothing out here!"
+
+He turns away from you. "Now get lost! You're making it harder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I overheard your conversation. What's the problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What's your problem with the guards again?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I'm trying to get into the Oasis to see a sick friend before he dies, and the damned guards won't let me!"
+
+He looks like he's about to cry. "If Backer Name is dead when I get in there, I'll never forgive them!"
+
+{SCRIPT: Replace "Backer Name" with a backer name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"My friend Backer Name is dying in a hospital in the Oasis, and the guards won't let me in to see him."
+
+{SCRIPT: Replace "Backer Name" with a backer name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I told you, get lost before you ruin everything!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I'll help you find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"But I can really help you! I've done this sort of thing before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Bank 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He gives you a withering look. "What, you think just because you're all gussied up in explorer gear that you can solve everybody's problems? Fah! I don't need your help. Get lost!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'll bet you have. And do you leave the funny outfit on when you do? You're sick. Keep it to yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Fine. I won't help you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"That's the spirit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You don't understand. This is what I do. I do good deeds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ah, I see. It's some kind of compulsion. Well, fight it! Be strong!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_control_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The holographic panel appears to be a control interface. In the center is what looks like a utility map of Sagus Cliffs. It's surrounded by a number of symbols you cannot immediately identify, and in the upper-right quadrant is some sort of cube within a cube.
+
+Strange as the panel is, you can't shake a strong sense of familiarity about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A utility map of Sagus Cliffs lies in the center of this control interface. A variety of strange symbols surround it, and an impossible cube within a cube sits in the upper-right corner.
+
+Strange as it is, the whole thing feels very familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A memory emerges, as clear as if it were happening to you right now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the interface closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the interface again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The map of Sagus has a number of locations highlighted, some of which you recognize. There are four symbols around it: a circle that looks like the sun, a cluster of stars, a triangle of three eyes, and what looks like a crystal lattice. All the symbols are lit except for the crystal lattice.
+
+Larger than all four symbols is the cube within a cube - which you suddenly remember is called a tesseract. It appears to be moving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You see a map of Sagus with several highlighted points. Four symbols are next to the map: a sun, a cluster of stars, three eyes, and a crystal lattice.
+
+In the upper-right is a large tesseract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Try to remember why this feels familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>A memory tickles the edge of your mind but remains stubbornly unclear. You remember enough, though, to know that this panel controls a number of generators throughout the city, and that your earlier guess at the purpose of each symbol is certainly correct.
+
+Aha! You remember now: the tesseract slips the controls between "space" and "time." This determines which set of machines the panel controls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>A memory tickles the edge of your mind but remains stubbornly unclear. You do, however, remember what the symbols mean.
+
+The sun activates the platform. The cluster of stars attempts to connect a network of machines. The three eyes inspects the status of the network and then, if repairs are needed, the crystal lattice will attempt to repair them.
+
+The tesseract is some kind of toggle, shifting the controls from one state to another, but you can't remember the nature of those states.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try to determine the purpose of the various interface elements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The entire platform hums to life, and a sphere of electricity shimmers about five meters above your head. 
+
+{SOUND: Energy humming, appearance of a teleporting sphere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Touch the sun symbol to see what it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Activate the platform by pressing the sun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The platform hums. The air pops and sizzles. For a few seconds, activity outside the platform *shifts*. People flicker in and out. Caravanserai changes, first the ships and then the buildings themselves. You see them as old and deteriorated, then new, then under construction on the bare rock, all within seconds. Your platform remains steady, but *outside*, as if time is shifting as swiftly as the sea.
+
+{SOUND: Machine hums. Subtle pops and sizzles in the air.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>A four-winged bird flaps desperately, trying to avoid the sphere, but its momentum is too great. It hits the sphere, disappearing with a cut-off squawk.
+
+Far below in Caravanserai, you see the same bird tumble to the ground. It stands up, disoriented, then flaps its wings and takes off again.
+
+{SOUND: A bird trying to stop quickly then cut off mid-squawk.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Touch the cluster of stars to see what it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Connect the current network by pressing the cluster of stars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Touch the three eyes to see what they do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Inspect the current network by pressing the eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Touch the crystal lattice to see what it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Repair the network by pressing the crystal lattice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Touch the tesseract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Leave the interface alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Touch the crystal lattice to see what it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Repair the network by pressing the crystal lattice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>With unfamiliar gestures, you rotate the tesseract. The inner cube squeezes out and becomes the outer cube, while the outer cube becomes the inner one.
+
+Some of the locations lit up on the map change. Among other locations, two new lights appear in Caravanserai, one marking the platform where you're standing.
+
+The outer cube moves in space, no longer flickering as it was before. Presumably, the controls are now set to the spatial dimension.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>With unfamiliar gestures, you rotate the tesseract. The inner cube squeezes out and becomes the outer cube, while the outer cube becomes the inner one.
+
+Some of the locations lit up on the map change. The two lights at Caravanserai disappear, among others.
+
+The outer cube flickers in and out, no longer moving through space as it did before. Presumably, the controls are now set to the temporal dimension.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The map lights up again, and the voice speaks into your mind: "Spatial translation network connected. State your destination."
+
+You don't recognize the location of all the points, so you don't know what name the machine expects, but you do know some of them.
+
+{SOUND: Energy network successfully coming online.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The bright points on the map grow even brighter, and the platform beneath your feet hums with a growing warmth.
+
+Thin strands of energy - barely visible in the sunlight - stretch across the city between each location on the map. At the same time, faded lines appear on the map connecting each point, a network of generators which this panel controls.
+
+Then with a loud pop, the energy fades, the humming stops, and everything returns to the way it was.
+
+{SOUND: Energy network trying to come online, then a loud pop as the network fails.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The bright points on the map grow even brighter, and the platform beneath your feet hums with a growing warmth. Faded lines appear on the map connecting each point, a network of machines which this panel controls - including two locations in Caravanserai.
+
+Then with a loud pop, the humming stops and the map returns as it was.
+
+{SOUND: Energy network trying to come online, then a loud pop as the network fails.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Use spatial network."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The map lights up again, and the voice speaks directly to your mind: "State your destination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Circus Minor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Caravanserai."
+
+{ADAM/GEORGE: Put a ShouldNotPlay() on this for now so we can evaluate if there's a way to add this option here while maintaining consistency with the other shield generators. If we keep this, it'd be nice to add something visual to the level at the spot where the party teleports. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[I don't want to go anywhere yet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[You go there!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[You go there!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[You go there!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[You go there!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Touch the three eyes to see what they do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Inspect the current network by pressing the eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The map changes color. Each of the bright points lights up in turn, occasionally stretching a faded line from one point to another. After a minute of this, the map fades.
+
+A voice speaks the Truth directly into your mind: "Temporal network connections limited. Please repair the network."
+
+The crystal lattice next to the map lights up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The map changes color. Each of the bright points in turn lights up, occasionally stretching a faded line from one point to another. After a minute of this, the map fades.
+
+A voice speaks the Truth directly into your mind: "Spatial network connections limited. Please repair the network."
+
+The crystal lattice next to the map lights up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Again, the map lights up and changes colors. The lines between each point grow and fade. Some of them grow solid and then disappear. Others have gaps in them that never light up at all.
+
+After several minutes, the activity ceases, and the voice speaks to you again: "Could not restore network. Temporal connections have deteriorated beyond repair. Please consult your system conservator immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Again, the map lights up and changes colors. Lines appear between each point. Some are faded, while others have gaps in them. One by one, each line becomes brighter and better connected to the rest.
+
+After several minutes, the map shows a network of points. The control panel ceases its activity, and the voice speaks to you again: "Spatial network restored. Connection procedure may now proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The map changes color. Each of the bright points in turn lights up, as well as every connection between them. After a minute of this, the map fades.
+
+A voice speaks the Truth directly into your mind: "No problems found. If you are experiencing trouble with the temporal network, please consult your system conservator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>That symbol is dimmer than the others. Nothing happens when you touch it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>That symbol is dimmer than the others. Nothing happens when you touch it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You are at a cracked door at the base of a stairwell. The door squeaks quietly as you ease it open. Your breath catches in your throat, but the Tabaht soldiers outside don't notice you. You squeeze through the door, a keen-eyed young girl behind you, and slip out of the tower down the bloodstained corridor and into the city.
+
+The city is under attack. You dash through the streets to the nearest of your generators. Pressing a couple of buttons, you and the girl are teleported elsewhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You find yourself in front of the very same control panel atop the cliff.
+
+With quick movements, you shift the tesseract, slipping the controls from "space" to "time." Then you press the cluster of stars to connect the network of temporal shield generators.
+
+On the map, the network of generators bursts to life, sharing energy across the city to create an enormous shield over all of Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The dome of energy fills the sky, unmooring the city from time itself. On the other side of the shield, the world shifts and shimmers, objects and landscape appearing and disappearing before your eyes. The place is the same, you realize, but you're seeing it in many different time periods at once.
+
+The important thing is that no one can enter or exit the dome while the city is temporally unmoored. That should buy the city's defenders the space they need to fight off the Tabaht and survive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The memory fades. You stand above Caravanserai again. The interface is the same as the one from your memory, and you understand what at least some of these controls do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You can't raise the shield again like in your memory. But the network once had another purpose, you remember. In the memory, you used the tesseract to shift the controls from "time" to "space." Perhaps if you shifted it back...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>With unfamiliar gestures, you rotate the tesseract. The inner cube squeezes out and becomes the outer cube, while the outer cube becomes the inner one.
+
+Some of the locations lit up on the map change. The two lights at Caravanserai disappear, among others.
+
+The outer cube flickers in and out, as though it is not always there. It no longer moves through space as it did before.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>With unfamiliar gestures, you rotate the tesseract. The inner cube squeezes out and becomes the outer cube, while the outer cube becomes the inner one.
+
+Some of the locations lit up on the map change. Among other locations, two new lights appear in Caravanserai, one marking the platform where you're standing.
+
+The outer cube moves in space, no longer flickering as it was before.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The panel appears to monitor and maintain networks of machines, though the purpose of those networks is a mystery. Still, you can guess what the symbols mean.
+
+The sun probably activates a single location, likely this platform, while the cluster of stars attempts to connect the entire network.
+
+The triangle of eyes is to inspect something, maybe the status of the network. The crystal lattice, you think, indicates repairs. It would probably light up if it was needed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The tesseract is a mystery. It's clearly some kind of toggle, shifting the controls from one state to another, but without experimentation, you cannot guess at what those two states might be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>The platform shudders suddenly, then clicks off. The air cools and quiets, and Caravanserai returns to the way it was.
+
+After keeping the energy dome active for so long - centuries or longer - it seems that the platform no longer has enough power to remain active.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>After a few moments, the humming winds down, the sphere fades, and all is silent again.
+
+{SOUND: (On Exit) Humming powers down.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Kholn Village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"The Reef of Fallen Worlds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Destination not recognized. Please state again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Nowhere right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Understood. To use the spatial translation network in the future, simply state 'Use spatial network.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>A utility map of Sagus Cliffs lies in the center of this control interface. A variety of strange symbols surround it, and an impossible cube within a cube sits in the upper-right corner.
+
+The spatial network on the map is lit and connected, ready for use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Although the state of the control panel has been changed, the spatial network remains connected on the map.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The voice speaks: "Spatial translation network already activated. State your destination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>The tesseract flickers in and out, as though it's not always there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The tesseract moves through space instead of flickering as it was before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>
+
+The points on the map are connected by bright, glowing lines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The crystal lattice next to the map dims again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You stare at the controls for several minutes, but you can make no sense of them. It might be easier if you just tried them out to see what happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>As soon as you touch it, the impossible cubes shift and move with your fingers. It seems to snap into two different states.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Touch the tesseract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Toggle the controls between "space" and "time" using the tesseract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The crystal lattice next to the map dims again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The entire platform hums to life. The air sparks and crackles around you, then with a pop you are somewhere else.
+
+{SOUND: Energy humming. Sparks and crackles in the air, then a teleport sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[DEBUG] Teleport to Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[DEBUG] Teleport to Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[DEBUG] Teleport to Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Touch the tesseract to see what it does.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Reverse the tesseract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>As soon as you touch it, the impossible cubes shift and move with your fingers. It seems to snap into two different states.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

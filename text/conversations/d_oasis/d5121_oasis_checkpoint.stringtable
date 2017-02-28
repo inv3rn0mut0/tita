@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_oasis_checkpoint</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>77</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A sergeant of the Tears of Ny'kul holds up a hand as you approach. "Hold, outsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Certainly. Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"If you wish to pass, you must show us an agnition stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If you wish to enter the Oasis, you must have either a guide or an agnition stone, and I see you have no guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Please go there now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>His eyes widen. "I don't believe it. The likes of you would never be given..." 
+
+He trails off as he checks the stone carefully, turning it over in his hands and bringing it close to his face like he's smelling it. Finally, he hands it back with a shrug. "Very good. Pass on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I don't have one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I don't have an agnition stone, but I do have this fat purse full of shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I am on urgent business for Hakim Tuck. There wasn't time to find me a stone, but a request for an exception is being sent to the Giash as we speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Here is my agnition stone." {SCRIPT: real or fake}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Is there any other way to enter the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He stiffens, and his men come on guard. "Then I'm afraid you're under arrest."
+
+"Tears, apprehend him."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>(Lie) "I have an urgent message from Hakim Tuck for the Giash. It's about a new threat to the Oasis. There wasn't time to find me a stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What do they want to see me for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Thanks, I'll go to them now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He bars your way. "Not so fast, air-breather. If you can't show me an agnition stone, I will have to place you under arrest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He smirks. "Not legally. And I wouldn't advise the illegal ways." He twirls his spear for emphasis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He shrugs. "We were not informed. The message only said they wished to speak with the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"On your way, air-breather."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He takes a quick look around, then palms the shins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He gives you a disgusted look. "You can't bribe the Tears of Ny'kul, air-breather. You are under arrest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The guard steps back and salutes. "You better go on through, then. But if this is a trick, I'll hunt you down myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>He laughs right in your face. "Sorry, air-breather, I've heard them all before. You will be returned immediately to the Marina Gate. You are not allowed in here."
+
+"Tears. apprehend him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"That's it. You're under arrest."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He laughs - right in your face. "Sorry, friend, you're going to have to come up with a better lie than that if you want to get into the Oasis without a stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He stiffens, and his men come on guard. "Then you will be returned immediately to the Marina Gate. You are not allowed in here."
+
+"Tears. Apprehend him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He laughs right in your face. "Sorry, air-breather. You're under arrest. We'll let the Giash sort out your story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I must - "
+
+The guard cuts off suddenly as he sees Matak with you. "Is... is that Matak the Butcher with you? Tears! Arrest him!"
+
+{SCRIPT: Matak is in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Why are you arresting him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Leave him alone. He's with me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Take him. I don't want anything to do with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Because he's a bloody-handed madman who killed more ghibra trying to save the Oasis than any outside threat ever has. He's a monster!"
+
+He waves his men forward. "Tears. Apprehend him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I had no idea. Take him. I don't want anything to do with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I still have need of him. Leave him alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Then you are under arrest too." He waves his men forward. "Take them."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Cowards! I trusted you!"
+
+{SCRIPT: Matak leaves party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Don't worry. You're not the first he's tricked into helping him return to the Oasis. I am relieved we caught him quickly this time." The guard composes himself as the other Tears hold Matak. "Now, I must see an agnition stone before you can pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Don't worry. You're not the first he's tricked into helping him return to the Oasis. I am relieved we caught him quickly this time." The guard composes himself as the other Tears hold Matak. "Now, I have been asked to tell you that the Giash has requested your presence at their chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Respect the Eye of Ny'kul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Matak balks and backs up. "What are you doing? I am known here! Turn around. Quickly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Turn around. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Continue toward the guard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Matak breathes a sigh of relief. "Whew! A close call."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Now come. To the fountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Matak backs up, then turns to run. "No, fool! I will not suffer their predations again. I see I cannot trust you. I must flee!"
+
+{SCRIPT: Matak leaves party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Mad. All outsiders are mad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Before you can defend yourself, the sergeant touches a disk on his belt and the water pressure around you increases tenfold, crushing every part of your body, inside and out.
+
+As you convulse, the guards bind your hands and feet. Then, just before the pain becomes unbearable, the sergeant touches the disk again and you feel a wave of relief.
+
+"Any trouble, and you'll get more of the same."
+
+The guards float you behind them like you were so much baggage.
+
+{SCRIPT: Conversation ends. Transition scene to Marina (if Giash is not in session) or Giash (if they are).}
+{SCRIPT: Matak leaves party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Before you can defend yourself, the sergeant touches a disk on his belt and the water pressure around you increases tenfold, crushing every part of your body, inside and out.
+
+As you convulse, the guards bind your hands and feet. Then, just before the pain becomes unbearable, the sergeant touches the disk again and you feel a wave of relief.
+
+"Any trouble, and you'll get more of the same."
+
+The guards float you behind them like you were so much baggage.
+
+{SCRIPT: Conversation ends. Transition scene to marina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He gives you a disgusted look. "You can't bribe the Tears of Ny'kul, air-breather. You will be returned immediately to the Marina Gate. You are not allowed in here."
+
+"Tears. Apprehend him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A handful of armed bipedal ghibra, all dressed in the uniform of the Tears of Ny'kul, stand before the Marina gate. They pass other ghibra through with a wave of their finned hands, but stop and check every air-breather that approaches before either allowing them to pass, or sending them back to the Marina. 
+
+As you approach, you too are stopped. A ghibra sergeant holds up a hand. "Hold, outsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The sergeant gives you a nod of acknowledgement. "Back again, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"How do I get an agnition stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Tell me once more how I get an agnition stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"How do I get a guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How do I get a guide again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He chuckles. "Generally, you do not. Only important air-breathers with frequent business in the Oasis are given one. You're better off aquiring a guide. They're right here next to us, and the service is free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You don't. Only those favored by the Giash get stones. Try a guide instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Bank 90</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He points. "The guides are right next to us here. Talk to one and they'll explain the process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You're not very observant, are you?" He points. "They're right there, next to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Bank 97</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>A handful of armed bipedal ghibra, all dressed in the uniform of the Tears of Ny'kul, stand before the Marina gate. They pass other ghibra through with a wave of their finned hands, but stop and check every air-breather that approaches before either allowing them to pass, or sending them back to the Marina. 
+
+As you approach, a ghibra sergeant gives your guide a nod, then waves you through. "Enjoy your visit, ousiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The ghibra sergeant nods to your guide again, then waves you through. "Welcome, ousiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He eyes you strangely, then salutes.  "The Giash has asked that you present yourself at their chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I don't have an agnition stone, but I do have this fat purse full of shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>He chuckles. "The last air-breather that tried that offered me an airship full of numenera - and I still turned him down."
+
+"You can't bribe the Tears of Ny'kul. Don't even try." He waves a finned hand in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked the PC to look for Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Do you know a woman named Misha?"
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"We see a lot of people on this job, friend. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Do you know how many air breathers go through this gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

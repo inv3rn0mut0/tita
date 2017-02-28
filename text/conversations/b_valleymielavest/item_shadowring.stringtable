@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\item_shadowring</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You pluck Vareth from your bag, and nearly drop it. The edges of it *feel* sharp - but thankfully, not sharp enough to cut. 
+{SCRIPT: Node displays if player has ITM_RINGA_ShadowRingVareth}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You pull both rings from your bags and hold them in opposing palms. Even at this distance, the force repelling them from each other is extraordinary. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>With a grunt, you pull Areph from your bag. It feels monstrously heavy for such a small, plain thing.  
+{SCRIPT: Node displays if player has ITM_RINGA_ShadowRingAreph}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You retrieve the ring from your bags again. 
+{SCRIPT: Player has one of the rings but not both.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""
+{GAVIN: Not for Beta. Marked as Should Not Play for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Put the ring away.
+{SCRIPT: Only displays if PC only has one of the rings}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""
+{GAVIN: Not for Beta. Marked as Should Not Play for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""
+{SCRIPT: Player gets item Shadow Ring.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Examine Vareth. 
+{SCRIPT: Node 13 displays if player has ITM_RINGA_ShadowRingVareth}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Examine Vareth again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Examine Areph. 
+{SCRIPT: Node 16 displays if player has ITM_RINGA_ShadowRingAreph}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Examine Areph again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Put the rings away.
+{SCRIPT: Only displays if PC has both of the ring pieces.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Combine Areph and Vareth. 
+{SCRIPT: Node only displays if player has both rings.}
+{SCRIPT: Temporary node. Putting the rings together is not possible in Beta. Up to you whether we tell the player this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Pinching the rings between thumbs and forefinger, you struggle to bring them together. The force repelling them is not magnetism - it's almost as if someone is holding your hands apart with impossible, contemptuous strength. 
+
+Nevertheless, there must be a way to join these rings. You just haven't found it yet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You hold Vareth to your eye. Upon close inspection, you see the minute twinkles of light upon tiny, incredibly sharp teeth along the rim. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You gingerly lift Vareth to your eye again. The tiny teeth along the rim glitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You hold the ring in one hand, though it seems like this should be impossible. The small thing is incredibly heavy. 
+
+Small indentations trace the edge of the band. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Small indentations - like bite marks - line the edge of this incredibly heavy ring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You pull the first ring from your bags. At first, it looks like you've misplaced the second. Then, you find it pressed into a fold at the exact opposite end from where you found the first one. 
+
+You reach down to grab it, but find that you can't - the rings reject each other with a force beyond magnetism alone. You pick up the second one with your other hand, and hold them in opposing palms. 
+
+{SCRIPT: This conversation is no longer accessible once the player successfully joins the rings.}
+{SCRIPT: Player has both rings, but hasn't combined them. Node 1, 3, and 4 are disabled once player has both rings.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You weigh the other ring in your hand, teeth grazing your lip. The rings feel like they should match somehow. That they should be joined.
+{SCRIPT: Player has both rings.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

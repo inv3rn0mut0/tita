@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5232_mazzof_the_lost</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Mazzof thinks you're the Changing God, then he doesn't, then he says the First is dead, then he says she isn't but you better not talk about her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Oh, you want to stop her! Well that's different. Mazzof built a portal system for the First to get around the Oasis secretly. He can build you a backdoor - a Gate of Kutallu - but you have to get him at least four of five tricky pieces.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[You again? Do you have the pieces yet?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[The five things he needs are: (1) Aequorin Fiber from Ekevarria, (2) Fleder's Noose, currently worn by the Menagerie Demon, (3) a Limnic Reactor, maybe from the merchant Tuck, (4) the Amulet of Scorgil worn by the Giash, and (5) a sacrifice of a god.
+
+The one thing he asks is that you kill her, so that Mazzof can be free.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Here's the Glow Braid.]
+
+{SCRIPT: Player has Glow Braid.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Can I have Fleder's Noose?]
+
+{SCRIPT: Mazzof escaped the Menagerie with the Noose.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Here's the Limnic Reactor.]
+
+{SCRIPT: Player has Limnic Reactor.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Here's the Amulet of Scorgil.]
+
+{SCRIPT: Player has amulet.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Here's the eye of Ny'kul.]
+
+{SCRIPT: Player has eye of Ny'kul.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Thanks!]
+
+{SCRIPT: Remove Glow Braid.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Sure, but you'll have to get me the other four artifacts to make this gate.]
+
+{SCRIPT: Give Fleder's Noose.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Thanks!]
+
+{SCRIPT: Remove Limnic Reactor.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Thanks!]
+
+{SCRIPT: Remove Amulet of Scorgil.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Thanks!]
+
+{SCRIPT: Remove Eye of Ny'kul.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Mazzof now has enough pieces to build the Gate. If you find the fifth, let him know so he can get you even closer to the First, or you can just tell him to run with what he's got at any time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Mazzof has all five pieces. He can build the gate any time now. Let him know when you're ready, because you'll only get one shot at this.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[I'm ready. Build the Gate so I can see the First and *take care* of her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Right. Let's do this!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[You've given Mazzof all five pieces, so he makes a *really nice* Gate that gets you right up in the First's grill.]
+
+{SCRIPT: Send player to Maralel's Asylum, good spawn point.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[You've given Mazzof four pieces, so while he's able to build the Gate to get you into the First's hideout, he can't guarantee where, exactly, you'll end up in there.]
+
+{SCRIPT: Send player to Maralel's Asylum, bad spawn point.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Hey, you're back! How's the First? How's everything?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Farewell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Here's Fleder's Noose.]
+
+{SCRIPT: PC has Fleder's Noose}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Thanks!]
+
+{SCRIPT: Remove Fleder's Noose.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Great. I'll do anything for you, then.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'll kill her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I can't promise to do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Mazzof is still hopeful that you'll change your mind (or that he can convince you). He really, really wants to escape.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[You wouldn't happen to have a super-powerful artifact on you, would you? Perhaps stolen during your miraculous escape that I arranged for you?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[He does!]
+
+{SCRIPT: Give player Bogun's Figment}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[I found these parts on a caravan out in the Lost Sea. Do you think you could help me fix my airship with them?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Sure. You just hook up the widget to the doodad and Bob's your uncle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Sure, but not until you deal with the First.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

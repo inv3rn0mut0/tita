@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x3051_specterfathom_the_specter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You plant your hand on the icy floor and push, staggering up to your feet. Every inch of your body aches, as though you've been crushed in a massive hand. 
+
+The Specter stands before you, impassive. It may be your imagination, but he seems more solid than before. 
+
+{GAVIN: Polish task: Consider adding options to the battle that the Specter can turn against you, strengthening him.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The Changing... God wants to d-destroy us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's... happening? Why am I... in the Labyrinth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Collect your thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You concentrate, struggling to gather your thoughts, but they whirl through your head like hot sand. The Specter sighs, seeming less solid now than he was a moment ago. 
+
+"We need to talk," he says.
+
+You barely hear him through the pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Your words tumble into the air and fall apart like handfuls of dust. And this time, you're certain. The Specter is less transparent than he was even a second ago. 
+
+"I brought you here," the Specter says calmly. "We need to talk." 
+
+You barely hear him through the pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your words tumble into the air and fall apart like handfuls of dust. And this time, you're certain. The Specter is less transparent than he was even a second ago. 
+
+"I understand why you might see things that way," he says calmly. 
+
+You barely hear him through the pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I have something I've been meaning to tell you. You see, I haven't been completely honest with you. I'm not a part of you. You're part of *me*. I created you. *I'm* the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The cultists in Sagus Cliffs disagree with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"No, I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I've been wondering where you were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You shouldn't have lied to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'm not surprised," he says, his outline flickering. "Some of them make skeptical noises, but they've always *wanted* to believe I would return to them. Any charlatan with a hastily drawn tattoo and a convincing story could convince them they were me."
+
+He gives you a kindly smile. "But we both know you're *not* the Changing God. Don't we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You aren't," he says gently, his outline flickering. "We both know that's not true. Don't we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Here," he says simply, his outline solidifying. "Here all along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Maybe not," he admits. "But when you landed in the labyrinth, I needed you to *act*, not ask questions. The Sorrow was right behind you."
+
+He shrugs. "But now, we'll stick with the truth, no matter how unfair it might seem to you. I *am* the Changing God." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Now, I know this is a lot to take in. It means this body of yours is actually *mine*. I lived in it for years. And now that we know the First is still alive, I need it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>But this is *your* mind, honed in your duel against Malaise. Sharpened to a glittering edge. 
+
+You inhale. Clear the pain from your limbs, and gather your thoughts to you. Focusing, you open your eyes.  
+
+The Specter, now slightly transparent, is speaking again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>But this is *your* mind, honed in the psychic battle you fought alongside the warriors in the Fifth Eye. Sharpened to a glittering edge. 
+
+You inhale. Clear the pain from your limbs, and gather your thoughts to you. Focusing, you open your eyes.  
+
+The Specter, now slightly transparent, is speaking again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"And what would happen to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"They might," the Specter allows, his outline solidifying. "But I don't think they believe *you're* the Changing God either, do they?"
+
+He focuses on the air, a regretful smile playing about his lips. "Oh, dear. They saw right through your clumsy lies, didn't they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"A good question," he says. He seems taller than he did a moment before. "Once you give me my body back, your thoughts would be pushed to the back of my mind. It would be frightening for a moment. Disorienting, maybe, but not painful. And then, our thoughts would merge. You'd become a part of me again."
+
+He spreads his hands. "And that's it. Now. Give me my body back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No. This is my body, not yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Very well. It's yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>He lied. The pain is extraordinary. World-shattering. Every memory you've earned in your short life is examined, torn apart, and discarded. You dwindle as he expands, filling the corners of the body that was once yours. 
+
+And yes, he lied. You do not join him. You do not find oblivion. You live on, mouthless, mindless, a helpless witness to the crimes he commits with your hands.
+{SOUND: Spell effects. See above.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{good-natured}"I knew you'd say that! {Good humor begins to slip away, gradually getting angry}But let's get this straight. I lived in this body. I *made* it for a purpose. And now you say your wisp of a life outweighs my centuries of experience?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You wouldn't exist if it weren't for me. You *don't* exist apart from me. Everything you are is a byproduct of my skills, my intellect, my experiences. {angriest}And now that I have the chance to stop the Sorrow, to save us all, *you* refuse *me*? Who in the hells are *you*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"The new owner of this body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Remain silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"It was never yours to take," the Specter says, grimacing. "No. Let me tell you what you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ha. No. Let me tell you what you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The Specter's eyes gleam with impatient fury. "Silent at last? Good. Then I'll tell you what you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You're an accident of fate, a parasite in the mind *I* built. {calmer, but intense} You are a child. I don't want to destroy you, but I will if I must. {Biting his words} Give. Me. Control." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fine. Take it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Then, I'll *take* it," the Specter says and spreads his arms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Tidal energy pours from the air around you, flowing into the Specter. The ground itself slips around your feet, holding you in place. You feel your grip on your body - your mind - slipping by fingerlengths. 
+
+You are diminishing. He is winning. You search your mind - your hard-earned memories - for something that will loosen his hold on you. 
+{SOUND: A building, wavelike, powerful sound. TCG is gathering his formidible mental strength}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Unleash the Words of Qra on the Specter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Give up and collapse. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The Specter's footsteps approach. Solid. Real. He lays a calm, fatherly hand on your head. Then, you feel his fingers dig into your mind and tear it out by the roots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Drawing breath, you shout the sharp, barbed words that once destroyed the people of ancient Qra. They tear themselves from you and lunge at the Specter, closing over his mind like a mouth full of yellow, jagged teeth.
+
+He staggers, hissing, then plunges his hands into his head. One by one, the Specter pulls the words out and crushes them in his now-fading fists. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>As you speak, a faint red light suffuses your limbs - not the Red of the Tides, but of blood, held in a bowl. 
+
+Yes. You claimed this body with your own will. You bled for it from the beginning. 
+
+The Specter's eyes narrow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Summon the vision of the psychic warrior Leto showed you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Your machines have driven women in Sagus mad. What makes you think you deserve to return?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I found the Book of Singing Thorns and read the inscription. You've fallen far from where you began."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Struggling against the thunderous waves of the Specter's power, you struggle to remember the vision she showed you. But the pain - the noise - they bind you in screaming chains, holding you a hair-width from the gift she gave you...
+
+"No," says Leto in your ear. And she says the word again, the noiseless word she once whispered to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>His outline flickers once, like a candle in a soft breeze. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>His outline blurs, becoming hazier. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He is nearly transparent now, nearly gone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>With a shuddering gasp, he stumbles backwards, fading in and out of visibility. The pressure on your mind dwindles and ends. 
+
+"Fine," he says, eyeing you with cool contempt. "If you're so intent on stopping the Sorrow on your own, have at it. Let's see how you handle what's in store without my help. My guidance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Then, he fades completely, but speaks again. His voice is coming from all around you, from every corner of your mind. He's not gone, only hidden himself in your mind.
+
+"I wasted my time trying to reason with you. That won't happen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Pull your feet free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Try to pull your feet free again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Call upon the ghostly woman from the recesses of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Turn the Tides against the Specter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The Specter winces, as if you have struck him, and mutters something under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The Specter looks briefly surprised, and color bleeds from his flickering frame. He growls under his breath.  
+
+"I've never forgotten what happened to her. Not once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The Specter's eyes widen as you straighten, gathering the threads of the Tides in your hands. You raise them before you.
+
+"Don't," the Specter growls, but you ignore him, wrenching the threads apart. Agony explodes in your mind, lashing through your body, damaging essential parts of you...
+
+...and the Specter as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The moment your mind touches on her, she is there, facing the Specter, sorrow and anger radiating from her eyes, her heart. 
+
+Scowling, the Specter flicks his hand to the side in a dismissive gesture, and she fades away once more, taking some of his radiance with her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You struggle against the ground even as it creeps up your legs but cannot free yourself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Groaning, you strain against the floor holding you in place, but no. You are trapped. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Her prophecy blossoms in your mind, a shining silver web of lives and possibilities. Certainty fills you like armor. This moment is no accident. This is where you were meant to be.
+
+Across from you, the Specter flinches. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You barely make out the words through the chaos around you. 
+
+"I would drive everyone in Sagus mad if that's what it took."
+
+Then, he looks up, startled that you've heard him. This moment of uncertainty costs him. A portion of his own energy lashes through him, stealing a portion of his strength. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"We don't need to fight!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"We aren't fighting," the Specter says in a level voice. "An argument requires *two* people. At best, you're a muscle cramp. A headache. And you *will* subside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You fall to the ground, dwindling, wisps of your identity rising into the air like smoke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Without another word, the Specter hovers before you, plunging his hands into your head - your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Is *that* why I couldn't read your thoughts? You... hid them somehow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You said you *were* thought, that I couldn't read you because you were like most things in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Of course," he says simply, his outline solidifying. "You didn't think I lived for so long without learning to lie, did you? Even from mind readers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"A lie," he says, his outline flickering. "I'm not just some reflection. I *hid* my thoughts from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You clench your fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You raise your head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>You take a deep breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[DEBUG] Automatically win the fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Shut your mind against him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You close your eyes, and for a moment - a blissful, fleeting second - you feel the pressure abate as though the Specter's mind is a storm lashing against the walls of a hastily-constructed shelter. 
+
+You think back, flitting through the choices you have made since you were born mid-air, and realize two things - they were the right choices at the time, and none of them will help you, here and now.
+
+And with that, the Specter's mind rips through your defenses again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I'm going to rip you out of my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>His expression hardens. 
+
+"You won't live that long. In another few minutes, your mind will be tattered wisps of thought, fading into the air."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Or maybe you think my First Castoff has a better way, hm? Some magical solution to live out your false existence without price? I promise you, she has no such thing. She has always, only killed to get what she wants. Her self-interest is just as strong as yours and mine. The only difference between the three of us is that *I* am real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

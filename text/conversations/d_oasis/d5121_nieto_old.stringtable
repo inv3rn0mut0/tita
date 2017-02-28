@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_nieto_OLD</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>192</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Welcome if Murai is with party. 
+
+Hello, Murai. Welcome customers. Can I interest you in air-skin bracelets?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return if Murai is with party. 
+
+Hello again, Murai. Welcome back, customers. How can I help you this time?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Welcome if Murai is not with party. 
+
+Welcome customers. How can I help you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return if Murai is not with party. 
+
+Welcome back, customers. How can I help you this time? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'd like to rent a bracelet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Air-skin bracelets?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Without a guide?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The Oasis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The Marina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Jerboa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Unrest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Purchase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>What do you sell?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>How do we enter the oasis?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The area</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Jerboa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The Marina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Unrest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Farewell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText> Follow-up T. 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A small, bright-eyed man in blue-green robes turns as you approach his stand. He has a forked beard and a forked hairstyle to match. It gives his weathered face the look of a benign demon. He grins as he sees Murai with you. 
+
+"Ah, Murai! You have brought me some business! Wonderful!" 
+
+"Welcome, friend. I am Nieto, seller of novelties and licensed purveyor of air-skin bracelets for those who wish to visit the interior of the Oasis and see its many wonders."
+
+{SCRIPT: Check if Murai is with party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nieto smiles and bustles forward as you approach his stand, His robes flounce all around him.
+
+"Hello again, Murai! Welcome back, my friend!"
+
+{SCRIPT: Check if Murai is with party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText> Follow-up PQ. 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What are air-skin bracelets?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can you tell me again about air-skin bracelets?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText> Follow-up PQ. 34</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I want to purchase a bracelet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Why can't I purchase a bracelet again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Can I enter the Oasis without a guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tell me again why I can't enter the Oasis without a guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText> Follow-up PQ. 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What can you tell me about the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me again about the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText> Follow-up PQ. 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What happens in the Marina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tell me about the Marina again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText> Follow-up PQ. 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"What should I know about Jerboa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What were you saying about Jerboa again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText> Follow-up PQ. 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What do you think about the unrest in Jerboa and the Oasis?"
+
+{SCRIPT: check that player knows about unrest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me again what you think of the unrest in Jerboa and the Oasis?"
+
+{SCRIPT: check that player knows about unrest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText> Follow-up T. 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>A small, bright-eyed man in blue-green robes turns as you approach his stand. He has a forked beard and a forked hairstyle to match. It gives his weathered face the look of a benign demon. He looks delighted to see you. 
+
+"Welcome, my friend. I am Nieto, seller of novelties and licensed purveyor of water-breathing air-skin bracelets for those who wish to visit the interior of the Oasis and see its many wonders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Nieto smiles and bustles forward as you approach his stand. His robes flounce all around him.
+
+"Welcome back, my friend! Good to see you!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText> Follow-up PQ. 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I'd like to know about the local area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tell me again about the local area?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Certainly. What do you want to know?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bank 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What did you say you sold here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Tell me what it is you sell again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Tell me how to enter the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tell me again how to enter the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I'd like to know about the local area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Tell me again about the local area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Certainly. What do you want to know?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I had some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"By all means, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"By all means, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I don't need anything right now. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Bank 79</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>A dreamy look passes across Nieto's impish face. "The Oasis is the underwater garden spot of the Ninth World, my friend. The most beautiful, miraculous place on this whole, beautiful miraculous planet. Even the people are beautiful. Entrancing!"
+
+"It is also a place of great history, mystery, and sorrow, none of which I would dare ruin for you, as you should see it for yourself." He raises a finger. "Once you rent a air-skin bracelet, that is."
+
+{SCRIPT: This Node is a duplicate of 165. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The Oasis is the underwater garden spot of the Ninth World." He holds up a bracelet. "Rent an air-skin bracelet and its mysteries are yours to discover."
+
+{SCRIPT: This Node is a duplicate of 166. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Nieto grins. "Everything happens in the Marina, my friend. All of Jerboa's and the Oasis's trade comes through here. The passage between the two is here, and the market is here, where you can buy anything in the world - even little glass globes filled with water that look like the Oasis."
+
+He picks up a glass globe, just as he described, and shakes it. A whirlwind of 'snow' swirls around the tiny buildings inside.  "Indeed, I have some here if you're interested. Most amusing, I assure you."
+
+{SCRIPT: This Node is a duplicate of 162. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Nieto bows. "The Marina is the center of trade and commerce here in Jerboa, and the passage between Jerboa and the Oasis is here as well."
+
+{SCRIPT: This Node is a duplicate of 163. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Bank 85</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Nieto shakes his head, making his forked beard wag. "Some people think of Jerboa as nothing but a stopping place on the way to the Oasis - the place where one leaves ones shoes before entering the waters, but it has it's own pleasures. I was born here, and I'd never move anywhere else."
+
+He chuckles. "And not just because it's so easy to lose your way in the Lost Sea either."
+
+{SCRIPT: This Node is a duplicate of 159. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I was saying that some people think of Jerboa as nothing but a stop over on the way to the Oasis." He thumps his narrow chest. "But this town is my home, and I love it."
+
+{SCRIPT: This Node is a duplicate of 160. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Bank 88</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Nieto sighs. "It breaks my heart, friend. I love both Jerboa and the Oasis, and think that they should be one, but to see the two sides fighting? Horrible. We are siblings of gill and lung."
+
+He looks sadly at all the customers who aren't there. "Not to mention what it's doing to the tourist trade."
+
+{SCRIPT: This Node is a duplicate of 168. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He sighs. "I can tell you that it breaks my heart to see the two towns fighting as if they were enemies and not brothers. This is a sad time in a happy place, friend."
+
+{SCRIPT: This Node is a duplicate of 169. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"It has been my honor to serve you. Please come back again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Of course!" He turns to his shelves and selects a slender silver circle that looks suspiciously like a living fish biting its own tail. "Here, try this on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText> Follow-up T. 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Nieto's beard quivers with regret. "Forgive me, my friend, but it is not possible for me to sell you a bracelet. Only visitors with special permission from the Giash are allowed to purchase them. I'm afraid I can only rent them to you, and only if you are in the company of a licensed guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Nieto smiles appeasingly. "I would be happy to explain. You see, it is not possible for me to sell the bracelets. Only if you were to have special permission from the Giash could I do that. I can only rent them to you, and only if you have a guide with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText> Follow-up T. 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Nieto pulls back his voluminous sleeves and holds up his left wrist, revealing a glittering band of silver. "The finest of temporary water-breathing devices, with no painful surgery or unsightly transformation necessary. You merely wear the bracelet like so, and you may breathe normally in both air and water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Nieto shows his silver bracelet again. "Certainly. Air-skin bracelets are temporary water-breathing devices.Wear it thus and you may breathe normally in both air and water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText> Follow-up T. 99</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Nieto throws back his head and barks a laugh. "You can indeed, my eager friend - for as long as you can hold your breath. But if you want to be able to breathe while you are there, then no. No non-ghibra can enter the Oasis without a guide or permission from the Giash, and it would be entirely illegal for me to help anyone break that rule."
+
+He winks at Murai. "Poor Murai would have to report me if he *saw* me do anything like that, and that would make us both very sad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It's not impossible, only illegal. By order of the Giash, no non-ghibra can enter the Oasis without a guide or special permission. If he *saw* me help anyone break that rule, poor Murai would have to report me, and that would make us both very sad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"What if Murai wasn't here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I had some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"By all means!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Nieto chokes and looks at Murai. "I don't know. What do you think, Murai?"
+
+Murai just shakes her head, embarrassed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Bank 106</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I sell many things, my friend. But if you are looking for air-skin bracelets, I only rent them, and only if you are in the company of an approved tour guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Look around, my friend. I have much for sale. But air-skin bracelets are only for rent, and only if you are in the company of an approved tour guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Bank 109</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I'm afraid non-ghibra such as you and I cannot enter the Oasis without a guide, but acquiring a guide is simplicity itself."
+
+He points across the square. "You can find one right over there, then come back and I'll rent you your air-skin bracelets, and you'll be on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Non-ghibra can only enter the Oasis in the company of a guide." 
+
+He points across the square. "The guides are over there. Once you find one, I'll rent you your air-skin bracelets, and you'll be on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Can I buy some air-skin bracelets under the table?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Is there any other way to get into the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Thanks for your help. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"My most sincere appologies, but not only would that be illegal, it would be utter foolishness, for both of us. You see, the ghibra track my inventory. If any bracelets went missing, they would arrest me, and shortly thereafter, come after you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Short of giving up your humanity altogther and becoming a water-breather?" Nieto looks over his shoulder to make sure no one is eavesdropping, then steps closer. "Well, I know a ghibra who can give you a cypher that will let you breathe under water for weeks at a time, but she isn't easy to reach."
+
+He glances around again, then continues. "If you have money to burn, you can pay me to contact her, or you can go see her yourself, which is cheaper, but requires you hiring a guide and renting bracelets, and finding her within the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You contact her for us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I'll contact her." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Never mind. I've got to think about it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Then, what else can I help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Very well. Then you must come back here tomorrow at this time. I will have what you need. Just remember, it will cost you." 
+
+"Now, is there anything else I can help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Nieto lowers his voice to a whisper. "Fine. Then hire a guide and come back to me to rent some bracelets, but say nothing of what you wish to do to the guide - or you will be arrested, and I'll deny ever speaking to you. Do you understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Nieto's eyes light up as he sees you. "Ah, there you are, my friend. Good to see you again."
+
+He pauses and looks around to make sure no one else is listening, then continues. "I ordered the item from my friend in the Oasis, and have just received it. Are you ready to purchase it?"
+
+{SCRIPT: Check if LCO has ordered gills from Nieto and has slept}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Nieto's eyes light up as he sees you. "Ah, there you are, my friend. Good to see you again. I hope you enjoyed your visit to the Oasis."
+
+He pauses and looks around to make sure no one else is listening, then continues. "I just received the item in from... our mutual friend. Are you ready?"
+
+{SCRIPT: Check if LCO ordered gills from Ir'ush.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Nieto jumps nervously at your arrival. "You've come back too early, my friend. What you seek isn't here yet.Can I help you with something else?"
+
+{SCRIPT: Check if LCO ordered gills from Nieto but hasn't slept yet}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I'm ready." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I'm not ready to do this yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"There. The procedure is finished. You are now ready to breathe inside the Oasis." He bows to you. "Good luck, my friend. And if anybody asks, you didn't purchase those gills from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Thank you, Nieto. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>He bows deeply. "How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I would be honored to assist." Nieto bows deeply. "How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"What are air-skin bracelets?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The finest of temporary water-breathing devices, with no painful surgery or unsightly transformation necessary. You merely place the bracelet on your wrist like so, and you may breathe normally in both air and water."
+
+He shrugs appologetically. "The charge is however limited. You have roughly half a day before you will have to leave the water again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>He shrugs appologetically. "I'm afraid I cannot sell them to any non-ghibra without special permission from the Giash - in writing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Never mind. I don't want to do this after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Good. Then listen. The ghibra you must find is named is Ir'ush, and you'll find her in Oblevis Reef. You will be in the company of your guide when you meet her, so you must be subtle."
+
+"Tell her." He smiles as if at a private joke. "Tell her that her air-breathing admirer sends her his fondest regards. She will know what you want. Got it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Got it. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Never mind. I don't want to do this after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText> Follow-up PQ. 146</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Tell me about the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Tell me again about the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText> Follow-up PQ. 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"What happens in the Marina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Can you tell me about the Marina again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText> Follow-up PQ. 152</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"What should I know about Jerboa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"What were you saying about Jerboa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText> Follow-up PQ. 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"What do you think about the unrest in Jerboa and the Oasis?"
+
+{SCRIPT: check that player knows about unrest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Tell me again what you think of the unrest in Jerboa and the Oasis?"
+
+{SCRIPT: check that player knows about unrest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Bank 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Nieto shakes his head, making his forked beard wag. "Some people think of Jerboa as nothing but a stopping place on the way to the Oasis - the place where one leaves ones shoes before entering the waters, but it has it's own pleasures. I was born here, and I'd never move anywhere else."
+
+He chuckles. "And not just because it's so easy to lose your way in the Lost Sea either."
+
+{SCRIPT: This Node is a duplicate of 86. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I was saying that some people think of Jerboa as nothing but a stop over on the way to the Oasis, but it's my home, and I love it."
+
+{SCRIPT: This Node is a duplicate of 87. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Bank 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Nieto grins. "Everything happens in the Marina, my friend. All of Jerboa's and the Oasis's trade comes through here. The passage between the two is here, and the market is here, where you can buy anything in the world - even little glass globes filled with water that look like the Oasis."
+
+He picks up a glass globe, just as he described, and shakes it. A whirlwind of 'snow' swirls around the tiny buildings inside.  "Indeed, I have some here if you're interested. Most amusing, I assure you."
+
+{SCRIPT: This Node is a duplicate of 83. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Nieto bows. "The Marina is the center of trade and commerce here in Jerboa, and the passage between Jerboa and the Oasis is here as well."
+
+{SCRIPT: This Node is a duplicate of 84. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Bank 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>A dreamy look passes across Nieto's impish face. "The Oasis is the underwater garden spot of the Ninth World, my friend. The most beautiful, miraculous place on this whole, beautiful miraculous planet. Even the people are beautiful. Entrancing!"
+
+"It is also a place of great history, mystery, and sorrow, none of which I would dare ruin for you, as you should see it for yourself." He raises a finger. "Once you rent a air-skin bracelet, that is."
+
+{SCRIPT: This Node is a duplicate of 80. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"The Oasis is the underwater garden spot of the Ninth World." He holds up a bracelet. "Rent an air-skin bracelet and its mysteries are yours to discover."
+
+{SCRIPT: This Node is a duplicate of 81. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Bank 167</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Nieto sighs. "It breaks my heart, friend. I love both Jerboa and the Oasis, and think that they should be one, but to see the two sides fighting? Horrible. We are siblings of gill and lung."
+
+He looks sadly at all the customers who aren't there. "Not to mention what it's doing to the tourist trade."
+
+{SCRIPT: This Node is a duplicate of 89. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>He sighs. "I can tell you that it breaks my heart to see the two towns fighting as if they were enemies and not brothers. This is a sad time in a happy place, friend."
+
+{SCRIPT: This Node is a duplicate of 90. If you update one, please update the other.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Do you have real feelings for Ir'ush? Or is your relationship just a cover for the gill trade?"
+
+{SCRIPT: Check to see if LCO talked to Ir'ush about her feelings for Nieto.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Nieto smiles with uncharacteristic shyness and looks away. "I will say only this. I love both Jerboa and the Oasis, and think they should be one."
+
+"Is there anything else I can help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Bank 173</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Nieto smiles brightly as you approach. "Ah, my friend! I see you have returned without our friend Murai. Perhaps that means you have new questions, eh?"
+
+{SCRIPT: Check if Murai was with the party, but is not now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Nieto smiles at your return. "Back again, my friend. With more questions, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>He bows deeply. "How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Bank 177</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"You hinted before that you could get me into the Oasis without a guide. Is this true?"
+
+{SCRIPT: Check if Node 100 has played}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Tell me again how to get into the Oasis without a guide."
+
+{SCRIPT: Check if Node 100 has played}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Bank 180</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Nieto looks over his shoulder, then steps closer. "It is indeed. I know a ghibra who can give you a cypher that will allow you to breathe underwater for weeks, but she isn't easy to reach."
+
+He glances around again, then continues. "If you have money to burn, you can pay me to contact her, or you can go see her yourself, which is cheaper, but you'll have to go into the Oasis with a guide, and find her within."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Nieto glances around, then speaks. "Well, you can pay me to contact my cypher supplier in the Oasis, or you can go see her yourself, which requires going in with a guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"You contact her for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I'll contact her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Never mind. I've got to think about it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Very well," whispers Nieto. "Then come back here tomorrow. I will have what you need. Just remember, it will cost you." 
+
+He returns to his normal braying tenor. "Now, is there anything else I can help you with?"
+
+{ADAM: Add actual cost of gills to this dialog.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"That's all. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Nieto lowers his voice to a whisper. "Fine. Then hire a guide and come back to me to rent some bracelets, but say nothing of what you wish to do to the guide - or you will be arrested, and I'll deny ever speaking to you. Do you understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Never mind. I don't want to do this after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Nieto looks around, then continues. "Good. Then listen. You will find the ghibra you seek in the Oblevis Reef. Her name is Ir'ush. Your guide will be with you when you meet her, so you must be subtle, so..." He smiles as if at a private joke. "Tell her that her long-time admirer sends her his fondest regards. She will know what you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Got it. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"What sort of novelties do you have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>With long sleeves flapping, Nieto sweeps a hand toward his stand. It glitters with all manner of colorful knick-nacks. "Please. Enjoy my selection."
+
+{SCRIPT: Opens Nieto's store?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"How does one get this 'special permission?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Nieto shrugs. "It is usually granted to visiting dignitaries and the like. As mayor of Jerboa, Hakim Tuck has it, and I've heard she's been able to get it for some of her associates. Simple folk like us, however, are rarely so honored."
+
+He chuckles, "I wouldn't, if you'll pardon the expression, hold your breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Murai salutes Nieto. "Hello, old friend. This (fellow/lady) wishes to enter the Oasis and needs to rent one of your bracelets."
+
+{SCRIPT: Check if Murai is with party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Murai salutes Nieto. "Hello, old friend. Thes folks  wish to enter the Oasis and need to rent some of your bracelets."
+
+{SCRIPT: Check if LCO has any companions}
+{SCRIPT: Check if Murai is with party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I would be honored to be of service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Nieto smiles brightly as you approach. "Ah, my friend! I see you have returned without a guide this time. Perhaps that means you have new questions, eh?"
+
+{SCRIPT: Check if Murai or any other guide was with the party, but is not now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Then what else can I help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"People have given up their humanity to become ghibra?"
+
+{SCRIPT: Only plays if Node 119 has played}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Nieto shrugs and spreads his hands. "So I have heard, but I know of no such cases personally. It is more the stuff of romantic stories and plays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>He winks at Murai. "Poor Murai would have to report me if he *saw* me do anything like that, and that would make us both very sad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Nieto bows apologetically. "I'm afraid I can't rent you a bracelet unless you are in the company of a guide."
+
+He points across the square. "But you can easily acquire one right over there, then come back. I will happily rent you one then." 
+
+{SCRIPT: Only plays if Murai is not in the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Bank 208</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Can I enter the Oasis without a guide?"
+
+{SCRIPT: Only plays if Murai is not in party}
+{SCRIPT: Only plays if Follow-Up node 62 has played.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Tell me again about entering the Oasis without a guide."
+
+{SCRIPT: Only plays if Murai is not in party}
+{SCRIPT: Only plays if Follow-Up node 62 has played.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

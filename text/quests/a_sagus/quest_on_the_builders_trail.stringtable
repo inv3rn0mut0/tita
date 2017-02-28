@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_on_the_builders_trail</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>On the Builder's Trail</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Seek passage to the Valley of Dead Heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the First Castoff's Tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Miel Avest At Last</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Seek passage to the Valley of Dead Heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Open the portal to Miel Avest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I've learned the name of the castoff who helped build the resonance chamber. He's called Mazzof, a talented builder and artificer. I hope to find him in Miel Avest, a refuge of sorts for my castoff 'siblings.' </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Miel Avest is hidden from prying eyes. It can only be accessed from the First Castoff's Tomb in the Valley of Dead Heroes.
+
+I can hire an airship at the Caravanserai to take me to the Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've arrived in the Valley of Dead Heroes. Now I need to locate the First Castoff's Tomb. The passage to Miel Avest is supposedly inside the tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>When I opened the First Castoff's tomb, a portal appeared, and it took me to Miel Avest. It seems that the 'tomb' wasn't really a tomb, after all. Hopefully Mazzof is somewhere in Miel Avest and still remembers how to fix the resonance chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Satsada revealed that the refuge is hidden from prying eyes, and may only accessed from the First Castoff's Tomb in the Valley of Dead Heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've found my way to the First Castoff's Tomb, but the portal to Miel Avest has been sealed. I must find a way to activate it again in order to press onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Now that I've dealt with the "airship thief," Master Rennio has resumed his flights to the Valley. When I'm ready to leave Sagus Cliffs, I should ask him for passage aboard his ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Master Rennio has a ship that can take me to the Valley. Unfortunately, he says that a thief stole his other airship, and he refuses to fly anywhere while the thief walks free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The tomb lies somewhere beneath the Valley in a vast underground space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Master Rennio has an airship that can take you to the Valley of Dead Heroes for a sizable fee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Rennio refuses to take Erritis anywhere until his debt is settled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I met a castoff named Bericael. She said that the castoffs have closed off Miel Avest so that no one can get in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Bericael was right. The portal definitely was here, but now it's closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The castoffs inside have closed the portal for some reason.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

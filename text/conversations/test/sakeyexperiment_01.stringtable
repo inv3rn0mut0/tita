@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\sakeyexperiment_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[This is Kholn Village. You and Matkina have arrived to warn of an impending attack. They don't seem to like strangers much. Neng, the blind village elder, is delighted to see Matkina again, but becomes wary and cool when introduced to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Have Matkina describe the threat to the Village. Neng might be more inclined to listen to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Describe the threat yourself, as Matkina's superior officer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Stay as quiet as possible until you feel more comfortable in Tash's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave most of it in Matkina's hands while you try to figure out how Tash's memories work. If you're able to dredge up more of what actually happened, it could be useful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Matkina does a good job explaining the danger to Neng, and makes a strong case for evacuating the village. The old man is concerned that some villagers would prefer to stay and fight, as they did when the Sand Knights attacked. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Neng may be wary of strangers, but he's no fool. As you outline the danger in no uncertain terms, his face grows paler and paler in the moonlight. Finally he stops you and asks point blank what you think the village should do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It's unnerving to speak and hear someone else's voice, so you try to keep silent. Something is clearly wrong. You were supposed to observe history through Tash's eyes, had been warned *explicitly* not to act. But here you are in control, with no sign of Tash's consciousness. You can't just watch. Does this mean you have to do what Tash did? Are these decisions your own to make? What happens if you do something different?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Trying to puzzle out how someone else's memory works is no easy task. Memories aren't concise blocks of information, easily retrieved like books from a library. They're images, faces and sounds, smells, and meaning without words, all jumbled together. It probably makes sense to Tash, but for you, it's a struggle to assemble anything coherent from the soup of memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>As the young Jack and the blind elder speak, it becomes clear there's a complex history here. For every villager happy to see Matkina again, five or six are glaring daggers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You sense that you *can* make decisions that will affect the outcome of Tash's Mere - but will they actually change the past in your world?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The more you focus your efforts, the clearer it becomes. It's just a matter of understanding how Tash organizes his thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>OUTCOME
+Village will evacuate to the desert
+-3 Defensive Readiness
++3 Village Panic
++1 Village Trust
++5 Neng's Trust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>OUTCOME
+Villagers will debate a defense strategy in town council
++5 Tash's Memories
+-6 Defensive Readiness
++8 Village Panic
+-4 Neng's Trust
+-2 Matkina's Trust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>OUTCOME
+Villagers will debate a defense strategy in town council
++10 Tash's Memories
+-4 Defensive Readiness
++5 Village Panic
+-3 Neng's Trust
+-1 Matkina's Trust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"The village should defend itself. These are your homes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The First's Militia is too much for you. Evacuate to the desert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Negotiation may be the best option. Find this Jahk and give it to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Matkina doesn't like your suggestion, especially when it's taken up so heartily by the villagers. Win or lose, she worries that this option will lead to the most losses for the village.
+
+But it's clear that most of the able-bodied villagers wanted to stay and fight - to "knock 'em back into the desert like those damned Sand Knights before." You're assured that the village is not without its own defenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The look of relief on Matkina's face is palpable when you make this recommendation. The villagers seem less enthused, and some openly accuse you of leading them into a trap for the Militia. Others feel evacuation is a coward's move, and want to defend their homes. Neng will have his hands full organizing a caravan in the scant hours remaining.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Matkina points out that it will be difficult to give Paj Rakken the Jahk when no one in the village knows what or where it is, setting off a flurry of discussion about Jahks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>OUTCOME
+The villagers will stay and fight to defend their homes.
++5 Defensive Readiness
++2 Village Panic
++4 Village Trust
+-4 Matkina's Trust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>OUTCOME
+Some villagers will reluctantly evacuate into the desert.
+-3 Defensive Readiness
++6 Village Panic
+-2 Village Trust
++2 Neng's Trust
++2 Matkina's Trust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>OUTCOME
+Villagers will debate a defense strategy in town council
++1 Village Secrets
+-4 Defensive Readiness
++5 Village Panic
+-2 Neng's Trust
+-1 Matkina's Trust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>As the villagers disperse to their own preparations, you and Matkina are left more or less alone in the dusty midnight square. 
+
+More and more it seems that how to proceed is in your hands. Matkina looks to you as a superior officer, and Tash's consciousness is nowhere to be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>What do you do next?
+
+Choose carefully - time is short.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Review objectives before doing anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Find the Jahk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Learn more about Kholn Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Dig deeper into Tash's memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Focus on Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Leave the village under cover of darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Matkina wants to protect Kholn Village, and is willing to betray the First to do so.
+
+Tash's orders are to pose as Matkina's friend to keep an eye on her, and disable her if she turns against the Militia.
+
+Before you left Sagus Cliffs, Matkina told you to just watch events unfold and find out about the Jahk - to fill in the parts of her memory that Tash wiped. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Finding the Jahk won't be easy with no leads and no idea what it is. How will you start?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The village isn't welcoming to outsiders, but there are more ways than one to learn a place's secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Rummaging through another man's mind takes nerve and willpower, and probably some skills no one's invented yet.  How will you succeed?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The young Jack has no idea that her trusted superior is actually a double agent, sent to uncover her treachery. That was *Tash,* though - will it be you? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Technically you have achieved your objectives: Matkina betrayed the Militia by warning the village, and Tash was there to see it. But what about your orders regarding the Jahk?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Find people with knowledge of history and numenera and get them thinking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Scour the village histories and archives for any mention of the Jahk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ask around for directions to strange or lost places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Explore the village with Matkina as a guide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Gain trust by offering a helping hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Befriend the village children and learn their parents' secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[If VillageTrust &lt; X]
+
+No one will talk numenera with an outsider, and a distrusted one at that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[If VillageTrust &gt; X]
+
+A small group of hobbyists reveals some interesting information.
+
+NEW CONTACT: Lish, numenera dealer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[IF BefriendedChildren = 1]
+
+Kids know all there is to know about where they live. In short order you and Matkina have been inducted into five secret societies and shown all the key hideouts.
+
+NEW LOCATION: Collapsed House
+NEW LOCATION: Old Watchtower
+NEW LOCATION: Sealed Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[If BefriendedChildren = 0]
+
+People with grown-up troubles and cares tend to take the Ninth World in stride, rarely looking at it with wonder. But most of the villagers are long-time residents, and point you to the most interesting spot.
+
+NEW LOCATION: Sealed Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

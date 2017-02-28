@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_zenia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman is dressed in brightly colored, loose-fitting clothes. Her clothes are adorned with beads and baubles made of some material you haven't seen in Sagus Cliffs.
+
+She paces back and forth near one of the airships, muttering a variety of words - curses, most likely - in a foreign language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This colorfully dressed woman is still pacing and muttering to herself. She notices you and gives a wry smile. "You again, eh? Need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Is something wrong?"
+
+{SCRIPT: Should not be available if the player has lifted the travel ban.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Why won't the council let anyone leave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You're not from Sagus, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Where are you from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Can you give me a ride to the Oasis?"
+
+{SCRIPT: Only plays after player returns from the Bloom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She barks a bitter laugh. "I'd love to, sir, but as long as the travel ban is in place, I'm stuck here. If you can do something about *that*, then I'm all yours."
+
+{SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
+      <FemaleText>She barks a bitter laugh. "I'd love to, ma'am, but as long as the travel ban is in place, I'm stuck here. If you can do something about *that*, then I'm all yours."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>She barks a bitter laugh. "I'd love to, sir, but as long as the travel ban is in place, I'm stuck here. To make matters worse, I hear some no-goods out of the Bloom have laid siege to the city council. Nothing's going to change until that blows over."
+
+{SCRIPT: Add conditional for Lascar siege == TRUE.}
+{SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
+      <FemaleText>She barks a bitter laugh. "I'd love to, ma'am, but as long as the travel ban is in place, I'm stuck here. To make matters worse, I hear some no-goods out of the Bloom have laid siege to the city council. Nothing's going to change until that blows over."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're the one who got them to lift the travel ban, aren't you? Sir, I am in your debt. Of course you may travel with us, free of charge." She makes a note on her paper.
+
+{SCRIPT: Player has permission to leave the city.}</DefaultText>
+      <FemaleText>"You're the one who got them to lift the travel ban, aren't you? Ma'am, I am in your debt. Of course you may travel with us, free of charge." She makes a note on her paper.
+
+{SCRIPT: Player has permission to leave the city.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I convinced them to lift the travel ban. Can you take me to the Oasis now?"
+
+{SCRIPT: Player has permission to leave the city.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"*Yes*, I've heard, thank the gods! And of course, there's no charge for the man who saved my livelihood."</DefaultText>
+      <FemaleText>"*Yes*, I've heard, thank the gods! And of course, there's no charge for the woman who saved my livelihood."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm ready to go to the Oasis now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Fantastic! So am I. Get on board." She turns away from the ship and shouts, "Last call for the Oasis of M'ra Jolios! All aboard for immediate departure to Jerboa Town!"
+
+{SCRIPT: Complete Passage to M'ra Jolios quest.}
+{SCRIPT: Transition party to the Oasis and Stage 5.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Her dark eyes scrutinize you up and down. She softens. "You mean that genuinely, I can tell. Yes, something's wrong. I've got a hold full of valuable Sagus preserves and a handful of wealthy passengers seeking passage to the Oasis, but they're all *worthless*. The city council won't let anyone travel to the Oasis until they've solved some damned political squabble. I'm stuck here until they do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Her dark eyes scrutinize you up and down. "Do you mean that? Or are you just another tourist come to question the foreigner? Yes, something's wrong. I've got a hold full of valuable Sagus preserves and a handful of wealthy passengers seeking passage to the Oasis, but they're all *worthless*. The city council won't let anyone travel to the Oasis until they've solved some damned political squabble. I'm stuck here until they do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>She looks up to the sky in exasperation, though it doesn't seem directed at you. "Political tensions," she says finally. "The council doesn't like the way the Oasis's leading Giash has been handling certain situations. Of course the Giash aren't the ones suffering for it, are they? Just those of us trying to get home or make a living."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"So you *are* a tourist." She nods. "I hail from the town of Jerboa, stranger. It's a squat pockmark of desolation whose only true distinction is that it abuts the gleaming Oasis of M'ra Jolios."
+
+She throws you a smile. "And it's home. It'll be nice to get back, and not *just* because I need to turn my current debt into profit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Jerboa Town, a dusty town filled with magnificent people, all huddled up against the life-giving waters of M'ra Jolios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can you tell me about the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Can you tell me about the Oasis again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Really? I'm surprised you haven't heard of it before. The Oasis of M'ra Jolios is the jewel of the desert, an underwater city in the middle of the wasteland we call the Lost Sea. It's very popular as a tourist destination, if you ever want to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"An azure jewel in the center of the Lost Sea, a popular tourist location, and a lucrative trade stop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Why can't you leave again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sagus has imposed a travel ban to the Oasis, until the Giash submit to whatever piddling demands the Slave Families have made this time. Meanwhile, we're stuck here, and I'm losing money by the day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Under her breath, she adds, "If the council would let us fly there, that is."
+
+{SCRIPT: Does not play if the player has lifted the travel ban.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>This woman is dressed in brightly colored, loose-fitting clothes. Her clothes are adorned with beads and baubles made of some material you haven't seen in Sagus Cliffs.
+
+She paces back and forth, scrutinizing every nook and bolt of one of the airships and making notes on a pad of paper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The colorfully dressed woman paces energetically, looking over every bolt and cranny of the airship and making notes on a pad of paper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"It's a one-way trip, though - I'm not flying anywhere else for a while. So make sure you've got everything squared away here first. Let me know whenever you're ready to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Almost ready to go..."
+
+{SCRIPT: Player has lifted travel ban.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"How am I going to get out of here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

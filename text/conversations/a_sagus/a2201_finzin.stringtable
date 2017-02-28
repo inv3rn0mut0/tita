@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_finzin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>176</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Everything about this slender young man says *thug*, from his scar-slashed eyebrows to the callused hand hovering over his hip, where a dagger would hang... but he doesn't have one. Instead, flour cakes his hands, and a single apron string hangs from his pocket. 
+
+He is, apparently, a baker.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Did you find out anything?" he asks, eyes darting around you to check on the distant levy. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Stand still, you shine?" he says, and peers over your shoulder. You follow his gaze to an armored soldier who is loitering in the public square.
+
+"That levy's been following me for days. Can't even stop for a piss without checking side to side!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What's a levy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You sure he's following you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You look tough. Why haven't you dealt with him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Put it like this," he says, licking his lips. "I know when I'm being followed. I've seen him on my track from dawn to dark for three days. I ain't done anything wrong!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sst!" he says, waving his flour-caked hands, his eyes wide with panic. "You don't *deal* with a levy. You don't even *talk* about it!"
+
+He licks his lips. "Besides, I don't do that kind of... I mean, I ain't done anything wrong!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What's a..." he sputters. "You new in town? There's one right over there. No, don't look!"
+
+He shoots another nervous look over your shoulder. "They're the law, right? You must've seen them. Always smiling, even if they're snapping the chains on." 
+
+He swallows. "But not this one. No, he follows me around from dawn to dark, staring at me, trying to trap me in alleys. I ain't done anything wrong!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"And it's worse than that," he says, wringing his hands. "That's *my* levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What do you mean, he's *your* levy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Why is it worse that *your* levy is following you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'm a citizen," he says, as if this explains it. When it becomes clear it hasn't, he groans. 
+
+"Every levy is made from a citizen," he says. "This one was made from me.  Look, I can't explain why, but I *know* that one's mine. I *feel* it, right? And now it's coming for me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Having a levy on your track is bad enough, right? But if he was *made* from a year of your life... he knows where you bed down, maybe... what you're thinking." He groans, rubbing his eyes. "That's worse. That's much worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Look, he won't leave me alone, right? I gave a year of my life to make him, and I thought that was that. Now I catch him standing in the street outside the bakery. Whispering to himself. Playing with that carving of his."
+
+His teeth graze his lip as he leans closer. "He even tried to talk to me. Levies ain't supposed to know who they came from, right? They ain't supposed to know who you are!"
+
+He wavers, gathering his courage. "Could you... could you talk to him? Find out what he wants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Are you *sure* you didn't do anything wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"By the Black Three, *yes*." His denial is swift and deadly serious. "I wouldn't nick a crust of bread... not anymore." 
+
+He runs both hands through his hair, leaving streaks of flour. "He's after me, and I don't know why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText> Follow-up PQ. 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I've spoken to the levy. He mentioned something about a 'Gillem Manor job'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText> Follow-up PQ. 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I don't understand why you think your levy wants to murder you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Why do you think your levy wants to murder you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Look," he begins, obviously struggling to frame his explanation. "Look," he tries again.
+
+"Look, you don't track a man for days and days unless you want something, yeah? Maybe you like his shoes or you're curious about how many shins he's got. Now, I don't have any shins, and my shoes are older than me. Only thing I got that's worth anything is my life!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I ain't got anything worth taking except my life. Simple as that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'll, uh. I'll be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText> Follow-up PQ. 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What *is* normal behavior for a levy, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What is normal behavior for a levy again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText> Follow-up T. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"They're..." he hesitates, raising his hands as if he's trying to contain his response before he lets it escape his mouth. "They work for the people who make the laws, right? And if someone breaks those laws, they track them down. Always smiling, mind you. Figures that *my* levy would be the unhappy kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Smiling. Tracking down those who break the law. And as you can see, he ain't smiling, and I ain't done anything wrong!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Let's talk some more about what the levy told me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"He *what*?" Finzin says, going pale. "Keep your voice down. You tell anyone else about this? No? *Good*."
+
+He lowers his voice. "I have to be, uh, unspecific about this, understand? Before I became a citizen, I was a... I wasn't a... nice person. I took things. For money. And just a few weeks ago, certain people told me they wanted me to rob Gillem Manor."
+
+He grimaces, rubbing his neck. "I was going to do it. But then I became a citizen. Gave up a year of my life to create the levy... *that* levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Great," he says. "Just great. What now? I told you - I ain't done anything wrong!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sure. I ain't in any hurry to go home so long as that *thing* is following me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText> Follow-up PQ. 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The levy is seeing what would have happened if you did the... job. He wants another year from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Does it bother you that the levy's seeing </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oh, I get it," he says, rolling his eyes. "It's a shakedown. 'Give me a year, or I tell them what you did'. Well, I ain't done anything, I never killed anyone, and I don't owe him nothing! I can't keep handing out years like they're free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"And? That was my decision. Not his."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Oh, for what?" he says, exasperated. "A couple bad dreams? I didn't do anything!"
+
+He subsides, crossing his arms as if he's cold. "All right. What did he see in this other future? I get caught? Chased around, maybe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"How does this thing work? And do I get to pick the year or what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Will this hurt him? I do not want this to-"
+{SOUND: On exit, energy flows from Finzin into the Tormented Levy.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"AAAAAAAH!"
+
+{SOUND: On exit, energy flows from Finzin into the Tormented Levy.}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hey! Levy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Yeah, do that. Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Stay here. I'll see if I can resolve this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText> Follow-up PQ. 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What good would telling the Captain of Levies do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Where's the Captain of Levies again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText> Follow-up T. 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Levies ain't supposed to follow their citizens around. They ain't supposed to get all weepy either. Telling the Captain would take care of the problem for sure, but I ain't about to try it myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Government Square. Same as the last time you asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Well, it's done," he says. "Funny thing. The first year they took didn't hurt a bit. This one stings like glass in the gut."
+
+He rubs his head. "But the levy's gone. That's something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You got him to leave!" he says. "Don't know how you did it, and maybe you shouldn't tell me." He rummages in his pockets. "But smooth work like that deserves a reward."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You got him to leave!" he says. "And *smiling*! Don't know how you did it, and maybe you shouldn't tell me." He rummages in his pockets. "But smooth work like that deserves a reward."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hah!" he says, slapping a jingling bag into your hand. "You earned that. Oh, you should have *seen* it. Levies came for our friend not ten minutes ago. Clopped him, bound him, dragged him off." 
+
+He shakes his head, grinning. "Levies arresting levies. Would have paid a bucket of shins to see that in the old days."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Clopped?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Yeah, you know. Bounced. Bumbered. Thumped him upside the head." Finzin smirks. "Probably reducing him to parts as we speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Head back to the bakery, maybe. Lots of people in there this time of day. Lots of pastries need decorating, you know?"
+
+He winks. "Or maybe I'll go for a stroll, now that the streets are safe again. Eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"See you around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Yeah, I could see that," he says, shaking his head. "Whistling. Levies are cheerful, but never *that* cheerful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Head back to the bakery, maybe. Lots of people in there this time of day. Lots of pastries need decorating, you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"He won't be bothering you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"See you around.
+
+{SCRIPT: Finzin exits and despawns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Hey, if he does, I'll find you again," he says, shrugging. "Not sure if you scared him off or what, but if you did it once..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"No. If he can be talked into leaving, maybe I was wrong about the murder thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I convinced him to leave, but he may come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You're not worried that he might come back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"See you around, yeah?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Honest? No. Got some hammering in my head and a greasy feeling in my throat. Hoping it goes away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Sure," he says. "But no, too. Way you described it, I owed him a debt. You have to pay your debts, citizen or no."
+
+He winces. "Think I need a lie-down. I'm off." He moves to do just that, then pauses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Are you feeling all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Do you regret helping the levy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Farewell, Finzin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Yeah, see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"How do you like being a baker?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"You like</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Yeah," he says, looking away. "Didn't think I'd like it, you know? My aunt had me waking up early, carrying trays, counting out lumps of dough. Didn't think I'd last the week."
+
+A smile spreads across his face, so slowly that he probably doesn't feel it. "But I like the smell, and the way the pastries brown up. And she's started letting me draw stuff on the sides, like flowers and cats and stuff."
+
+He sees you looking and blushes. "Don't tell anyone, yeah?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Something changed," he says, frowning. "All of a sudden, I couldn't get the dangers out of my head. How thick the levy patrols were, like, or how the Captain herself was looking into, uh, one of my older adventures."
+
+He plays with the apron strings hanging from his pocket. "So I cancelled the job and started working at my aunt's bakery. Never did the Gillem job. And that's the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Hey!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Psst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Come here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"How did they create your levy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"How are levies made again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I look like a scholarch to you? All I know is where they told me to stand!"
+
+His eyes rove past your face and snap back. "Look. People who want to be, you know, respectable in this town? They become citizens. The way you do *that* is you step into this... glass chamber. Takes a year out of your life, they say. I figure it squeezes that year into human shape. Don't know how. Wouldn't pay two shins to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"They take a year from you and make a levy out of it. Don't know how they do it or why. Don't want to know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Based on what he said, it sounds like becoming a citizen saved your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"That's not fair. He's suffering for what you would have done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I ain't ever been in the same town as 'fair'," he says, shaking his head. "You ever find it, you let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"You make a valid point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Yeah," he says, nodding at you. "Maybe it ain't fair, but I ain't wrong either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"You started a fire that killed a *lot* of people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"You... accidentally hurt some people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"How... how much is a lot?" he says, rubbing his mouth with the back of his hand. He sees some of the truth in your eyes, and sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Hurt?" he says, forehead crinkling. "Hurt bad?" 
+
+He sees some of the truth in your eyes, and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Fine," he snaps. "*Fine*. But I ain't running myself down searching for a way to give my life away." He rubs his eyes. 
+
+"The levy machine's at the Order of Truth. Go talk to the scholarchs, since you're so hungry for this. Maybe they can bash something together that'll rip *another* year from me and give it to him." 
+
+He grins, but his heart is definitely not in it. "Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>He groans. "I'd go up to Government Square and tell the Captain of Levies what he's up to... if I had any way of explaining it. 'Hey, your levy is following me around. I think it's because he's haunted by my criminal past.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I... I am well now, sir. Are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I'm fine. Leave me be, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>::whistling::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Can't you talk to him yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"All right. I'll talk to your levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Sorry. No promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>He swallows hard. "I've heard stories. Levies go wrong sometimes... get obsessed with the person who gave them life. If the two ever meet... the levy goes mad, tears them apart. That ain't going happen to me, not after-" he cuts himself off. "Not after all I've been through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>He nods again toward the armored man who's standing a distance away, in the public square. "He's the only levy in this district, so you can't miss him. Plus he ain't smiling like all the others, and he's holding some charred wooden thing in his hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>His shoulders slump. "Fair enough. It's not my way to ask for favors, but... if you change your mind, he's the only levy in the district, so he ain't hard to find." He nods again toward the armored man who's standing a distance away, in the public square. "Plus he ain't smiling like the others, and he's holding some charred wooden thing in his hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Anyway, I've heard stories about what levies do when they go wrong." He shudders. "They get obsessed with the person who gave 'em life, and if they ever meet... it don't end well for the human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Anyway, I told you about the stories I've heard... how sometimes levies go wrong." He shudders. "You take a look at that levy - *everything* about him is wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"He mentioned something about a manor. Gillem Manor. Ring any bells?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Finzin breaks into a coughing fit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Bank 169</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Finzin breaks into a coughing fit and turns away, coincidentally hiding his face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Well I *don't*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Bank 172</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"He mentioned something about a manor. Gillem Manor. Ring any bells?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"The levy seemed awfully convinced you'd know the manor he was talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Bank 172</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Bank 169</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Finzin breaks into a coughing fit and turns away, coincidentally hiding his face. 
+
+"Can't say I do!" he says, his voice muffled. "Crazy levies, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Well I *don't*," he says, and this time, his face is the very picture of innocence. "Good thing you cheered him up and sent him on his way. Who knows what sorts of nonsense he'd have come up with next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"He mentioned something about a manor. Gillem Manor. Ring any bells?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"The levy seemed awfully convinced you'd know the manor he was talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Script Node 181</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>(DEBUG) Play the cutscene of Finzin giving his levy a year of his life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Give the levy another year of your life. You started fresh. He should get the same chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"The levy just wants a different year of your life. You owe him that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"He's just a copy of me," he says, laughing. "And barely even that. I don't owe him a thing. If anything, he owes me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I've brought a device that will transfer a year from you to your levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Fine. Just one year, right?" He chuckles, but there's not much humor in it. "I got a few to spare. Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Hey! Levy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>::grumbles::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Script Node 191</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Script Node 192</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I owed him a debt, and that's all there is to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Why don't you regret helping the levy again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"You, uh, need anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Oh, it's you. I'm standing here, trying to think of a way to tell the Captain of Levies about our friend over there without ending up in chains. Nothing's coming to mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>He shrugs. "You want to try talking to her? She's in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"I'll see what I can do. Wait here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I'd rather not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Good luck. Just don't, you know, tell her *too* much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Didn't think so," he says gloomily. "Can't say I blame you either. What, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Any luck with the scholarchs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Hey, before I forget. Let me give you something for all the trouble."
+
+He drops a small pouch into your hand and stumbles away, clutching at his side and cursing under his breath. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>::mumbling::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Did you, uh... talk to the Captain of Levies about me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Can't say I do!" he says, his voice muffled. "Crazy levies, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>This time, his face is the very picture of innocence. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_the_lost_shepherd</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Lost Shepherd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search the valley's alcoves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>See if Erritis has done something to the Labyrinth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find help for Erritis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Confront Erritis's Audience in the Labyrinth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Erritis became more powerful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Erritis is in charge of his own destiny.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>I never found any alcoves. (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Entered the Endgame Without Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Erritis has been acting strange ever since we entered the Valley of Dead Heroes. I need to figure out what's bothering him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Erritis spoke fearfully of alcoves in the Valley of Dead Heroes. Maybe searching the Valley and finding the alcove he's "not afraid of" will explain why he's behaving strangely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>After finding a herder's crook in the Valley of Dead Heroes, I heard Erritis's voice inside my mind. Could Erritis have... done something to me?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I spoke to Erritis - the *true* Erritis - in the Labyrinth. Before he became the man I met in Sagus, he was a simple herdsman who stumbled across a box of "demons". He has asked me to help drive the demons out of him and return him to the way he was. 
+
+I need to find someone knowledgeable - maybe a doctor - who can help him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Skoura was able to put a name to the demons - the nano-spirits - plaguing Erritis. They are the Audience, made up of the Paragons and Cathartics. I need to talk to Erritis's reflection about this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I made Erritis more powerful, though he might die much sooner as a result. Still, given his predilection for adventure, that was probably going to happen anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I convinced the nano-spirits to give Erritis a chance at choosing his own destiny, rather than driving him towards destruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I was forced to leave the Valley before I could figure out what was troubling Erritis. I'm sure it was nothing important - knowing him, it was nothing at all. He seems much better now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>When I entered the Calm due to the Resonance Chamber activating, it apparently affected the Calm in more subtle ways than just pulling myself and my companions into it. Erritis's reflection is gone, and I doubt he'll return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've been told to speak to the doctors of Chiurgeon Slump in the Bloom regarding Erritis's condition. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I've been told to seek an as-of-yet-unnamed woman in the Old Slave Block, an expert in nano-demons. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Skoura told me she might be able to help Erritis if I can bring him to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

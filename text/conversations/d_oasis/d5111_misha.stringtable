@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5111_misha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman with three arms slouches outside a hovel, two arms crossed over her chest and the third holding up a small tube. Every now and then she sticks one end of the tube in her mouth and inhales. This is followed by a loud crack and a spark shooting from the tube, after which the woman sighs and shivers.
+
+The sign over the door of the hovel in the shape of a chiurgeon's scalpel. Dispite this, the woman's clothes are pristine. There is no blood on them. She looks up as you approach. 
+
+"I don't do normals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Intro. Knows Auvigne connection. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The chiurgeon gives you a level look as you approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The chiurgeon rolls her eyes as you approach. "You've come too soon. I've only just sent word to Auvigne. I won't hear back until tomorrow at the earliest. Come back then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The chiurgeon stands again outside her clinic. She eyes you warily as you approach.
+
+"Still haven't changed my mind about normals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The chiurgeon gives you a cold look as you approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The chiurgeon looks at you with questioning eyes. "Have Auvigne and Tybir spoken yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The chiurgeon looks up at you as you approach. 
+"I can't believe they're together. I hope it lasts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The chiurgeon looks up at you as you approach. 
+"There's no point in you coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The chiurgeon stands again outside her clinic. She shakes her head as you approach.
+
+"I'm not saying anymore than I already have. Auvigne warned me about Tybir's tricks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What is that tube?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Can't say, exactly. Gibber I bought it from said it would give me visions, but it doesn't. The sparks ease the pain, though - if only for a few moments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You're in pain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[USE LATER "It's my teeth. I grow extra ones in my armpits. Hurts like fire until they fall out, but if I pluck one out, two grow in its place. Used to be one under each arm, now there's always at least six at some stage of development."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She gives you a glassy smile. "Not right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"So long, normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Tell me your name again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What is it that you do that you don't do for normals?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Remind me what you do for your clients?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Why don't you operate on yourself and get out of here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Remind me why you don't just fix yourself and leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Do you know a man named Auvigne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Are you sure you don't know a man named Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"They call me a lot of names around here - Misha the miracle worker, Misha the meat-o-mancer, Misha the mutant doctor who doctors mutants, hey you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Which one?" She sighs. "Ah, never mind. I can't be bothered repeating them all. Call me Misha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I make mutants look normal. Not something normals need, do they?"
+
+She shrugs. "I'm also a regular chiurgen, but that's not my main business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I make them look normal so they can pass for human outside of the Grotto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She sighs. It's clear she's answered this question many times before. "The machine I use doesn't work on big mutations - extra arms, tails, tentacles. Just surface stuff - frills, quills, scales, spots, lesions, that kind of thing."
+
+She holds up a hand. "And before you ask, yes, I could amputate my arm, but that's what makes me such a good surgeon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"A third arm is too big a mutation for my machine to fix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She sucks in another spark, shivers, then exhales and speaks. "A *man* named Auvigne. No. Can't say as I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I can honestly say I know no man by that name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A man named Loyhan said Auvigne used to buy Gianche for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I don't know what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I've got no time to listen to normals making up crazy stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She smirks and takes another drag on her spark tube. "Auvinge said something like this might happen one day. Which one of you jerk rags is Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"It's all written down in Loyhan's book. All the times Auvigne bought for you, and then a year ago he just stopped. What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"It's all written down in Loyhan's book. He even wrote down the dose Auvigne used to buy. Here. I bought you some."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She smirks and takes another drag on her spark tube. "Auvinge said something like this might happen one day. Which one of you jerk rags is Tybir?"
+
+{SCRIPT: Makes next Difficult Task one step easier?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I've got no time to listen to normals making up crazy stories. Gotta get back to work."
+
+She turns and disappears into her chiurgery without another look at you.
+
+{SCRIPT: Misha no longer appears on the map.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She scowls at the profferred bindle. "Is this some kind of bribe? Are you trying to take advantage of my weakness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"So, there are mutants walking around out there disguised as normal people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She gives you a big smile. "You'll never know, will you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tell me about this machine that fixes mutations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Tell me again about your mutation fixing machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I call it the dermaplaster. An old inventor built it to my specifications. He was working on one that would change bigger mutations, but then he went insane and stopped making things."
+
+She takes another drag on her tube. "So, it doesn't work for the main reason I asked him to make it, but at least I can help some of the mutants some of the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"It's called the dermaplaster. A crazy old inventor made it for me. It fixes mutations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Who was the inventor who made your machine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Tell me again who made you machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"His name is Matak.He's a beggar now. If you walk around here long enough you'll probably run into him. Smells like old fish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Matak the beggar. Only he wasn't a beggar back then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He raises his hand. "I have that dishonor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"He's not with us right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>She reaches for the Gianche, then pauses and smirks. "Auvinge said something like this might happen one day. Which one of you jerk rags is Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Her third hand whips out before you see it moving and she snatches away the bindle. "And I still don't know what you're talking about."
+
+"Now get out of here. I've got work to do.." She turns and disappears into her chiurgery.
+
+
+{SCRIPT: Misha no longer appears on the map.}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"No strings attached. You don't have to tell me anything you don't want to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tell me what I want to know and it's all yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She gives Tybir the once over, twice. "Should have guessed it. Just as he discribed you, right down to the smarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He swallows. The light of hope in his eyes is pretty pathetic, actually. "He... he still speaks of me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Not without cursing." Her eyes are cold. "He never wants to see you again, cheat. All you are to him is a recurring nightmare. Go back to where you came from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He looks like he's been punched. He's sweating. "But... but I've changed. I'm not the man I was." He turns to you, his eyes pleading. "Please. Tell her. Tell her I'm a better man. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She chuckles. "Still getting other people to do his dirty work, is he? Well, if he won't come himself, he won't hear what he wants to hear."
+
+She nods at you. "I'm not anybody's go-between, and neither should you be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Tybir was a rogue when he joined me, but he has become far more honest with me lately, and with himself. I believe he has truly changed."
+
+Attitude up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Tybir does his best, but he can't resist slipping back into his old ways now and then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Tybir is still the rogue he was when he met, not matter what he tells you."
+
+Attitude down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Tell her yourself. I'm not your advocate."
+
+Attitude down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Then he's fooled you along with the rest. I wouldn't believe him for a heartbeat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Damn you for an unhelpful rascal. All right. I will."
+
+Tybir turns to Misha and holds out his hands. "Madam Chiurgeon, please. I will not ask you to tell me where Auvigne is, or pester you to take him protestations of my love. All I ask is this. Tell him I am here, and ask him if he will see me If he says yes, I'll be the happiest man in the Ninth World. If he says no, I promise you, I'll walk away without another word, and you and he will never hear from me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Doesn't surprise me in the least. Auvigne and I always agreed on one point - nothing can change the nature of a man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I wouldn't either," says Tybir. "And I don't ask you to believe me or trust me now. Just grant me a single, simple boon."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I disagree," saysTybir, swallowing. "There is one thing."
+
+He holds out his hands to Misha. "Madam Chiurgeon, please. I will not ask you to tell me where Auvigne is, or pester you to take him protestations of my love. All I ask is this. Tell him I am here, and ask him if he will see me. If he says yes, I'll be the happiest man in the Ninth World. If he says no, I promise you, I'll walk away without another word, and you and he will never hear from me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Misha laughs, derisive. "And what would that be, liar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>He holds out his hands to her. Just this. Tell him I am here, and ask him if he will see me. If he says yes, I'll be the happiest man in the Ninth World. If he says no, I promise you, I'll walk away without another word, and you and he will never hear from me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>The chiurgeon glares at him for a long minute, weighing his words, then finally she speaks. "Come back in a day's time, rogue, and I will have an answer for you." She holds up the index fingers of all three hands. "But if you have lied to me here. If I tell you Auvigne said no and you continue to pester me, I'll know you for the liar you are, and I'll make sure the rest of Jerboa and the Oasis know too. Am I clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>He lowers his head. "Completely. And thank you. I look forward to returning tomorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Never mind. Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"A man named Loyhan said Auvigne used to buy Gianche for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I still say Auvigne used to buy Gianche from Loyhan for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I don't know what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I still say I don't know what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I'm not asking you to tell me more," says Tybir. "Just grant me a single, simple boon."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Tybir's not here. I wanted to talk to you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Then she turns to Tybir, takes a deep breath, and speaks. "I heard from Auvigne. He doesn't want to see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I've got news from Auvigne, but only for Tybir's ears. Until he's with you, I'm not talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I wanted to ask something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Tybir's hands ball into fists, and he opens his mouth as if to speak, then slowly shuts it again. He hangs his head. "Surely it's the only sane thing to do, knowing me as he does. I don't blame him a bit."
+
+He looks up at you, his eyes bottomless black wells of regret. "Come, lad, let's be off. I'm your man from here on in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Tybir's hands ball into fists. "You're lying! He must see me! He must! Tell me where he is! I want to hear it from him, liar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Misha steps back, wary. "It's you who is the liar. You said you would accept Auvigne's answer with no argument, no matter what it was, and here you are screaming at me."
+
+She laughs, bitter. "Auvigne was right. You haven't changed at all. Get out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>He advances on her with murder in his eyes, then catches himself and turns away. "And why should I change when the world never stops kicking me?"
+
+He looks up at you, his eyes harder and more humorless than you have ever seen them. "Come, lad, let's be off. I'm your man from here on in. And the dirtier the work, the better."</DefaultText>
+      <FemaleText>He advances on her with murder in his eyes, then catches himself and turns away. "And why should I change when the world never stops kicking me?"
+
+He looks up at you, his eyes harder and more humorless than you have ever seen them. "Come, lass, let's be off. I'm your man from here on in. And the dirtier the work, the better."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Misha watches him go with undisguised loathing in her eyes, then gives you some of the same. "Keep him on a short leash, friend. Or you may be the one to be bitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>But as he starts away from the chiurgery, Misha reaches after him. "Tybir, wait. Come back."
+
+He turns, and she steps to him, a look of disbelief on her face. "You... you passed the test. Auvigne said it would never happen. He said you would never accept his decision as you had promised you would. He said you would rail at me, and demand to see him, and I could see in your eyes that you wanted to, but... you fought it. You walked away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>His eyes grow dangerous. "This was a... test?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Can you blame him?" asks Misha. "He had to know if you'd really changed."
+
+She takes his right hand in one of her lefts. "He is at the moment guarding Giash Member Semet in his home, but once the protests are over and the Giash meets again you will find him waiting for you at Jolios Peak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Can you blame him?" asks Misha. "He had to know if you'd really changed."
+
+She takes his right hand in one of her lefts. "He was guarding Giash Member Semet in his home, but now that the protests are over and the Giash meets again you will find him waiting for you at Jolios Peak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"May you both find happiness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"A human man guarding a member of the Giash? How is that possible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Misha's eyes go wide. "I... oh dear. Did I forget to say? Auvigne is no longer a man. He is a ghibra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>He chokes. "What! What did you say? Auvigne is a...? Is this a joke? A trick to keep me away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>She shakes her head. "No joke. The ghibra have numenera far more advanced then anything I have here. They gave him what I could not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>He stares at her, utterly dumbfounded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Why did you hide this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"How did Auvigne end up as a ghibra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Tell me again how Auvigne became a ghibra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"It was what he longed for almost as soon as he arrived here. He fell instantly in love with the Oasis and never wanted to leave it."
+
+She smiles sadly. "That's why he first came to me. He hoped my machine could change him, but I cannot give a man gills, nor change his internal organs. I could make him *look* like a ghibra, but not eat or breathe like one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"He saved the life of Giash member Semet, who gave him permission to have the opperation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I didn't, I swear. It... it just didn't come up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>He grabs your arm. "No! We can't leave. Not without knowing. Ask her why he did it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"He begged the ghibra to be given the chiurgery, but they would not. Not until he saved the life of Giash member Semet. As a reward, Semet allowed Auvigne to have the operation, and made him a member of his personal guard. Now he lives full time in M'ra Jolios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Now he is a member of Semet's personal guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He clutches his brow. "Unbelievable. Impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>He shakes his head. "I still can't believe it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>You turn to Tybir. "Does this change your mind about seeking out Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>He is staring into the middle distance, eyes far away, but finally he focuses on you. "No. I must see him. Maybe... maybe he can change back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>He stares at you, bewildered and furious. "You won't ask? You'll leave me in the dark? How can you be this cruel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"How did Auvigne save Semet's life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ask him when you see him."
+
+She gives a long look at Tybir. "If you see him.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"We don't have anything further to discuss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Yes. And Tybir has agreed to become a ghibra and live with Auvigne in the Oasis for the rest of his life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Yes, but it didn't go well. Tybir would not be tied down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Yes, but Tybir could not bring himself to become a ghibra. They parted as friends, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Aye, I spoke to him. And, and as you can tell by me standing here before you, it wen't less than well. You poisoned him against me, you butcher. I know you did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"It's over. There's nothing left to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"We did our part, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Leave me out of it," says Misha. "The poison came from your own selfish heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Now leave me alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Incredible. I never would have believed it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I... I hope it lasts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I'm not surprised at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Men don't change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Tybir's too afraid, is he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Not surprised in the least."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

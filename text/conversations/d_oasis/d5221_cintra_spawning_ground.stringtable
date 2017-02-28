@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5221_cintra_spawning_ground</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A dark, rocky grotto, lit from below by the pale pink light of hundreds of small, translucent eggs. As you swim down closer to them, you can see that they are all pulsing in unison, as if following the rhythm of a single slumbering heart. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A dark, rocky grotto, lit from below by the pale pink light of hundreds of small, translucent eggs. As you swim down closer to them, you can see that they are all pulsing in unison, as if following the rhythm of a single slumbering heart. 
+
+You can also sense the faint presence of hundreds of tiny half-formed minds, reaching faint and fuzzy thoughts into your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A dark, rocky grotto, lit from below by the pale pink light of hundreds of small, translucent eggs. As you swim down closer to them, you can see that they are all pulsing in unison, as if following the rhythm of a single slumbering heart. 
+
+You can also sense the faint presence of hundreds of tiny half-formed minds, reaching faint and fuzzy thoughts into your own. And, a moment later, you realize you can also sense the names of every one of those minds.
+
+Except one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>At first is seems impossible. The thoughts of the other unborn are strong and insistant. How will you find thoughts weaker and quieter than the rest. 
+
+Then you notice - not a thought - but an irregularity of rhythm, a faint, stumbling pulse, slower than the rest, coming from the back of the cave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The child's presence is getting weaker. You fear you do not have much time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The disharmony of the unnamed egg has faded. All the eggs now pulse as one. All is calm and warm and cozy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Speak whatever names come into your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>
+Try to bond with the unborn child and find its name. 
+
+[If NODE 8 PLAYED, The child cannot speak, but the player gets impressions. He can try to bond with a child as a Hard retryable Difficult Task (for which Persuasion and Lore: Civilization apply).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ethelred!" you cry. 
+
+There is no improvement in the pulse or stirring of the thoughts of the tiny mind below you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Cnut!" You exclaim. 
+
+Neither the pulse nor the tiny mind below you respond to the name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sweyn!" you sing.
+
+There is no recognition of that namefrom the egg below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you reach out to the tiny mind below you, you feel it reaching back, seeking comfort in your strength and welcome in your heart. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you reach out to the tiny mind below you, you feel it reaching back, seeking comfort in your strength and welcome in your heart. 
+
+But the connection does not last. Either you or the unborn child was not strong enough to maintain it. The tiny mind slips back into troubled slumber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I know you, little one. You're name is..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As the name comes to your lips, you feel a great weight in your mind and your heart. You realize that you are not just speaking a name, but giving the child an integral piece of yourself to strengthen it on its way to birth. It hurts like you were tearing out your soul with your bare hands. 
+
+ </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[If successful, he will feel the child's presence within himself, and he will realize that he *knows* its name.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>As you reach out to the tiny mind below you, you feel it reaching back, seeking comfort in your strength and welcome in your heart. 
+
+But then something goes wrong. The child's conciousness rejects yours, recoils, somehow wounded by the contact. It is fading, too fast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You let it in and enfold it in your self, and as you do, you suddenly know it's name. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Your name is... Joh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Remain silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>As the name leaves your mouth, your vitality goes with it, draining you, making your bones ache and your mind wither. It hurts worse than any death you've experienced, but as you weaken, you feel the child's presence growing stronger and more aware. She knows who she is now, and who you are, and that you brought her back from the abyss. 
+
+You can feel her nestling beside your heart, sleeping in the peaceful certitude of safety. 
+
+Your daughter lives. You saved her. 
+
+{SCRIPT: lose 1 Intellect Edge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You pull back from the bond, holding the name within you, and at this unexpected rejection, the child's conciousness recoils, wounded by the conflicting emotions of the contact. It is fading, too fast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Leave the spawing ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Search for the unnamed egg. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The glow of the pulsing eggs fades as you return to the Oblevis Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You move in the general direction of the struggling pulse, then back and forth over the bed of eggs, trying to find the source. Finally it is below you - an egg, smaller and fainter of light than the rest, it's pulse beating behind and out of time. 
+
+Cintra's life force is within it, but it is fading, flickering. Soon it will gutter and die entirely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The rhythm of its pulse is slowing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The rhythm has stopped. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>There is no longer an unnamed presence below you. There is only a small, dark gap in the pulsing carpet of the other glowing eggs. 
+
+Cintra's child is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You know then that Cintra was right. There will be a price, a physical, actual price, if you go through with the naming. You will be weaker, your mind will be weaker, so that the child can be stronger. 
+
+It's not too late to stop. You can remain silent and you will not be harmed. But what will happen to the child? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Examine the eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>As you swim closer, you see that some eggs pulse more strongly than others, while some are very much weaker. Some have gone completely dark.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Look more closely at the fading and dark eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Look more closely at the eggs that have gone out entirely.]
+
+{NATHAN: My idea here is that if the player has one of these skill options (currenty Lore: Natural Science, Lore: Wilderness, or Visual Perception), they will pick up on the fact that the unnamed eggs are giving energy to the named ones. They can go back and tell Cintra what they saw along with their good interpretation: that Cintra's child is enabling the other ghibra children to live and grow stronger, thus making the community stronger as a whole.
+
+(Or better: give the player multiple interpretations to what they saw, each based on different Tides, allowing them to comfort Cintra or not.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Examine the dead and dying eggs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Your training in the natural world helps you realize what you are seeing. The dying eggs are giving their life energy to the named eggs. Though they are fading, they are strengthening the whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Your wilderness training helps you realize what you are seeing. The dying eggs are giving their life energy to the named eggs. Though they are fading, they are strengthening the whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Your keen eyes help you realize what you are seeing. The dying eggs are giving their life energy to the named eggs. Though they are fading, they are strengthening the whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You see nothing special about them. It seems, even in the midst of nacent life, there is still death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>As you reach out to the tiny mind below you, you feel it reaching back,and you suddenly know it's name. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Try to bond with the unborn child and find its name. 
+
+{ADAM not sure what was supposed to happen with this note. [If NODE 8 PLAYED, The child cannot speak, but the player gets impressions. He can try to bond with a child as a Hard retryable Difficult Task (for which Persuasion and Lore: Civilization apply).]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Try again to bond with the unborn child and find its name. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>As the name leaves your mouth, your vitality goes with it, draining you, making your bones ache and your mind wither. It hurts worse than any death you've experienced, but as you weaken, you feel the child's presence growing stronger and more aware. She knows who she is now, and who you are, and that you brought her back from the abyss. 
+
+You can feel her nestling beside your heart, sleeping in the peaceful certitude of safety. 
+
+Your daughter lives. You saved her. 
+
+{SCRIPT: Reduce Intellect Stat Pool by 1}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

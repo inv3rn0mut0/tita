@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6081_cnpcfathom_oasis_tybir_and_auvigne</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Come with me, Auvigne," Tybir pleads. "You don't need to stay here. We can leave this place behind us and never come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Auvvie, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Look at me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'd take it back if I could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Talk to me, Auvigne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Crackling heat washes over you, and you instinctively shield your eyes. When you move your hand, you are no longer in an underwater marketplace. 
+
+You stand at the center of a village in flames. Tybir, a bruise blooming on his swollen cheek, tries to touch the back of the large man facing away from him. His hands go through the man as if he weren't there. 
+
+{SOUND: Village burning. Possible lots of crackling, some frightened moaning, no screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Auvigne turns. Fresh blood spreads around the wounds in his wide chest, and his face is heavy with sorrow. 
+
+"You never learned," he says, shaking his head. "It was never about the lying or the cheating. I would have forgiven all of that, fool that I was."
+
+His eyes rove over the burning huts that only the three of you can see. "They needed us. They hired us to protect them. And you sold them out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"No one died. I burned the village to scare them out," Tybir protests weakly, staring at the ground. "But the money was good. And I... I wanted to hurt you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Auvigne, did you hit Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Remain silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oh, Ty," Auvigne says, holding his wounds. "You did."
+
+He is barely visible now, as insubstantial as the black smoke pouring into the air. "You taught me to see things the way you did. That the world wasn't kind, and that it broke kind men."
+
+He lifts his eyes. "But it was you that broke me. You taught me to hate my instincts. To call myself a fool for wanting to save people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Yes," says Auvigne, turning to you. "When I caught him driving families from their homes, I lost my temper. But I never forgot the look on his face after I struck him. The fear in his eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"This is where our lives together ended," Auvigne tells you, though Tybir seems completely unaware of your presence. "This is where he turned our mercenaries on innocent families, and I hit him. This is where I turned my back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"But you weren't," Tybir says, clutching at Auvigne again. This time, he nearly catches hold before his fingers sink through his lover's arm, like a man trying to hold onto fog. "You taught me what a good man was. I didn't listen, but I heard."
+
+He lowers his head. "That's why I never went looking for you. I couldn't stand breaking your heart again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"But that's the way things are!" Tybir protests, and there is anger in him now. "You have to fight for everything, Auvvie. I told you! You take advantage or someone takes it from you."
+
+He shakes his head savagely. "There's no reward for kindness. No happiness at the end for people who care. All that happens is that we die!"  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Like I did?" Auvigne says gently. Tybir sags, and Auvigne faces you, waiting. Dwindling into the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tybir is better off without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"He should have listened to you, Auvigne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tybir. You're letting Auvigne slip away. Hold on to him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Auvigne reaches out and cups Tybir's face. Holding it with hands growing solid.
+
+"My heart was always stronger than you thought," he says softly. And he faces you, waiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Maybe," he says, stepping back. "But don't mistake what he does for who he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Words are just words," he says, stepping back. "And when he was hurting... and trying to hurt me... I hit him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Tybir recoils from your words with instinctive mistrust, but he follows after Auvigne, tear-tracks lining his face, reaching out as if to keep his lover here with every ounce of his strength. 
+
+His hands close on nothing but air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Tybir recoils from your words with instinctive mistrust, and does not look up. Perhaps he thinks you're mocking him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sorrow shapes Auvigne's face. "We were the same, Ty and me. We both wanted a kinder world. But he stopped believing, and you let him. We both did."
+
+And then, he's gone.
+
+{VFX: On exit, the fire effect fades.}
+{SOUND: On exit, the fire effect fades.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The village around you collapses into a cloud of rising black smoke, lit with constellations of sparks. 
+
+When it clears, you and Tybir are in the marketplace once more. He looks up, his eyes dry, and his jaw set.
+
+"Let's go," is all he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Come on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'll call you if I need you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"We don't need you right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He gives you a sharp nod, and heads off towards the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>With a sharp nod, he falls in behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'm sorry he's gone, Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'm not," he says, his words clipped and bitten. "He deserved better than this world gave him. His suffering's done now."
+
+He glances away. "Are we leaving or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Can you stay for him, Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm not here now," he says gently. "And no, I can't stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Auvigne steps into Tybir's arms, smoke becoming flesh, holds him, and kisses the crown of his head. 
+
+"We were the same, Ty and me. We both wanted a kinder world. But he stopped believing, and I let him." Auvigne smiles at you. "You didn't."
+
+You blink. It seems to last a very long time. You sense words being spoken, words that are not meant for you to hear. You sense a kiss lasting lifetimes.
+{VFX: Fire effect fades.}
+{SOUND: Fire effect fades.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You travel on with him, and leave me here," he says, sorrow shaping his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>With a sob, Tybir clutches at him, tangling his fingers in the larger man's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Sorrow shapes Auvigne's face. "We were always the same, Ty. We both wanted a kinder world. But you stopped believing, and I let you. We failed each other, and there's no fixing it."
+
+And then, he's gone.
+
+{VFX: On exit, the fire effect fades.}
+{SOUND: On exit, the fire effect fades.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>When you open your eyes, Auvigne is gone, and you stand in the marketplace once more. Tybir rubs reddened eyes with a slow, shaking hand. Light glitters off the two rings there.
+
+"Ready to go when you are," he says quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Are you going to be all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"No room for you right now. Later on, maybe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I'll call you if I need you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Not at all, if I'm being honest," he says with a crooked smile. "But the day isn't getting any shorter. Ready to go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Gladly, lad."</DefaultText>
+      <FemaleText>"Gladly, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Looking forward to it, lad," he says, walking away.</DefaultText>
+      <FemaleText>"Looking forward to it, lass," he says, fading away.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tybir? Who is this man?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"The great love of his life," Auvigne answers instead, and calmly, as though giving a eulogy. "The man he betrayed by betraying innocents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"He loves him..." she says, almost to herself. "So much that it *hurts*."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

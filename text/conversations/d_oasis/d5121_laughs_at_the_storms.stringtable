@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_laughs_at_the_storms</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A dreary market stall filled with dusty merchandise. There are no customers. It looks like there haven't been any customers for a long long time. The scene fills you with a sudden and unbidden despair.
+
+A gaunt, unhealthy looking woman sits in the back, flipping through a book, but apparently too miserable to actually read it. 
+
+She sighs as you approach. "Yes?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>There has been no change since the last time you visited. The dreary stall is still filled with dusty merchandise, and there are still no customers.
+
+Laughs-at-the-Storms is still flipping through a book, though it might be a different book. You can't tell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>As you enter the shop, Laughs-at-the-Storms holds up the necklace with a wan smile. "It came back. It always comes back."
+
+{SCRIPT: Had Elia's Anguish but doesn't anymore (and quest is not complete).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Laughs-at-the-Storms looks radient. She waves as you enter. "Hello again. Welcome back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I don't understand. How did it come back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I give up. Keep it. I can't help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Please show me your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Business seems slow for you. Anything wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I doubt it, but thanks for the good thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The woman's eyes dart over to a trunk in the corner of the shop, then return to dull disinterest. 
+
+"I might," she says. "What's it worth to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What's it worth to *you*?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I need it to save my life and the lives of all my siblings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Money is no object, if that's what you mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'd rather hear a price first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I was told you might have some Glow Braid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I can't leave here without that Glow Braid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"All right. Then I'll give you a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Then save my life and it's yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I need more than money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Everything. I..." She hesitates, as if weighing whether to tell you more, then sighs and continues. "I'm under a curse. My life is falling apart. My health, my business, my equipment, decaying before my eyes. Glow Braid, as you know, maintains and strengthens all devices it powers, but even it is only slowing their destruction and my ruin. Without it, though, that ruin would have already occurred, so I am holding on to the Braid in hope that some miracle will happen before it too fails me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>She raises her eyes and gives you a canny look. "There's only one way I'll part with it. If someone were to get rid of the thing that's making it necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What's this thing you speak of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Will you accept something else in trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Then we have nothing to discuss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She shrugs. "Why should you be any different?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"There's no point. As long as I'm under the curse, nothing else is any use to me. Here, let me show you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The woman pulls a box from under her table, then opens it and turns it toward you. Inside is simple silver necklace, but somehow, just looking at it blackens your mood and gives you a sick sense of unease - the same feeling that overcame you when you first entered the shop.
+
+"It's called Elia's Anguish," says the woman. "And it has destroyed my life. I got it from a colleague I cheated and haven't been able to get rid of it since. No matter how I try, it always finds its way back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>She tenses, then pastes on an uneasy smile. "No no. Nothing's wrong. It's just the season, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Fine, I'll get rid of your necklace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What will it do to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fine. I will rid you of this burden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No, thank you. I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She groans. "It will ruin your life. It makes everything you do harder, more exhausting, more futile, and everyone around you will feel the same. And, if you hold onto it long enough, you will lose the will to even try. Believe me, I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She brightens, slightly. "Truly? Knowingly? I don't know if I should thank you or give you my condolences."
+
+She closes the box and hands it to you. "Once - I should say *if* - you get rid of it, come back and I'll give you the glow braid. But I'll know if you haven't done it right. I'll feel it. Or... more likely, it'll come back to me before you do. And...." She gives you a sad smile. "If you can't handle the curse anymore, just drop it wherever you are. It'll come back to me and you'll be free."
+
+{SCRIPT: Give Item: Elia's Anguish}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I am not at all surprised. But, I hope you understand, I can't give you the Glow Braid, then. I need it for myself. It's the only thing that's keeping my gear together while I'm under the necklace's curse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bank 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"How can I get rid of the necklace?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me again how to get rid of the necklace?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Bank 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"If I knew, would I be asking you to get rid of it? I've thrown it away, I've dropped it down a well, I've passed it off to unsuspecting customers, I've slipped it into the cargo of outbound caravans, but the despair that accompanies it always lingers, and the necklace always returns. It's maddening."  
+
+She frowns. "Maybe if you destroyed it, or left it somewhere it was impossible to return from. I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"It might be possible to destroy it, or perhaps leave it somewhere no one's ever returned from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You... you want to see what I have? I haven't had a customer in..." She catches herself. "Never mind. Here you are."
+
+{SCRIPT: Open crappy Storms shop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"For you, anything. Have a look."
+
+{SCRIPT: Open good Storms shop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That's just what happens. It's inevitible. This time two children were having a fight outside the stall, and one threw something at the other. The second child ducked and it hit me in the face. It was the necklace."
+
+She shrugs. "Not that it matters. If it hadn't returned that way, it would have been another, just as impossible. It always comes back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>She looks down. There is no anger as she puts the necklace back in its box. "I don't blame you. I gave up long ago. Thank you for trying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Laughs-at-the-Storms looks up brightly as you come in. She almost looks like a different person, healthy, happy, confident. "You're back! I don't know what you did, but I know it worked. The Anguish is gone, and gone for good this time. I don't feel miserable in the first time in forever."
+
+She crosses to the trunk at the back of the store and opens it, then takes out a bale of Glow Brade. "Here. You earned it."
+
+{SCRIPT: Give player Glow Braid.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hey, some kids just set fire to your "All Natural Knife-Grass Swim Fins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Those kids are back. Now they're chalking their names on the outside of your stall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"How did you acquire the necklace in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me again how you acquired the necklace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Bank 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I... I was numenera hunting in some ruins with an Aeon Priest I knew, and we found a huge cache." She looks embarrassed. "We promised to split if fifty-fifty, but I got greedy and took it all when he slept. I don't remember the necklace being in that haul, but it must have been, because it was in my bag when I got home."
+
+A frown puckers her brow. "Funny how the horrible thing never finds its way back to the priest. Maybe the curse fell on me because I stole it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I stole it from a friend. I fear that's why I am cursed with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What? As if I didn't have enough problems."
+
+She jumps up and runs outside to confront the imaginary kids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>She doesn't budge. "Let 'em. I'm beyond caring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What! As if I didn't have enough problems."
+
+She jumps up and runs outside to confront the imaginary kids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What are you trying to pull? Are you trying to get me out of the shop for some - "
+
+She rolls her eyes. "Oh, I see. After the Glow Braid. Well, I'm not falling for it. You'll have to try something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Steal the Glow Braid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Think again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You decide against stealing from someone who's cursed. She comes back into the stall and your window of opportunity passes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Try to open the trunk in the corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Make another try at the trunk in the corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You open the trunk in the corner and lift out a coiled bale of Glow Braid. Success!
+
+{SCRIPT: Add Glow Braid.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You open the trunk, but Laughs-at-the-Storms is back before you can grab the Glow Braid. "Guess they ran off. Pesky kids."
+
+The opportunity is lost. You don't get the Glow Braid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You open the trunk in the corner and lift out a coiled bale of Glow Braid, push a few other shiny items. Success!
+
+{SCRIPT: Add Glow Braid and other items.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You open the trunk, but Laughs-at-the-Storms is back before you can grab the Glow Braid. "Guess they ran off. Pesky - "
+
+She sees what you've been up to, then laughs. "Go ahead. Steal from a cursed woman. Maybe you'll get the curse too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Laughs-at-the-Storms looks radient. She gives you a knowing smirk. "So, thief. How are you enjoying the necklace?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Laughs-at-the-Storms comes back in as you're stuffing the Glow Braid in your pack. She balls her fists and looks ready to fight you. "Dirty tricks, eh? Why I... I..."
+
+Then suddenly her anger melts away and she bursts out laughing. "Fool! You don't realize it, but you've just saved me. The curse follows the thief! I no longer need the Glow Braid because Alia's Anguish is now yours forever! I'm free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>She shakes her head. "I can't take it anymore. I am never well, I am never happy, and no one ever shops at my stall because they feel horrible as soon as they walk in."
+
+She looks up at you with pleading eyes. "So, if you want the Glow Braid, what you must do it simple. Rid me of this curse. Take Elia's Anguish and leave it someplace where it can never come back to me. That is the only trade I will make. Take it or leave it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Let me try again. I will break this curse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Laughs-at-the-Storms tosses the necklace back to you. "Good luck."
+
+{SCRIPT: Give Elia's Anguish}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Laughs-at-the-Storms comes back in as you're stuffing the Glow Braid in your pack. She balls her fists and looks ready to fight you. "Dirty tricks, eh? Why I... I..."
+
+Then suddenly her anger melts away and she bursts out laughing. "Fool! You don't realize it, but you've just saved me. The curse follows the thief! I no longer need the Glow Braid because Alia's Anguish will now find it's way to you - always! I'm free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Even as you turn away from her, you feel an unfamiliar weight on your arm. Somehow the necklace has gotten tangled in the fabric of your sleeve. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Throw the necklace away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Keep the necklace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>The necklace lands in the dust outside Laughs-at-the-Storm's stall. It just lies there.
+
+{SCRIPT: Remove Elia's Anguish from the PC}
+
+{SCRIPT - The next time the player teleports to another scene, Alia's Anguish appears in their inventory. Also, the curse part starts working immediately, making every task harder, and it doesn't stop until they actually get rid of the necklace.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You pocket the necklace. Laughs-at-the-Storms stifles a giggle. 
+
+{SCRIPT - The curse starts working immediately, making every task harder, and it doesn't stop until they actually get rid of the necklace.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"And to you as well!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked PC to look for Auvinge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Do you know a woman named Misha?"
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I don't know many people. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I don't. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5101_zenia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>171</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Zenia will take you anywhere you want to go *provided* you can answer two questions for her.
+
+She has an oddity, a glass sphere, in which she sees the face of a woman. Tell her who the woman is, and why she sees her, and she'll take you anywhere you want to go.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Hey, how's the quest going?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Can I see it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zenia pulls the sphere out of its bag and hands it to you with evident anxiety.
+
+It feels no different from any other cold, dead, unpolished stone, nor, at a glance, does it look special, until you notice the roughness is in fact an intricate pattern of tiny, crystalline filaments...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I saw no woman in your sphere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Zenia raises an eyebrow. "And what *did* you see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I asked a philethis about your sphere. It said, 'Death is the point where the lines intersect.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Death?" mutters Zenia. "Well, I suppose that's right." Then she shrugs with a forced nonchalance and adds, "Of course, a drunken sailor's path is straighter than a philethis's answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"A nevajin in the Lost Sea had your answers. The sphere shows the one who waits for you, and the woman is your mother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>At first, Zenia does no more than give a curt nod, but then it wells up in her, and though she tries to choke it back, her grief spills forth, more a wailing than a weeping as the decades-old dam breaks within her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Welcome again. Where do you want to go? I'll take you anywhere.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I need a ride.  To the Endless Battle."
+
+{SCRIPT: This also needs a conditional for your actually needing to go there.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>An eager, ugly, unaccustomed smirk twists Zenia's face. "Of course," she says. "A deal is a deal."
+
+After a pause, she adds, "But the deal was for *one* flight. Getting *out* of the Endless Battle will be your business."
+
+"Still want to go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Well, then, let's go."
+
+{SCRIPT: Transition to Act 3.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[What's up with that Decanted, yo?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[It's disgusting. Can you believe the *Giash* invited that *thing*?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Quest text dumped here</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>For all her talk of yearning for freedom and the skies, Zenia seems more worn down than she ever did in Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You notice her fingers drifting toward, then jerking back from, a bag cinched tightly to her belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"So, has the Oasis quenched whatever thirst drove you across the Lost Sea?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>(Lie) "Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>(Truth) "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I didn't come here for a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Zenia gives a hard, dry laugh. "You lie even worse than you fly."
+
+Glancing about, she gives a faint shrug. "But then, you've come to an Oasis that's nothing but salt water, so one more lie won't change much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>She gives a sharp nod. "It's a saltwater Oasis, after all - whatever you may think, *it's* drinking *you*, not the opposite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>After a brief pause, she adds,  "What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Zenia laughs, and the memory of a smile flirts about her face. "What I wouldn't give for a sailor like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What's in that bag you keep touching?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What can you tell me about that Decanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Zenia spits and glances over her shoulder at the construct. "Decanted," she says, like a curse. "Kidnappers and body-snatchers. Didn't used to be this way, but apparently the Giash invited them in to scoop us up as they see fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Why would the Giash do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I met a Decanted who swore they seek merely to preserve beauty in the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Why not strike first?  Drive the Decanted out of the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Zenia barks a bitter laugh. "The sands will show you mirages till you're dead of thirst, if you're fool enough to keep on believing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Zenia shakes her head. "Hard enough to kill the constructs under the best of circumstances. But to fight the Decanted *and* the Giash. Suicide."
+
+She shrugs. "Anyway, I'm not the sort of 'beautiful specimen' they're looking for, am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Beauty is in the eye of the beholder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"There are better things than beauty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Not exactly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Like a silver tongue," she laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm too old for flattery and too busy for cliches," the caravan leader snaps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>All the same, her leathery face seems to faintly blush as she says it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The caravan leader merely snorts in reply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You seem troubled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"It's obvious something's bothering you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"May you prosper in your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Enjoy Jerboa, if you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Don't forget - get me my answers, and you'll have more than thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Zenia shrugs. "Power, I suppose - the Decanted have a trove of cyphers and oddities hidden away somewhere. Or else just shins, maybe."
+
+"There's always *something* to be gained in dark dealings, or else they'd never get done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText> She lifts her chin at your approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>For an instant, shame and surprise flash across Zenia's sun-burnt face, but they quickly disappear as she narrows her eyes.
+
+"Not much blows by you, does it?" She doesn't wait for an answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"There was an explorer, fresh from an expedition, flush with ale, flashing her latest find. A scrying sphere, she called it, not that a jack like her would know better."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Zenia's lips quirk in a faintly mocking smile. "No offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>She sighs. "Of course, I bought it from her. Never miss a chance to bilk a drunk, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She shrugs. "You know how it is - when you have a chance, you have to *seize* it, and why not lift an oddity off a fool of a drunk when the buying's cheap?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Is this going somewhere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"And here is where you learned there are stones better left unturned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Zenia reaches into the bag and pulls out an imperfect sphere of milky quartz.
+
+"It *showed* me something. Someone. A woman. And I felt... she was watching me." Zenia steps toward you and her words quicken. "I need to know who she is. I need to know why she is in the sphere."
+
+"I need... your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Why me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"What's in it for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Any idea where I should start?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I'll see what I can find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Because you made a bit of a reputation for yourself back in Sagus Cliffs." She laughs. "And because you're standing here."
+
+"Also, do you really think you're the first one I've asked?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Zenia smiles and jingles a pouch of shins. "Ask my crew - fair pay for good work. And you needed a ride once - you might need one again some day, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>She shakes her head. "Perhaps you can find a god's undying offspring to ask for help?" 
+
+After a moment, she adds: "If I knew, I'd tell you. Finding lore-hoarders is no challenge in the Oasis, but finding the right *sort* of learning is a harder deal to broker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The caravan leader gives a sharp nod as she puts the sphere back in its sack. "You won't go unrewarded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Zenia shrugs. "It's an open offer. Let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I've changed my mind. I'll help you find out about your sphere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>The caravan leader gives a sharp nod. "You won't go unrewarded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Zenia sighs. "Stumped is more like it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Zenia nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I'd like to talk about the sphere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I'd like to talk about the sphere again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Can I take it with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"No. The risk is too great, even if it makes your job harder." Zenia's tone brooks no further discussion of the request.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>... and then you see it, the Sorrow, its changing, churning mass, its cloaked back to you till it turns and its inhuman eyes strip you naked to its gaze, peel your skin and flesh away until whatever you are, whatever you *mean* is bare before it.
+
+{SCRIPT Advance Sorrow counter.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Shuddering, you shove the sphere back to Zenia. Without a word, she replaces it in the pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"The being called the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I would rather not say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"An enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Zenia nods, and presses you no further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Zenia seems shaken by your answer, but after a moment puts on a casual demeanor. "All the more reason for me to learn who *I* saw, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>As you give Zenia a brief explanation of the nature of the thing that hunts you and your kind, her eyes widen. Where before she seemed merely anxious, now she is genuinely afraid.
+
+"It seems we both need some answers then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I'd rather talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I've asked around, but I'm hitting a lot of dead ends."
+
+{SCRIPT: Conditional = counter of asking random NPCs reaches a trigger number.}  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Zenia nods. "I am quite familiar with the experience. If finding answers were easy, I wouldn't have troubled you."
+
+After a moment, she adds: "But at least *you* will be paid for the trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I'll go look for some answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Do you have any wares I might be interested in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Zenia snorts. "Not unless you're looking for crockery and dry goods."
+
+"The sort of gear you're looking for is sold over in the Marina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Your mind vastens and the sounds around you change: the hubbub of laborers yields to an endless, toneless song, undiluted knowledge poured straight into your ears, a wild flood that could drown a mind, wash wisdom away forever. But there are strains among it to be caught and strung together, disparate facts spun into true learning, for all has aligned to place you and Zenia precisely where and when you must be, in body and mind, to reach into this wealth of data.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Yet there are not strands enough to weave the answers you seek. You need *more*, and you see where they can be found: Zenia herself. It is a simple matter to rip the necessary threads from her own memories, never mind the ragged edges left behind, never mind the screaming as the song of data fades and you return to the world of things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>As Zenia sobs on the ground, you give her the truth she sought. The woman is her mother, and the sphere reveals one who awaits.
+
+At last, the caravan leader composes herself, wipes snot and tears from her face, and in a flat voice says, "I don't even know why I cared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"You needed to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I've done what you asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Zenia shrugs. "Was a bad deal I made, that's all." From the pain in her gray eyes, you can see that is *not* all.
+
+"But, a deal it was." She throws you a bag of shins. "And you'll have your flight, when you need it." With that, she turns away.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Good-bye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Did I?" she asks, her once decisive voice now uncertain. She shudders, as if trying physically to shake off the confusion in her mind.
+
+"But a deal's a deal," she grunts, throwing you a bag of shins. "And you'll have your flight, when you need it." With that, she turns away.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>She nods slowly, sadly. "I suppose you did, and a deal's a deal." She throws you a bag of shins.
+
+"You'll have your flight, too, when you need it." With that, she turns away.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Good-bye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"I *knew* it was her," she whispers. "Of course I knew. But I had to know *why*." She speaks as if to make a record of a secret she'll never share again, less concerned with you than with herself.
+
+"All her hopes, all her *sacrifices*... the look on her face when I left to serve aboard the Bold Rebuke, squandering all the opportunities she'd made for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Seven years I sailed that ship, cabin girl to first mate, seven hard years till I had my own argosy." The grip of grief seems to have loosened, and Zenia has composed herself.
+
+"I landed my ship next to the old hut, already seeing her wide eyes, hearing her laugh. But she was gone, gone and forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Why are you telling me this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Zenia stops herself. "No reason," she says. "A foolish way of saying thanks," she chides herself, as she pulls a bag of shins from her belt and flings it your way.
+
+"You have your pay, my gratitude, and a flight when you need it." With that, she turns away, pondering what she has learned.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Nothing," she answers. "A fever had taken her. It was like I finally had the answer to a question that no one was asking any more. She'd never learn that I'd made good."
+
+She smiles. "But now I know - she's waiting and watching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>She pulls a bag of shins from her belt and flings it your way. "You have your pay, my gratitude, and a flight when you need it." 
+
+With that, she turns away, pondering what she has learned.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Some fever took her, a plague wind seeped from an old tomb, and that was it. All I'd done - none of it mattered. It was like finally having the answer to a question that no one is asking any more."
+
+Zenia shakes her head. "She'd never learn that I'd made good." Then a faint smile softens her face, and she adds, "But now I know - she's waiting and watching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Zenia shakes her head. "Whatever you're running from, you've just been blowing from bad to worse." She doesn't ask, or wait, for an explanation.
+
+"Word of warning - it's a one-way ticket, and a quick drop. My ship's no dreadnought to tarry in those skies."
+
+"Still want to go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Zenia pointedly looks away as you approach, and does not acknowledge you until you stand directly before her. Empty, hopeless eyes meet your gaze.
+
+"What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Zenia turns your way as you approach, a hint of a smile on her lips. "What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Zenia turns your way as you approach, her gray eyes half-guarded and half-hopeful. "I hope you come bearing good news."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Zenia turns your way as you approach. "Well, what can I do for you this time?""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I don't imagine you came here to trade banter, though." In fact, she seems far too distracted for idle chatter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Wise choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Talk away," she replies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Zenia smiles slightly. "I hope so."
+
+She reaches into the bag and pulls out an imperfect sphere of milky quartz.
+
+"It *showed* me something. Someone. A woman. And I felt... she was watching me." Zenia steps toward you and her words quicken. "I need to know who she is. I need to know why she is in the sphere."
+
+"I need... your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"No," Zenia replies. "Merely that there are stones under stones."
+
+She reaches into the bag and pulls out an imperfect sphere of milky quartz.
+
+"It *showed* me something. Someone. A woman. And I felt... she was watching me." Zenia steps toward you and her words quicken. "I need to know who she is. I need to know why she is in the sphere."
+
+"I need... your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>(Truth) "Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>(Lie) "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Zenia shakes her head. "You sound like a wanderer about to sip salt water. Just remember - whatever you may think, *it's* drinking *you*, not the opposite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Zenia's eyes narrow slightly. "Well, glad for one of us, then."
+
+After a pause, she asks, "What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Zenia's eyes narrow, and her voice sounds skeptical as she muters something about the Oasis being a pool of disappointments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I need a ride. To the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I still need that ride we talked about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"It's still a one-way trip," Zenia warns. "Ready to go this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"And I still need an answer to my questions," Zenia reminds you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Zenia regards you with eyes that can, in an instant, size up a sandstorm or appraise a hold's worth of cargo. 
+
+With a quick nod, she says, "I have a need of my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"What are those constructs that seem to be following people?"
+
+{SCRIPT: Needs additional conditionals that the player does not know what Decanted are and has talked to or seen Decanted in Jerboa.}
+
+{ADAM: I know you said "talked to" in our email, but it seems like merely observing them should suffice?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Zenia spits and glances over her shoulder at one of the strange machines. "Decanted," she says, like a curse. "Kidnappers and body-snatchers. Invited by the Giash to scoop us up as they see fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Why not flee while you can?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Zenia shakes her head. "To much business to wrap up first. And there's plenty of ways to die in the world, lots worse than being snatched up by the Decanted."
+
+She shrugs. "Not to mention, I'm hardly the sort of 'beautiful specimen' they're looking for, am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Even as your avenue of inquiry reaches a dead end, you catch sudden glimmers of the answers you seek, all around you and yet just out of reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Even as your avenue of inquiry reaches a dead end, you catch sudden glimmers of the answers you seek, all around you and yet just out of reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>They must be coming from the datasphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>They must be coming from the datasphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Perhaps if you focused on them, they would reveal what you wish to know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Perhaps if you focused on them, they would reveal what you wish to know.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

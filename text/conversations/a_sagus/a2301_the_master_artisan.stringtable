@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_the_master_artisan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>At first glance, this ancient, unmoving construct seems nearly identical to the others in the manufactory. 
+
+It is only when you move close, into the hazy aura of forgelight, that you see the intricate - no, chaotic - whorls of engravings marking every millimeter of its armored frame. And the worker standing behind it is adding even more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hello again," Artisan says. "What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText> Follow-up PQ. 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Can you tell me about your past?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Remind me who should I talk to about the history of the Foremen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Morning!" the construct says. "It *is* morning, isn't it? I never pay attention to the time. There's not much use for it down here."
+
+Firelight twinkles off the construct's blank eyes. "I'm Artisan. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"To be honest, I don't like thinking about it. All of us went *slightly* insane during our centuries down here before the humans came, but the other Foreman and I don't *dwell* on things like Master Foreman does."
+
+An ember drifts down from the high ceiling between you. "If you want the whole story in excruciating detail, Master Foreman's the one to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Master Foreman. Don't say I sent you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell, Artisan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Go enjoy the sunlight for me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Why do you have your workers decorating your armor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What do your workers focus on again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"To be perfectly honest, these artists don't need me anymore. They've done wondrous work in the city above. But they like asking my opinion."
+
+The construct barks a laugh. "And I like giving it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Decorative etching, creative use of color and negative space, general aesthetics, and fiddly bits," the construct says promptly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"That's a long time to be blind. Why can't anyone repair you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're both artist and canvas, eh? Sounds like a good trade for sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"The easiest answer to that question is 'we don't have the parts'," Artisan says, then lowers its voice. "But the truth is that I'm afraid. Nothing is going to make me *blinder*, but..." It falls silent. The forge hisses and pops nearby.
+
+"Those first decades in the darkness were the hardest. Then I started seeing patterns in them. Simple at first, then with colors, depth, and shade. Grand cyclical designs." It sighs happily. "I still see them. And I wouldn't trade them for sight."
+{SOUND: Forge hissing and popping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hah! That's lovely and sort of accurate, but if I let this pack of wild artists carry on as they wished, I'd be a pile of sparkly alloy dust in a hundred years. Every so often, I have to trigger regeneration protocols. Wipe the canvas."
+
+It falls silent. The forge hisses and pops nearby.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Because I want to be the most beautiful construct in Sagus Cliffs!" the construct declares. The worker behind it chuckles. 
+
+"Joking!" it says. "My eyes - well, not eyes, but you know - they failed a long time ago. But my other senses are good. *Very* good. So when my workers want to show me a design, they scratch it out on my plate. I *feel* it and give them feedback. Not that some of them need it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Can you show me something your workers have created?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ah! Another artistic type. Larga! Get our visitor the contents of Storebox 1-1!"
+
+A moment later, a stocker hurries out and places an oddly-textured object in your hands.
+
+"No charge," Artisan says. "Call it a gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Not so interested in the arts, I see. Larga! Get our visitor the contents of Storebox 3-9!"
+
+A few minutes later, a stocker hurries out and places a heavy object in your hands.
+
+"No charge," Artisan says. "Call it a gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText> Follow-up PQ. 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What's your opinion of your fellow Foremen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Well, I don't like to speak poorly of my family - " The construct breaks off when the worker behind it snickers.
+
+"It's true! They're difficult in their own ways, of course. We argue - and here, 'we' means Master Foreman and me - but that's to be expected."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Absolutely. Hold on a second. Let me get a sense of what might appeal to your tastes."
+
+Nested sensors whirr into life on its shoulders and beams of light fan over you in the space of a heartbeat. 
+{SOUND: Whirring, Buzzing}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"We've known one another for millennia, understand. We went through decades of angry silence until, well, we learned to accept each other as we are."
+
+It chuckles. "Master Foreman has beliefs. Exhausting ones that it can't help inflicting on others. And our broken friend wants to die, I think. Puts it a different way, but it does. And though we bicker, I care for them. How couldn't I, after thousands and thousands of years?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ah. Hello," the construct says. "This is difficult to say, but thank you for helping Under-Foreman. I would have done the same, if I could."
+
+It clears its throat. "What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Min of Tan Liang from the Order of Truth says hello."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Really? Tell him he should visit more often." The construct pauses. "Even if he doesn't like the smell."
+
+The Foreman's worker chuckles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What can you tell me about the diagram on this puzzle box?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What did the words on the box say again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Press it against my abdomen," it says cheerfully. "I could scan it, but my plating's the best bet for sensing delicate work." You do so. The box *clinks* against the construct's metal skin. 
+
+"Machine-based language!" it says, delighted. "Haven't run into that in a while. It says, 'To my daughter. Let this sealed gift occupy your time until I return - and I will return. That is a promise.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"To my daughter. Let this sealed gift occupy your time until I return - and I will return. That is a promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Don't you want to know where it came from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"In *this* city?" Artisan says. "You can't kick over a stone without finding a relic from an age and an aeon ago. You're talking to one, remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Absolutely my pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"One other thing," the construct says. "Two interlocking sigils - each one meaning 'hand' appear next to 'promise'. It doesn't seem like it's part of the message, though."
+
+Artisan makes a satisfied sound. "Strange business. Machines don't have daughters, so I'd imagine we're looking at someone who knew our language. Mysterious!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Your workers are that good?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You feel a bubbling sensation in your mind. It must be the construct's surface thoughts, but they are too quick and alien for you to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>As with the other construct, you feel the bubbling sensation in your mind. This construct's thoughts are likewise unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You feel a bubbling sensation in your mind. It must be the construct's surface thoughts, but they are too quick and alien for you to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We've known one another for millennia, understand. We went through decades of angry silence until, well, we learned to accept each other as we are."
+
+It chuckles. "Master Foreman has beliefs. Exhausting ones that it can't help inflicting on others. And our broken friend... well, it wanted to die, as you know."
+
+It sighs. "I'll miss Under-Foreman. And I care for Master Foreman, even though we bicker. How couldn't I, after thousands and thousands of years?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Script Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Heh," says Aligern, smirking. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What a curious thing to say," Callistege murmurs. "We should pass along the greetings to Min if we get a chance. I'd be curious to see how he responds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What a suspicious thing to say," Erritis says suspiciously. "We should tell Min what Artisan said and see if it makes him suspicious too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I sense an in-joke," Tybir murmurs, smirking. "Let's pass along the greetings and see where it takes us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What are they talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Let it go. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Aligern's brief smile fades. You return your attention to Master Artisan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Something I only heard about third-or-fourth hand," Aligern says, shrugging. "Let's pass along the greetings to Min if we get a chance. I'd be curious to see how he reacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

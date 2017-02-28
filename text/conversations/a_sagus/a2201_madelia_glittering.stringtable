@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_madelia_glittering</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>119</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hello, friend." A smiling, dark-haired woman greets you, standing behind a table of trinkets. Your eyes are drawn to the three small rodents that lazily orbit her head in three floating balls. They take turns hovering just out of reach of the half-mechanical, half-organic cat perched on the woman's shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Madelia's smile is as radiant as ever. The cat on her shoulder watches you warily for a moment, then goes back to batting at the rodent globes whenever they dip too close.
+
+"Welcome, friend. Which of my treasures has called you here today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hello..." The dark-haired woman pauses, eyes taking in the composition of your party - and especially Matkina - in an instant. "Friend."
+
+She smiles at you from behind her table of trinkets. Your eyes are drawn to the three small rodents that lazily orbit her head in three floating balls. They take turns hovering just out of reach of the half-mechanical, half-organic cat perched on the woman's shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Madelia's smile is sharper than last time. "I see you found her." She sketches a quick bow toward Matkina.
+
+"Be welcomed again, honorable lady. And you, friend," her eyes find yours. "Tell me, which of my treasures speaks to your heart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hello, old fellow! I see you have found some friends to speak for you!"
+
+The woman greeting Riastrad wears a dazzling smile, but it's the oddities floating around her head that are truly captivating. Three tiny rodents, each in their own stronglass ball, waver around her head in an indecipherable pattern. On her left shoulder sits a tabby cat with synthsteel legs, who bats lazily at the orbs whenever one ventures close enough.
+
+{SCRIPT: First time she's met PC, Riastrad is in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The smile disappears from her face as a small tremor runs through the ground beneath your feet.
+
+"That's the seventh time today." She glances nervously at the remnants of the structure next door. "When that one fell, I heard them screaming. Shrieking like the wind was tearing at their bones."
+
+{SCRIPT: PC has not completed Shaky Foundations.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She idly turns a couple of the curiosities on her table so the light catches on the various planes and materials.
+
+Then the smile returns to her face. "Come, tell me which of my treasures speaks to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Hello, friends." She smiles at you, but the smile she directs at Riastrad is just a touch warmer, and a moment sadder.
+
+"Which of my treasures has called you here today?"
+
+{SCRIPT: Second+ time she's met PC, Riastrad is in party, PC did not ask about Riastrad previously.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She sees you looking at her pets and her smile widens. She gestures to the table of curiosities in front of her, where colors and materials glitter in the  sunlight.
+
+"Which of my treasures speaks to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"It's all gone. Everything." She doesn't look up as you approach, only stares out at the ocean as if she can will her home back to the cliffside. A few objects are stuffed into the pockets of her dress - probably all she was able to save from her home. Her cat also remains, along with her rodents, which circle her head in somber silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Let me see what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Have you seen a tall man with a scar up one side of his face?"
+
+{SCRIPT: PC is looking for Riastrad, Riastrad is not in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Have you seen a pale assassin around here?"
+
+{SCRIPT: PC is looking for Matkina, Matkina is not in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Have you seen an escaped slave girl nearby?"
+
+{SCRIPT: PC is looking for Rhin, Rhin is not in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hello..." She pauses her greeting, eyes taking in the composition of your party - and especially Matkina - in an instant. She turns toward you and smiles. "Friends."
+
+"Which of my treasures has called you here today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Friends! You are together at last!" Madelia's smile is as radiant as ever, though an unmistakable fondness enters her eyes when she looks at Riastrad.
+
+"I am pleased for you. But if you are here, one of my treasures must have called to you. Tell me - which one was it?"
+
+{SCRIPT: Second+ time she's met PC, Riastrad is in party, PC asked about Riastrad previously.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She bows briefly. "As you wish."
+
+{SCRIPT: Open shop interface.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"How much for one of the rodent globes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Are you sure you won't sell me one of the rodent globes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You mean Bei, Bu and Bao?" She raises a hand and unconsciously pets one of the globes as it swings past her right ear. The tiny creature inside squeaks and scampers in a tight circle before the globe drifts out of sight.
+
+"They are not for sale, my friend. I hope you are not too disappointed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Very sure," she says easily, scratching her cat beneath the chin when it gets too close to snatching one of said rodents from the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"One of the..?" She unconsciously raises a hand to where the rodents, in their tiny spheres, revolve around her head. One by one, they touch her hand and the globes disappear, leaving the three tiny rodents sitting in her palm. The cat on her shoulder yawns and settles in for a nap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"They're...  They're not..." She leans forward and buries her face in her hands, sobbing silently. Eventually, she wipes her eyes and sits up, raising a hand without looking at you. The three rodents crowd into her palm again, squeaking anxiously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She gives you an odd look.
+
+"Don't tell me why you're asking. I don't want to know. But in fact, I haven't. There are several small children running around at all times of day, but I couldn't tell you one from another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Him? Oh, yes. He didn't say much to me, but he and my treasures became reasonable friends by the time he had left. He seemed so lost, yet content enough. He hasn't been back since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She raises both eyebrows, regarding you silently for a moment.
+
+"You are either foolish or brave. I think the first. Yes, she was here, looking for help I could not give. She had a treasure of her own that she wished fixed. I declined. She did not take it kindly, but neither have I heard from her again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I will show you what remains."
+
+{SCRIPT: Madelia's house has collapsed; open shop interface.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bei, Bu, Bao. Hello again," she whispers, touching each of them with a gentle fingertip. They squeak appreciation at her attention, rubbing their cheeks against her finger as she looks up at you.
+
+"They're not..." Her voice breaks. She tries again, but can't maintain eye contact.
+
+"They're not for sale."
+
+She raises her hand and, through a mechanism you don't spot, each rodent re-enters its stronglass ball and resumes its wavering orbit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She holds them close to her mouth and whispers words you can't hear. The rodents form a tiny circle, noses touching and twitching. After a few moments, she transfers one rodent into her other hand and returns the others to their stronglass globes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Bao has agreed to go with you. I can sell her to you for [Global: a2201_MadeliaRodentPrice] shins. Non-negotiable." She still won't meet your gaze, and concentrates instead on patting Bao with a single fingertip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'll take her."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Why not one of the others?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"How much for all three, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I changed my mind. You keep her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>She just shakes her head, mute and miserable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She glances up at you in surprise, attempting to smother her relief as she quickly returns Bao to her stronglass home.
+
+"Thank you," she says, a little breathlessly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Her body shakes with a suppressed sob as she leans forward and whispers another few words to Bao. Then she holds out her palm and demonstrates the mechanism that puts Bao into her stronglass home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"She always did want to travel," she says, pressing a duplicate of the mechanism into your hand. "Please, take good care of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Every child should know unconditional love," she says, pressing a duplicate of the mechanism into Rhin's hand. "Please, take good care of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>She folds her hands in front of her, head bowed as the two remaining rodents circle unevenly above her. The cat meows plaintively when Bao disappears from sight. Madelia makes no move to hush her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Until next time, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>She says nothing, only returns to staring at the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>A forlorn woman stands by the edge of the cliff, only a few broken stones marking the remnants of a home that must have recently collapsed into the ocean. 
+
+Three tiny rodents, each in its own stronglass ball, waver around her head in an indecipherable pattern. On her left shoulder sits a cat with synthsteel legs, who bats lazily at the orbs whenever one ventures close enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>After a few moments, she notices you, as if coming back into herself.
+
+"Oh. Hello." She rummages in a pocket of her dress and produces a bundled cloth that she unrolls at her feet. A few trinkets gleam dully against the material.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hello." She seems at a loss for other words, and waits listlessly for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The two rodents wobble around her head in an unstable approximation of their previous pattern. It seems they haven't recovered their equilibrium just yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I want to return Bao."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Surprise wars with disbelief as she holds out a hand. Bao places both of her tiny paws on Madelia's fingertip and sniffs the air vigorously. Reluctantly, Madelia lowers her arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"How about I give you the money, and you keep Bao?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She looks up at you, shocked.
+
+"I wouldn't say no," she manages, at last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Here. Take it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Actually, I will take Bao after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I changed my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Wordlessly, she takes the money from you and returns Bao to her stronglass home. She wipes at her eyes and manages a smile as she bows her head in thanks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The color drains from her face.
+
+"I see," she says, weakly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"She wants to stay with you," she says, bitterness adding a slight edge to her words. She sighs and scrubs a hand quickly across her eyes.
+
+"I can only thank you for the gesture. I hope you will believe it is appreciated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Is there anything I can do to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Her eyes burn with unsettling zeal.
+
+"If you come across something called a sticha, kill it. *They* took my home from me." She bares her teeth in a motion that isn't a smile. "Kill every last one of them, and maybe I'll be able to sleep again without screaming myself awake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She laughs bitterly.
+
+"Wind back time? No, I think not, but your words are kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Hello, friend! Not a single rumble beneath my feet for hours, and I hear I have you to thank!" Her eyes crinkle at the edges as she smiles warmly at you. "Now..." She puts one hand on her hip and gestures to her table with the other.
+
+"I hope very much it was thought of my treasures that guided you. Which one has called you here today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Have you seen a tall man with a scar up one side of his face?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tell me about the man with the scar again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Yes, I remember a man like that. He said nothing to me, but he and my treasures became reasonable friends by the time he had left. Where he is now, I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"His tale is a short one, as far as I go. He came, he browsed, he left. We did not speak, and my treasures have not called him to me since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Have you seen an albino woman around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tell me about the albino woman again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Have you seen an escaped slave girl nearby?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Tell me about the escaped slave girl again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She raises both eyebrows, regarding you silently for a moment.
+
+"A woman with skin like alabaster... yes, she was here, looking for help I could not give. Her own treasure was what she wished fixed. I declined. She did not take it kindly, and I haven't heard from her again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"She came to me with a treasure in need of repair. The task was beyond me, as I said. She is not the kind to take disappointments lightly, but she did leave, in the end, and has not troubled me since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She places a gentle hand on your wrist.
+
+"She is dangerous, friend," she says, her tone light as if she were merely discussing the weather. "Tread carefully, wherever you happen across her." She lets go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>She gives you an odd look.
+
+"Don't tell me why you're asking. I don't want to know. There are children running around here at all times of day, but I couldn't tell you one from another. And as to whether they are escaped or not, well." She shrugs eloquently. "All children are running from something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"She *could* be here. Children only interest me when they have shins to spend, and I never question where they come from, child or coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Um..." She swallows convulsively, stifling a sob. "No. Maybe. I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'm worried this area isn't safe. You should move out, just in case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I still think it would be best if you moved out, just for a little while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You seem earnest enough," she muses, scratching her cat idly behind one ear. "Very well. I will listen and move what I can. If you find a way to avert disaster, perhaps the knowledge of my discomfort will drive you to swift action, yes?" Her cheeks dimple as she smiles at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>She's shaking her head before you've even finished talking.
+
+"Why should I live on the street itself when my bed is so near by?" She smiles ruefully. "Truthfully, I am fond of these walls. Though they may not be the most sturdy, they are mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You and Tranquility must be fast friends, I think," she muses, scratching her cat idly behind one ear. "Very well. I will listen, and move what I can. If you find a way to avert disaster, perhaps the knowledge of my discomfort will drive you to swift action, yes?" Her cheeks dimple as she smiles at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>She's shaking her head before you've even finished talking.
+
+"There's nowhere else in this city for me, and I will not beg. The Underbelly would have me, but only to chew me up and spit me back out." She smiles ruefully. "My chances are better here, slight though they may be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Hello, friend! My life - and my shop - are owed to you." She bows, deeply. "The rest can be rebuilt. Somewhere more stable, perhaps." She glances wistfully at where her house used to stand. "Though I will miss the sky very much."
+
+She squares her shoulders and smiles at you. "But enough. Which of my treasures has called to you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I think I will take Bao after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The color drains from her face. Wordlessly, she lifts a hand. Bao scampers onto her palm, whiskers twitching furiously.
+
+Madelia's body shakes with a suppressed sob as she leans forward and whispers a few words to the tiny rodent. Then she holds out her palm and demonstrates the mechanism that puts Bao into her stronglass home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She glances at what you offer. "That's not enough." Sighing, she raises a hand and puts Bun back into her stronglass home.
+
+"You have my price. Come back when you can meet it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I've got enough shins to buy Bao, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I've got enough shins to buy Bao now, but I'd rather just give you the money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The money from selling one of your rodents could really help you out right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"How much are you selling your rodent for, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Bao," she says, stressing the name slightly, "is [Global: a2201_MadeliaRodentPrice] shins. Non-negotiable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"No!" Her eyes betray surprise and horror as her voice sinks back to a whisper.
+
+"No, please. Only Bao is for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I think you could charge a little less than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You would haggle, even over this?" You see incredible pain in her eyes before she's able to mask it, drawing herself up to regard you with disdain.
+
+"[Global: a2201_MadeliaRodentPriceIntimidated] shins," she sneers. "I assure you, *sir*, that amount will fall no lower."</DefaultText>
+      <FemaleText>"You would haggle, even over this?" You see incredible pain in her eyes before she's able to mask it, drawing herself up to regard you with disdain.
+
+"[Global: a2201_MadeliaRodentPriceIntimidated] shins," she sneers. "I assure you, *madam*, that amount will fall no lower."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>She looks at you in disbelief. "Has that ever worked?" She laughs without a trace of humor. "You are more of a fool than I thought, to argue with a woman who has nothing left to lose. The price remains [Global: a2201_MadeliaRodentPrice] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>She presses her lips together tightly, and you sense she's on the verge of a blistering tirade. Abruptly, however, all of the tension runs out of her, and she drags a shaking hand across her face.
+
+"[Global: a2201_MadeliaRodentPriceIntimidated] shins," she says, bitterly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>She looks at you in disbelief. "Has that ever worked?" She laughs without a trace of humor. "You are more of a fool than I thought, to argue with a woman who has nothing left to lose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I'll take her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The smile disappears from her face as a small tremor runs through the ground beneath your feet.
+
+"That's the seventh time today." She glances nervously at the remnants of the structure next door. "When that one fell, I heard them screaming. Shrieking like the wind was tearing at their bones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>You feel the walls of her home shudder beneath your feet, and the roof settles at an angle slightly more canted than it was before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"This area isn't safe. You should move out of your house until the sticha stop their digging."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Behind her, the walls of her home tremble with the passage of nearby pedestrians.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I don't know. I don't..." She chokes on her words and buries her face in her hands, shaking silently as she cries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Escaped..?" She looks up at you, then through you. Tears roll, unheeded, down her cheeks. "I don't know. I can't remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Those things you seek, friend, will not be found here among my things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Your house really isn't safe. The sticha are undermining this whole neighborhood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I appreciate your concern, really. But I don't think I'm in danger just yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You may be right. Both of the neighbors' houses have fallen into the sea." She shoots a worried look at the ruins next door. "Very well. I will listen and move what I can. If you find a way to avert disaster, perhaps the knowledge of my discomfort will drive you to swift action, yes?" Her cheeks dimple as she smiles at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

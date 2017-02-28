@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\d_oasis\quest_d5201_market_girl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Market Girl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find Waree's Father</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring Waree to Aatani</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Reunited Waree with her father</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A little girl named Waree is in the Sunken Market. Her mother died in the Atolyu Cay, and she doesn't know where her father is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Hopefully Waree's father is somewhere around here and willing to take care of her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I told Aatani about Aluma, and he admitted she could have been pregnant and not told him to protect him. He asked me to bring Waree out to him, since he's not allowed in the Oasis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I helped Waree find her human father in Jerboa Town. They have a hard road ahead of them, but it seems like the best thing for both.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Vo, a merchant in the Sunken Market, noted that the girl looks more human than ghibra to her. She suggests the father might be in Jerboa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>There's a man in Jerboa Town named Aatani who shares the same violet shade of eyes as Waree. But when I asked him about it, he said he has no children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Caron says that of the people who died in the Atolyu Cay, only one could possibly have had an unclaimed daughter: a female ghibra named Amaht A'luma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Aatani asked me to bring Waree to him, though I refused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I helped Waree find her human father in Jerboa Town. They have a hard road ahead of them, but it seems like the best thing for both.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

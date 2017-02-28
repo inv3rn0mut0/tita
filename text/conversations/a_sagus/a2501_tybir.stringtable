@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tybir</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you pass a stack of cargo, a familiar figure steps out from behind it, disguised entirely unconvincingly as an Aeon Priest. "Er, hello, friend," says Tybir. "I... I don't suppose you're-"
+
+He cuts off suddenly as he gets a better look at you. "Oh. It's you. I was looking for a way out of town, but I said I was never going to talk to you again, didn't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Why do you need to get out of town?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Some of Ris's friends are blaming me for his death, and the authorities want to, er, question me. It's all become a bit... awkward, and I believe a change of scenery would do me good."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm just about to leave. If you want to join me, now is the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hold on! Did I say I wanted to come with you? After what you did - or rather what you *didn't* do - I'm not sure I do."
+
+He folds his arms. "Why should I go with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fortune and glory await us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Those are two very fine reasons indeed. I forgive you." He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I want to make amends for letting Ris die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"A very touching sentiment," he says with a nod. "I forgive you, and I'm sure, wherever he is, Ris does too." 
+
+He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I seem to have put you in this situation. I'll get you out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"A noble sentiment. I forgive you." 
+
+He looks over his shoulder. "Er, but with everyone and their brother looking for me at the moment, I think it's best I stay here until you're ready to leave. I'll join you then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You shouldn't. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tybir curls his lip. "Fine. I've other avenues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"So long, friend. You won't see me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm not leaving just now. But if you can wait, I'll take you with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sorry. Not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"And who said I was interested in going with *you*? That's quite an ego you have there. I don't think there's room enough for both it and me in your party."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Yes, you did. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tybir sniffs. "Well, if that's the way you want to be about it. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Still waiting, lad. Any time you're ready."</DefaultText>
+      <FemaleText>"Still waiting, lass. Any time you're ready."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>As you pass a stack of cargo, a familiar figure steps out from behind it, disguised - entirely unconvincingly - as an Aeon Priest. "Er, hello again, lad," says Tybir. "I... I don't suppose you're ready to change your mind about me joining you?"</DefaultText>
+      <FemaleText>As you pass a stack of cargo, a familiar figure steps out from behind it, disguised - entirely unconvincingly - as an Aeon Priest. "Er, hello again, lass," says Tybir. "I... I don't suppose you're ready to change your mind about me joining you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why are you hiding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ah, well, it seems Ris is still unhappy with me for leaving him on the gibbet for so long, and he wants to strangle me with my own entrails to show me how it felt. I, naturally, am less enthusiastic about the lesson and would like to avoid it if at all possible."
+
+He takes a breath - finally. "Therefore I was hoping I might join you, er, for protection, if you see what I mean. Strength in numbers and all that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"All right. Come along, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Thank you, lad. Thank you. I am much obliged."
+
+</DefaultText>
+      <FemaleText>"Thank you, lass. Thank you. I am much obliged."
+
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Strength in numbers? Do you mean that, if you join me, we're in danger of Ris attacking us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Tybir waves his hands. "No no. I mean the exact opposite. Ris is an utter coward. As long as you're with me, he won't dare attack. He won't even show his face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Maybe. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'm not interested, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Are you sure? I'm a man of the world. I know my way around a lot of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Passing the stack of cargo again, Tybir once again peeks out. "Hello, again, my friend. I don't suppose you've changed your mind about having me along? I'm a bit desperate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>As you pass a big stack of cargo, a paunchy old soldier, disguised - entirely unconvincingly - as an Aeon Priest, edges cautiously into view. He seems eager to keep to the shadows. "Er, hello, friend. I... I don't suppose you're leaving town just now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Soon, yes. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ah.... it's a bit of a long story, but, well, I'm afraid I've gotten on the wrong side of some less than savory individuals, and I need a change of scenery."
+
+He gives you a hopeful look. "So, er, do you require the services of an experienced soldier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Fine. Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Thank you, lad. Thank you. I am much obliged. Er, but with half of Sagus Cliffs looking for me at the moment, I'm afraid I can't actually join you until you're ready to leave town."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Easy travels, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I don't know. What do you have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Besides being an experienced soldier, you mean?" He spreads his hands. "Well, I'm a man of the world. I've been everywhere. I've done everything. I know people in every city in the Beyond and beyond, and most of them owe me favors. Would that be any help to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"If you have so many connections, why do you need my help now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He shrugs. "My Sagus Cliffs connections are... unhappy with me at the moment. These things happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Are you sure? I'm a man of the world. I know my way around a lot of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"All right. You've convinced me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Not immediately. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Passing the stack of cargo again, the disguised soldier once again peeks out. "Hello again. I don't suppose you've changed your mind about having me along? I'm a bit desperate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Script Node 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Well, now. Are you ready to take me on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Of course. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Not yet. I'm still working a few things out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I've decided that I don't want you to come with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Trigger Conv Node 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Of course, of course. Take your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Trigger Conv Node 57</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

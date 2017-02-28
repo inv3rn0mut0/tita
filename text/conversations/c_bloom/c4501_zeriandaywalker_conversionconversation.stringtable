@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_zeriandaywalker_conversionconversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This black-haired man wears a suit of tight black leather armor, festooned with pouches and belts. A strong cuisse protects his left thigh, and a drooping lavender cape of some silky material falls from his shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This black-haired man wears a suit of tight black leather armor, festooned with pouches and belts. A strong cuisse protects his left thigh, and a drooping lavender cape of some silky material falls from his shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Why are you still talking to me? Don't you know I'd rather see you all dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Convince him to come to your side by telling him the truth of the First's plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Convince him to abandon the First by appealing to his sense of camaraderie with the other castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave him alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Camaraderie? We're in this for survival... and I happen to think the First knows how to survive better than the rest of us. I'm with her to the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Success and Zerian converts to the players side]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oh, that's a fine story. Tell me, did you make that up all on your own? Let me assure you that even if it were true, I'd rather be dead than lift a finger to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'll see you dead before I help you," he growls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'm not interested," he hisses. "Your friend took me without my consent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Zerian reassures you that he's fighting for you now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm sorry that I entered your mind. I needed to find Mazzof so that I could repair the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He scoffs and spits at your feet. "You took me without my consent, little brother, and that's all that matters."</DefaultText>
+      <FemaleText>He scoffs and spits at your feet. "You took me without my consent, little sister, and that's all that matters."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Scorn paints his voice. "We're all in this for ourselves. You most especially. I won't do a damned thing you suggest, and if I die to see you fail, it'll be worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>
+
+As you approach, rage lights his eyes. "You!" he hisses. "Do you know what I had to go through because of what you did to me - *in* me? You raped my mind. I'll have nothing from you but your blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>
+
+He stares at you, wary and threatening, but he's not immediately hostile. "You were in my *mind*," he whispers, "but you helped me when you didn't have to. So make your speech, and we'll see if I still want to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Convince him to come to your side by telling him the truth of the First's plan.
+
+{EVAN: Please use modifier with Red Tide. Also, add bonus if node 29 played}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The wariness remains in his face. "What do you want from me *now*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>
+
+"Don't bother," he growls. "Do you know what your 'friend' did to me? We'll have no reconciliation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>
+
+"Talk fast," he growls. "I'm giving you a chance because your friend helped me out... even if it was inadvertent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Talk fast," he growls. "I'm not here for charity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He snorts. "The First has been working to save us for centuries. What have *you* done for us? Brought the Sorrow to Miel Avest? No thanks. I'll take my chances with the team I'm on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He lowers his guard. "Does she know this? I've trusted her for this long, but I won't die for her. What makes her life more important than mine?"
+
+He chews his lip. "Fine. *Fine*. I'm with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"That might be, but the fact remains that you took my mind and used my body. Convince me that your plan will make my life better, and maybe I'll support you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'm with you, aren't I? Focus on the battle!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Script Node 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I've waited so long for this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

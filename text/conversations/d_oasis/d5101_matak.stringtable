@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5101_matak</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A filthy old beggar in tattered rags shuffles toward you. His skin is flaking and scaly, and he smells strongly of rotting fish, but his eyes are bright - perhaps *too* bright.
+
+"Help," he quavers. "Help for a poor old fool who has lost all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Matak the beggar looks up hopefully at your return. "Have you returned to help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Who is the Chimera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Why do you need me to retrieve the letter? Can't you get it yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I can't help you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I know not his real name, nor his motives, nor, truth be told, if he is a he at all. All I know is that he is the true power behind the Giash, telling them what to do, who to elevate, who to exile."
+
+He shivers. "Most don't even know of his existance. And those that have heard the name believe him a myth. But I know the truth, for I have felt the touch of his hidden hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Matak looks embarrassed. "My landlady and I are on, shall we say, strained terms. She has locked me out, but held my meager posessions as hostage for her back rent. The letter is among my things."
+
+He scratches himself. "Er, I don't suppose you can get past a whisperlock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Farewell]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What do we do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"We must go to the Marina. The fountain there will be our entry into the Oasis."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Now we descend to the Oblevis Reef. My cache of notes and devices is hidden there."
+
+He rubs his hands. "Soon my studies will resume! Soon I will find the answer that was lost! Soon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I have the letter and a water-breathing device. Now what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Matak nods, grinning. "Good. Good. I hope my landlady gave you no trouble. Now hold onto it until you find a water-breathing device, then bring both to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He crumples up the letter and tosses it aside. "Now we go to the fountain in the Marina. That shall be our portal."
+
+{SCRIPT: Matak joins the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What help do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Why should I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"My notes. My devices. All hidden away inside the Oasis. Could I but - " He coughs, gasping like a fish out of water, then recovers.  "Could I but reach them, I could end the strife that plagues our two peoples in an instant. Alas, I am trapped here in this arid hell, unable to return. Unless..." 
+
+He raises pitiful eyes to yours. "Unless some noble hero were to help me recover them... in return for getting him into the Oasis, perhaps?"</DefaultText>
+      <FemaleText>"My notes. My devices. All hidden away inside the Oasis. Could I but--" He coughs, gasping like a fish out of water, then recovers.  "Could I but reach them, I could end the strife that plagues our two peoples in an instant. Alas, I am trapped here in this arid hell, unable to return. Unless..." 
+
+He raises pitiful eyes to yours. "Unless some noble hero were to help me recover them... in return for getting her into the Oasis, perhaps?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Your sense of justice? Your need to enter the Oasis? Your greed? Any of those should be a sufficient goad. Or were you asking why I want you to help *me*?"
+
+The beggar draws himself up, straining for dignity. "Because I must complete my experiments. Enemies of the Oasis conspired to have me branded a madman and criminal, and I was cast out and stripped of my gills and fins, but the devices I was developing could still be the saving of the Oasis. I cannot leave the work half done."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Your story intrigues me. How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You're asking strangers on the street to help you with this? You must be very trusting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Get away, old man. You're making me ill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Oh, thank you, hero! Thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He smiles, revealing teeth like brown pebbles. "Not just any strangers, hero. Only those with kindly faces and competent demenors. And I trust that such heroes will help me when they know they will be helping themselves as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"My apologies, hero. But I can also make you rich. Is that not some small recompence for my unpleasant odor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He bows obsequiously, then speaks again. "Entering the Oasis will be easy once I get back a letter that sits in my old house. Alas, I cannot recover it myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You were stripped of your gills and fins? Do you mean you were once a ghibra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Until the Giash's foul exile machine changed my very nature. Aye, I was."
+
+He sighs. "I would curse them, but they are only the weak tools of the Chimaera. It was he that wished me gone, and he who pulled their strings to banish me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What happens after I recover the letter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Return it to me, and I will tell you how we shall enter the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I no longer want to help you. We must part ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What?" Matak bares his rotten teeth. "You promised me! You promised!"
+
+He whimpers, then gives you a crafty look. "Are you sure? You will receive no reward if you do not bring me to the reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I don't want your reward. Go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Fine. We'll keep going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Matak snorts, disgusted, then twists his face into a sickly grin. "Don't worry. This won't come back to haunt you. Everything will be just fine."
+
+He drifts off, muttering under his breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I thought you'd change your mind. Onward, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What do I get out of helping you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The beggar rubs his hands. "Within the cache of numenera that we go to recover are many that would make you powerful beyond your dreams, or rich beyond measure, should you chose to sell them. I will give you a share of these if you help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"No thank you. I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Please! I can make you rich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Why do I always forget? Never trust an air-breather. Never!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What help do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Remind me what you need of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"My notes. My devices. All hidden away inside the Oasis. Could I but - " He coughs, gasping like a fish out of water, then recovers.  "Could I but reach them, I could end the strife that plagues our two peoples in an instant. Alas, I am trapped here in this arid hell, unable to return. Unless..." 
+
+He raises pitiful eyes to yours. "Unless some noble hero were to help me recover them... in return for getting him into the Oasis, perhaps?"</DefaultText>
+      <FemaleText>"My notes. My devices. All hidden away inside the Oasis. Could I but--" He coughs, gasping like a fish out of water, then recovers.  "Could I but reach them, I could end the strife that plagues our two peoples in an instant. Alas, I am trapped here in this arid hell, unable to return. Unless..." 
+
+He raises pitiful eyes to yours. "Unless some noble hero were to help me recover them... in return for getting her into the Oasis, perhaps?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I need your help getting into the Oasis so I can recover my possessions and resume my research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Why should I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Tell me again why I should help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Your sense of justice? Your need to enter the Oasis unseen? Your greed? Any of those should be a sufficient goad. Or were you asking why I want you to help *me*?"
+
+The beggar draws himself up, straining for dignity. "Because I must complete my experiments. Enemies of M'ra Jolios conspired to have me branded a madman and criminal, but the devices I was developing could still be the saving of the Oasis. I cannot leave the work half done."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"It will be mutually benificial. You will enter the Oasis undetected and receive a reward for your services. I will return to my work, and the betterment of my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Matak the beggar waits for you impatiently. "Have you acquired the items yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I have the water breathing device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I have the letter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Matak's eyes blaze. "Then what are you doing talking to me? Go! My research cannot wait!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Excellent. Then we may begin at last. Now, give me the letter! Give it here!"
+
+Matak snatches the letter from you and reads it, then breathes a sigh of relief. "Yes. Yes. Now I remember. Good."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Excellent. Then, come. We must go to the fountain in the Marina. That is our portal."
+
+
+{SCRIPT: Matak joins the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Matak shakes his head. "And how a simple task took you so much time I do not understand. Well, at least you have it. Now for the letter. Go! Go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Hurry back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I'm not interested in helping you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Who is the Chimera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Tell me about the Chimaera again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I know not his real name, nor his motives, nor, truth be told, if he is a he at all. All I know is that he is the true power behind the Giash, telling them what to do, who to elevate, who to exile."
+
+He shivers. "Most don't even know of his existance. And those that have heard the name believe him a myth. But I know the truth, for I have felt the touch of his hidden hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A hidden power here in the Oasis. He told the ghibra to cast me out, and they did his bidding as if he owned them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What help do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"My notes. My devices. All hidden away inside the Oasis. Could I but - " He coughs, gasping like a fish out of water, then recovers.  "Could I but reach them, I could end the strife that plagues our two peoples in an instant. Alas, I am trapped here in this arid hell, stripped of my gills and fins, unable to return. Unless..." 
+
+He raises pitiful eyes to yours. "Unless some noble hero were to help me recover them... in return for getting him into the Oasis, perhaps?"</DefaultText>
+      <FemaleText>"My notes. My devices. All hidden away inside the Oasis. Could I but--" He coughs, gasping like a fish out of water, then recovers.  "Could I but reach them, I could end the strife that plagues our two peoples in an instant. Alas, I am trapped here in this arid hell, stripped of my gills and fins, unable to return. Unless..." 
+
+He raises pitiful eyes to yours. "Unless some noble heroine were to help me recover them... in return for getting her into the Oasis, perhaps?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Matak turns to you. "What is it?"
+
+{SCRIPT: Matak is in the party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I see you have the letter." Matak grins. "Good. Good. I hope my landlady gave you no trouble. Just hold onto it until you find a water-breathing device, then bring both to me." He squints at you. "Any other questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You have a water-breathing device. Very good." Matak shakes his head. "Though how a simple task took you so much time I fail to understand. Now for the letter. Unless you have more inane questions for me first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ah, you have everything. Excellent. Then we may begin at last. Now, give me the letter! Give it here!"
+
+Matak snatches the letter from you and reads it, then breathes a sigh of relief. He crumples it up and tosses it aside."Yes. Now I remember. Good. So, are you ready to go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Matak hangs his head and turns away. "You are heartless and cruel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"May you never swim again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"No more questions. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Yes, yes. Just hurry back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Yes, I'm ready to enter the Oasis with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Hurry, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"No! I will not speak to you. You spurned me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+[SCRIPT: Only plays if PC has been asked by Tybir to help find Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Do you know someone named Misha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Why? Does he owe you money? No no, never heard of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Misha? That butcher who claims to be a chiurgeon? Her abatoir is just down the street. I'd avoid it if I were you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_erritis_stage3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What a wonderful place. I'm *almost* glad they're not fighting their Endless Battle here. Everything would get all, you know, bloody and burnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh, is it time for talking again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Let's split up for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I want your opinion of the people we're traveling with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I want to talk about your opinions of the people we're traveling with again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"How are things between us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I have some questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Why. Why are we here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oh. The Valley of Dead Heroes. I like it here. There's absolutely no place we should avoid completely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What do you know about the Valley of Dead Heroes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What do you know about the Valley of Dead Heroes again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Well, it's full of dead heroes," he says, concentrating. "I think that's somewhere in the name."
+
+He stares around. "On second thought, I didn't die here, so maybe the name is wrong. I just..." Grimacing, he holds his head. 
+
+"I remember someone sleeping here. In an alcove." He sighs, smiling in relief. "And then I woke up, and I never saw the alcove again. The end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Heroes are here," he says helpfully. "Dead ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He stares around, rubbing his forehead. "I've been here before. I know I have."
+
+He gives you a conclusive nod. "But I'm not here anymore. I'm sure of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Let's talk another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Good idea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"That seems unlikely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Glad to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Are you trying to hide something from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No!" Erritis says with a fixed grin. Sweat gleams on his brow. "I just like it here. Who wouldn't? I don't."
+
+He swallows hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Not at all!" Erritis says with a fixed grin. Sweat gleams on his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Me too. I'm glad to hear the things I'm saying of my own free will."
+
+He swallows hard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Every inch of this valley is packed with adventure!" One of his hands comes up, trembling to cover his eyes. "Interesting people. Places to explore! Like..." he trails off, biting his lip. 
+
+"We should explore all of it. Even the alcoves. I'm not afraid of any of it. Stop shouting at me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"This is ridiculous. You aren't making any sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>He rocks backwards on his feet, almost as if your words have struck him a blow. His eyes fill with desperate tears.
+
+"I'm not. Please. I'm not. Help me-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Why are you trying to *manipulate* me, Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He rocks backwards on his feet, almost as if your words have struck him a blow. His eyes are filled with the despair of a falling man who knows that no one will catch him in time...
+
+Then, his glow returns to full strength. He blinks, then smiles uncertainly. 
+
+"I'm here," he says, but his words are soft and his gaze has slipped from yours to fix on the empty air... or something only he can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He sways on his feet, lifts his head to the sky... and his glow returns to full strength. He smiles at you, every trace of his momentary discomfort gone. 
+
+"Of course. We're facing a new adventure. I couldn't be better."
+
+Then, his gaze slips from yours to fix on the empty air... or something only he can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Who's shouting at you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"No one," he whispers. "No one is."
+
+But his lips are moving when he is finished speaking, framing the same phrase over and over. You watch him until you understand the words. 
+
+*Stop talking, Erritis*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>This alcove he mentioned, perhaps. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>His glow returns, and he sinks into it gratefully, smiling.
+
+"I don't even know what that word means," he mumbles. "I'm fine. Everything is fine. Forget I said anything." 
+
+But his gaze has slipped from yours to fix on the empty air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Where is this alcove you mentioned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm still looking for that alcove of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The easy smile falls from Erritis's face. He looks away. 
+
+"I wasn't talking about any alcove. Just alcoves in general. In the Valley of Dead Heroes. I'm not frightened of them."
+
+Blinking rapidly, he gives you a fierce look. "I'm not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It's not mine!" he shouts. "And actually, I don't know what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What happened to that shepherd's crook I found in that alcove, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A shepherd probably took it," he says, looking around with a scowl. "T-took it into a dark place. Maybe a labyrinth. Maybe they took it there."
+
+His fist is trembling at his side, and his aura is fluctuating wildly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"This," Erritis begins, brightening. "This is my moment, isn't it? Do I get to die here in glorious combat? Oh! Am I fighting an army?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Your thoughts told you to ignore your pain. What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"We aren't here because of you, Erritis. Don't you remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Anything's possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Wrong?" Erritis chuckles through his teeth. "Nothing's wrong. I'm a living legend. I can't complain about anything. I can't."
+
+His glow intensifies, and he straightens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>He blinks, his aura flickering. 
+
+"I try not to," he says earnestly. "Memories tie up the mind. I need to be focused! Ready for action!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He casts a look around, sags, and frowns at you. "I hate to criticize you, but we should already be having a desperate last stand. It's awfully quiet here. You should have planned things better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I shouldn't have to say this, but this journey of ours is *not* all about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'll try harder next time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You don't *actually* want a last stand, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You might have slapped him. 
+
+"Of course it is," he says, scandalized. "I'm the hero here." Strips of deepest bronze whirl through his aura, almost too fast to see.
+
+He holds up a hand. "I know, I know. You're a hero too. No one's disputing that you're almost as important as me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"That's all I wanted," he says, clasping your arm fondly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What a silly question," he says, shaking his head. "Of *course* I do! How else am I supposed to survive against the odds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"That would definitely ruin the ambience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I'm glad you're here with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Try not to break anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I agree," he says seriously. "And that's me, Erritis, saying that. I normally don't approve of peace. It's too peaceful!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Erritis blushes. 
+
+"That's too kind of you. Oh!" He claps his hands together. "Let's go exploring!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What a terrible thing to say," he says, shooting you a hurt look. "I never *try* to break anything. I either break things on the first try, or the second try, or as a last resort. But *never* on accident!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Do you remember talking to me inside my head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He flinches as though someone has slapped his forehead, and the glow returns to its normal brilliance. 
+
+"Shepherds. Aren't. Interesting," he says slowly. "We should stop talking about them and where they're hiding now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Erritis blinks at you. Several times.
+
+"That is the strangest question I've been asked by someone else in the last two minutes."
+
+He stares at the air. "No. I think I'd remember being in your head. It seems like you'd have a nice one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Erritis blinks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"While I appreciate the offer to overcome this *stupendous* obstacle on my own... we're here on your quest. You should be present for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"No, friend, the glory here will be partly yours. I'll make sure of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

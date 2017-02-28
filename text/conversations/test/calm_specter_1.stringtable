@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\calm_specter_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>156</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As your hand reaches toward the door, you feel an electric rush of air. Some invisible force interposes itself between you and it. A haze in the air materializes, slowly solidifies, pushing you back. Suddenly a man stands before you, a sardonic but friendly smile on his darkly handsome face.
+ He seems hauntingly familiar, though to the best of your recollection, you've never seen him. His jaw is strong; he looks as if he contains some power in his lithe frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[10] "Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[52] "I'll do what I want... wait a second, who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I tell you that if you open a door, you'll die painfully, but that I can change that, and your response is to ask who I am? You really are special, aren't you?" He looks away and mutters to himself, his brow creasing: "Yet it has full language and imaginative skills... interesting." He refocuses his intense stare on you. "Let me try again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[54] "I tell you that if you open that door, you will die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[33] "Yes, but *why*? Why will I die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Yes. This is a dream place. It's a construct of your new mind. That door represents the real world, and opening it represents waking up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"My new life? Was I ever alive before? What did you mean by my body living again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"So what do I have to do to not die? What can you tell me to fix that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You still haven't told me who you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I don't believe you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I don't care if you believe me or not, child. I'm telling you the truth. Now, here's what you have to do to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Then if it makes you feel better,  I'm your imaginary friend who is trying to keep you from killing yourself. Why don't you call me Adahn? Now, here's what you need to know to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You? No. YOU are born fresh. Your body, not so much. But we can talk about this more when you're in a more stable position. Here's what you need to know to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Your body is vat-grown, and another mind once lived there. But that mind is gone now, and your body needs a stable force to hold it together. I call that force 'the Tides'. Its energy will create that stability, a mental construct that your body imprints upon. Then, once you awaken, we get you into a restoration chamber and activate it. But we'll worry about that after you've fixed your energy patterns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"A restoration chamber? What's that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"That's the step after this one. Focus on the first step, all right? Now, I need you to open the door surrounded by light. If you open the other, you'll die. I'll meet you in the next room for the Tidal attunement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wait! You said something about my body living again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You still haven't told me your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If my body lived before me, does that mean that some other mind lived in it before I was here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"All right. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Your body lived before you did. But your mind is new, and that's why it needs a new mental imprint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Then why don't you call me Adahn, if it makes you feel better. We can talk about me more later. Right now, you need to get attuned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Yes. As I told you, your body is vat-grown. It was grown for a purpose. But the consciousness that lived here has been forced out, and your mind grew in its place - and that's why you need to reattune yourself to the Tides. Without that, you'll die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"If you wake in this body before preparing your mind, your psyche will shatter before you ever experience the world. Your body will dissolve into an organic slurry. In short, your new life will end before you ever live. But you can be a part of something larger, make a difference with your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Get to it, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[272] His voice is assured, mellifluous: "If you open that door, your body won't hold together for more than a few seconds. I understand dissolution is a painful way to die. But listen to me - listen carefully - and I can help you change that. I can help you change *the world*." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"How did you get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You talked about changing the world. I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Push him aside and open the door he is blocking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He tries to grab your hand, but his newly-formed body is not nearly as strong as yours. You knock his arm aside and wrench at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He grabs your hand; he has a surprising strength for someone who just materialized. "I said: If you open that door you will die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He drifts away as you push him. The door is stuck, but it should open with just a little more *effort*. 
+
+"Stop, you utter fool! Are you so eager to die?! What do you hope to accomplish?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[1] -</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"No one tells me what to do."
+Open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Pain mounts in your arm, but you grit your teeth and push the door open. "... if you survive this, I'll be back. But I think you've just delayed my plans by months." His body fades back into that insubstantial haze, and light pours from the door you opened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He looks inordinately pleased with himself. "In almost the same way you did. I opened my *mind*, and I felt your presence. But you didn't wake in this room." He looks around at it. "You woke somewhere down *there*." He gestures at the grate in the ground. "I can't see down there, but I can *feel* what you did. It's a communication between sublevels of our minds. With it, we can change the world. Right now, though, your body needs to heal from the damage it took in the fall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank Node 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>His eyes are distant but knowing, and when he speaks, his voice is calm and mellifluous. "I must congratulate you for your cleverness in leaving the fathom below."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He adds, "Your memory tells me that you convinced a chest to open with naught but words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>His eyes unfocus for a moment, as if he were listening to the air of the chamber. "Discovering the wonders of your own mind, unlocking powers you didn't know you had, ascending through the use of strange tools... you might indeed be worthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Though battering at a gate seems rather primitive." He pauses. "I wouldn't recommend that with this door. In fact, you probably should avoid opening this door at all right now. If you do, your body will dissolve within a few moments and you will die painfully. But listen to me - listen carefully - and I can help you change that. I can help you change *the world*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bank Node 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"And you've given yourself quick fingers, too. Impressive that you could escape that chamber with the tools of your mind." He pauses. "But if you open *this* door, your body will dissolve painfully in mere seconds. So listen carefully - I can help you change that. I can help you change *the world*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Not to mention that you used your imagination to open a locked grate to escape. You have great potential, child." He pauses. "But if you open *this* door, your body will dissolve painfully within a few moments. I can help you change that. I can help you change *the world*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Fine. I'm listening!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Why is it so important to you that I stop?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"No one tells me what to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"There are three things you need to know now. The first is that this is not your real life, and this is not the world. You're in your *mind*. Second, we are hunted by a malevolent force called the Sorrow, which longs to destroy you, me, and all my works. The third is that I have found a way to stop it utterly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"This is my mind we're standing in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Tell me more about the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Destroy your works? Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"How can we stop it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>He speaks more slowly, enunciating his words carefully. "If you open that door, you will die. I want to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You mentioned changing the world. What did you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Fine. Start talking, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Why is it so important to you that I not open this door?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[98] "Did the Sorrow's touch damage my brain? What happened in my mind to make this one such an idiot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What kind of help can you give?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I'm not stupid. I want to know if I can trust you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Why will I die if I open the door?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"A much better question! I can show you how to stabilize yourself in something I call the Tides - forces that have a deep psychic connection to this body, and that were broken in a recent attack on it. They are playing havoc with your system, and if you do not address them, they will destroy you. Your body's failing energies will end your new life if you do not take action." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Tides? Why the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"What if I say no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Then you die when you open your eyes. I'd like to think you have more a sense of self-preservation than that. Are you ready to  get started?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Consider me the imaginary friend who is trying to keep you from killing yourself. Why don't you call me Adahn? As for destroying my works, this is something we can talk about later... but you have a personal, vested interest in them." He looks like he's trying not to wink at you. "Now let's get started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Your body is vat-grown, and another mind once lived there. But that mind is gone now, and your body needs a stable force to hold it together. I call that force 'the Tides'. Its energy will create that stability, a mental construct that your body imprints upon. Then, once you awaken, we get you into a restoration chamber and activate it. But we'll worry about that after you've fixed your energy patterns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Any questions so far?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I told you to call me Adahn. And yes, it's going to destroy my works. If you survive this, you'll have the chance to explore them. But first, you have to survive. Are you ready to get started?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He shudders slightly. "A creature of strange energies, alien powers, and a consuming urge to annihilate. It ranges across the world - perhaps many worlds, other probabilities - and it leaves a trail of the dead in its wake, erasing them from existence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"A warrior spirit, eh? I admire that. It'll put you in good stead for what's to come next. Here's what you need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"It's an energy that ebbs and flows, pushing and filling the psyche of those who are affected by them. If this all works out, you'll have plenty of time to explore that question. Are  you ready to get started?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Once we get you attuned and into the restoration chamber, you'll see. It'll be glorious. I apologize that I can't tell you more now, but you wouldn't understand. Knowledge comes with time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Actually, I have more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Yes. What do we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Open the door surrounded by light. I'll meet you in the chamber beyond and we'll make everything right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>His anxiety is apparent. "If you open this door, you will die. Even if you don't care about that, know that you will bring ruin to many if you fail to do what I have said." He pauses. "Please. I just want to save your life. You can make other choices later, but right now you need to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Because your death will set back a solution to a problem that has destroyed lives for thousands of years. If you refuse to help, or if you die, you place all of that in jeopardy." He pauses. "Please. I just want to save your life. You can make other choices later, but right now you need to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Why should I care what happens to people I'll never meet? What does it matter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Fine. What do I have to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Forget it." Open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>He breathes a sigh of relief. "Just open the door surrounded by light. There are stairs beyond it, leading to a place that will bathe you in energies that should hold your body together once you wake into the real world. Then we'll get you into a restoration chamber, and the process will be complete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Bathing in *energy*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"The real world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"All right. I'll see you up there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"You're doing the right thing. I'll see you in a moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Yes. We're in a construct of your mind. You were born here. I'm what you might call your past, a memory from another life. Again, this is not real. When you open your eyes, that's real. When you awaken, if you're not attuned to a particular energy, the resulting discordance will tear you apart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What does it matter? I can't say that any of it *matters*. You want meaning? Find a philosopher or become one. Right now, I'm appealing to your better nature. If you have one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Aren't you ready to attune yourself to the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You keep talking about energies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"All right. I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"It's a psychic energy that ebbs and flows, pushing and filling the psyche of those who are affected by them. I call it 'the Tides'. If this all works out, you'll have plenty of time to explore that question. Are  you ready to get started?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I can't stop you now. But please." His mouth works strangely, as if he is not accustomed to *asking*. "I beg of you, reconsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"It's due to a field of energies I call the Tides - forces that have a deep psychic connection to this body, and that were broken in a recent attack on it. They are playing havoc with your system, and if you do not address them, they will destroy your new life." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"A wise question. Let me be completely honest with you, then: no. But this is a paradox - how can you trust that I'm being completely honest? On the other hand, you have only two choices right now: trust that I want to save your life, or fear that I wish to destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"If you choose to trust me, you can step through the door surrounded with light. It will take you to a place where your body's failing energies will be realigned, and you can emerge into the world stronger for it. Or you can choose to open the other door and be destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What do you  mean when you talk about my body's failing energies? Was I alive before? Have I suffered some memory loss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"All right. What do we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Your hand begins to tingle as you reach for the door's handle, the pain growing sharper the closer your hand gets. It's like putting your hand into a bag of needles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"You feel the dissolution beginning already, don't you? Please, will you please just let me talk to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Reach for the door again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Your hand brushes the handle, and you can see your skin beginning to flake away, rising into the air like paper-ash in a fire.
+"Do you see what I mean? Please, let me talk to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Bear down and open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"The Tides? What are the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"The Tides are an energy - or perhaps group of related energies - that ebbs and flows, pushing and filling the psyche of those who are affected by it. If this all works out, you'll have plenty of time to explore that question. Are  you ready to get started?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Tell me more about these Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>He sighs. "We don't really have time to talk about this... all right. The Tides react to your actions, not your intent. They have five different gradations, which respond to - loosely - sacrifice, passion, wisdom, power, and community."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"The way they work for you in particular is that they help structure your mind, creating a net that in turn tells your body how to act. Without that net transmitting this information through you, this body will fall into its constituent pieces. All right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Tell me more about the Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"If it will get you to the chamber faster, very well." He takes a deep breath: "The Tides react to your actions, not your intent. They have five different gradations, which respond to - loosely - sacrifice, passion, wisdom, power, and community."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The way they work for you in particular is that they help structure your mind, creating a net that in turn tells your body how to act. Without that net transmitting this information through you, your body will fall into its constituent pieces. All right?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"That got your attention, eh? Change the world? What's in it for you?" He holds up his hands and adds hastily, "I'm sorry. That came out entirely wrong. I don't question your motives - I want to know your intent so I can help you. So what do you desire? Fame and power? Does your soul cry for justice? Does empathy fill your heart? Do you seek wisdom? Or do you just burn to do something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Fame and power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Empathy and self-sacrifice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Wisdom and knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I just want to take action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Then I won't talk too long - we'll finish this and move boldly, decisively to the next stage. It's important to push forward, and I look forward to your future. But you need to push forward creatively, and in order to do that, you need to know what awaits you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"The mark of culture, and that which makes life worth living. Without these, life is merely the basic struggle faced by our ancestors. It is wisdom that allows us to transcend and become more than we ever dreamed. But in order to achieve our dreams, we need to reach concrete goals. This is the first step of wisdom, is it not? So let me tell you some important facts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Watching others suffer is never easy, and alleviating their pain is one of life's most noble callings. The chiurgeons, the great healers, the orphanages... these are the people who do the work of humanity, giving of themselves so to alleviate the suffering of others. But the world is hard and cruel, and some will always seek to profit from pain. That's why I need your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Yes! To think of others before ourselves, to think of the good we can achieve if we set aside the views of in order grasp something that will benefit all... to ensure that we can look calmly at the greater good and make difficult choices is what sets us above the animals. It's a difficult path to walk, because great forces will array themselves against you. It takes a special breed of person to stand fast. I'm glad you're with me on this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ambition is a powerful driver. It's a flame for the dark nights in our minds. But it is a lonely path, one that requires sacrifice as you gather your strength and push your way into the greater consciousness. You'll find jealousy blocking the way, the envious tearing down your accomplishments. That's what's happening now - small-minded fools want to destroy us. So let me tell you what we're up against." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"You mentioned 'my consciousness.' What did you mean by that? Where are we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Why don't I remember anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Isn't it obvious? We're in your mind. This is like a dream, only you are fully aware."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You don't remember anything because there is nothing for you to remember. You're a freshly born mind. This is your birth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Then how is it I have language? Why do I recognize your face? These constructs existed in my head without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"If this is my birth, I must have had parents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Answer some more questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"How is that possible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"In my mind? How did you get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"... if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>His tone becomes mildly condescending. "Child, many things are possible beyond your limited experience. You can call it advanced scientific techniques. You can call it magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I prefer the light of science."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I prefer the mystique of magic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Never mind. I want to ask other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Very well. I'll answer your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[136] "Whatever you call it, the fact remains: I am here in your consciousness. We can discuss the mechanics of consciousness transfer later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I would love nothing more than to discuss these things with you. However, we have more pressing matters. I do promise that we'll come back to this eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"In a sense. But let me explain other matters first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>He continues: "Your construction of the collapsible bridge was fairly ingenious. I remember seeing one of those once; I suppose that's where you got the idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"And *somehow*, I'm not sure how, you managed to find your way through a locked door and into this room, the Calm. You truly have great potential, child." He pauses. "But if you open *this* door, your body will dissolve painfully within a few moments. I can help you change that. I can help you change *the world*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I'm still alive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Of course! The cushioning material was torn apart by the Sorrow, but the clothing you wore protected you from the worst of the atmospheric burning, and your body's incredible durability even now bringing you back from death's grasp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Am I immortal, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>A wistful look crosses his face. "No, child. I haven't achieved that yet. Your body can be burned, beaten, scarred, and stabbed, and you can recover from it. But there are ways for you to die, and that fall was almost one of them." He smiles. "But in the meantime, we can chat in the safety of your mind while your body prepares itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

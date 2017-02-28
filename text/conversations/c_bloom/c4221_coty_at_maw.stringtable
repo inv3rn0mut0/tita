@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_coty_at_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sweat drips off Coty's chin. One hand covers his nose. The other is at his side, shaking violently.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Are you ready for this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He nods. His hand is still shaking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's time. Go in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Coty takes one step forward, then turns to you. "If I live - I mean, if there's anything left of me - that means I'm free. No one can touch me then."
+
+He turns his back to you and enters the darkened room. The door shuts behind him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"No! Coty, you don't have to do this!"
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I've changed my mind. I want you to return to the courtyard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Really? But I - " Instead of continuing his argument, Coty takes off back the way you came in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Coty's eyes are fixed on the dark doorway. He says, "I have to. It's the only way out. I have to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Rhin turns to you, her eyes damp and desperate. "Please, don't make him do this."
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This is what he signed up for, Rhin. It's his choice, not mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"He has to. If for no other reason than so you'll stop bothering me about him. Get in there, Coty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Fine. Coty, meet me back in the courtyard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She stamps her foot. "That's not good enough!"
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm sorry, Rhin. Coty, go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The screaming begins almost immediately - a chilling, gurgling sound that increases in pitch and intensity long after you thought it would have stopped. Coty screams in terrible, almost rhythmic bursts, until finally he lets out one last, long shriek of terror.
+
+{AUDIO:  Screams play, along with the murder sounds used for feeding yourself to the maws. It's possible we you just pitch shift the audio for offering yourself (male version).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Before you are able to follow or even change your mind, the door slams shut, dust gusting from the door frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Finally, mercifully, the screaming fades. In its absence, something slithers away on the other side of the door. Then silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

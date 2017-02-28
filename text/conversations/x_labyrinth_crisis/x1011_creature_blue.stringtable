@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_blue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The creature within this tank shudders, and bubbles obscuring its glowing eyes. Thin, flickering fibers emerge from the tank, but dissolve before they can make contact with your temples. One of the beasts has infected the nearby machine and is preventing you from making contact with the creature's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>What will you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Indulge the nevajin's curiosity, and allow it to learn everything it can from the scholar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Force the nevajin to kill the buried scholar for what it did. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Instruct the nevajin to silence the scholar, to keep the words from being spoken again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encourage the nevajin to free the scholar from his prison. He is only a knowledge seeker, after all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Urge the nevajin to learn the words so it can use their power over others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Your own voice speaks directly into the back of your mind. 
+
+"Designate - nevajin. Biomechanical organism with a strong affinity for the Blue Tide. Despite its insatiable curiosity, the nevajin displays an uncanny calm and serenity. It will exchange knowledge for new cyphers or artifacts to examine, but without any indication of greed or goal. They seem single- minded, but so at peace with their pursuits that failure never angers them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The voice speaks directly into your mind once more. 
+
+"Designate - nevajin. Biomechanical organism with a strong affinity for the Blue Tide. Despite its insatiable curiosity, the nevajin displays an uncanny calm and serenity. It will exchange knowledge for new cyphers or artifacts to examine, but without any indication of greed or goal. They seem single- minded, but so at peace with their pursuits that failure never angers them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Examine the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Examine the nevajin again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Leave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>This tank contains a humanoid with a skull-like head. A name arises from your inherited memories. This is a nevajin, a creature of relentless, overpowering curiosity. Unaware of the Sorrow fragments roaming the platforms, it speaks to itself in a grinding whisper, in a language you don't understand. 
+
+Tendrils of luminescent data snake from the tank and stream into your temples. The room fades in flaring stripes as you enter the mind of the creature in this tank, and see what it sees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The presence of the Sorrow fragment in the nearby machine is preventing you from making contact with this creature's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The tank's data coils reach for you, and draw you carefully back into the mind of the nevajin and the cave with the weeping stone face.
+
+"Only ask," the stone scholar says, fighting every syllable that comes from its lips, "and I will give voice to the eight abominable words that filled Qra's clearwater wells with swarming shadows, and strangled her towers until they fell. Ask, and they will gleefully claim you as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The nevajin floats in the tank, silent and still. Nothing more can be gained by entering the creature's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>["I can't do this for you, my friend! Only you can attune your mind to the Tides!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>This tank contains a humanoid with a skull-like head. A name arises from your inherited memories. This is a nevajin, a creature of relentless, overpowering curiosity. 
+
+Tendrils of luminescent data snake from the tank and stream into your temples. The room fades in flaring stripes as you enter the mind of the creature in this tank and see what it sees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The tank's data coils reach for you, and draw you carefully back into the mind of the nevajin and the cave with the weeping stone face.
+
+"Only ask," the stone scholar says, fighting every syllable that comes from its lips, "and I will give voice to the eight abominable words that filled Qra's clearwater wells with swarming shadows, and strangled her towers until they fell. Ask, and they will gladly claim you as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>This tank contains a humanoid with a skull-like head. A name arises from your inherited memories. This is a nevajin, a creature of relentless, overpowering curiosity. Unaware of the Sorrow fragments roaming the platforms, it speaks to itself in a grinding whisper, in a language you don't understand. 
+
+Tendrils of luminescent data snake from the tank and stream into your temples. The room fades in flaring stripes as you enter the mind of the creature in this tank, and see what it sees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The tank's data coils reach for you, and draw you carefully back into the mind of the nevajin and the cave with the weeping stone face.
+
+"Only ask," the stone scholar says, fighting every syllable that comes from its lips, "and I will give voice to the eight abominable words that filled Qra's clearwater wells with swarming shadows, and strangled her towers until they fell. Ask, and they will gladly claim you as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The helpless scholar says eight beautiful, alien words that strike the nevajin's mind, fastening to its thoughts like squirming, thorn-covered vines. Concentrating through the pain, the nevajin asks the weeping scholar the first of many questions about lost Qra. 
+
+Later, the nevajin leaves the cave with the words bulging within it, pleased that it has discovered such interesting secrets. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The scholar finds some reserve of willpower, and shuts its stone mouth, sealing the words within. The nevajin asks question after question about what the scholar knows, but he maintains its noble, agonizing silence.
+
+Eventually, the nevajin leaves the cave and its sole prisoner, disappointed that it was unable to learn ancient secrets that would have brought destruction to everything it loved. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The helpless scholar says eight beautiful, alien words that strike the nevajin's mind, fastening to its thoughts like squirming, thorn-covered vines. Concentrating through the pain, the nevajin asks the weeping scholar the first of many questions about lost Qra. 
+
+Later, the nevajin leaves the cave with the words bulging within it, pleased that it has discovered such interesting secrets. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The scholar clenches its stone teeth around the words, trapping them. The nevajin asks question after question about the tome and lost Qra, but it maintains its noble, agonizing silence.
+
+Eventually, the nevajin leaves the cave and its sole prisoner, disappointed that it was unable to learn ancient secrets that would have brought destruction to everything it loved. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Back in the strange laboratory, five hulking, smoky creatures bound onto the platform, sucking at the air with crackling snarls. The sour dread in your gut recognizes them for what they are - hands of the being that hunted you while you regained your memories. Fragments of the Sorrow. 
+
+Four of them lunge into the machines connected to the remaining tanks, wreaking chaos on their delicate innards. The fifth fragment focuses its eyeless gaze on you and your ally. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Possessed by your will, the nevajin lunges at the stone scholar, and pounds the stone face to dust with its gnarled fists. The words die, unspoken and unknown, in the scholar's buried throat. 
+
+Sadness billows through the creature's mind as it stares at the jagged corpse, mourning the loss of the fascinating and dangerous ancient knowledge, and wondering what drove it to such uncharacteristically rash behavior. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The nevajin flails weakly at the stone scholar, fighting the uncharacteristically violent urge you have forced upon it. Eventually, it tires, leaning against the wall, and eight words spill from the scholar's mouth, infecting the nevajin's thoughts with pustules of malignant information. 
+
+The nevajin leaves the cave with the words bulging within it, pleased that it has discovered such an interesting secret. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Your command hits the creature's mind like a meteor, and it lunges at the stone scholar, battering the face to dust with its gnarled fists. The words die, unspoken and unknown, in the scholar's buried throat. 
+
+Sadness billows through the creature's mind as it stares at the jagged wound in the wall, mourning the loss of the scholar's fascinating secrets, and wondering what drove it to such rash behavior. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Your order stuns the nevajin rather than driving it into action. In the silence, eight simple, beautiful words spill from the scholar's mouth, infecting the nevajin's thoughts with pustules of malignant information. 
+
+The nevajin leaves the cave with the words bulging within it, pleased that it has discovered such an interesting secret. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The fragment that was infesting this device emerges with a sizzling growl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>After returning to your own body, a dull heat settles in your gut, and an oily haze crowds your vision. You sense... no, you *know* that the Sorrow has focused its dire attention directly on you. 
+
+The remainder of the Sorrow fragments spill from the devices they were infesting, and join the hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>That was the last of the creatures. You steel yourself for the deadly race to the tank at the back of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You lean against a tank to catch your breath, eyeing the remaining creatures in the tanks. You will need to be swift to avoid the Sorrow fragments hunting for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>With a powerful swipe of its gnarled claw, the nevajin rips the stone scholar's entire jaw away, tosses it to the ground, and races from the cave, ignoring the mute prisoner's pleading eyes.
+
+Once it has returned to daylight, the nevajin pauses, horrified that it has punished a fellow knowledge-seeker for decisions it would have also made. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Battling the unfamiliar impulse to punish a fellow scholar, the confused nevajin presses a trembling claw against the prisoner's mouth. It doesn't work. Eight words spill from the scholar's mouth through the nevajin's splayed fingers, infecting its thoughts with pustules of malignant information. 
+
+The nevajin leaves the cave with the words bulging within it, pleased that it has discovered such an interesting secret. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>With the powerful swipe of its gnarled claw, the nevajin rips the stone scholar's entire jaw away, tosses it to the ground, and races from the cave, ignoring the mute prisoner's pleading eyes, 
+
+Once it has returned to daylight, the nevajin pauses, horrified that it has punished a fellow knowledge-seeker for decisions it would have also made. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Your order stuns the nevajin rather than driving it into action. In the silence, eight simple, beautiful words spill from the scholar's mouth, infecting the nevajin's thoughts with pustules of malignant information. 
+
+The nevajin leaves the cave with the words bulging within it, pleased that it has discovered such an interesting secret. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Excited by the strange idea it's had, the nevajin uses its sturdy claws to pull down the wall holding the scholar stone by stone. 
+
+The countless, outraged dead of ancient Qra awaken behind the walls, screaming the eight words that were their downfall. The last thing the nevajin sees before the cave collapses is the weeping scholar, stumbling toward it with open arms. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The nevajin responds eagerly to your mental suggestion, and uses its sturdy claws to pull down the wall holding the prisoner stone by stone. 
+
+But it is, in its eagerness, careless. Too late, the nevajin realizes it has accidentally destroyed the stone scholar's throat, rendering it mute. Sighing, the creature mourns the loss of the fascinating and dangerous ancient knowledge that would have sure destroyed it. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The nevajin interprets your suggestion as an irresistible thought of its own, and draws upon its collection of numenera to reduce the wall holding the scholar to glittering dust. 
+
+The countless, outraged dead of ancient Qra awaken behind the walls, screaming the eight words that were their downfall. The last thing the nevajin sees before the cave collapses is the weeping scholar, stumbling toward it with open arms. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The nevajin responds eagerly to your mental suggestion, and uses its sturdy claws to pull down the wall holding the prisoner stone by stone. 
+
+But it is, in its eagerness, careless. A greedy swipe of its claws savages the scholar's throat and chest, rendering it mute. Sighing, the creature mourns the loss of the fascinating and dangerous ancient knowledge that would have sure destroyed it. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The helpless scholar says eight beautiful, alien words that strike the nevajin's mind, fastening to its thoughts like squirming, thorn-covered vines. Concentrating through the pain, the nevajin flees from the cave, puzzled by its sudden desire to use its discovery rather than learn more.
+
+It finds others of its kind and the words emerge in a tainted flood, poisoning them, turning them on each other.
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Confused by the unfamiliar impulse to share its discovery with others, the nevajin wanders the cave in a daze, trying to find the exit. By the time it realizes it is hopelessly lost in the melted warren that was once the scholar's forgotten city, it is too late. Fortunately, it finds many intriguing secrets in the dark before it discovers something larger - and hungrier - than it. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The nevajin flees from the cave and its intriguing prisoner, puzzled by its sudden desire to share its discovery with others. Soon enough, however, it returns with a vast crowd of its curious kind. 
+
+After a time in the dark, the creatures emerge in a tainted flood, poisoned by the scholar's words and exulting in the dark secrets they have learned together, and eager to share them with the world. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Your order stuns the nevajin rather than driving it into action. In the silence, the scholar whispers eight simple, beautiful words that infect the nevajin's thoughts with pustules of malignant information. 
+
+The nevajin leaves the cave with the words bulging within it, pleased that it has discovered such an interesting secret. 
+
+Warmth spreads through you, aligning Tidal channels in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The nevajin is in a dark cave, listening intently to a stone head embedded in the wall before it. 
+
+"I destroyed ancient Qra," the head murmurs. "I sought words of destruction sealed in a forbidden tome. I could not help it! But once known, the words spoke themselves to the eight rulers of Qra, turning them on each other. Great Qra melted like wax in the wars that followed, but I, imprisoned, could not burn with it. Even now, the words wish to be spoken!"
+
+The nevajin leans forward hungrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The nevajin is in a dark cave. A stone head is embedded in the wall before it. 
+
+"I was a scholar," the head murmurs to the nevajin. "Millennia ago, I found eight words in a sealed tome. They coiled around my tongue, and spoke themselves to the eight rulers of ancient Qra. The words turned them on each other. Star-dappled Qra melted like wax in the wars that followed, but the words would not let me burn with it! Even now, they want to be heard!" 
+
+The nevajin leans forward hungrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Your gaze falls on the buzzing cables between the tank and a nearby machine. The Sorrow fragment's presence has contorted them into painful shapes. Perhaps removing it will ease the creature's mind, and allow you to enter it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The nevajin is in a dark cave. A stone head is embedded in the wall before it. 
+
+"I was a scholar," the head murmurs to the nevajin. "Millennia ago, I found eight words in a sealed tome. They coiled around my tongue, and spoke themselves to the eight rulers of ancient Qra. The words turned them on each other. Star-dappled Qra melted like wax in the wars that followed, but the words would not let me burn with it! Even now, they want to be heard!" 
+
+The nevajin leans forward hungrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText> Follow-up PQ. 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Examine the nevajin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Examine the nevajin again. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

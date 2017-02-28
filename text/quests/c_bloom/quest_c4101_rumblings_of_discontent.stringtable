@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_rumblings_of_discontent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rumblings of Discontent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the missing patrols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find the second missing patrol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Find the second missing patrol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Find the second missing patrol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Find the second missing patrol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Find the second missing patrol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Rescued both patrols</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Rescued both patrols</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Rescued one patrol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Rescued one patrol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Rescued one patrol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Found both patrols dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Return to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Brusca, the captain of the Memovira's guards, has asked me to look for two of her patrols that are late in returning from their rounds deeper in the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Brusca told me the patrols were taking a wide route around the Bloom, so they could be anywhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Having rescued both patrols, all that's left is to tell Brusca the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I saved one of the patrols in Little Nihliesh, but the other remains unaccounted for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I found one of Brusca's patrols in Little Nihliesh, but they were slaughtered by the mutants there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I managed to rescue the last surviving member of one of Brusca's patrols in the Old Slave Block, but the other patrol remains unaccounted for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I managed to rescue two survivors of one of Brusca's patrols in the Old Slave Block, but another patrol still remains unaccounted for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Having saved Brusca's other patrol from mutants in Little Nihliesh, all that's left is to report back to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Having saved Brusca's other patrol from mutants in Little Nihliesh, all that's left is to report back to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I found the slain bodies of one of Brusca's patrols in the Old Slave Block, but another patrol still remains unaccounted for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Having saved Brusca's other patrol from mutants in Little Nihliesh, all that's left is to inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>I prevented one of Brusca's patrols from being massacred at the hands of mutants in Little Nihliesh, and rescued the lone survivor of the other patrol from a flock of Murdens in the Old Slave Block. Brusca will be pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Having rescued both patrols, all that's left is to tell Brusca the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>I prevented one of Brusca's patrols from being massacred at the hands of mutants in Little Nihliesh, and rescued two survivors of the other patrol from a flock of Murdens in the Old Slave Block. Brusca will be pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Having rescued one of the patrols and discovered the grisly remains of the other, all that's left is to inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>I prevented one of Brusca's patrols from being massacred at the hands of mutants in Little Nihliesh, but arrived too late to save the other patrol, which was killed and partially eaten by Murdens in the Old Slave Block. At least Brusca will have some peace of mind now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Having rescued one of Brusca's patrols but witnessed the other get slaughtered, all that's left is to inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>I rescued the lone survivor of one of Brusca's patrols from ravenous Murden in the Old Slave Block, but watched as the other was annihilated by mutants in Little Nihliesh. At least Brusca will have some peace of mind now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Having rescued one of Brusca's patrols but witnessed the other get slaughtered, all that's left is to inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>I rescued two survivors of one of Brusca's patrols from ravenous Murden in the Old Slave Block, but watched as the other was annihilated by mutants in Little Nihliesh. At least Brusca will have some peace of mind now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Having witnessed one of Brusca's patrols get slaughtered and found the other already dead, all that's left is to share my grim tidings with Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>I saw one of Brusca's patrols get slaughtered by mutants with my own eyes in Little Nihliesh, and found the partially eaten remains of the other in the Old Slave Block. Brusca will not be pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Having witnessed Brusca's other patrol get killed by mutants in Little Nihliesh, all that's left is to inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Having witnessed Brusca's other patrol get killed by mutants in Little Nihliesh, all that's left is to inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Having witnessed Brusca's other patrol get killed by mutants in Little Nihliesh, all that's left is to share my grim tidings with Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>You managed to rescue the last surviving member of one of Brusca's patrols in the Old Slave Block, but they are being held captive by nefarious Murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>You managed to rescue the last surviving member of one of Brusca's patrols in the Old Slave Block, but they are being held captive by nefarious Murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You managed to rescue the last surviving member of one of Brusca's patrols in the Old Slave Block, but they are being held captive by nefarious Murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>You managed to rescue both of Brusca's patrols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>You saved one of Brusca's patrols, but the other was wiped out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>You found both of Brusca's patrols, but both of them were wiped out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>You rescued one of Brusca's patrols, and reported the location of the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>You found one of Brusca's patrols dead, and reported the location of the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4421_bloom_merecaster_02_bad</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You are in that familiar place between waking and sleeping, the well of night with your waking world at the top. 
+
+Again, the sense of questing comes, the feeling that someone is calling your name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Sorrow. The Sorrow is seeking you. A single thread of its focus has latched on to you, drawing the fabric of its consciousness your way.
+
+{SOUND: Start Sorrow sound effect, getting louder.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Though you could not place the feeling before, this is a voice you recognize now: it is the Sorrow, and it is seeking you.
+
+{SOUND: Start Sorrow sound effect, getting louder.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You feel the Sorrow drawing itself toward you, materializing through vast spaces and echoing hallways of time, and you are staggered at the power it marshals.
+
+{SOUND: Sorrow sound effect, getting louder.}
+
+{SCRIPTER: The Sorrow begins to materialize, half transparent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As if in answer to your call, a swarming chorus of buzzing voices boils into your mind, the hive mind of a tremendously strong entity. This maddening choir drowns out the Sorrow's presence, and you feel its tenuous grasp on you loosen altogether. Its presence lingers a moment, and then withdraws.
+
+{SOUND: Start Bloom voice sound effect.}
+
+{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fight back with all my heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Call on someone... anyone!... to help me resist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Calculate a way to push the Sorrow away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Try to tamp down my emotion so that it can't lock onto my psychic signature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Exert my willpower - bring my unified will strongly to the forefront of my mind to push away the Sorrow's influence from my core.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You feel the voice meshing with your mind, and you feel a buzzing, vibrating, cacophonous cage of psychic fury constructing a framework around you. The Sorrow's will is unequal to the task of destroying it, and you feel the Sorrow's presence withdrawing again.
+
+{SOUND: Start Bloom voice sound effect.}
+
+{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Your rage matches the rage of the buzzing, swarming voices that suddenly spill into your mind. You are nearly driven to your knees by its palpable, psychic fury.
+
+The Sorrow's presence lingers a moment, and then withdraws.
+
+{SOUND: Start Bloom voice sound effect.}
+
+{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The cold fury of buzzing, swarming voices builds suddenly around you, like a spiraling cloud of insects filling your head. You can feel them crawling across your mind, as if they were climbing through your skull and...
+
+... the Sorrow's presence has withdrawn, and with it, so too do the furious voices.
+
+{SOUND: Start Bloom voice sound effect.}
+
+{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You are nearly driven to your knees by the sudden buzzing of a chorus of voices furious that the Sorrow would target you. The rage it spills around you is palpable, and the Sorrow's power lingers for a moment and withdraws.
+
+{SOUND: Start Bloom voice sound effect.}
+
+{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

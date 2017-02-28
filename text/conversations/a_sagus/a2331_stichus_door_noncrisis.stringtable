@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_stichus_door_noncrisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You approach the vine-like door. A stichus looms from the shadow and vents a cloud of sulphuric stench - a clear threat.
+
+"Human grub. No enter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Much like last time, a nearby stichus snaps and hisses as you approach the door. 
+
+"Back, human! Use tunnel instead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ignore its warnings and try the door again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Step away from the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Script Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Script Node 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You approach the vine-like door. A stichus looms from the shadow and vents a cloud of sulphuric stench - a clear threat. It wants you *away* from this door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Once again, a nearby stichus hisses and snaps as you approach the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Before you can manage to get the door open, the stichus screeches and lunges toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You reach out to touch the door, and the stichus sprays a vile, choking cloud. Lightning arcs from its antennae, and it lunges to attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

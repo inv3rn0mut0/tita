@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_patrol_ambushed_again</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The first guard yells to the other one that they're free.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[The first guard urges the other one on, and tells him to run for it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[The guards put up a valiant fight, but in the end their wounds prove too grave, and the murdens hack them to bloody ribbons.
+
+The murdens must have their suspicions regarding how the prisoners escaped, as they quickly ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[The injured guard says he's not waiting another second in this cell, and sprints down the hall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[When he runs headfirst int othe murden sentries, there is a moment of total confusion on both sides before fighting breaks out.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The guard puts up a meager fight, being not only injured but outnumbered and unarmed, and the murdens take their time slicing him to ribbons.
+
+The murdens must have their suspicions regarding who set the prisoner free, as they quickly dart into the side room.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

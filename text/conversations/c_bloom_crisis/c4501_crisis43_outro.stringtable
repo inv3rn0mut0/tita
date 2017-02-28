@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_crisis43_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Congratulations! You have successfully defeated the Sorrow in the Memovira's Fortress!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[You used the Bloom to create a singularity that sucked the Sorrow away. It also destroyed a fair portion of the Fortress and hurt the people in it, so good job!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[You destroyed the vines that were holding the Bloom out of the tower. The Bloom swept in and got rid of the Sorrow personally (and also the Memovira, if she happened to be in there with you).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[You powered up the hyperdimensional shunt and managed to hit the Sorrow with it. Good for you!
+
+Of course none of this has been implemented yet, so I'm not sure how you actually did that...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[You will head to the Labyrinth (because: singularity; you died), and when you wake up, you and your (wounded) companions will be in Sagus Interior. There you will be lovingly told that the Sorrow can't be destroyed, you idiot, and you still have work to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The Bloom is without a Memovira now (or perhaps you're it). Regardless, you will need to find your way to Sagus Interior, because the First is still alive, and your work isn't finished yet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

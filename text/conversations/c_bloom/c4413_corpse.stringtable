@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4413_corpse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This little niche hardly seems worthy of its own Maw. It's an ancient place of cracked, hardened flesh.
+
+The pocket contains a single human skeleton, its legs partially consumed by the Bloom's wall. The bones have a metallic sheen, and a faint dusting of silver scales surrounds them. They look similar to fish or lizard scales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This skeleton has a metallic sheen, and it's surrounded by a faint dusting of silver scales. Its legs are stuck in the fleshy wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText> Follow-up PQ. 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You lift the skeleton a bit - it's far heavier than you anticipated, and it feels like you're lifting metal rather than bone. Underneath is a hammer of intricate design. The head glows dimly, and a golden chain dangles from its handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave the corpse alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Search the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Search the corpse again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You recognize the bone structure as that of a human female... though this woman was unusually tall, robust, and probably very strong. The bones suffered numerous fractures, but they were repaired by a silvery substance that fused them back together, stronger than before.
+
+It looks as though the silvery substance emerged from *inside* the skeleton, and it gradually replaced much of the original bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>He kneels down next to the skeleton, his practiced eye roving over it. "Human female. You can tell by the hips. But look here, she was strong - her shoulders are broad, and the wear patterns suggest she was a warrior. I'm seeing a lot of fractures, but the bones were repaired by this... silvery metal. And this is interesting. The metal came from *inside* the bones." He straightens up with a grunt. 
+
+"Whoever she was, I'd hate to get on her bad side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Nothing of value remains on or around the corpse. Even the silver scales crumble as you touch them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Take the hammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you lift the hammer, you feel a presence touch your mind, a clarion call of fame and power. The hammer's head seems to glow a little more brightly, and it crackles with electricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You find nothing of value besides the glowing hammer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>This skeleton has a metallic sheen, and it's surrounded by a faint dusting of silver scales. Its legs are stuck in the fleshy wall.
+
+You can still see a dimly glowing hammer underneath the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_wayward_son</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wayward Son</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Talk to Piquo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Help Piquo decide what to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Mother Temaz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Never Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Get Buff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Zero to Hero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sugar Daddy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mind Over Matter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Two Peas in a Pod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Have You Found the Changing God?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sucker Born Every Minute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Left Sagus after dealing with Piquo's problem (any way) but before telling Mother Temaz (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mother Temaz, an old midwife in Cliff's Edge, asked me to assist one of her wayward "children," a young man named Piquo who is struggling with a difficult choice. If I can help Piquo make his decision, Temaz will return a piece of my caul to me, fashioned into something valuable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I should find Piquo and tell him that Mother Temaz sent me. He's probably somewhere in Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Piquo is a scrawny and rather ugly mutant who has been mocked and tormented all his life. He has saved up enough shins for a single procedure at the chiurgical parlor, but he can't decide whether to improve his physique or give himself an attractive face. I could nudge him in one direction or the other... or advise him to do something entirely different.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mother Temaz will want to hear what I advised Piquo to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mother Temaz died when her house collapsed into the sea. Now I'll never be able to tell her what happened with Piquo or claim the reward she promised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I convinced Piquo to improve his physique at the chiurgical parlor. Now he's bigger and stronger than most of the men in the city. Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I convinced Piquo to fix the mutations that disfigured his face, and the procedure was a remarkable success. His new face is perfectly normal - you'd never guess that he is a mutant. Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I convinced Piquo to use his money to enjoy himself. After so many years of austerity, he seemed relieved at the prospect of having some fun. Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I convinced Piquo that he should use his shins to get an education at the Order of Truth. He was reluctant at first, but then he embraced the idea and set off for Government Square. Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I convinced Piquo to rejoin Crooked Qeek in the Underbelly. They were childhood friends, and they're the last survivors of their tribe, so hopefully they'll be a comfort to each other. Mother Temaz rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I convinced Piquo to give me his hard-earned money in exchange for membership in the Changing God cult. Mother Temaz gave me the reward she promised, but she was angry and wants nothing more to do with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Tybir and I conned Piquo into giving us all of his hard-earned money. We made vague promises about increasing his wealth, but we have no intention of seeing him again. Mother Temaz gave me the reward she promised, but she was angry and wants nothing more to do with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I've left Sagus Cliffs and any chance to reclaim a piece of my caul behind. Mother Temaz will have to find someone else to help Piquo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I handled Piquo's problem but didn't have the opportunity to speak to Mother Temaz before leaving Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Piquo admitted that he was born into a tribe of mutants who lived in Underbelly. His only friend was a girl named Crooked Qeek. He abandoned the tribe after his father was murdered, and he hasn't seen any of them since. I might understand his situation better if I try to find his people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Fulsome confirmed that Crooked Qeek, the fisherwoman, is from the same tribe as Piquo. She'd probably be happy to hear that he is alive and well. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Fulsome told me that Piquo's tribe is no more. The last survivor was Piquo's old friend, Crooked Qeek, but she was recently murdered. Piquo is on his own now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Crooked Qeek was excited and happy to hear that Piquo is still alive. She clearly misses him and wishes that he would return to Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>When I returned to the Underbelly, I found that Qeek had been murdered. Piquo is on his own now.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

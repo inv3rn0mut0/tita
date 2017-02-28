@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_piquo_cultist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>It's hard to recognize this cultist as the troubled young mutant you met on Cliff's Edge. He welcomes you with an untroubled smile. It is the smile of someone who has been given a new future and the promise that it will be a bright one. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Welcome back," he says, and blushes. "That was stupid, sorry. I wasn't here before, but I'm here now." 
+
+He hesitates, working up the will to speak further. "Thank you for choosing me!" he blurts at last, and turns a dark, mottled red. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He flinches from you as if scalded. 
+
+"Sorry. I'm sorry. I'll..."
+
+As he babbles, his hand drifts up, seemingly of its own accord, and slips over his mouth. He looks at the ground, and does not speak further. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>His face is now so red that it's a wonder there's any blood in the rest of his body at all. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"*She* didn't come for me," he says, scowling. "You did. If it wasn't for you, I'd still be stuck with a choice between two wrong paths. You put me on the right one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mother Temaz thinks I led you astray."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"We are better for having you among us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I don't recall giving you permission to speak to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You fold the boy into your arms. He stiffens, shaking against you. When you release him, he has tears in his eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Hug the boy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>::mumbles::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::sniffs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Thank you for sending me here," he says, lowering his head. "Thank you for helping me f-find my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>::sniffs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::sighs happily::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

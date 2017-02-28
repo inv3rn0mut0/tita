@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_silver_infoobject1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This machine's interface is more open than the other consoles in the room. A brightly polished cylinder stands upright at the tip of a spindle in the center. Thin slits are cut at regular intervals around the carousel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Spin the cylinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>An image made of light coalesces on the back of the spinning cylinder. 
+
+It takes the form of a large, brutish creature with enormous tusks - identical to the one in the tank behind you. Once formed, the creature animates and rises to its haunches. Motes of light swirl around its hands, and spill out to burst in a blinding display.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Glowing text appears above the image.
+
+"The leader of a Tusked Grorthas tribe can project charged particles. While dangerous, they are more often used for display than combat." 
+
+The creature in the image thrusts its tusks into the air. Another creature appears, lying down, glimmering blood oozing from a wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The remaining rings begin to glow and and expand outward. It grows large enough to cover the entire statue then stabilizes into a solid round gateway. Carved into the purple stone, you see an image of the thin man. On his left rests a pile of corpses. On his right a crowd of figures weep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The cylinder remains loosely perched and perfectly balanced on its spindle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The spindle is locked in place, and the cylinder will no longer spin.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_rhin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She is surrounded by shadows. She wraps her head protectively in her arms, but she is in tears. "Ahl!" she cries. "Help me!"
+
+She doubles over as though in pain. "Mother! Father! Where are you? I'm... I'm sorry. I'm sorry...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She ducks, still crying, trying to protect herself from the shadows that torment her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Rhin? Rhin, what's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Rhin, tell me what's wrong again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No, no, no, no, no..." She shakes her head, tears flying off in every direction. "Don't hurt me. STOP HURTING ME!"
+
+Although she seems only barely aware of you, she manages to lift a trembling finger, pointing at Tol. "I escaped," she sobs. "I escaped. I escaped..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Even as she screams and sobs, she manages to lift one trembling finger and point it at Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[She seems calmer now. You figure out something about her illusion and can now do something about it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"My family... I should never... should never have left them." She shudders with each thick sob. "They won't... take me back..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She shakes her head, but you can't tell if she's responding to you. "I'm sorry. I shouldn't have left. Please! Take me back!"
+
+She forces the words out between sobs. "I didn't mean... to hurt you.... I want... family..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"It's all right, Rhin. *I'm* your family now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'll help you find them, Rhin. We'll find your family together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"It's not your fault, Rhin. Your family abandoned *you*, remember? They never came."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She looks at you for the first time. "You..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She looks at you for the first time. "We... we will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She looks at you for the first time. "They... didn't? That's right. They didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Thank you for saving me. Now what?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Leave her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>::sobs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Come with me. We're going to stop the Specter and end this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wait in the Calm for now. I'll come for you if I need you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"All right. I'll be in... the Calm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh. Are you sure?" She looks at the others behind you. "You look like you have enough help already. I think I would just get in the way."
+
+Her gaze continues in the distance, towards the portal back to the Calm. "That's where you came from, right? I think I'll feel safer there. Come if you need me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She nods. "Right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"See you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Her mouth hangs open as she takes everything in around her. "This place is... amazing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"How are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She looks at you. "I'm all right. I do feel safe here, but I would feel better back in the... outside. The real world, I guess. I hope this is over soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'd like you to join me for this last fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"It's almost over. Take care, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Yeah. I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh. Are you sure?" She looks at the others behind you. "You look like you have enough help already. I think I would just get in the way. I feel safer here anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Okay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tol's gone now, Rhin. Are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The shadows begin to fade. With her eyes on you, she lowers her arms and stands straighter. She blinks three times, then looks around her in wonder.
+
+"It's the junkyard," she says. "But... not the junkyard. Where are we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Inside my mind. I think the resonance chamber trapped you in here somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"It doesn't matter now. We're together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"It doesn't matter now. I have more to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Her shoulders fall. "Oh. Well, what should I do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Her eyes widen even further. "That's... scary. So what now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>She leaps forward and wraps her arms around your waist. "Thank you. Again."
+
+She squeezes you tightly one more time and steps back, wiping the last tear from her face. "So what now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Her expression is carefully blank. "Right. Well, what now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"No, no, no, no, no..." She shakes her head, tears flying off in every direction. "Don't hurt me. STOP HURTING ME!"
+
+Although she seems only barely aware of you, she manages to lift a trembling finger, pointing at the woman leering at her. "Tol," she sobs. "But I escaped. I escaped..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

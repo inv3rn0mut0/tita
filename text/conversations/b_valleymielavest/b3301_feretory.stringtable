@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_feretory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The wind around this structure is oddly moist, and there is a smell you can't identify. An unfamiliar meat, perhaps, spoiling in sunlight. 
+
+And there is something else - an acrid, silent tingling, hanging in the air. The feeling of power, held in reserve.  
+
+{COLIN (and possibly others): Setting global here so the PC can ask other people about this weird thing, as described in the ZDD. May not end up being necessary, but seems like it'd be a good thing to have.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>One by one, the hairs on your arm rise as you approach the structure. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""
+{GAVIN: Gating this off for now. See ZDD text: "After the Crisis has been designed, there may be some foreshadowing that this SI can do as well, depending on the interactions in the Crisis."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Examine the structure. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Examine the structure again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You reach out to touch the sloping side, but hesitate. Strange. 
+
+The surface is smooth. Inviting, even. And yet, your instincts tell you that something within the structure *wants* you to touch it. To come inside. To yield, and fall to the earth, exposing your softest parts to-
+
+You stumble back, shaking your head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You stretch out your hand towards the structure, but still can't quite force yourself to lay your hand upon it again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Walk away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Yeah, you don't want to do that. None of us are sure what it is, or why the First left it behind. I *think* it's a last-ditch defense against the Sorrow if everything else fails. Others say different."
+
+She snorts. "Feels nasty enough, doesn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Touch the structure despite your misgivings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Gritting your teeth, you ignore the repulsive waves pushing at you, and firmly place your palm on the structure's surface. 
+
+Eyesight deserts you, and you fall, toppling into bottomless darkness, through clouds of slimy, probing bodies. They pry at your lips, suckle at the moisture around your lips, and scrape urgently at your eyelids...
+
+Something clutches at your heart and *crushes* it. It is the last thing you feel.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Daylight. Gasping, you open your eyes again without thinking. Your hand is still on the structure. You never moved at all.
+
+{SOUND: PC gasping for breath.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Touch the structure despite your misgivings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Let the structure kill you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Again, you force your hand through the repulsive waves and onto the structure. You go blind immediately, feeling yourself falling into a bottomless darkness through clouds of slimy, probing bodies.
+
+Something *powerful* crushes your heart within your chest, and then you feel nothing.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

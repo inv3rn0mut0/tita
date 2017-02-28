@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_memovira_post</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aligern looks around. "Not a bad place to call home, I suppose. You'd have to clean it up a bit, carry out some of the bodies..." He catches your look. "You're the new Memovira. The Bloom is yours."
+
+{SCRIPTER Aligern in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Callistege's voice is *hungry*. "Do you realize how much power is concentrated here? In so many dimensions, in so many realities, this place is a nexus... and its power is yours." She sees your questioning look and says, "You have become the new Memovira. Not merely a title - you are the speaker to the Bloom."
+
+{SCRIPTER Callistege in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"She's finally dead. Finally." She looks at you. "You realize that you're the new Memovira, yes? You've taken control of the Bloom. It's not just a title - you're the speaker to the Bloom, and it responds to you. But then we've got the matter of our sire to settle."
+
+{SCRIPTER Matkina in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Satsada speaks through Riastrad's mouth, her/his voice urgent: "My friend, my leader... the thrice-cursed Memovira held the device that shunted me aside from reality somewhere in the vault. I beg of you to find it, either on her person or in this tower. I long to be reunited with my love."
+
+{SCRIPT Riastrad in party, no shunt in possession}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Well, *that* was heroic. Heroic indeed!" Erritis looks around confidently, his glow bright. "Say, are you the new Memovira? I mean, you took control of its heart and now the old Memovira is dead and I think the way this kind of thing usually works is that you're the new Memovira. Am I supposed to bow? Because I don't usually bow to people." His voice drops to a whisper. "It's not very heroic."
+
+{SCRIPTER Erritis in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tybir makes an exaggerated bow to you. "M'lud, your faithful servant awaits." He has a gleam in his eye. "Just think of how much you can bring in now. You'll be able to finance anything you want, any - " He pauses, seeing your look. "You're the Memovira now, lad. Talk to the Bloom, take out the old leader... wait, is this the path for all Memoviras? You've got your work cut out for you, then."
+
+{SCRIPTER Tybir in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She scuffs her toe on the floor. "I guess that means we're not going anywhere else then? I mean, you've got to stay and look after the Bloom, right? Well, how about I make some gods for us and they can help us clean up? We'll be nicer rulers than the last Memovira was, right?"
+
+
+{SCRIPTER Rhin in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Satsada speaks through Riastrad's mouth, her words formal: "If we live by our honor, then I owe you my allegiance as the new Memovira. For my first boon, I ask that you aid us in undoing some of the harms of the previous occupant of your position."
+
+{SCRIPTER Riastrad in party, shunt in possession}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Not now, Satsada. We have more important things to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"All right. We'll find it. Give me a few moments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We have more important things to do do. We'll look around for a few more minutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"We'll let the Bloom run itself. I have too much to do. Let's take what we need and move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"If I'm the ruler, then I'll need a seneschal. I have other, more important matters to attend to. Tower: I am assigning authority to another individual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She is silent, but you see a flash of rage contort Riastrad's features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She replies, "Let me help you find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A smoothly mechanical voice speaks from the air, its tones pitched as if they were next to your ear: "The tower provisionally recognizes the authority of its new owner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>I'm the new Memovira? Interesting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The disembodied mechanical voice speaks again. "Provisional owner: please affirm the identity of provisional gatekeeper. Permissions will be applied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I name Aligern as my seneschal."
+
+{SCRIPT Aligern in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I name Callistege as my seneschal."
+
+{SCRIPT Callistege in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Riastrad and Satsada will govern jointly."
+
+{SCRIPT Riastrad in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Matkina will rule here in my name."
+
+{SCRIPT Matkina in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tybir, what do you think?"
+
+{SCRIPTER Tybir in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I give that honor to Rhin."
+
+{SCRIPTER Rhin in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Erritis will be my hero in the Bloom."
+
+{SCRIPTER Erritis in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Never mind. I appoint no one. Let's gather what we need and move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I declare Oom as the seneschal in my stead."
+
+{SCRIPTER Oom in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Thanks, but I'm not interested." He looks you in the eye. "I have a life of my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'm not asking, Aligern. You're in charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Actually, I'll appoint someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'm not traveling with you to be your convenient majordomo. I'm with you because I have things to find as well. I tell you now, you ditch me here, you're leaving this place free of a ruler, because I'm not staying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You *are* staying, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"No. Piss on you, piss on your quest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I hope the Sorrow annihilates you."
+
+{SCRIPTER: remove Aligern from party, path him to the door, and despawn}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The eyes of each of her dimensional shadows gleam. "You would grant me this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I can't think of anyone better suited. The Bloom's many paths should allow you to find an answer for your condition."
+
+{SCRIPT: Major Improvement for Callistege}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You can almost hear the tears in her voice. "I will not forget your generosity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I will explore the many facets of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Satsada's voice is pleading: "I do not think we can find our answers here. We are locked in our current states. You leave us here, and you leave us crippled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Too bad. I need a seneschal, and Riastrad has proven he can handle the Bloom, and you can deal with the administrative aspects."
+
+{SCRIPT: Major Abuse for Riastrad/Satsada}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Her voice lowers, quietly, accepting. "I hear you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Me? But who will help you find the First? Who will make our sire answer for his crimes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>He scratches his head. "Lad, you ask a lot of a fellow. I'd love to help you out here. In fact, I might know someone who'd be a better choice. I'd prefer to keep on your trail, keep you out of trouble, if you know what I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Me? But I'm just a child. I don't know anything about being a crime lord or the gross things that live here or the tongues that come out of the wall. How do I make it even talk to me like you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Your hero? This will be an adventure indee - " He stops suddenly, realization dawning on his face. "You're trying to get rid of me, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Oom turns its face to you, and a wave of sadness/regret/wounded-innocence pours from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Oom, this is for the best. I need you here. I *trust* you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Not at all, Erritis. I need someone brave and bold to handle the miscreants here. Who better than you?"
+
+{SCRIPT: Major Abuse for Erritis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"It's because you're a child that I think you're the best choice, Rhin. Perhaps your heart can help soften the lives of those who live here. And your innocence will keep the Bloom from devouring you."
+
+{SCRIPT: Major Abuse for Rhin }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I know what you mean, Tybir. But you know a lot of people, and this is an opportunity for you to know a lot more. This is your element - they'll be coming to *you* now."
+
+{SCRIPT: Minor Abuse for Tybir }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I will make him answer, Matkina. But this is how you build your organization - I am giving you a gift. You'll know soon enough whether I succeed in stopping the Sorrow."
+
+{SCRIPT: Minor Improvement for Matkina }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She studies your face carefully. "I almost believe that you're not trying to get rid of me. I almost believe you.  But fine. I'll handle the Bloom for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I don't suppose you'll let me call myself Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You raise a good point!" He thinks a moment, and then adopts a patently falsely cheery tone. "Then I'm your seneschal, mate!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You can trust me to get the job done right!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She looks away from you, but not before you see the tears streaming down her cheeks. "I don't want to do this, but I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Even my gods don't like it here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>His glow dims slightly. "I thought you were my adventuring friend, not my leave-me-all-alone-in-the-Bloom friend. That doesn't sound like much of a friend at all, actually. Not at *all*."
+
+But then he brightens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Maybe adventure will come to me! All right, I accept!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Oom coils into a compact ball and rolls over to your foot, where it extrudes tendrils to wrap around your leg. The emotion radiating from him is complex, but you can summarize it as: No way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"We will obey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"This could be a soft life for someone, a real sinecure. Of course, they'd be stuck here for good..."
+
+{SCRIPT: Tybir in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Someone gets to rule here in your name! And that means no more adventures for them!" He looks around. "That sounds pretty terrible, actually."
+
+{SCRIPT: Erritis in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You realize that whoever you choose is stuck here, right?"
+
+{SCRIPT: Aligern in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You would sacrifice one of your traveling companions to serve in the Bloom? Interesting. I didn't think you had it in you."
+
+{SCRIPT: Callistege in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Satsada speaks in your mind: "You would force one of your companions to remain here? I would not wish that service on anyone."
+
+{SCRIPT: Riastrad in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You want to get rid of one of us that badly? This is a permanent position, you know."
+
+{SCRIPT: Matkina in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Are you going to make someone stay here for good? That doesn't sound very nice."
+
+{SCRIPT: Rhin in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Oom shakes and quivers a bit, and a small pseudopod creeps out toward you, as if it didn't want to be parted from you.
+
+{SCRIPT: Oom in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_stichus_automaton</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The animated corpse of the stichus you unearthed towers above you, waiting for your commands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The reanimated stichus awaits your commands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the automaton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the automaton again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It isn't difficult spotting the additions that the Master Foreman's workers have made. Opalescent metal fills its wounds, and the mangled claw has been replaced with a mechanical one. Coils of ridged cables spring from patch to patch before plunging into its thorax. 
+
+Some of its eyes have changed as well. Faint, glowing lights blink from otherwise empty sockets. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dull light shines on the rainbow-sheened metal that covers the creature's wounds and on the cables connecting them. You aren't sure what the Master Foreman's workers have done to the stichus, but you can't deny that it worked. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Take me to the ledge in Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I want you to dig a tunnel to take me somewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>A shuttling click from the behind the creature's blinking eyes is your only response. You sense it is waiting for you to give it a destination.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You hear a soft, tentative clicking from behind the creature's flickering eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Take me to the sticha lair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Take me to the Changing God's sanctuary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Take me to the Cave of Last Words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>""
+{GAVIN: Write this later if character is added. Blank global gating node for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Actually, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The clicking behind the creature's eyes goes silent. It continues to regard you impassively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The outcast stichus in Cliff's Edge.
+{SCRIPT: Fade out, and take player to the above location.}
+{SCRIPT: Node is only available if the player knows the destination exists. Gated by blank global for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bank 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Wave your hand in the creature's eyes to see if there's any reaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Wave your hand in front of the creature's eyes again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The thing's pupils blaze brighter at the passage of your hand, but that's the extent of its response. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Its eyes blaze like distant coals, but the creature does not otherwise respond. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Ch'kekt's animated corpse towers over you, scentless and silent, waiting for your commands.
+{GAVIN: add this back if Ch'kekt can be converted.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>It isn't difficult spotting the additions that the Master Foreman's workers have made. Opalescent metals fill the wounds from your fight with the creature. Coils of ridged cables spring from wound to wound before plunging into its thorax. 
+
+You study Ch'kekt's face. Some of its eyes have been scooped out and replaced with blinking lights.
+{GAVIN: add this back if Ch'kekt can be converted.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A brief wave of unspeakable malice crosses the thing's face. It remembers you and what you have done. It *hates* you... but it cannot disobey your commands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Leave the automaton alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText> Follow-up PQ. 34</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Just start digging in a random direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Can you just start digging in a random direction?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The automaton's claw flexes, but it does not respond. Or move.
+
+It seems you'll need to give it a specific destination that can be reached from underground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The creature does not move. You'll need to have a destination in mind before it starts digging. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"There's an outcast stichus in the dump behind the Fifth Eye. I want you to dig a tunnel and bring it safely back here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The automaton regards you for a long moment. Its mechanical eyes sockets flash in a cascade, up and down, as if it cannot quite understand what you are asking it to do. Finally it turns and burrows into the rock...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>A short time later, the automaton returns, and the outcast stichus is following close behind. The smaller creature scuttles a short way down the tunnel, edging past the automaton as quickly as it can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Take me to the sticha lair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Take me back to the sticha lair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Take me to the Changing God's sanctuary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Take me back to the Changing God's sanctuary."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_mere_tank</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As soon as your hand touches the glass, a surge of energy flows into your body - the power from each of the five Tidal creatures, and the choices you made.
+
+As hard as you try, you cannot contain the massive wave of power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>There is nothing inside this tank but a thick fog. Cables connect it to the other tanks in the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You touch the glass, and a burst of force surges from the body's tattoo. The fragments of the Sorrow screech in pain as it strikes them, destroying them or driving them away.
+
+More and more waves of force wash over you, overwhelming you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>More and more waves flow through you, overwhelming you.
+
+Then the tide turns. The energy is no longer pushing but *pulling*. It draws you inexorably toward the chamber. Then somehow it yanks you *through* the glass, filtering your essence like a psychic sieve. A blinding light shines at the end like a tunnel and then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can't complete the attunement process for you, child. You must do it yourself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You must attune with the creatures first. And it must be *you* that activates the chamber, not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Scintillating color writhes along the facets of the crystalline chamber. It seems ready for you to enter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Place your hand on the surface of the tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Turn your attention back to the Sorrow fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The tank continues flowing with brilliant, colorful energy. A low hum reverberating in your mind draws you to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Let the power flow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Try to direct the power at the fragments of the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>A burst of force surges through your arm, into your head, and out. The fragments of the Sorrow screech in pain, fleeing the laboratory in every direction.
+
+{SCRIPT: When more fathoms are designed, this choice might have reactivity. For example this way there are more fragments in the Fathoms but they are weaker, while the other way has fewer but stronger fragments. Just as an example.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A burst of force surges through your arm, into your head, and out. You direct it at the Sorrow fragments, destroying some, sending others screeching in pain, fleeing the laboratory as fast as they can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Enter default mere]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

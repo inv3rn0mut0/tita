@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_anechoic_lazaret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Anechoic Lazaret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Enter the Anechoic Lazaret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Descend to the lower level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Clear out the "Peerless" infestation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Salimeri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Anechoic cleanse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Left Sagus after cleansing the Lazaret but before reporting it to Salimeri</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Salimeri, an old friend of the Changing God, has been investigating a gilded structure in the Reef of Fallen Worlds, which she calls the "Anechoic Lazaret." Recently, someone seems to have broken inside and caused some sort of trouble. She asked me to enter the structure, find out what has gone wrong, and make it safe to continue her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The Lazaret is an ornate, gilded structure in the Reef of Fallen Worlds. Salimeri gave me a metallic eye that should serve as a key to open its door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I entered the upper antechamber of the Lazaret. The source of the disturbance is probably on the level below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The ancient structure has become infested with mechanical drones, each of which refers to itself as "Peerless." It won't be safe for Salimeri to work here until the hostile drones are destroyed, Peerless is purged from the internal systems of the lazaret, and I've dealt with the source of the infestation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've destroyed all the Peerless drones, and the Lazaret appears to be safe again. Salimeri will want to hear what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I destroyed all the Peerless drones in the Lazaret. Salimeri seemed pleased (though she's hardly an effusive woman) and gave me a reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've left Sagus Cliffs, and don't know that I'll be returning. Salimeri will have to find someone else to finish investigating the Lazaret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I've left Sagus Cliffs, and doubt I'll return soon. The Peerless drones in the Lazaret have been destroyed, but I didn't get a chance to inform Salimeri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Qorro asked me to tell Salimeri that he helped clear out the Lazaret. I promised him I would.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

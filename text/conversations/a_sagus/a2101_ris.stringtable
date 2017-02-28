@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As the levies march off and the crowd disperses, Ris steadies himself, not quite recovered from his ordeal. Finally he raises his head and focuses on you. "If you're the one who got me out of that nightmare, thank you, but where's that...?"
+
+His eyes settle on Tybir. "There you are, you slippery bastard! Now, where's the money? If I went through that hell for nothing, I'll..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He looks beyond you, searching for another face. "But where's that...?"
+
+His eyes settle on Tybir. "There you are, you slippery bastard! Now, where's the money? If I went through that hell for nothing, I'll have your head!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He looks beyond you, searching for another face. "But where's that slippery bastard, Tybir?"
+
+{GEORGE: Is there any way that Tybir would not be present for this dialog?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He steps back, spreading his hands. "Er, yes, about the money. You see, Ris, I was hoping to get a reward for turning in the fellow who sold us that brandy without telling us about its secrets, but-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"But?" Ris snarls. "There's always a 'but' when it comes to money, isn't there? I should have known! You only said you'd pay me so I wouldn't squeal on you, and you only saved my skin to save your own!"
+
+He smacks his fists together. "Now, am I going to have to fight through your friend to get to you, or are you going to step out from behind him and take it like a man?"</DefaultText>
+      <FemaleText>"But?" Ris snarls. "There's always a 'but' when it comes to money, isn't there? I should have known! You only said you'd pay me so I wouldn't squeal on you, and you only saved my skin to save your own!"
+
+He smacks his fists together. "Now, am I going to have to fight through your friend to get to you, or are you going to step out from behind her and take it like a man?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Calm down, both of you. Ris, tell it from the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"This is no fight of mine. Work it out yourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I don't have time to listen to this. Farewell, both of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tybir gives Ris a salute, then turns to leave with you. "Safe travels, Ris. I hope I'm more grateful if you ever save my hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He calls after you as you turn away. "Wait! Let me come with you! It sounds like I'm going to need someone watching my back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ris spits, then wipes his lips. "There isn't much to tell. Captain Silvertongue here talked me into a dirty job, then disappeared like an abykos and left me holding the bag when it all went sour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Good," says Ris, and steps nose to nose with Tybir. "Now, Captain Silvertongue, why don't you tell me why you left me holding the bag when the levies started pounding on the door. Like a damned abykos, you were. Just vanished into thin air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, Ris," says Tybir. "Can you blame me for running when I had a chance? You would have done the same. And besides, if I hadn't, we would have both been sentenced to die, with no one to free either of us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"This isn't over, Tybir! I'm getting the money you promised me if I have to beat it out of you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"How embarrassing," he chuckles, without turning back. "The boy is babbling. I never promised him any money." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You're dead, Tybir! Do you hear me? Dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He stabs a finger in Tybir's face. "You only wanted to free me because you knew you'd be next on the block once the Devourer ate me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How would the Devourer of Wrongs know that Tybir was involved?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What was the job?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The Devourer would have found you guilty, Tybir? Is this true? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"So, what do you intend to do about this, Ris? Is this going to be a fight?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The Dendra O'Hur," says Ris, "consume our memories with our flesh. They know everything by the time they've finished eating us, and Tybir knew I'd have plenty of memories of *him*, didn't you, you coward!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tybir *said* we were transporting black market booze to M'ra Jolios. But he *didn't* tell me that he'd hidden state secrets in one of the bottles using some liquid numenera trick... which turned a slap-on-the-wrist crime into a damned death sentence!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"As far as it goes. He *would* have learned about me if he had eaten Ris, and I *did* manage to escape the levies when they showed up looking for us, but I didn't abandon you, lad!"
+
+He puts his hand to his heart. "Ris, I escaped the levies and saved you from the Devourer of Wrongs because I love you and did not want to see you die. You have to believe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He looks like he's seriously considering it, but then shakes his head. "Not now. Not alone. But I know a few others who the captain owes. Now that he's rich, we might make a party of it one night."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Who are the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Cultists who eat human flesh to gain the wisdom of the dead." Ris shivers. "The city's been using 'em as post mortem judges for years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Death sentence?" Tybir says, with an uneasy grin. "You're alive, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He glares at Tybir from under lowered brows. "That's as may be, but you certainly seemed to know when the levies were going to come calling."
+
+He looks at you. "The Council somehow got wind of the deal and came after us. Funny how I was the only one home when they knocked on the door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Do I?" Ris says, cracking his knuckles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He chokes with emotion. "A whole day, Tybir. I spilled my guts up there for a whole day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He chokes with emotion. "Two days, Tybir. I spilled my guts up there for two whole days! There's hardly anything left of me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He chokes with emotion. "Three days, Tybir. I spilled my guts up there for three whole days! I feel like my brain has been scooped out with a spoon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ris," says Tybir. "You don't know what you're talking about. I never got paid, I promise you." 
+
+He looks at you imploringly. "Please, friend, if you're planning to leave town soon, I'd be much obliged if you could take me with you. This misunderstanding is going to get me killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Don't worry. I'm not leaving you behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'll think about it, and I might return for you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"This has nothing to do with me. You're on your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Thank you, lad," says Tybir. "Then let's be off, eh? I don't care for the smell around here."</DefaultText>
+      <FemaleText>"Thank you, lass," says Tybir. "Then let's be off, eh? I don't care for the smell around here."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He swallows. "If there is a 'later.'"
+
+He leans in and whispers to you, "Er, I'll be in the Caravanserai if I survive. Thanks again," then turns and sprints for the shadows with Ris bellowing after him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What? After all we've been to each other? A fine friend you turned out to be!"
+
+He flashes you a rude gesture, then turns and sprints for the shadows with Ris bellowing after him.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Thank you, friend," says Tybir. "You're a miracle. But, er, let's be off, eh? I don't care for the company around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"All right, come on. I'll keep you safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sorry. You don't seem an ideal traveling companion after all. You're a marked man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What? You're giving me the boot? Now? A fine friend you turned out to be!"
+
+He flashes you a rude gesture, then turns and sprints for the shadows with Ris bellowing after him. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>As you approach the boarding ramp of Rennio's ship, a group of tough-looking men and women approach from behind you. Leading them is Ris, who gives Tybir a mocking salute.
+
+"Hello, Tybir. Leaving town? My friends and I would like the money you owe us first."
+
+{SCRIPT: This starts as a cut scene. Ris and his goons approach from behind.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He takes an involuntary step back. "Please, lads and lasses. I don't know what Ris has told you, but I promise you, I was never paid for the job. I don't have any money, and beating me won't change that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Don't believe him, helpmeets. He's never spoken a true word in his life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"He will when I get through with him. Take him."
+
+{SCRIPT: Hasgild speaking}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Tybir turns to you, pleading. "Lad, please. I'm all out of tricks. Say something. Get me out of this!"</DefaultText>
+      <FemaleText>Tybir turns to you, pleading. "Lass, please. I'm all out of tricks. Say something. Get me out of this!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"If you want shins, take this!" Throw [Global: a2101_RisThrownMoney] shins on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Captain Tybir is under my protection. Do you want to face the wrath of the *Changing God*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You're right, friends. An injustice has been done. Let's call the Levies and sort it out." You raise your voice. "Levies! Help! There is a crime happening here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"That makes no sense. If Tybir had any money he would have left long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Attack] "If you threaten my friends, you threaten me. See if you can take him."
+
+{SCRIPT: Initiate combat.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I don't need this aggravation. You're on your own, Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ris sneers. "If you think we can be bought off so easily, you're sadly-"
+
+One of the toughs makes a run for the shins. Then another. Ris spins around. "Hey! Stop that! That's not nearly enough! We-"
+
+The rest pile in, all fighting for the scattered coins. Ris groans in frustration, then dives in after them. 
+
+{SCRIPT: Ris and the toughs scramble in the middle of the space and pay no more attention to the PC or Tybir. The party should now board the airship and leave Sagus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ris looks around in alarm. "The Levies? Where? Scatter, helpmeets! Scatter!"
+
+His companions are already running. He joins them. 
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ris folds his arms. "Well, he's leaving now. So...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Get 'em, helpmeets!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Some of that's mine, you chew rags!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Come back here, you cowards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wait for me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"He's leaving now because I'm paying his way. He's got nothing to give you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I cannot defeat your sterling logic. He's yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"So if you want him, you'll have to fight me too." Attack Ris and his friends. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ris frowns, working it out in his head. "That makes sense, I guess. I still want to beat him."
+
+But there are rumblings from his companions. One says it's not worth the risk of getting arrested for fighting if Tybir's broke. 
+
+Ris sighs. "Fine, but when you come back, Captain, you better be flush. That's all I can say."
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Now get out of my city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What? After all we've been to each other? A fine friend you turned out to be!"
+
+Tybir flashes you a rude gesture, then turns and sprints away with Ris and his companions bellowing after him. 
+
+{SCRIPT: Ris and the toughs chase Tybir out of the space and pay no more attention to the PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ris, you don't know what you're talking about. I never got paid, I promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Fine... but I expect you to pull your weight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Naturally!" he says with a wink. "I'm the fellow you want at your back in a fight, and I have a lot of low friends in high places."
+
+He squares his shoulders. "Things always go more smoothly with Tybir along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm with Ris on this, Tybir. You should make amends to him. He's the one who has suffered here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's right," Ris snarls. "And you can start by giving me my share of the spoils!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ris sneers and looks back at his companions. "He's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, he's not the Changing God!"
+
+They don't listen. He chases after them.
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</DefaultText>
+      <FemaleText>Ris sneers and looks back at his companions. "She's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, she's not the Changing God!"
+
+They don't listen. He chases after them.
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Ris and his companions laugh. "He's not the Changing God. He's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, him for gullibility."
+
+
+{SCRIPT: Initiate combat.}</DefaultText>
+      <FemaleText>Ris and his companions laugh. "She's not the Changing God. She's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, her for gullibility."
+
+
+{SCRIPT: Initiate combat.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Ris sneers and looks back at his companions. "He's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, he's not the Changing God!"
+
+They don't listen. He chases after them.
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</DefaultText>
+      <FemaleText>Ris sneers and looks back at his companions. "She's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, she's not the Changing God!"
+
+They don't listen. He chases after them.
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ris and his companions laugh. "He's not the Changing God. He's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, him for gullibility."
+
+
+{SCRIPT: Initiate combat. PC starts at some kind of disadvantage. Low initiative?}</DefaultText>
+      <FemaleText>Ris and his companions laugh. "She's not the Changing God. She's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, her for gullibility."
+
+
+{SCRIPT: Initiate combat. PC starts at some kind of disadvantage. Low initiative?}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He breathes a sigh of relief. "Thank you, lad. I owe you one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Script Node 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"This isn't over, you self-serving bastard." Ris jabs a finger in Tybir's face. "Hide behind your friend if you like, but he won't keep you safe forever."</DefaultText>
+      <FemaleText>"This isn't over, you self-serving bastard." Ris jabs a finger in Tybir's face. "Hide behind your friend if you like, but she won't keep you safe forever."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

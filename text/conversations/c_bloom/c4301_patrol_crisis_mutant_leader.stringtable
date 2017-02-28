@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_patrol_crisis_mutant_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You'll die the way you were born, human - screaming and covered in blood!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You focus on the thorn-covered mutant and the weight of your gaze turns his head. "What do you want, human? You want in on a long-due bloodletting? You'd better talk fast. We're itching to get started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"These trespassers are going to die, bloody and painful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Can't hold back the wrath of the mob much longer. You want to talk? Make it fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Can't say I much care for these humans' presence. We'll be shed of them soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The spine-covered mutant's eyes remain focused on the Memovira's enforcers, his mouth drawing thinner and thinner.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ask the mutant leader how the situation started.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He coughs a bit, a wet hack, and says, "We make this route every month. We're collectors. It's our job to bring in revenues for the Memovira from her loyal subjects - " He pauses as the mutants break out raucous, derisive laughter, and continues, " - but they laid for us, and got the jump on us as we got into Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ask if the Memovira is sending any back up, subtly leading the guard to agree.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>["Ah... yes, of course. The Memovira keeps a close eye on her patrols. A squadron of killers is on their way now."]
+
+{SCRIPT: Makes easier to convince mutants to back down}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I... don't know. The patrol schedules have been spotty lately, and we had another one go missing just the other day - " He clamps his mouth shut. The mutants leer appreciatively at this newfound alibi, and the enforcer hastily adds, "-but the Memovira spared no expense to find them."
+
+No one believes him.
+
+{SCRIPT:  Add a negative asset to the tasks to convince the mutants to stop. The player just inadvertently gave them an alibi to attack these guys.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Ask what the Memovira does with the taxes the guards collect.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"She pays us, mostly. And the mercenaries who come through the maws, and the bribes to the Sagus Cliffs officials... but of late she has been falling farther behind. I heard she's fixing up old weapons, powerful numenera. I've heard rumors of what they do, and I'd not want to be on their receiving end." He swallows and looks at the mutants around him. "Like as not she'll want vengeance if we fall."
+
+{SCRIPT:  Add an asset here that makes convincing the mutants to back down a little easier, as they've just learned the Memovira potentially has access to some crazy superweapons.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Attack the mutants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You'll die with this lot, you carking soft-flesh skist-eater!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Turn away from the mutant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Script Node 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The Memovira's goons aren't welcome here anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Take your poxy hides and get gone, human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"We're not paying a thin shin more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The Memovira's taken her last taste of Little Nihliesh. She'll get nothing more from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You'd best leave now, else you're like to witness some violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Help us kill them or leave, humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Script Node 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Get out of the way or it'll be your blood shed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"We'll dine on human flesh tonight!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You want to share their fate? Get with us, or get out *now*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>He snorts. "They came to collect their protection money for the Memovira. But the Memovira can't enforce anything. She's weak. Everyone knows it. Look at these poor specimens. They can't even protect *themselves*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Take a side, human. It's not too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Thanks for your help, human... even if we didn't need it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ally with the mutants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"It's the right decision. A word of warning - the Memovira outfits her people with strange cyphers. Be wary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ask who is in charge of this area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>This arouses tight laughter from the assembled mutants. "You'd recognize Gar-koto if you saw it. Our prince lives in the tank in the center of Little Nihliesh. Not big on mobility, our prince." Laughter resounds again, and then the mutants focus on the enforcers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Ask what kind of leader Gar-koto is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The thorny mutant steps back a moment. "Gar-koto is wise. Gar-koto is crafty. Gar-koto thinks in circles and in mazes to find the best results for our people. Gar-koto almost never takes direct action. Says that hasty choices become their own legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Remind the mutants that Gar-koto would likely not approve starting a war with the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Weeell... the prince did tell us to keep to ourselves, heads down-like. Gar-koto might be angry if these goons die."
+
+The mutant's eyes soften slightly, but his thorny fists remain clenched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>His eyes go steely. "The prince tells us to keep our heads down, but he ain't here and these bandits are. Gar-koto might be angry if they die, but... there's no use crying over spilt blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ask how the Memovira might retaliate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>They burst out into laughter, and their thorned leader replies, "What *can* she do? The Bloom is done with her. Her grasp be weak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"She might indeed send backup. And they might indeed kill us. But at least we won't be paying her blood money. Am I not right, friends?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"She might have some tricks hidden away. Then again, maybe not. We're willing to risk it to be free of these villains. Am I not right, friends?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Urge the mutants to keep the Memoviras' patrol alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The mutants' leader looks at his fellows and back at you, and he makes some calculations. "As you say," he replies, scowling at his companions. He says to them, "These are deaths we can save for another time, aye? No point in bloodshed with outsiders witnessing."
+
+They too look at you, and some unspoken agreement fills their eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The mutant raises his chin imperiously. "Why? What good does keeping them alive do *us*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The mutants' leader looks at his fellows and back at you, and he makes some calculations. "We understand you want to stay on the Memovira's good side," he replies. "But this has to end. Unless you can think of another way, we've got to put them down before they steal the last shin in Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Script Node 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The human sergeant wastes no time. "My thanks," he says over his shoulder as he hustles his troop toward the exit. "We won't forget this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Offer to pay to let the humans go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The angry look in the mutant leader's eye fades. "For the right price, maybe. You and your crew scrounge together what you can and we'll talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Offer [Global: c4301_AmbushBribeLowball] shins to let the humans go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He laughs, the sound like wind through leaves. "Look at their purses. They carry that much at least, and nothing will stop us from claiming it from their corpses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Offer [Global: c4301_AmbushBribeStandard] shins to let the humans go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You're on the right track, traveler, but my purse is flat and hungry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Offer [Global: c4301_AmbushBribeHighball] shins to let the humans go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He doesn't even bother consulting with his companions. "Deal. Give me the shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Try to convince the mutants that [Global: c4301_AmbushBribeStandard] shins is plenty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He shakes his head. "But you have the right of it. Why risk our necks when you offer this to us? Hand it to me."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"It would be plenty, but my friends have a taste for blood this day. Maybe if you offered more... otherwise I can't speak to the health of these humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Threaten them into taking [Global: c4301_AmbushBribeStandard] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Thank you, traveler. It's not every day a human actually supports us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Script Node 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>You'd be hard-pressed to call this a fight. 'Slaughter' would be a better term. The mutants make short work of the enforcers, and then they strip the remains of anything valuable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Gar-koto wouldn't like us killing travelers. That's the only reason you're still alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Script Node 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Thank you, traveler. It's not every day a human actually supports us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Bah! Enough of words! Let's taste *blood*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Script Node 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The mutants no longer look to their thorny leader. They're watching you - they want to avoid violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The mutants trust you now. It may be your only chance to resolve this without violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Bank 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>The eyes of the mutants no longer glower at you. Indeed, they almost seem intrigued.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>With a few more well-chosen words, you might manage to avert bloodshed here today.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The atmosphere of rage and hate seems to be fading. You even see one of the mutants smile... at least, it looks like a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You're earning the mutants' trust, but you could still lose them if you make an error.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The mutants are notably less hostile than they were. You might manage to escape the situation without bloodshed if you play this right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The mutants regard you with disgust and cynicism, but their bloodlust seems to have abated... slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Bank 99</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Skepticism and distrust mar the mutants already unpleasant faces. They don't know or trust you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The mutants grumble at you, cursing your intervention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Try to convince the mutants that [Global: c4301_AmbushBribeStandard] shins is plenty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Persuade the mutants to let the humans go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The mutants' leader looks at his fellows and back at you, and he makes some calculations. The spines on his face pull in as he grimaces. "No. There's nothing for it. You lot are kind to talk to us as equals, but these carkers never will. This is the only way."
+
+He draws his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>As you flee into the tunnel back to the Vast Interior, you hear bones splinter and anguished cries. You'd be hard-pressed to call what happens a fight. 'Slaughter' would be a better term. 
+
+The mutants make short work of the enforcers, and then they strip the remains of anything valuable. They walk off laughing, sharing stories of their part in the murder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>As the light fades and you feel yourself pulled to the Calm, you hear bones splinter and anguished cries. You'd be hard-pressed to call what happens a fight. 'Slaughter' would be a better term. 
+
+The mutants make short work of the enforcers, and then they strip the remains of anything valuable. They walk off laughing, sharing stories of their part in the murder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Script Node 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4602_stasis_pod</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rings of energy pulse around the stasis pod. There appears to be nothing inside it, but a control interface hovers a few centimeters off the surface at one end of the pod.
+
+Surprisingly, the words on the interface are written in the Truth, and you can understand them. There are several options, but most of them are dimmed out. The only two functioning options are "Check Status" and "Access Data."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The stasis pod is dull and lifeless. There is no visible way to activate it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the pod alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A control interface hovers a few centimeters off the surface at one end of the pod. The only two functioning options are "Check Status" and "Access Data."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Press "Check Status."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Press "Check Status" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A picture of the pod appears. The lid on the image is closed and flashing red. Several other places on the image of the pod flash red as well.
+
+The text says, "Stasis pod empty. Error: Self-diagnostic failed. Cannot open stasis pod. Primary functions offline. Data integrity: 67%."
+
+{GEORGE: The text is written such that the player doesn't get any ideas about opening or using it, HOWEVER if we ever have need of a stasis pod in a side quest, we could open this up to be of use elsewhere. Alternatively, this thing could actually have been used to incubate synthetic living crystals, or even to hatch the crystalvores. -JF/AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A picture of the pod appears, with several portions of it flashing red.
+
+The text says the same thing as before: "Stasis pod empty. Error: Self-diagnostic failed. Cannot open stasis pod. Primary functions offline. Data integrity: 67%."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Press "Access Data."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Press "Access Data" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A list of records appear. Several of them are crossed out with the word "Corrupted" next to the name. Most of the functioning records are mundane, like system integrity results or lists of lab equipment.
+
+But there are a number of functioning, dated records labeled "Experiment notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A list of several records appears. Many of them are corrupted or mundane, but there are a number of functioning, dated records labeled "Experiment notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Access the first experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Access the first experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Preliminary investigations suggest that Mazzof was correct. The crystals of the Ascension bear the properties we require to complete the resonance chamber. The Annulet proved invaluable in reaching this place and may have other uses besides, so it will be some time before I can return it to Dracogen. Much more experimentation is required before I can know for certain whether the Ascension holds what I seek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Access the second experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Access the second experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The secretions of the crystalvore are one of the few substances I've found that can eat through the living crystal of the Ascension. I have had several larvae brought here for that purpose. Dracogen exudes patience with regard to the Annulet, but I've dealt with other Dracogens before. He will only remain patient for so long before he decides I have cheated him. No matter. I fear the Sorrow more than I fear *them*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Access the third experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Access the third experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I have several experiments running simultaneously while I wait for the crystal to grow. True to their name, the crystalvores have proven quite adaptable to this environment and invaluable to this part of the process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Access the fourth experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Access the fourth experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Several of the crystalvore larvae hatched prematurely and escaped. It's unclear how it happened, but I suspect that *someone* came looking for the Annulet while I was buying supplies in Sagus. No doubt they tampered with my machines in their efforts to find it."
+
+The voice sighs. "To prevent further sabotage, I have placed the Annulet and the remaining larvae behind an energy field. The power generator can open the field, but it now requires a passcode sequence to ensure there is no further tampering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Access the fifth experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Access the fifth experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The escaped crystalvores are growing and *breeding*. They now constitute a serious threat to my work."
+
+He pauses. "I've built a device to emit sound waves at a very specific frequency, lulling the creatures into dormancy. So far, it appears to be an effective countermeasure, but I shall have to keep careful watch to be sure. I must also make sure that the power generator does not experience *any* interruptions lest they wake again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Access the sixth experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Access the sixth experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The voice speaks between ragged breaths. "This will be my last entry. Dracogen's patience has worn thin, as I knew it would. His agents are outside and will no doubt break through my defenses momentarily. If they do, I will have to abandon this body. I don't know when I'll be able to return, but I am -"
+
+The voice cuts off. There is no more of this entry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Access the seventh experiment note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Access the seventh experiment note again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>A male voice reverberates through the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Close the list of records.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The list of records vanishes. The original list of options appears, with "Check Status" and "Access Data" being the only functional choices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I am not foolish enough to record that sequence here, but should something happen to me such that I forget... the three geodesics through the barycenter are the key."
+
+The voice says nothing more. If that was supposed to be a hint, its meaning is unclear. Perhaps it would make more sense when looking at the power generator itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>It is the same voice as the other entries, but it sounds different - shaky, uncertain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I... I don't know what's happening. I woke in this cave, surrounded by angry men demanding something called an 'Annulet?' I don't know what it is, but... they attacked me. I didn't know what to do, so I... I fought back. I *killed* them. The blood... it's everywhere. Some of it's mine, but most of it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I found these notes afterwards, when I was trying to figure out what was happening to me. I couldn't figure out how to retrieve the Annulet, but those men were sent by someone called 'Dracogen.' I don't know what any of this means. I'm going to find out, but I'm leaving this message in case I don't make it back. I don't know who will listen, but... well, I figured I should leave something of *me* in here. Somewhere. In case I don't get very far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>An unfamiliar male voice reverberates throughout the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The voice on this entry is the same as the other entries, but it has none of the confidence from before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"The Ascension natives may prove useful as well. I had ignored them initially, for although their Speaker is capable of cogent communication, it has proven useless in providing any real information. However, I have since seen other natives accomplishing some remarkable feats with the crystal itself, so I captured one for study. We shall see if there's more I can learn from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I am not foolish enough to record that sequence here, but should something happen to me such that I forget... the three geodesics through the barycenter are the key."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

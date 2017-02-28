@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3302_melmoth_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Melmoth gnaws at his lower lip. Blood trickles from his lacerated flesh, but he doesn't seem to recognize the pain. He stares blankly at the destruction around him, his eyes flat and distant. He glances at you momentarily. It seems he hardly recognizes your presence.
+
+"It's here," he whispers. "So this is our doom. All of our lives have been leading to this moment. We cannot escape that."
+
+He gestures you away, not looking at you. "Run if you like. I accept our fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[response 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[response 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Refusal to leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Challenge his defeatist attitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ask him for a piece of flesh to return to the Dendra O'Hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Turn away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A knife appears from a fold in Melmoth's robe as if conjured. A flick of his wrist and blood sprays from his right hand. He hands you a finger, wet and warm. "Give this to my brothers so I might live on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Melmoth glances at you briefly, and then turns back to the flames. "Memories? My life has been a futile pursuit of memory. Look at that. All is dust and ashes, meaningless. We vanish under the grinding wheels of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Do you think to dissuade me?" He shakes his head. "Fruitless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He tears his eyes away from the flames to stare at you. He coughs a bitter laugh. "Hope is the folly of youth... but if I die here, all my life's work is for nothing. Might as well try, is that what you're saying? See if I can scratch out a few more years? Or least make sure someone else can scratch out a few more of their own. Fine. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Melmoth glances at you briefly, and then turns back to the flames. "If I fled now, would not the Sorrow find me someday anyway? My life has been a futile pursuit of memory. All is dust and ashes, meaningless. We vanish in the fires of time, our histories strewn into the uncaring sky. I will not leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Agree with him. He is right to surrender.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>His voice grows sharper."Of course I'm right. I've had years to imagine what I would do if I encountered the Sorrow. Not once have I seriously considered *fighting* it." He flaps his hand at you.
+
+"Go. Be heroic. But know that death comes for you in the end. Always. The evidence is *here*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I've told you already - I will not flee what cannot be outrun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You've convinced me. I will fight on and try to live another day. I must, at least to ensure my brethren have a chance to sample my flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Leave me. Our death is fated, and even you cannot change that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Script Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Nothing can be done now. Don't waste your time. Go off and be someone else's hero."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_pc_killed_by_tol_maguur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You rise through the dark, through the crackle of healing bone, the whisper of mending flesh. Beyond that grotesque symphony, you hear the faint voice of a child calling for help. But it is too far away to understand the words.
+
+You open your eyes. Imbitu, the elderly leader of the Dendra O'Hur, is inches from your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Welcome back, welcome back," he says. "A woman left you with us. Messy hair. Lovely mask." He leans in still further, lowering his voice. "Do you know, I think she *killed* you?"
+
+He straightens. "She left you a little message. Let me think. Ah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Imbitu closes his eyes and recites Tol Maguur's message from memory. "'I could have destroyed you. Remember that. Don't come looking for me or the girl. You won't see either one of us again.'"
+
+Imbitu frowns. "Oh dear. That does sound rather grim, doesn't it? What an unpleasant person." He pats your knee with a bloodstained hand. "Well, today is a new day and all that. On your feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Imbitu closes his eyes and recites Tol Maguur's message from memory. "'I could have destroyed you. Remember that. Don't come looking for me. We won't see each other again.'"
+
+Imbitu frowns. "Oh dear. That does sound rather grim, doesn't it? What an unpleasant person." He pats your knee with a bloodstained hand. "Well, today is a new day and all that. On your feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>::cheerful humming::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

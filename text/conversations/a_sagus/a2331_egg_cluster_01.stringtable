@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_egg_cluster_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As |you|[Actor Name]| |approach|approaches| this cluster, the mortared limbs creak and shake a few millimeters. The smells of dust and fungus |seep|seeps| into |your|his| nose. At a level almost below hearing, clicks and rumbles quiver from deep within the mass.</DefaultText>
+      <FemaleText>As |you|[Actor Name]| |approach|approaches| this cluster, the mortared limbs creak and shake a few millimeters. The smells of dust and fungus seep into |your|her| nose. At a level almost below hearing, clicks and rumbles quiver from deep within the mass.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Faint clicks and a musty scent rise from the egg clutch. Gentle tremors shake its structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Take eggs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Destroy eggs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave the nest alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>A mound of chitinous plates bulges with cloudy amniotic fluid. In the center, a cluster of leathery-shelled eggs the size of a fist lie intertwined, coursing with electricity. Antennae protrude near one end, and calcified joints curve inward near the other. 
+
+The nest shares many features with the other sticha, but the anatomy has shifted and expanded to protect its gestating embryos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>As you approach this cluster, the mortared limbs creak and shake a few millimeters. The smells of dust and fungus seep into your nose, suggesting a sense of curiosity tempered by unease. At a level almost below hearing, clicks and rumbles quiver from deep within the mass, "Human grub? How? Why?" 
+
+The mind of the stichus-nest is still alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Explain that you wish to use a power source to feed the stichus's egg cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try again to explain that you wish to use a power source to feed the stichus's egg cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Convince the stichus to open the membrane so you can study its eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Try again to convince the stichus to open the membrane covering its eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Eggs smashed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>success</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The smell of strong, hard rock warmed by convection rises from the nest. It is delighted by your offer. A plate along the side nearest to you strains inward, revealing a hole in the sheer membrane. The egg cluster, resting in gelatinous amniotic fluid, sparks in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Electricity arcs within the cavity of the stichus nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Smash the eggs through the membrane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to smash the eggs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Focus on the nest and try to attune yourself to its thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Reach inside the cavity and attempt to pull the egg cluster out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Reach inside the cavity and attempt to pull the egg cluster out again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Lore Nat Sci/Scav to scoop up charged amniotic fluid, gain cypher, failure wastes turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Puncture the membrane and expose the eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Try again to puncture the membrane and pull the eggs out without damaging them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Try to swap the egg cluster with a power source before the stichus notices.
+
+{SCRIPT: Figure out how this could possibly work}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The smell of human sweat fills the air. The nest keens and screeches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Eggs stolen partial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The aroma of budding leaves reminds |you|[Actor Name]| of hatred and rage. The sticha nest chitters and froths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Rattles and clicks spill from the damaged egg cluster. Pulsing arteries, alive with current, still connect the exposed eggs to the uterine walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Slow clicks and the scent of dust rise from the open cavity in the center of this nest. Sparks outline the egg cluster at the center, leaving a subtler aroma of ozone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>|Your|[Actor Name]'s| arm slides through the yielding membrane with a satisfying pop. Sliding |your|his| hand carefully along the edge of a chitin plate, |you|he| |open|opens| the cavity. The eggs, resting in their gelatinous amniotic fluid, are now within reach.</DefaultText>
+      <FemaleText>|Your|[Actor Name]'s| arm slides through the yielding membrane with a satisfying pop. Sliding |your|her| hand carefully along the edge of a chitin plate, |you|she| |open|opens| the cavity. The eggs, resting in their gelatinous amniotic fluid, are now within reach.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>|You|Actor Name| |push|pushes| |your|his| arm through the membrane with a satisfying pop... but |you|he| |are|is| unable to avoid sharp spines inside the cavity, and each of them delivers a nasty shock that leaves |you|him| dazed for a moment. At least the eggs are now within reach.</DefaultText>
+      <FemaleText>|You|[Actor Name]| |push|pushes| |your|her| arm through the membrane with a satisfying pop... but |you|she| |are|is| unable to avoid sharp spines inside the cavity, and each of them delivers a nasty shock that leaves |you|her| dazed for a moment. At least the eggs are now within reach.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The membrane pops brightly and trickles ooze down |your|[Actor Name]'s| arm. |You|He| |swing|swings| with as much force as |you|he| can muster with an arm elbow-deep inside the shell, and |manage|manages| to break open the eggs.</DefaultText>
+      <FemaleText>The membrane pops brightly and trickles ooze down |your|[Actor Name]'s| arm. |You|She| |swing|swings| with as much force as |you|she| can muster with an arm elbow-deep inside the shell, and |manage|manages| to break open the eggs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The membrane pops brightly and trickles ooze down |your|[Actor Name]'s| arm... but |you|he| can't gain enough leverage to do any serious damage to the eggs within.</DefaultText>
+      <FemaleText>The membrane pops brightly and trickles ooze down |your|[Actor Name]'s| arm... but |you|she| can't gain enough leverage to do any serious damage to the eggs within.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You slip into its alien, unintelligible thoughts. Colors change, spanning a broader spectrum than you thought possible. You see striations within rocks pulsing with energy. Pheromones tickle your synapses, and with this direct connection, you see how olfactory impulses become emotions and concepts. 
+
+If you mimic these sensations psychically, you should be able to interact with the other nests... but your strength is unlikely to be potent enough to affect a fully conscious adult stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>success</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>|Your|[Actor Name]'s| arm slides through the amniotic fluid, gently grasping the egg cluster at the center. With a light tug, |you|he| |free|frees| it from the fibers that bind it to the nest.</DefaultText>
+      <FemaleText>|Your|[Actor Name]'s| arm slides through the amniotic fluid, gently grasping the egg cluster at the center. With a light tug, |you|she| |free|frees| it from the fibers that bind it to the nest.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>|You|[Actor Name]| |fumble|fumbles| in the translucent gel, and |your|his| hand slips as it tries to gain traction on an egg. A spine delivers a light electric shock and |you|he| involuntarily |yank|yanks| |your|his| arm from the egg.</DefaultText>
+      <FemaleText>|You|[Actor Name]| |fumble|fumbles| in the translucent gel, and |your|her| hand slips as it tries to gain traction on an egg. A spine delivers a light electric shock and |you|she| involuntarily |yank|yanks| |your|her| arm from the egg.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>success</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>success</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Script Node 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The stichus nest clicks and rumbles, clearly intrigued by your offer, but not enough to expose its gestating eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Frantic clicks shake the nest. A strong gust of weak and oxidated rock warmed by the sunlight pours from it. Your insistent pressure has driven it to panic. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The stichus nest is quiescent for a moment. It clicks once, and the smell of quartz and salt tickles your nostrils. The nest pulses a gentle wave of electrical energy through your body, as if studying your own electric fields. Satisfied, its membrane peels back, revealing the eggs resting in their gelatinous amniotic fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Script Node 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The stichus rumbles. A scent of damp sand fills the air. It does not trust you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>back to question node</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Frantic clicks shake the nest. A strong gust of weak and oxidated rock warmed by the sunlight pours from it. Your insistent pressure has driven it to panic. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>The sensations combine to communicate curiosity mixed with growing fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Torrents of electricity blaze from the cluster and course over the ground. The overpowering smell of fresh air and blooming flowers blasts from the cluster. Any nearby sticha will surely catch its scent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The near-dead mind of the stichus inside the cluster stirs to a vestigial consciousness, shaking loose from its torpor to blare out an alarm, a blast of pheromones. The scent of fresh air and flowers is an enraged call - "Humans! Harm future!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Bank 92</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The scent of the cluster slowly changes. What was once curiosity segues to growing fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The immobilized sticha nest chitters and rustles. The scent of water and loamy earth reminds |you|[Actor Name]| of panic and fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Bank 98</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The scents and sounds of the egg cluster tickle an instinctive parental instinct in |you|[Actor Name]|. A deeper rumble promises terrible consequences if anyone touches the precious eggs inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Bank 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The stichus has abandoned language. It screams in anger and fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Scoop some of the amniotic fluid into a vial without disturbing the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Carefully avoiding the electrified fibers inside the cavity, |you|[Actor Name]| |scoop|scoops| a few milliliters of the goo into a glass vial. Its generative properties will make it a useful healing cypher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Though |you|[Actor Name]| |manage|manages| to scoop a few milliliters of the interstitial liquid into a glass vial, |your|his| hand slips. The stichus nest sparks and bristles. It's aware of the intrusion.</DefaultText>
+      <FemaleText>Though |you|[Actor Name]| |manage|manages| to scoop a few milliliters of the interstitial liquid into a glass vial, |your|her| hand slips. The stichus nest sparks and bristles. It's aware of the intrusion.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Bank 106</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The sticha nest has abandoned any language |you|[Actor Name]| can understand, but its scent and motion tells |you|him| all |you|he| |need|needs| to know about its rage.</DefaultText>
+      <FemaleText>The sticha nest has abandoned any language |you|[Actor Name]| can understand, but its scent and motion tells |you|him| all |you|she| |need|needs| to know about its rage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Examine the sticha nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The nest cavity is empty. The egg cluster has been removed and without it, the creature is dying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Shards of chitin lie around the dead nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>With the membrane removed, the egg cluster glistens with energy. Amniotic fluid sloshes around the cavity, drawn toward each arc of electricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>This creature was once a stichus like the others in the lair. Clearly, it settled into this position and began to expand, creating a space for the egg cluster. Whether the cluster grew inside this creature or other sticha implanted the eggs, there is no way to know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText> Follow-up PQ. 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>|You|[Actor Name]| |swing|swings| with as much force as |you|he| can muster. |You|He| |smash|smashes| apart the eggs in a matter of seconds.</DefaultText>
+      <FemaleText>|You|[Actor Name]| |swing|swings| with as much force as |you|she| can muster. |You|She| |smash|smashes| apart the eggs in a matter of seconds.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The jelly inside the membrane acts as a protective shock absorber, and |you|[Actor Name]| |are|is| unable to work up enough power to crush the eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Attempt to smash the shells in the cavity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Try to smash the eggs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Script Node 119</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>An invisible force tugs on the metal objects in your possession as |you|[Actor Name]| |come|comes| close - it is not strong, but it is insistent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Bank 121</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Something hidden in the nest seems to be exerting a magnetic attraction. It doesn't feel dangerous - at least, not yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

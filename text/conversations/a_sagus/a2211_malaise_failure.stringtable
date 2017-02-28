@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_malaise_failure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She is standing over the stricken Dhama. She looks at you and shakes her head.
+
+"When the Adversary... overcame you. He... he..." She stops and looks away. "Dhama interceded. He saw the battle was lost unless he could make a desperate gambit. He cast himself into the outer reaches of psychic space. He used his own mind to seal the breach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"He gave up his consciousness... his self. He gave up everything he is. Everything he was. He did that for us. Without a thought."
+
+She bows her head. "No. With one thought. But not for himself. We will never know another of his kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>She is silent for a moment. "He would have wanted you rewarded for your help. And you have my gratitude. You have all our gratitude. Even if no one else hears of this, you have done great work today. Carry that knowledge with you."
+
+She clasps your shoulder, and hands you a small device. "Farewell, friend."
+
+
+
+{LOOT}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She is silent for a moment. "He would have wanted  you rewarded for your help. And you have my gratitude. You have all our gratitude. Even if no one else hears of this, you have done great work today. Carry that knowledge with you."
+
+She clasps your shoulder, and hands you a small device. "Farewell, friend."
+
+{LOOT: Give lesser reward for quest}
+{SCRIPT: Please be sure quest is closed}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

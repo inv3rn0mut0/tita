@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_dead_patrol_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Three bodies lie in a crude stack. The corpses have been treated poorly. Killed by savage blows from crude blades, the screams of the dead have frozen on their faces. Great strips of flesh have been torn away from their exposed skin... and in other places, deep punctures look as if large birds have been devouring them, one beakful at a time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Memovira's guards decompose slowly here, their bodies ravaged by crude blades and sharp beaks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Despite the damage they have taken, you recognize the cloth, armor, and insignia on these bodies: they belong to the Memovira's guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

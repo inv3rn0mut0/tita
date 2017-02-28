@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_marina_fountain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The statue in the center is the most interesting part - a fin-tailed, heroically proportioned ghibra graciously giving water to the fountain by spilling it from its cupped hands. Light on the water below it casts dancing reflections across its beatific expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The water tastes salty and brackish. No wonder so few are drinking from the fountain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Take a drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave the fountain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The water tastes sweet and pure, a refreshing draught in the hot sun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Matak looks around, then peers into the fountain hungrily. "This is where we shall enter. Are you ready for the transformation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Matak gives you a sullen look. "*Now* are you ready to enter the fountain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Examine the fountain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Men and women crowd the edges of the fountain, drinking and filling jugs, buckets, and barrels, as the water sellers cry out their prices. It looks like business is booming. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As always, the water sellers sing their prices as you approach the busy fountain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Drink for free! Fill a jar for a shin! A wagon for five!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Search the water.
+
+{SCRIPT: Only plays if the LCO has used "Push" to remove the irritant from the water pump.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You find the irritant. It's a piece of flanged machinery, bristling with sharp and broken edges. It looks like it had been sheered off at the base. 
+
+{SCRIPT: Player gains an item.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Then, in we go."
+
+You follow Matak as he steps into the water and takes out a strange device. As people start shouting about your dirty feet, he twists the device and suddenly your perspective changes. In one second, you are looking at the world from the vantage of two year old. In another you are swimming in the water as if it were the ocean, and the coping of the fountain is as high as the Sagus Cliffs.
+
+"We must go down to go in," says Matak, then dives beneath the waves.
+
+{SCRIPT: Scene transition to the Oasis World Map}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The water merchants cry their prices at the edges of the fountain, but they have very few customers. Even a free drink doesn't seem to be enough to entice the people of the marina to the fountain, which is strange. It's a hot day, and everyone looks thirsty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The water sellers continue to cry their prices. Few pay them any heed, or shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He scowls. "Well, why are we here then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You find the irritant. It's a piece of flanged machinery, bristling with sharp and broken edges. It looks like it had been sheered off at the base. 
+
+{SCRIPT: Player gains an item.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You search again, but there's nothing there now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Search the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Search the water again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You look around in the water but find nothing of value.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>There is still nothing of value in the fountain's water.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

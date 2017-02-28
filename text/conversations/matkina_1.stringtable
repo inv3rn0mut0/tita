@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\matkina_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[263] Under the hood, this woman's face is alabaster white, and when she momentarily meets your gaze, you can see that her eyes are pure black - like marbles, or the cold eyes of a shark. She glances quickly at you, taking your measure, and her voice is rich with irony:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[0] </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_beleazar_and_the_beast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Beleazar and the Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Talk to Beleazar and try to get him to give up the teleport nodule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Affix the teleport nodule to the nychthemeron's "cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Return to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kill the nychthemeron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Beleazar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Killed the Nychthemeron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Failed But Didn't Spill the Beans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Failed And Spilled The Beans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Betrayed Beleazar to the Explorers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Freed the Nychthemeron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Betrayed Beleazar and Gave El-Jinto's Notes To Beleazar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Freed the Nychthemeron, but convinced Beleazar that the device was faulty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Extract the nychthemeron's brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Left Sagus after killing the nychthemeron but without reporting back to Beleazar (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Left Sagus after freeing nychthemeron but without informing Beleazar (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>An Aeon Priest named Beleazar wants to "steal" a nychthemeron from its cage in Circus Minor. He intends to teleport the creature to another location so that it can be killed and dissected for study.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I spoke to the imprisoned nychthemeron, and it told me that Beleazar has a "transport device" that he plans to affix to the nychthemeron's cage. This will send the nychthemeron to some other location where it will be killed. The creature asked me to retrieve this transport device from Beleazar, which will probably require some trickery on my part.
+
+Beleazar should be lurking somewhere close to the nychthemeron's cage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Beleazar gave me a teleport nodule, and he told me to attach the device to the nychthemeron's cage. If I do as he asked, the nychthemeron will be sent to the Reef of Fallen Worlds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I was caught by the explorers while trying to affix the teleport nodule to the cage, but I refused to admit who hired me. Beleazar will want to know what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I was caught by the explorers while trying to affix the teleport nodule, and revealed that Beleazar put me up to it. The priest will want to know what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Instead of doing as Beleazar asked, I informed the explorers of his plan and handed over the teleport nodule. Beleazar will want to know what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I attached the modified teleport nodule to the nychthemeron's cage, and the creature was sent... somewhere. Presumably, it's now safe from both Beleazar and the explorers. Beleazar will want to know what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The nychthemeron has been teleported out of its "cage". Beleazar will want to hear of my success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Now that the nychthemeron has been teleported to the Reef of Fallen Worlds, I can go there and kill the beast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I have the nychthemeron's brain. Beleazar will want to examine it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I killed the nychthemeron for Beleazar and gave him the creature's memory organ. He was ecstatic and rewarded me well for my efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Beleazar wasn't happy to hear that I failed, but he blamed himself and still paid me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Beleazar was unsurprisingly upset that I both failed and revealed his part in the attempt to kill the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Beleazar was furious that I divulged his plan to the explorers. He berated me and left.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Beleazar was furious that I freed the nychthemeron, and he vowed that he won't forget my betrayal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>I reported Beleazar's plan to the explorers, but I also convinced El-Jinto to share his research notes with the Aeon Priest. Beleazar was surprised and grateful, and he seemed happy with the way things turned out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Beleazar was initially furious that I freed the nychthemeron, but I convinced him that the device malfunctioned, so he ultimately blamed himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>The nychthemeron lies dead. Beleazar said that he wants the creature's memory organ for his experiments, so I'll have to remove it from the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>I've left Sagus Cliffs behind, and doubt I'll return. The situation with Beleazar and the nychthemeron will have to be resolved without my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>I killed the nychthemeron as Beleazar asked, but in my hurry to continue my journey forgot to inform him before leaving Sagus. He's not likely to be grateful for my efforts since I still have the creature's memory organ with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>I decided to free the nychthemeron, and have since left Sagus Cliffs without returning to Beleazar. This is probably for the best, as he'll likely be furious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Two explorers are keeping a tight watch on the nychthemeron's cage and won't let me get close to it. They want me to pay them for the privilege of examining the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The explorers have granted me permission to see the nychthemeron up close. They appear to be paying less attention to me now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The creature, which can apparently speak quite civilly at night, has asked that I bring it Beleazar's device. It plans to modify the device, probably to escape its confinement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Beleazar implied that the nychthemeron is extremely dangerous and recommended that I find some experienced fighters to help me kill it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I paid a man named Aidan Sitabo, an unarmed fighter with preternatural speed, to aid me in fighting the nychthemeron. He'll be waiting for me in the Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>A flesh and blood construct named Varrenoth has agreed to help me fight the nychthemeron. Her unusual strength should be useful, even if her handler doesn't quite have fine control of her. She'll be waiting for me in the Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>An elderly (and eccentric) knight named Quijano del Toboso has agreed to help me fight the nychthemeron. He'll be waiting for me in the Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The nychthemeron has guided me through the process of modifying Beleazar's teleport nodule. If I attach it to the cage, the creature should be teleported to freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Alternatively, I can help the nychthemeron modify the teleport nodule, as it originally requested.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

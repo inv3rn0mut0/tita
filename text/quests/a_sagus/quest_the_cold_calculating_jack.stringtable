@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_cold_calculating_jack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Cold, Calculating Jack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Discover the location of the Changing God's sanctuary for Mapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Mapper in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Look for Matkina in the Cave of Last Words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Enter Tash's Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Matkina spills the beans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Look for Matkina in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Talk to Jebedee in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Meet Matkina in the Cave of Last Words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Meet Matkina in the Cave of Last Words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Skipped</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Meet Matkina in the Cave of Last Words</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Return to Mapper in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Apparently, a castoff helped build the resonance chamber. Casmeen and Mimeon don't know the name of this mysterious artificer, but the other castoffs might. 
+
+Only one of my 'siblings' is presently in the city - an albino assassin named Matkina. Perhaps she can give me answers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Casmeen and Mimeon described Matkina as pale-skinned and very, very dangerous. She is known in the city as the White Death. 
+
+Matkina was most recently sighted in Underbelly, so the people of that district might know where she's hiding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>A mutant named Mapper claims to know where Matkina is hiding. He'll only reveal what he knows if I can find a hidden sanctuary that was established long ago by the Changing God. Apparently it's the one important site in Sagus Cliffs that Mapper hasn't yet located. All he knows is that it's underground - somewhere very close to the sticha lair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Having discovered and actually stood in the Changing God's sanctuary, I can now tell Mapper what I found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mapper revealed that Matkina is hiding out in a place called the Cave of Last Words. I can only get there by traveling underground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Matkina says that she knows the name of the castoff I'm seeking. Or at least, she *used* to know his name, but her mind was damaged by an enemy. Now she has asked me to enter a Mere that belongs to someone named Tash - probably the very person who injured her. 
+
+Inside this Mere, she wants me to find out what I can about a musical instrument called a jahk. She thinks the jahk is the key to repairing her shattered mind and recovering her memory. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>While I was in Tash's Mere, I somehow managed to change Matkina's past, and her memories have all been restored. She told me that the castoff I'm seeking is named Mazzof. He's a master artificer, and I should be able to find him at a secret refuge called Miel Avest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Matkina was nowhere to be found in the cave, but I discovered a signed contract calling for the murder of a man named Jebedee. The document suggested that he has been spending his days in front of Council Tower in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Matkina asked me to lure Jebedee over to her so she can complete her assassination contract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Matkina was pleased with my assistance and asked that I meet her back at her hideout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Matkina was none too pleased with my interference. She demanded that I meet her back at her hideout to discuss how I might compensate her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I traveled to the Valley of Dead Heroes without getting Matkina's help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Matkina wanted me to help fulfill her assassination contract, but I managed to talk her out of it. She agreed to meet me back at her hideout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I learned the location of the Changing God's sanctuary by devouring the flesh of a dead stichus who had seen the place. That should be enough to satisfy Mapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Matkina was most recently sighted in Underbelly, so the people who dwell there might know where she's hiding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>A mutant named Mapper, who lives in Underbelly, may know where Matkina can be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Matkina may actually be a dangerous assassin, widely feared in Sagus Cliffs as the White Death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Matkina is reportedly obsessed with a strange numenera device that she carries with her... and she might be mentally unstable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The sticha refuse to take me to the Changing God's sanctuary. I'll have to find another way to reach it... or convince them that I can be trusted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>When I asked about an alternative means to reach the sticha lair, Peliai suggested that I look for some sort of digging construct... or find someone skilled in manufacturing who can fabricate one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>The Foremen have used the stichus corpse I found to fabricate a digging automaton. I can now use it to reach any location underground, including the sticha lair. It's waiting for me in the tunnel where I found the stichus corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I've found my way to the sticha lair. The entrance to the Changing God's sanctuary is somewhere within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I negotiated a settlement between the sticha and Sagus Cliffs. Ch'kekt might be willing to take me to the sticha lair now, if I ask.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The Master Foreman agreed to create a digging automaton for me, but it requires the intact corpse of a stichus. I'll have to look around for one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>I've uncovered an intact stichus corpse at the end of a collapsed tunnel in the Underbelly. I should report its location to the Master Foreman.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

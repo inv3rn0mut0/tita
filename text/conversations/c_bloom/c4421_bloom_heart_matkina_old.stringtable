@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_heart_matkina_old</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Matkina beckons you to her, and she speaks in a low tone. "I have been giving this some thought. If the Bloom is psychically attuned, it should be vulnerable to psychic attacks, yes? And our sire's uninentional *gift* to us - the paincasting - it's both a physical and a psychic curse. You're better at directing it than I ever was."
+
+{SCRIPTER: Is Paincasting Control Direct}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matkina beckons you to her, and she speaks in a low tone. "I have been giving this some thought. If the Bloom is psychically attuned, it should be vulnerable to psychic attacks, yes? And our sire's uninentional *gift* to us - the paincasting - it's both a physical and a psychic curse. Your control is about as good as mine, but it's more *effective*. Especially against something like this."
+
+{SCRIPTER: Is Paincasting Control Subtle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Matkina calls you over. "I need to speak to you privately." 
+
+{SCRIPTER: Addendum node should have Bloom favor is high and player avoided the Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>" I was going to suggest that you give it some pain of your own to feed on... but you haven't any inside. That means you're going to have to hurt yourself when you're in the midst of those tongues. I don't know if you're strong enough to take it on right now. So rest."
+
+{SCRIPTER: Is Current low, is Health 25-50? }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You're already writhing inside - I can see that. You're going to bleed anguish any time. I say push on, right now, and let the Bloom find out what a child of the Changing God can truly do."
+
+{SCRIPTER: Is Current low, is Health 50+? }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Matkina beckons you. On her normally impassive face, you can see the tiniest hint of concern."The Bloom is a predator, yes? And ultimately, it feeds on pain. We give pain, you and I, but your paincasting is more effective in a situation like this. Unfortunately, you haven't learned even the slightest control over it."
+
+{SCRIPTER: Is Paincasting Control Uncontrolled}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Addend. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She looks at Erritis and adds: "I said *privately.*"
+
+{SCRIPTER: check to see if Erritis is in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She leans in close to you: "I don't like this. It was too easy to get here. We're in the guts of the Bloom now, and we're going to walk into these innermost ... tongues... without a fight? You need to be on your guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Fine. Don't screw it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I agree. What do you recommend?"
+
+{SCRIPTER: This is intended to be a minor improvement for Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I have this under control, Matkina."
+
+{SCRIPTER: This is intended to be a minor abuse for Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I will be. Thanks for the warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"If you could cast your pain into those tongues, you might be able to bend them to your will. Now, though.. I suppose all I can recommend is a strong will."
+{SCRIPTER: PC is not storing pain or has recently paincast}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>
+
+{SCRIPTER: Is Paincasting Control Direct and is PC currently storing pain/has recently paincast}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>{SCRIPTER:Is Paincasting Control Subtle and is PC currently storing pain/has recently paincast}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>
+
+{SCRIPTER:Is Paincasting Control Uncontrolled and is PC currently storing pain/has recently paincast}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>::She says nothing, but her eyes betray her doubts::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText> Addend. 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>She pauses. "And I'll be there to back you up, if you need me."
+
+{SCRIPTER: Play if Matkina's attitude is Like or Love}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She smirks a bit. "That will have to suffice."
+
+{SCRIPTER: Play if Matkina's attitude is Neutral or less}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>" I was going to suggest that you give it some pain of your own to feed on... but you haven't any inside, and you're already badly hurt." She steps back. "I'm in as much a hurry to finish this as anyone, but you need to rest and recover. When we get into it with the Bloom, try to get hurt in the midst of those tongues."
+
+ {SCRIPTER: Is Current low, is Health &lt;25? }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So what are you saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"If you cut me, that might be enough to paincast. I'll take the risk."
+
+{SCRIPTER: Give Matkina a minor attitude boost}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Just... just be careful, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"The problem is that you're badly wounded, and you have no pain stored inside you. I thought if you cast your pain into the Bloom, you'd gain some advantage. But with your condition... I don't see how."
+
+{SCRIPTER: Is Current low, is Health 25% or less}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I thought if you cast your pain into the Bloom, you'd gain some advantage. The problem is that you've got no pain inside you now. At least, not enough to do much harm. And you've taken a pretty serious beating. I've seen worse, but these aren't a joke. Maybe you should rest."
+
+{SCRIPTER: Is Current low, is Health 25-50%?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I thought if you cast your pain into the Bloom, you'd gain some advantage. The problem is that you've got no pain inside you now. At least, not enough to do much harm to this thing. On the other hand, you're not badly wounded." She fingers her knife, and looks you directly in the eye.
+
+{SCRIPTER: Is Current low, is Health 50+? }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I thought if you cast your pain into the Bloom, you'd gain some advantage.I see the pain twisting and clawing inside you. It wants to get out? Let it out."
+
+{SCRIPTER: Is Current high?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have this under control, Matkina."
+
+{SCRIPTER: This is intended to be a minor abuse for Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fine. Don't screw it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"We didn't go through all of this for you to get your mind destroyed now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'll be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>::She says nothing, but her eyes betray her doubts::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Are you saying you want to cut me, you crazy bitch?"
+
+{SCRIPTER: This is intended to be a minor abuse for Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I have it under control. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She backs away, her eyes slitting. "You want solutions, I give you solutions. If you don't like the answers, don't ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>::She spits at a Bloom tongue.::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"If you change your mind, let me know. These others might not be willing to do it, but you and I... we're different. We *understand.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Keep it in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Don't let the others see." She bends over your arm, and with a deft flick of her wrist, plunges her knife into your forearm. Amazingly, she seems to miss most of the major muscles, but the pain is intense.
+
+{SCRIPTER: If it won't kill the PC, deal enough damage to fill the player's Curent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sorry about that... but we have to do what the situation demands, yes?"
+
+{SCRIPTER: Play if Matkina's attitude is Like or Love}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She smirks a bit. "Let me know if you need me to do that again."
+
+{SCRIPTER: Play if Matkina's attitude is Neutral or less}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Bank 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She looks at you carefully and backs away. "Your wounds are too great. Rest, and perhaps we'll speak of it later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I don't intend to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Don't rest here - push on and *use* your anguish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"But rest first!" she growls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"That's all." She steps away.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

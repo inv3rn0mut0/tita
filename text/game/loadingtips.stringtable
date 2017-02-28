@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>We hope you enjoy this portion of the game. Please provide any feedback you have.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mouse scroll wheel controls camera zoom. Right mouse button closes menus and pop-ups.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Additional characters, features, and even companions will be made available in the full release.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>When you expend Effort, in either conversation or crises, you spend points from your &lt;quad class="mightpool"&gt;[Color: Might]Might[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Speed[/Color], or &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellect[/Color] Pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A cypher is a one-shot numenera device. If you carry too many, you'll suffer side effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Spend XP to advance your characters. XP is gained mostly from solving quests but can also be gained by making discoveries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>During a crisis, move party members to opposite sides of an enemy to inflict the Flanked fettle on them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Applying Effort on attacks is critical to success in crises - but be careful not to drain your pools too quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Attacking is rarely the only solution to a crisis. Try interacting with objects in the environment or talking to your foes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>If an enemy is armored, change up the damage type of your attacks with abilities or cyphers to overcome it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Spending Effort on an attack not only increases your chance to hit, but also increases the damage you deal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Don't underestimate the value of a good defense. &lt;quad class="evasion"&gt;[Color: Speed]Evasion[/Color] helps you to dodge attacks, while &lt;quad class="willpower"&gt;[Color: Intellect]Willpower[/Color] can let you avoid esoteries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>If you have a 100% chance to hit an enemy, you automatically gain the maximum amount of bonus damage that you could get, regardless of how many levels of Effort you apply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;quad class="armor"&gt;Armor reduces damage from [DamageIcon: Physical]Physical sources like weapons. &lt;quad class="resistance"&gt;Resistance reduces damage from [DamageIcon: Energy][Color: Energy]Energy[/Color], [DamageIcon: Chemical][Color: Chemical]Chemical[/Color], [DamageIcon: Transdimensional][Color: Transdimensional]Transdimensional[/Color], and [DamageIcon: Mental][Color: Mental]Mental[/Color] sources like esoteries or cyphers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Heavy and Medium armor inflicts a penalty on your &lt;quad class="mightpool"&gt;[Color: Might]Might[/Color] and &lt;quad class="speedpool"&gt;[Color: Speed]Speed[/Color] Stat Pools while equipped. Glaives shrug off some of those penalties and other effects may reduce them further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Effects that push or pull characters into walls or the edge of a platform deal additional damage and knock them down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The more Effort you put into hiding, the harder it will be for enemies to find you when they search.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Edge in each Stat Pool acts like a discount when using points from that pool. It grants free levels of Effort or reduces the cost to activate abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sometimes failing a task can lead to more interesting results than if you had succeeded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Be sure to use your companions to assist when completing tasks. Their skills might give you the advantage you need.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bonded Items are a special type of equipment that inflict penalties alongside powerful bonuses. Training in the Concentration skill allows you to shrug off those penalties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You can use certain items and abilities even during conversations or when interacting with objects. Keep this in mind when you need a little extra boost to succeed at a task.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your Dominant Tides will not stop you from taking any paths or picking any options in conversations, but they can influence how others respond to you in subtle ways.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Skills have the following levels: &lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;Novice, &lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;Trained, and &lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;Specialized, each conferring greater benefits. Skills can also be reduced to &lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;Inability level, which inflicts penalties when using them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A glowing green icon next to the name of a skill indicates that you have boosted it beyond the Specialized training level. This can only be done by equipping items or gaining abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Fettles are status effects or conditions. They may be [FettleIcon: Buff]positive, [FettleIcon: Debuff]negative, or [FettleIcon: Status]status changes and are indicated by small colored arrows on characters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>When you sleep, your &lt;quad class="mightpool"&gt;[Color: Might]Might[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Speed[/Color], and &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellect[/Color] Pools are fully refilled. However, events can progress while you sleep, changing the status of quests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>New reflections can appear in the Labyrinth based on your actions in the real world. Some of them can give you special bonuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Talk to your companions frequently. They can yield interesting ideas or a new perspective on an objective, and you can learn more about them and their backstories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Tidal Surge conversation options allow you to channel psychic forces to influence the world around you, though sometimes at a cost. These are only unlocked after you find someone to train you in the Tidal Affinity skill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The Red Tide represents passion, emotion, action, and zeal. It is the Tide of people whose goal is to live in the moment, to experience life to its fullest, or to follow their heart wherever it leads them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The Blue Tide represents wisdom, enlightenment, and mysticism. It is the Tide of people whose goal is to expand the mind and the spirit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The Indigo Tide represents justice, compromise, and the greater good. It is the Tide of people who view life's difficulties from a broad, global perspective rather than an individual one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The Gold Tide represents charity, sacrifice, and empathy. It is the Tide of people whose primary goal is to help others, especially at a cost to themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Silver Tide represents admiration of power and seekers of fame. It is the Tide of people who seek to influence the lives of others or who actively seek to be remembered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>When someone tells you to take care of unfinished business before leaving a location, take heed. Usually you won't get a chance to return later.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>According to records kept by Casmeen and Mimeon, the Changing God rarely remains in a body for more than a decade or two before moving on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>If you find yourself wondering where to go or what to do, check the Journal screen to refresh your memory. It is updated automatically any time you make progress in the story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Missing something? You can press [Control: tab] to view all interactive characters and objects in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

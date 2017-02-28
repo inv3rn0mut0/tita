@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_trapped_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This old metal door looks fairly solid. It has a single mechanical lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pick the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The lock is challenging but not overly difficult to open. Just as you push the final tumbler into place, you accidentally depress a bladder of air that in turn activates a tiny nozzle. Acid sprays all over you. The pain is excruciating.
+
+At least the door is open.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the lock more closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Embedded within the locking mechanism is a thin bladder of air, and as you look more carefully, you realize that the bladder is somehow connected to a series of tubes. This is a trap - a cunning, ingenious trap that is beyond the skill of the murdens. It must be part of the original design of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Try to disarm the trap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Leave the door alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You calm your nerves and settle yourself down to get to work. You know that puncturing the bladder will likely activate the trap, and so you move slowly and methodically to avoid the trigger. 
+
+At last, you manage to wedge it out of the way. You're *fairly* sure you've managed to disarm it completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You settle yourself in front of the door and get to work. You carefully disable the trigger mechanism... but inadvertently activate another. The trap is sprung, and acid sprays all over you! 
+
+Fortunately, the acid also damages the lock, and the door swings open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>This old metal door looks fairly solid. It has a single mechanical lock. You notice that the mechanism appears complicated, suggesting that it's more than just a simple lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try as you might, you're simply unable to work the combination of tumblers and failsafes hidden within the door. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You manipulate the lock successfully, and the door unlocks with a satisfying clunk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Smash the door in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You heave yourself at the door, and somehow you hit it just right. The lock breaks... and you manage to spring the trap that was expertly hidden within it. Molecular acid sprays all over your clothing and flesh. The pain is excruciating... but at least the door is open.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You hurl yourself at the metal door, convinced that it's old and will easily yield. 
+
+It doesn't. All you get for your efforts is a sore shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You hurl yourself at the door. The lock breaks, and the door swings open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Use the key from the murden chief to unlock the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You insert the key into the lock and turn it. You hear the click as the mechanical tumblers fall into place. You also hear the sound of liquid spraying out of a nozzle on the door.
+
+The pain that follows is excruciating. You've triggered a trap that has sprayed acid all over you.
+
+At least the door is open.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The key fits perfectly, and the door opens with a satisfying clunk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>This old metal door looks fairly solid. It has a single mechanical lock. As you approach, Matkina touches your arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You hurl yourself at the door, and no matter how sturdy it looked, its frame appears to have been considerably less so. Jagged shards of synth protrude from it where the door's deadbolt tore through its weakened structure.
+
+As it hurtles inward, a fine mist jets from a hidden nozzle at just about face height. The mist settles to the floor and begins to hiss and bubble. You realize that you've just avoided a very, very nasty trap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You hurl yourself at the door, and no matter how sturdy it looked, its frame appears to have been considerably less so. Jagged shards of synth protrude from it where the door's deadbolt tore through its weakened structure.
+
+You might be able to use some of those shards and door rivets as shins. You pry a handful free and store them in your pouch for later.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You hurl yourself at the door, convinced that it'll be just a few good heaves before you manage to get it open.
+
+It's not. You bounce off the door several times, gather your strength, and try one last time. Not only do you fail to open the door, you also somehow manage to re-arm a disused trap and simultaneously activate it. The molecular acid begins to eat into your face and skin, and you endure agony as it burns into you.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText> Follow-up PQ. 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Try to pick the lock again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You sit down in front of the door to examine the tumblers, and you're satisfied that the lock is little more than a mechanical device.
+
+You manipulate the lock successfully, and the door unlocks with a satisfying clunk. It's only after you finish the unlocking that you notice the trap you narrowly avoided triggering. With a little careful work, you're able to disarm the trap and remove the sac of molecular acid hidden in the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Not only do you fail to unlock the door, you also somehow manage to re-arm a disused trap and simultaneously activate it. The molecular acid begins to eat into your face and skin, and you endure agony as its effects drill into you.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You examine the lock carefully, and you realize it's no match for your skills. You quickly master its intricacies, and the door unlocks with a satisfying clunk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Try as you might, you're simply unable to work the combination of tumblers and failsafes hidden within the door. Rather than risk permanent damage to the lock, you back off to collect yourself.
+
+{GEORGE: I removed the trap application here, because it's just a failure, not a critical failure - if you want that reinstated, just let me know. Otherwise, I can delete the identical node below and remove the conditional here. It's not a big deal to me either way - cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As you tinker with the door's lock, your fingers slip by the tiniest margin - just enough to activate the trap hidden within the door's workings. A hidden nozzle sprays molecular acid into your face, and you flail and jerk as the acid eats into your flesh and clothing.
+
+And, unfortunately, the door is still locked.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Moving slowly and methodically, you trace the trigger mechanisms to a pinhole nozzle in the front of the door, which leads back to a small reservoir. It contains a dangerous substance that would be sprayed on a hapless victim. After disabling the triggers, you remove the reservoir from the door.
+
+You are now the proud owner of a small sac of molecular acid.
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You settle yourself in front of the door and get to work. You are excruciatingly careful and diligent... so much so that you don't find yourself capable of taking the necessary risks to push the air bladder away. Rather than give up, you steel yourself and push on... and almost immediately, you puncture the air bladder. 
+
+You throw yourself backward to avoid the trap, but you're not fast enough. A spray of molecular acid coats your skin and clothing, corroding and burning.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText> Follow-up PQ. 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try to smash the door in again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Try to disarm the trap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Try to disarm the trap again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You hurl yourself at the door, convinced that it'll be just a few good heaves before you manage to get it open.
+
+It's not. You bounce off the door several times, gather your strength, and try one last time. Not only do you fail to open the door, but you activate the trap hidden within the door's workings. A hidden nozzle sprays molecular acid into your face, and you flail and jerk as the acid eats into your flesh and clothing.
+
+And, unfortunately, the door is still locked.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Script Node 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wait. I've seen locks like this before. They usually have hidden compartments inside. I'd wager that this one comes with a pleasant surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Once again, you fail to open the lock. The mechanisms are surprisingly clever and complex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The old door still holds firm. Apparently it's stronger than it looks.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_silver_orphan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Before you stands a strange creature made of slivery metal that bends and shifts as if it were a liquid. At you approach the creature nods slightly, acknowledging you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ask the creature about itself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[The creature tilts it head as if in thought, then makes a series of strange gestures that you can't make heads or tails of. You're not sure what it's trying to say, or if it even understood your question.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ask the creature what it wants.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The creature looks at a spot of bloom-flesh a few feet away for a few seconds, then looks up and points toward Dracogen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Dracogen laughs, and says he asked the same thing of the creature when it first appeared, and it drew him some diagrams in the bloom-flesh. Unfortunately, the flesh has completely regrown in the interval, wiping out the images completely. Luckily, Dracogen says he had copies of them scribed, and pulls out several sheafs of paper and hands them to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ask if it wants Dracogen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ask Dracogen what this is about.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[The creature shakes its head, your first indication that it may actually understand you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[The first image depicts a highly detailed sphere in the midst of what appears to be a void. A second, smaller image shows the same sphere in a depression, or perhaps a crater of some kind. The last image shows a creature connected to a box by a series of lines.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Dracogen relates that on first awaking the creature immediately headed for the catena, but after crawling all over it for an hour or so, walked back here and has remained ever since. It seems to be waiting for something, but what he cannot say.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[The silvery creature suddenly looks up as you draw near, and scampers around you in a circle. It looks up at you expectantly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

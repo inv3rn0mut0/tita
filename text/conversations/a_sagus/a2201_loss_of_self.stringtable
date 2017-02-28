@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_loss_of_self</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>243</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Loss-of-self explains she doesn't know who she is anymore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ask about Riastrad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""
+
+{SCRIPT: Should NOT play if player has stopped the probability engines, regardless of Wayward Daughter's quest state.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Her hands cradle her flushed temples like a crown, and her eyes are closed. Still, she manages a humorless smile as you approach.
+
+"Good, you're back. Talk loud. It eases the pain."
+ </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What can you tell me about that fortified house on the other side of the chasm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can you tell me about that fortified house again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She listens closely to your description of the man, his personality, and his physique. You can almost see her constructing a full simulacrum of him in her mind. 
+
+"Yes," she says at last. "The Memovira's people took him into the house. I hope he's not a friend of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I don't know who it belongs to, but...." She lowers her voice. "The Memovira's people use a bridge to get in and out. I don't think it can be activated from this side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Just the bridge, as far as I know. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"The one the Memovira's people use? What about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Who? Oh. Into that house. I don't know how you'll get there now that the bridge is off, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"None that I know of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Mother Temaz sent me. I want to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I want to help you deal with the woman in your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"That grim old sack of bones," she says, trying to smile. "I've never been able to fool her. No one can."
+
+She grips her head, staring at you from between the bars of her forearms. "I've been hearing a woman's voice for a long time. She tells me that everything I know about who I am is wrong, and her words are persuasive."
+
+With a sound that's half chuckle, half sob, she continues. "I can't remember my childhood or my family. Last year, I forgot my name. But that's not all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I see people who look like me around the city. They have my face. They speak in my voice. And once, I saw a ghost of her, in the Fifth Eye. It was the woman in my head. She had a kind face, but it was sad... like she knew she was going to win, to take over my body, but didn't want to."
+
+She clenches her fist. "She *won't* win. I'll kill myself first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText> Follow-up PQ. 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""
+
+{SCRIPT: Should only display if the player HAS spoken with the ghost in the Fifth Eye.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Where did the Memovira's thugs take Riastrad again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText> Follow-up T. 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Frustration plays over her face as you describe the man again. At last, she shakes her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"How long have you been hearing this voice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Six... seven years? At first, it was just a whisper behind my thoughts. Then I started forgetting simple things, like where a scarf was. Then, one day, I woke up, and I couldn't remember my mother's face."
+
+Her eyelids flutter. "I wish I wasn't scared. But I'm terrified."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText> Follow-up PQ. 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Mother Temaz sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText> Follow-up PQ. 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You hear a woman in your head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'm sorry, but I want to hear about the woman in your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText> Follow-up T. 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Yes," she says, biting the word like an enemy's throat. "Now stop talking about her. It brings her forward, and she clings. She whines and she won't stop, so please *stop* talking about her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"No. Every time I think about her, she inches closer to me. Pulls on my arm. Stop asking about her! Please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Good. She's getting louder. I just want her to be *quiet*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'll return when I find a way to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You're in agony. Wouldn't it be better to live on in peace, even if it were as someone new?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Trust your instincts. Throw yourself off the cliff and find peace."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Push her off the cliff. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Peace," she says, as if tasting the word. "I don't want peace. I want to fight her." One foot, however, inches toward the edge. 
+
+"I'm tired. I don't want to lose, but I'm going to, aren't I? I was always going to." She leans towards the cliff, as though it is pulling at her. "Maybe it's better if I stop it while I'm still me. While I'm still -"
+
+Mid-sentence, she closes her eyes and rushes for the edge. In another breath, she is gone as if she'd never been here at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"No," she says, exhaling through clenched teeth. "I can push back against the tide of her until she drowns me. *Then* I can rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Peace," she says, as if tasting the word. "I-I want peace. I'm tired of fighting when I *know* I'm going to lose." Staggering, she inches to the edge of the cliff, closing her eyes against the screaming wind.  
+
+"It's better if I stop it while I'm still me," she says simply, leaning into the open space as if to embrace it. 
+
+Then she's gone.  
+
+{ANIM: LoS jumps off the cliff.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"No," she says, gripping the shining object in her hand tighter. "I can push back against the tide of her. Push her until she drowns me. Then, just before the wave falls, I'll end it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You glance around the sparsely-populated square, waiting until you're sure no one is looking. Then you plant your hands on the girl's shoulders and shove. She stumbles back, eyes wide and white, her mouth opening to frame a question. 
+
+She tumbles backwards off the cliff before she can ask it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText> Follow-up PQ. 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Let me try to help you remember your past."
+
+{SCRIPT / GAVIN: I have set this to Do Not Play. I didn't like the fact that the player could resolve the whole quest with an immediate DT.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Let me try to help you remember your past again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You are no stranger to buried memories. Speaking softly, you ask questions that probe at the tangled shreds of her past. She answers, at first hesitantly, then in exclamations of breathless relief. 
+
+"I see my parents' faces!" she gasps, her eyes wide. "I mean, I don't remember their names or where they live, but it's a start. It's a real start!"
+
+She squeezes your hand. "Thank you. She's not quiet. Not yet. But she's *quieter*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Try as you might, your questions only kindle the frustration she's barely holding at bay. 
+
+"Enough," she says at last. "She's getting louder again. You're making her stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You are no stranger to lost memories. Speaking softly, you ask questions that probe at the tangled shreds of her past. She answers with increasing excitement.  
+
+"My parents died when I was young!" she says at last, eyes shining. "Oh, I don't mean... but that's why it was so easy to forget. Why no one's come looking for me. Besides you."
+
+She squeezes your hand. "Thank you. She's not quiet. Not yet. But she's *quieter*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"No!" she shouts. "There's nothing left, understand? She's taken it all!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>::groans::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I...." She blinks. "I don't know. I really don't."
+
+She stares down at her cracked hands and worn clothes. "I've been suffering through this for years, and I never once stopped to wonder if accepting her might lead to better things." She raises her eyes to yours. "And it could! It really could!"
+
+She takes a ragged breath, her eyelids fluttering. "I'm listening to her now. It doesn't hurt anymore. It feels... good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Bank 63</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tell me about the ghost you saw in the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Tell me about the ghost you saw in the Fifth Eye again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Bank 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"She looked like... no she *was* me, but I could see through her to the pipes on the walls. At first, she wouldn't look over. Then she did, and the voice in my head... I couldn't hear words, but it felt like glass breaking, ripping my mind to slivers and shreds."  
+
+She swallows hard. "She was crying. She knew she was hurting me and couldn't stop. She's kind, understand? I *hate* her for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It's her. The woman in my head. I know it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She embraces you as fiercely as a child, then blushes and pulls away. 
+
+"She's gone! That damn woman in my head is gone and my memories are coming back! What did you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Tell her about the Changing God's engines beneath the city and describe their purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Have you thought any more about what I told you about the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She listens to your story, then nods carefully. 
+
+"That clarifies a great many things. I'm fortunate that someone loved me so much that they wanted to bring me back from death."
+
+She looks sidelong at you. "That would make you part of my family, wouldn't it? My mother, even?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"No," she says, blinking. "Should I have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I won't," she says, then gives you a daughter's smile. "Out loud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Good," she says. "It will be nice having family again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Yes it would. In a way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"No. Don't call me that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>This young woman is studying a pearly-white object on her wrist when she looks up and sees you. Her eyes widen, and without warning, she embraces you, then pushes you away at arm's length. 
+
+"Oh! I know we've never met, but I can't believe it's you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"All my life, I've been *haunted* by a woman's voice in my head. She kept telling me things - false things - about my past, and they were erasing my memories a bit at a time."
+
+She shakes you. "Then I had a dream of a hole in the ground with huge engines. You were there, and you shut them off, and the woman's voice just went away! I know this must be strange but thank you *so* much. Thank you!"
+
+She hugs you again, then steps away, blushing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She listens carefully to your description of the man, and shakes her head. 
+
+"I'm sorry. My memory is... weak at best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Who - or what - is the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Describe Riastrad to her and ask if she's seen him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A crime lord," she whispers. "*The* crime lord, really. She lives in the Bloom, but she owns a lot of property - and people - around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText> Follow-up PQ. 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Are there any other ways into the house?"
+{DO NOT PLAY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Are you sure there's no other ways into the house?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Remember the Cave of Last Words," Matkina says, near your ear. "We can always dig up from underneath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"We *could* keep harassing this girl," Matkina mutters. "Or we could try digging up from beneath, like I said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Maybe... maybe we can dig up from below?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"We should try digging up from beneath," Rhin says casually, then pokes you. "You know, like I said?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Bank 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Describe Rhin to her, and ask if she's seen the girl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Where did you see Rhin again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"The little girl? I've seen her crawling into the ruined house over there. I've been worried about her, but..." She gives you a wry grin. "I've had my own problems lately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I saw her crawling into the ruined house... the one near the stair to Caravanserai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>::nods::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What... what is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText> Follow-up PQ. 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What is that shining object you're holding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Can I look at that shining vial of yours again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>She flinches but reveals the vial strapped to her wrist. It glows with an inner light, and the tiny ripples within seem to cast moving shadows on her palm. 
+
+"I woke up one night in a building I'd never seen before," she says, soft and low. "I found this beneath a pile of blackened scales. If you shake it, it makes a picture. Watch."
+
+She jiggles the vial and holds up her other hand. Indistinct shadows mimic the motion on her palm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"All right," she says dully, grimacing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText> Follow-up PQ. 112</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"That's a dangerous weapon. You should give it to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You shouldn't be holding on to such a dangerous weapon. I promise I'll keep it safe for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Her fingers tighten over the vial... then loosen. 
+
+"All right," she says, looking desperately unhappy. Still, she seems somewhat relieved when she hands it over.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>She hesitates, then covers the vial with her hand. 
+
+"I don't know what it is, but it's mine," she says. "I'll take the risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"All right," she says, looking desperately unhappy. Still, she seems somewhat relieved when she hands it over. 
+
+{LOOT: PC gets item}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>She covers the vial with her hand. 
+
+"I don't know what it is, but it's mine," she says. "I'll take the risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Good," she says with visible relief. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Bank 123</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Bank 126</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>This young woman clutches herself and growls, low and continuously, under her breath. Pearly white light shimmers from a vial on her wrist, and her eyes are red-rimmed, as if she's been crying. 
+
+You've never seen her before, and yet... your hands are sweating, and your breath catches in your inherited chest. Shame burns your throat, hot and sour. 
+
+Your body recognizes her, even if you do not.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"You're not alone. I'll help you, whatever it takes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Don't be dramatic. My head is full of memories that aren't mine, and I'm fine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"You'll fight this off. I know you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Thank you," she says. Her smile is a fragile, beautiful thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Wonderful," she mutters. "So I'm scared *and* weak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Or die trying," she agrees, a brittle light in her eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Would it be...." She gapes at you. "It would be *dying*. If I were sick, would you tell me to lay back and let the disease take me? What are you *thinking*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Bank 137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Would becoming someone else be so bad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"You should embrace this new identity, not fight it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Why?" she says, angry tears tracing the corners of her eyes. "Why would you tell me such a thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I don't know!" she shouts. "But I'm alive, and I'm fighting her, and it hurts!"
+
+She buries her face in her hands. "It hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"You already said you've forgotten who you once were. What are you fighting for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I have another suggestion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I'll be back when I figure out how to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I hope it's a better one," she growls. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Bank 146</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Leave me alone," she mutters, and it's a moment before you realize she's not talking to you. "You took my face. Stole my family. Whisper at me in my own voice. Isn't that enough? Isn't that-"
+
+She breaks off when she sees you. "She's in my head, and she won't. Shut. Up. Talk loud. Talk over her so I can hear you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>She growls under her breath, but does not respond. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Mother Temaz thinks you should handle this on your own, and I do too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I'll take that from her," she says, balling her hands into fists. "She's a petrified branch of a woman with more willpower than sense, but I know she cares for me. You don't get to echo her when you don't know how hard I've fought this." She swallows. "How much I've failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText> Follow-up PQ. 154</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Are you feeling better?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Feeling any better now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText> Follow-up T. 157</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Yes," she says quietly, calmly. "More of what I was is fading every second. I remember... wonderful things. All of my memories are wonderful."
+
+She smiles, a blush coloring her cheeks. "I remember being loved, above all else. I can't see his - her? - face, but I know they would have sacrificed everything for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Much," she says, hands folded gently before her. "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText> Follow-up T. 160</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"My head hurts all the time, but I'm remembering more now. I visited a garden with my parents. My mother tickled my nose with a flower. My father stole my shoe, and I chased him through hedges, following his laughter." She touches her fingers to her lips. 
+
+"Thank you so much for what you've done."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Better. But the pain is still there. It might always be there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Leave me alone with her for a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Bank 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>She listens to your story, relief dawning like a second sunrise. It's a long time before she speaks, and when she does, her voice is thick with anger. 
+
+"I'll never stop fighting her, but maybe... I can find space for her. Maybe we'll both find some peace then."
+
+Then she looks up at you, eyes blank and cold. "And if not, I'll find a way to crush her myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I never stop," she says. "But dealing with the woman - the daughter - is getting easier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"It's so good to see you again," she says, beaming at you. All traces of her former anguish are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Try describing Riastrad to her again in the hopes of jogging her memory. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Her voice goes quiet. "She's still there... in the Fifth Eye. She's *always* there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"What good is living if it's not me?" she snaps. "If I'm some other woman entirely?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Bank 174</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"You must trust your instincts. Throw yourself off the cliff and find peace. There is no other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Bank 177</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Why are you holding on to it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Why is that vial so important to you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Bank 180</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Because I feel like it was mine," she blurts, then grimaces, as if the words escaped without her permission. "At any rate, it's mine now, and I don't need more of a reason than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"It's not that it's *important*," she says, frowning. "I just feel better holding it. And there's nothing wrong with that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I want to talk about your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Let's talk about who you used to be again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"I told you. I can't even bring their faces to mind. Just shapes. Shapes in a sea of that damned woman's words!"
+
+She clenches her eyes shut. "I know you're trying to help, but you don't understand! Her whispers *eat* at me. They peel me away! How am I supposed to stop her when I don't even know who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>She groans, clutching her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Actually, I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Good. Maybe this time, you can think of something I haven't tried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I'll be back when I figure out how to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Funny you should ask. I'm missing a lot of memories too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Whining won't help either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Hasn't anyone else tried to help you remember your past?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Her lip quirks, and for a moment, she looks more likely to laugh than cry.
+
+"What a pair we are," she says. "It's nice to know I'm not the only one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"There's nothing you can say that I haven't already tried," she adds. Her mouth trembles. "She won't stop talking. She'll never leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Oh, you don't think so?" she snarls. "Well, something has been keeping me sane all these years, and it hasn't been *your* advice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I don't know," she says. "Maybe. Everything keeps *fading*. I'll eventually forget you too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Bank 198</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Someone must know who you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"You said there might be records about your past. Where would they be again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Bank 201</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Yes, but either they haven't come looking or they haven't found me."
+
+She mashes her forehead with the heel of her hand. "I'm not an idiot. I've thought about asking in Government Square. The Council is supposed to have information on everyone."
+
+She laughs bitterly. "But I've never made it there. Every time I *try*, I get lost. Or I forget where I'm going. It's hopeless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Government Square," she says, her brow wrinkling. She appears to have forgotten that she was the one who brought up the idea. "The Council has records on everyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"No." She covers the vial with her hand. "No. I'll take the risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I've learned that your parents visit you every day and bring you food. I also know your name - Alara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Alara," she murmurs, her forehead relaxing. "Alara!" 
+
+Her eyes are shining now. "I see... I see my parent's faces! I don't remember their names, but... I can ask them! When they come to visit!"
+
+She squeezes your hand. "Thank you. The woman in my head's not quiet. Not yet. But she's *quieter*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Give me some time. I need to clear my head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Tell her about the Changing God's engines beneath the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>She listens to your story, eyes downcast. It's a long time before she speaks, and when she does, her voice is thick with anger. 
+
+"Shut it down," she says. "Please find a way. Smash it to pieces if you have to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"A machine under the city was the source of the voices. I turned it off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Don't worry about it. All that matters is that you're getting better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"No," she breathes, pale and delighted. "I thought it was a dream, but I saw you! You went into a hole in the ground, and I heard the sound of gears grinding down."
+
+She clasps your wrist with cold hands. "Thank you. Thank you *so* much!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Disappointment - and faint relief - flash over her face. Then, she exhales, as if she's been waiting to breathe for years.  
+
+"Thank you. Thank you *so* much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"I can almost remember my name now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Sounds like I should pay her a visit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Have you ever tried talking to her? Reasoning with her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Why?" she exclaims, tears of pain glittering at the corners of her eyes. "Why should I talk to her when I can *hear* her right now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Good," she says, tears of pain glittering at the corners of her eyes. "Maybe you can tell her to stop. Or kill her. Anything to put a stop to these *damn* whispers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Pressing a pale hand to her forehead, she gives you a brief, genuine smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Rhin gasps, hands flying to her mouth in wordless horror. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Is this what we do now? Push confused women to their death?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I rather wish you'd *think* a little harder before committing casual murder in daylight, darling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I didn't know she could fly!" Erritis says, delighted, peering over the edge. He freezes in shock, then wheels on you. 
+
+"She couldn't!" he shouts, tears welling in his eyes. "She couldn't fly at all!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"A little sloppy, brother. But at least she stopped complaining."</DefaultText>
+      <FemaleText>"A little sloppy, sister. But at least she stopped complaining."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Tybir breathes a ragged sigh, but does not speak. He doesn't look at you at all. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"You should have stopped her! W-why didn't you stop her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Huh. Don't often see people get talked to death, but I shouldn't have underestimated you, of all people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"People usually talk suicides down from a cliff, dear. Not off it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I think we were supposed to save her. You didn't try very hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"You know, I didn't actually expect her to do it?" 
+
+Matkina peers over the edge. "Huh. She did it, all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"We've all had our dark spells. Times when we needed a kind word." Tybir shakes his head. "Remind me never to ask you to cheer *me* up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[DEBUG] Convince her to kill herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Script Node 241</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[DEBUG] Push her off the cliff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Bank 243</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Yes," she says, rubbing her eyes. "I haven't heard the voice again. You can't imagine how good it is to stand here, talking to you, without hearing her whispers under every thought..."
+
+She trails off, giving you a rueful smile. "My head hurts now, but that will pass. I hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I still have a headache, but her voice hasn't returned. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>She looks at the vial strapped to her wrist as though seeing it for the first time. "How strange. I'd forgotten."
+
+She looks at you. "Did I tell you? I found it beneath a pile of blackened scales in some building I'd never seen before. I just... woke up there one morning."
+
+She looks at the vial again. "It felt so important at the time, like it was *mine*." She removes the vial and hands it to you. "Keep it... in thanks for what you did for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>The angry sneer of her lips suddenly brings the image of the ghost from the Fifth Eye to your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"You remind me of someone - a ghost in the Fifth Eye tavern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"What? No. No, you're crazy." But the sudden widening of her eyes suggest that you've hit on something.
+
+She turns away. "Stop talking about her. It makes her louder. *I am not her!*"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

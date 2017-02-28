@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_blackstonerings</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This curious object consists of a pair of heavy linked rings made of a black, stonelike substance. Locked together, they appear completely solid, roughly the size of a clenched fist. The rings are large enough to fit around a human wrist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Pull the rings apart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Pull the rings apart again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>It takes some force to do, but the rings come apart cleanly, disjointing into two perfect circles. But only moments after you pull them apart, the rings start to shimmer and disappear from your hands, reforming into one whole which falls into the palm of your right hand.
+
+Oddly, you feel a lingering sense of resentment - as though from the rings themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The rings come apart and re-form cleanly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Put the rings away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Inspect the rings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Inspect the rings again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Regarding them more closely, it strikes you these are not two separate rings, but rather two representations of the same ring. Putting your ear to them, you hear a slight hum of transdimensional power. You feel like they could be useful somehow, though it's not immediately apparent what that use might be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The rings hum with transdimensional power, one simply a representation of the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Try to discern the function of these rings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Try to discern the function of these rings again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>After some time experimenting with locking and unlocking the rings, you confirm they are two representations of one whole, and the energies they share can be used to transmit matter. The most obvious way to use these would be to wear them as bracelets.
+
+The question of activation is one of more experimentation. After poking, prodding, and rubbing the bracelet in various ways, you find it can be activated by squeezing it in a certain spot. Doing so will swap the positions of the two people wearing these bracelets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You puzzle over the object for a while, turning it this way and that. It seems like this is some kind of teleportation device, but you can't discover how it is meant to be used.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Matkina snatches them from you without asking. "Let me see those."
+
+She studies the rings, and then twists them apart. "That's what I thought. Look."
+
+She slips one ring across her wrist. "You wear it like this. When you squeeze the band, you trade places with the person wearing its mate. It's useful, but..."
+
+She laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Pocket the bands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I once worked with a pair of thieves who used something like this. Problem was, the younger of the two was so impressed by the pedigree of his partner that she didn't take the ring off between jobs. Came a time that the older one soloed a vault, got caught holding the loot, and he swapped out. Made a bag of shins for himself and quit the city, while she met the Devourer."
+
+She slips the ring off and tosses it to you. "Good luck with them."
+
+You pocket the rings.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

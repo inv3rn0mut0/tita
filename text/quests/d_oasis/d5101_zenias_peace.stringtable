@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\d_oasis\d5101_zenias_peace</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Zenia's Peace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find out who it is Zenia sees in her sphere and why</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tell Zenia what the Nevajin said</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Found Zenia's answers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The caravanner who brought me here will only bring me back if I can answer two questions for her about this sphere she has: who does she see in the sphere and why?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Zenia's sphere is some sort of oddity. It's a glass sphere that shows her the face of a woman. She wants to know who this woman is and why she is seeing her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found a Nevajin in the Lost Sea who said that the woman Zenia sees is her mother, and that the glass sphere shows people the one who is waiting for them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I told Zenia what the Nevajin said. She admitted she knew who the woman was, but she required me to tell her who it was so she would know my second answer was true. Her mother died as a child and is (perhaps?) waiting for her.
+
+Zenia said she would take me anywhere I wanted to go, at any time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>When I looked at the sphere, I saw the Sorrow looking back at me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I told Zenia about the Sorrow. It seemed to frighten her terribly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I talked to the Philethis about the sphere. It only said, "Death waits for us all." Could the woman have something to do with Zenia's death?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I told Zenia what the Philethis said. She said it made sense, but she wouldn't explain why. In any case, it's not the answer she's looking for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I told Zenia what the Nevajin said. She admitted she knew who the woman was, but she required me to tell her who it was so she would know my second answer was true. Her mother died as a child and is (perhaps?) waiting for her.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

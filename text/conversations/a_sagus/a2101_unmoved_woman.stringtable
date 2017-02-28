@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_unmoved_woman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman stands at the back of the crowd, arms crossed and eyes cool as she watches the slow execution. Unlike the others, she's also watching the people in the crowd.
+
+She shakes her head. "Depressing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's sad, but what can you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You can't change the system."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Too bad." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'd say something, but who would listen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Why am I watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>She shrugs. "It's just a symptom of the times. It can't be stopped, at least not by a nobody like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I was just walking by. I don't know why I stopped, really." Something in her manner makes it feel like there's more to it than that, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Yeah. Sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Depressing? I'd call it tragic."
+
+{SCRIPT: Tybir has mentioned turning crowd.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"If you find it depressing, why are you watching it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Probably just morbid curiosity. That's why I stopped. But now I'm going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You stopped because you are a good person at heart. It moved you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You stopped because you want to do something. You want to be the one to make a difference."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I've seen you watching the crowd. You outnumber the levies four to one. They just need a leader."
+
+{GEORGE: Changed this to Very Hard, with failure requiring you to turn two other people and return to her. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You're probably right. It's not worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She nods. "Yeah, I think I'm going to go home. It's too sad around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Bye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She shakes her head. "I guess we should do something, but I'm not going first. What if nobody follows? You get somebody else to start it, I'll help, but not before."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>She thinks about it, then shakes her head. "I'm not sticking my neck out alone. Maybe if a couple other people go first. Maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She cringes, shivering. "A leader? I've never... no. You're right. That's why I'm here, and somebody has to do something. Why shouldn't that somebody be me? Why shouldn't I be the hero for once?"
+
+She steps forward. "I'm ready!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She sighs and shakes her head. "No no. I'm no leader. And even if we save him it won't change the system. What's the point?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I've seen you watching the crowd. You outnumber the levies four to one. They just need a leader."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She cringes, shivering. "A leader? I've never... no. You're right. That's why I'm here, and somebody has to do something. Why shouldn't that somebody be me? Why shouldn't I be the hero for once?"
+
+She steps forward. "I'm ready!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Let's end this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Her pessimistic words stir your emotions. They simmer within you, and you know that you could shape them to your will and force this woman - *this whole crowd* - to think like you. If you want the people to rise up and free Ris, all you have to do is push.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Tidal Surge] Push.
+
+"Think about it again. I'm sure you'll see it my way."
+
+{REASON: PC has pushed the unmoved woman to a Silver decision.}
+{SCRIPT: Remove appropriate amount of DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Let your emotions subside. 
+
+"You're probably right. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Your emotions strengthen within you, and you shape them into a ball of righteous fury, then spread your arms and let that fury ripple out from you in all directions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The people in the crowd sway as the invisible force hits them. Their fists clench and their eyes grow bright.
+
+The woman in front of you is transformed as well. She smiles at you, excited but not quite focused. "What was I thinking? Of course we can save him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I though you'd lost her. That was almost... magical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Never seen the like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Aligern stares, horrified. "Did you just tear the free will from an entire crowd of people? You heartless... thoughtless...."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What are we waiting for? Let's get this started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I told you I wouldn't help. Leave me alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The woman continues to watch both the execution and the crowd. "Soooo depressing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I told you I wouldn't help until a couple others went first. I'm still waiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Many in the crowd are ready to act. They outnumber the levies four to one. All you have to do is lead them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She looks around at the others you convinced and seems to gather courage. "You're right. Something must be done. With numbers on our side, we can do it."
+
+She steps forward. "I'm ready!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>She nods. "I should go too. Maybe in a few minutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Maybe it did, but what does that matter? It can't be stopped, at least not by a nobody like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She stands up straighter, but says, "Me? What can I do? I'm a nobody. All I can do is watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Just a few more minutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Let him go! Let him go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Another in a long series of pointless executions." She points to the man with the rope of flesh coming out of his mouth. "The poor bastard they're killing is put into a trance that makes him talk a lot of nonsense and spew that pink stuff. Eventually it crushes the life out of him and the big guy eats him. Disgusting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Just another execution. People like to say that the prisoner speaks prophecy as he dies, but I don't believe it. It's all just a show. A sad, ugly show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What exactly is happening here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Tell me again what's happening here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Why is everybody watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tell me again why everyone is watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She sighs. "It's what passes for entertainment in this town. People like to watch other people suffer. Takes their minds off their own suffering, I guess."
+
+"That's not why I'm here, though. I... I just... I just got sucked in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Nothing better to do, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Her pessimistic words stir your emotions. It would be so easy to manipulate this woman - *this whole crowd* - to demand Ris's freedom. All you'd have to do is *push*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Stir the crowd's emotions. *Demand* Ris's freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Your emotions strengthen within you, and you shape them into a ball of righteous fury and release it, letting it ripple out from you in all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Aligern stares, horrified. "Did *you* do that? Enforce your will on an entire crowd of people? You heartless... thoughtless..."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Are you kidding?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lad."</DefaultText>
+      <FemaleText>"Are you kidding?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I though you'd lost her. I don't know what you did, but that was almost... magical."</DefaultText>
+      <FemaleText>Tybir shakes his head, amazed, then whispers to you. "Well done, lass. I though you'd lost her. I don't know what you did, but that was almost... magical."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Somebody should stop this execution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Actually, I think you *could* stop this execution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Sure, but who? *I* certainly couldn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Me? What can I do but watch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You're right. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She turns back to the crowd, shaking her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Trigger Conv Node 95</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Script Node 96</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

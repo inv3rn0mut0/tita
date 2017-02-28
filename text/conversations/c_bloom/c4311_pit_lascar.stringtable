@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_pit_lascar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This lascar examines the contents of an open hatch in the console before him, brow contorted. Occasionally, he takes a tiny component from the tidy pile beside him, plugs it into the machine's unseen innards, waits a hopeful moment, and mutters what is most likely a curse. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The small pile of components beside the lascar seems to have grown. His repairs are apparently not going well. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attempt to convince the lascar that Genjes is running a test removal of the cortex and needs him to confirm each stage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave the lascar to his work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The lascar looks dubious and says it's highly irregular for him not to be notified of such things ahead of time, but relents and moves to the controls, occasionally looking at the panel he was fiddling with wistfully.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[The lascar shakes his head, saying that he's heard no word of such a test previously. He tells you that if someone wants him to be part of the test, they can ask him themselves instead of passing the world along with visitors.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[The lascar looks about to agree, then looks up and sees Genjes. He asks why Genjes would be here showing a visitor around if he was performing a test removal of the cortex.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Convince him that an order is an order and you're just conveying what you were told.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Agree that it's strange.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[The lascars throws his hands up in exasperation and returns to what he was doing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[The lascar sighs loudly and moves to the controls, grumbling.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[The lascar says that conveying orders through non-lascars is a serious breach of protocol, and that if someone wants to order him around, they can do it in person. He returns to what he was doing, obviously peeved.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Pretend you forgot to mention that Genjes told you someone else would be performing the test.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[The lascar, sensing that you're feeding him a load of crap, asks who that might be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Tell him you don't know.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Jijabai.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Rambir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[(Guess) Sivaj.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Arechi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[He says that Arechi doesn't have clearance to work on the cortex, and dismisses this whole thing as a joke on your part.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[The lascar says there is no Arechi on board, and that your joke is in bad taste.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[The lascar nods as if expecting this answer, and moves to the console to perform his part of the "test".]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Script Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Sanjeev.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[The lascar says Rambir has no clearance to work on the cortex, and thinks this is all part of a practical joke. He returns to what he was doing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[The lascar says that Sanjeev has no clearance to work on the cortex and thinks this is all part of a practical joke. He returns to what he was doing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[The lascar stares at you for a moment, then tells you that outsiders have a strange sense of humor.  He then returns to what he was doing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Throw one of the components to distract the lascar from his work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Throw another of the components to distract the lascar from his work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You snatch one of them up when his back is turned, and toss it over his shoulder. There is a distant clattering. 
+
+The lascar glances at you, confused at the sound, then turns to see what it was.
+
+He will not be distracted for long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You grab one of them when he isn't looking and throw it past him. You hear a faint tinkling. Too faint, in fact. The lascar remains focused on his work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Ask him what he's doing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[The lascar says he's monitoring the Anchorage's systems, but jokes that he doesn't even pay much attention, as everything's always fine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Ask the lascar what the controls do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Happy to talk about his work, he explains that the controls are split into two major groups, with roughly half of them displaying status reports regarding major systems and the other half monitoring various communications channels. He puffs up with pride and says that when the Ship comes to take them away, he'll be the one to first hear the signal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[He pauses a moment as if that were all he had to say, then he suddenly remembers something and explains that the controls are also used whenever the Cortex is removed for maintenance.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Ask the lascar what Cortex maintenance entails.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[It's obvious that no one has expressed this much interest in this man's work before, as he enthusiastically explains that Genjes really does the majority of the work, while he just occasionally presses a button whenever a certain panel lights up. It's not the most challenging job, he laughingly admits, but Genjes wouldn't be able to remove the Cortex if it wasn't done.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Ask the lascar about the door that won't open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[The lascar says instruments report that the door is malfunctioning, but openly admits he has no idea how to fix it. The lascars mostly have military training, and only a few like Genjes have any sort of technical know-how. He notes that when the door first malfunctioned, Genjes left it to him to handle since there wasn't anything important behind the door. He points to the sign on the door and says he did what he could.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Trigger Conv Node 44</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

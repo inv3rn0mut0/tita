@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_horrified_man</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>79</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This man stares at the execution in utter horror. He cannot look away. "No crime deserves such a punishment. How can this be allowed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Such cruelty!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I thought this was a civilized city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What are they doing to that poor man?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Someone should do something!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"This is horrible! Horrible!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You say it should be forbidden, but are you willing to act on that?"
+
+{SCRIPT: Tybir has mentioned turning crowd.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"The horror of it will deter others from crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He looks at you, frightened. "Wh-what are you saying? Are you suggesting I interrupt the execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You said the punishment should not be allowed. Did you mean it? Can a just man stand by when injustice is the law?"
+
+{SCRIPT: Free pass if Indigo dominant.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The man seems to shrink in his skin. "My friend, I am a coward. I always have been, but... but you're right. If a man does not stand by his beliefs, what is he?"
+
+He swallows, then nods. "I will do it. For justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Stop this savagery!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I am ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Stop this savagery!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You said the punishment should not be allowed. Did you mean it? Can a just man stand by when injustice is the law?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The man seems to shrink in his skin. "My friend, I am a coward. I always have been, but... but you are right. If a man does not stand by his beliefs, what is he?"
+
+He swallows, then nods. "I will do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Thank you for your wisdom. I am a better man because of you."
+
+{SCRIPT: Give the PC some DP?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The man seems to shrink in his skin. "My friend, I am a coward. I always have been, but... but you are right. If a man does not stand by his beliefs, what is he?"
+
+He swallows, then nods. "I will do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The man seems to shrink in his skin. "My friend, I am a coward. I always have been. I wish I was brave enough to do this, but... I cannot. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>His fear and skepticism stir your emotions. It would be so easy to manipulate this man - *this whole crowd* - to demand Ris's freedom. All you'd have to do is *push*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Stir the crowd's emotions. *Demand* Ris's freedom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your emotions strengthen within you, and you shape them into a ball of righteous fury and release it, letting it ripple out from you in all directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The people in the crowd sway as the invisible force hits them. Their fists clench and their eyes grow bright.
+
+The man in front of you transforms as well. He looks up at you, his fear gone. "You're right. I cannot allow my cowardice to rule me, not when a man's life and sanity are at stake. I will do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Aligern stares, horrified. "Did *you* do that? Enforce your will on an entire crowd of people? You heartless... thoughtless..."
+
+He turns away from you, shaking with rage. "Why should I have expected anything else..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Tybir shakes his head, amazed, then whispers to you. "Well done, lad. I thought you'd lost him. I don't know what you did, but that was almost... magical."</DefaultText>
+      <FemaleText>Tybir shakes his head, amazed, then whispers to you. "Well done, lass. I thought you'd lost him. I don't know what you did, but that was almost... magical."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The man looks at you for the first time. He doesn't seem to like what he sees. "There may be injustice here, but you are manipulating me for some other reason. I will not be a tool for your machinations. Leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Utter nonsense. Punishment for bad behavior won't change a man. Reward for good behavior is far more effective, if that's what really mattered to the authorities. This is nothing more than *spectacle*... an amusement for the masses."
+
+He sighs. "If I had any courage..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What if I joined you? Together we could give the city authorities what they deserve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Well, I agree with you, but I don't have any courage either. Maybe another day." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You're right. The practice needs to be stopped. Join me, and let's put an end to it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>His distrust and disdain stir you. You feel your emotions rising within you. It would be so easy to  manipulate them and force this man - *this whole crowd* - to think like you. If you want the people to rise up and free Ris, all you have to do is push.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Let your emotions subside. 
+
+"Forgive me. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Please, friend. Make your move before my nerve fails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I told you I would not help. Do not ask again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The man continues to stare at the execution. "This practice is an abomination. It should be forbidden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He nods, glum. "Yes, another day. Once we have a plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Another day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He looks at you, frightened. "Punish the punishers? Are you saying we should interrupt the execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He looks at you, frightened. "E-end it? Are you saying we should interrupt the execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Free the prisoner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Let him go! Let him go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"A waking nightmare, though they call it an execution." He shudders. "The unfortunate victim is put into a trance that forces him to speak his nightmares. His words spill out of him as a rope of flesh, which is wrapped around his body until it crushes him to death." 
+
+He shakes his head. "And the indignity doesn't end when the poor wretch finally dies, for then the Devourer of Wrongs eats his flesh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"The most barbarous custom of Sagus Cliffs, an execution by nightmare that ends with the condemned being crushed and devoured."
+
+He curls his lip. "And we call ourselves civilized."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What exactly is happening here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tell me again what's happening here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"They are animals. They find pleasure in cruelty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Our culture has debased them. Turned them into mindless monsters whole thrive on horror."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Why is everybody watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Tell me again why everyone is watching this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You said the punishment should not be allowed. Did you mean it? Can a just man stand by when injustice is the law?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You said the punishment should not be allowed. Did you mean it? Can a just man stand by when injustice is the law?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Never mind. Forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Are you kidding?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lad."</DefaultText>
+      <FemaleText>"Are you kidding?" Tybir shakes his head in amazement. "I don't know what that was, but it was almost... magical. Well done, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He gives you a strange look. "Okay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"This needs to be stopped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"No, this definitely needs to be stopped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Interrupt the execution? Are you serious?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Isn't it dangerous to interrupt the execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Trigger Conv Node 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Script Node 88</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"F-Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

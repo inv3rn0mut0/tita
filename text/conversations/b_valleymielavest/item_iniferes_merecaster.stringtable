@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\item_iniferes_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This Merecaster is made of strange dimensions and impossible angles, spun from an unearthly metal that seems to flow as you examine it. Its branching limbs cross in a lattice that holds no clear pattern.
+
+Its surface is hot and somehow... restless, as if it wants to move, but cannot. Soft nubs press into the soft flesh of your palm, pulsing gently, but when you turn the device over, there's nothing there. 
+
+The silent voice of the mere within sings to you, calling you to join it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You pull the Merecaster from your belongings again. It sings to you in tangled words beyond your understanding, urging you to sample the memories locked within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Access the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Put the Merecaster away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Access the Mere again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Someone has twisted this Merecaster out of alignment. It would be impossible guesswork to put it in a proper state again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Whatever Inifere did when he unlocked his Merecaster is beyond you. You twist and turn the Merecaster as - you think - he did, but nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

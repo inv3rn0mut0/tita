@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_a_call_to_war</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Call to War</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Attempt to recruit the five war veterans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Clarion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Recruited One</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Recruited Two</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Recruited Three</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Driven Out</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A woman named Clarion has asked me to help convince some veteran warriors to join the Endless Battle. So far, her efforts to sway them have failed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Clarion has been hanging around the Fifth Eye bar, trying to recruit five veteran warriors named Dhama, Theboros, Leto, Feriok, and Ziobe. She wants me convince as many of them as I can to join the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I'm confident that my recruiting efforts are at an end. I have definitive answers from all the veterans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I only managed to recruit one of the veterans. Clarion was grateful, if not impressed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I recruited two of the veterans. Clarion was impressed with my efforts and rewarded me well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Clarion was amazed that I managed to sway three of the veterans to join the Endless Battle. She claims that their presence will make a profound difference on the battlefield, and if the veterans survive, the experience will strengthen their psychic abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>At Feriok's request, I drove Clarion out of the bar. I got the impression that she wasn't welcome there and that the veterans weren't eager to fight in another war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've left Sagus Cliffs behind me, and don't know when of if I'll return. Clarion will have to finish her recruiting efforts herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The names of the five psychic warriors are Dhama, Theboros, Leto, Feriok, and Ziobe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Now that the last Adversary is destroyed, Dhama has agreed to fight in the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dhama has been killed by the last Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Leto has agreed to fight in the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Theboros has agreed to fight in the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Theboros has succumbed to the weaponized meme and is now dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Feriok refuses to leave the Fifth Eye under any condition. He also suggested that I ask Clarion to leave the bar - her continuing efforts to recruit him and his friends are apparently unwelcome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ziobe has made it clear that she is tired of war and refuses to fight in the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Leto will not participate in the Endless Battle, but she offered me a conciliatory gift instead. She used her psychic powers to show me the world as she sees it - a great tapestry of possibilities. Then she whispered a strange word in my ear that I couldn't understand, but she claims that it will help me survive at a very dangerous moment in my future.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Theboros has refused to fight in the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Dhama won't consider leaving the Fifth Eye until the last Adversary has been defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Leto seems devoted to Dhama. She won't abandon him until he's satisfied that the last Adversary is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Theboros says that he won't join the Endless Battle while the last Adversary is still a threat. He also hinted that he has some troubles of his own...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Theboros admitted that he's the last person in the world who knows the deadly Words of Qra, and he needs to decide how to deal with them. Until then, he won't leave the Fifth Eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

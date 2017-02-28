@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_shadowpeddler</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Put the creature over your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the creature alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The creature burbles softly as you place it back in your pack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The translucent creature floats in front of your face, lazily pushing its way through the air. With no apparent organs internal or external, you do not immediately see any obvious way to interact with this creature. Only after a moment's consideration do you notice that it would perfectly fit around a human head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The translucent creature floats in front of you, waiting to be placed over your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>After a moment, a short creature with a huge head pops out of the ground in front of you. Its large multi-pupilled eyes stare at you unblinkingly, its tentacled mouth warbling to produce different sounds as it tries to find a way to communicate to you.
+
+After some time, it gives you a curt nod. "My name is Urmpfh?" The questioning tone appears to be part of the name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The creature called Umprfh? pops up in front of you again and gives you a brief nod of recognition. You can't tell if he is happy to see you again or impatient to finish your business.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>In an instant, you are teleported to a completely different place, perhaps even a different time. You are in a wide open desert, green sand and drit underfoot. It's dark, yet there are no stars to be seen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Selling?" Urmpfh?'s tentacles wiggle with apparent glee. "I will sell...buy any of your...numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I have some  numenera to sell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Your name is Urmpfh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What is your name again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Where am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Are you sure you can't tell me where I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"No? Yes. Thank you. Urmpfh? has always been my name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Rather than answer your question, Urmpfh wiggles its tentacles at you impatiently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Don't you think it's weird that your name is a question?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Staring off into the dark sky, Urmpfh seems to be considering your question deeply.
+
+After an interminable amount of time passes, it looks back to you. "You like questions." It nods to itself, apparently fully satisfied with this answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Even if I would tell you, you still would not know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>No answer seems forthcoming. Urmpfh's tentacles retract and lengthen rhythmically. Even though it is not making any sound, you're pretty sure it is laughing at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Take the creature off your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Without hesitation Urmpfh rifles through your pack. Oddly enough, it only seems interested in the functionless numenera.
+
+It glances up at you with a dejected, almost insulted look. "Not enough. Only allowed to buy as many as the stars." As it says this, ten stars appear overhead.
+
+{SCRIPT: plays if player has less than ten oddities}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Without hesitation Urmpfh rifles through your pack. Oddly enough, it only seems interested in the functionless numenera.
+
+It nods, satisfied. "Will buy as many as there is stars." As it says this, ten stars appear overhead.
+
+{SCRIPT: plays if player has ten or more oddities}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Alright, take the ten most valuable ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I don't think I'll sell to you right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Its shoulders slump but with a soft whining noise. Urmpfh releases your pack back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Quickly plucking ten of your oddities from your pack, Urmpfh dances in place excitedly, throwing the numenera up in the air where they disappear in an instant.
+
+"Much good." A pool of shins grows in the palms of Urmpfh's hands, which he pours into your pack before handing it back to you. "Business concluded."
+
+{SCRIPT: removes ten most valuable oddities from inventory, adds 150% of full value in shins to inventory}
+{SCRIPT: I'm open to different ways to do this, perhaps it can open up a barter interface but limit what the player can sell or how much shins Urmpfh has? Maybe it'd be easier to do with cyphers. Whichever way it's easiest to do, design can be flexible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Thanks, Urmpfh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You are weird, Urmpfh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The surrounding landscape starts to turn dark, while the skin on your face feels like it's heating up. You realize the translucent creature that transported you here is dissolving as you are teleported back, releasing an acidic substance as it does so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Remove the creature from your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

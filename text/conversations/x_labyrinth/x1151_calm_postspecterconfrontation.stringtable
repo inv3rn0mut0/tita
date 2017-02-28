@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_calm_postspecterconfrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As the portal closes behind you, something feels... off. It only takes you a second to realize: the Specter is gone. It is quieter, now, in the calm of your mind.
+
+But he's not truly gone, is he? You can still feel him out there, watching... waiting, perhaps, for a moment of weakness in which to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

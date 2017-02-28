@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_orth_faung_desk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This desk is cluttered with scrawled notes, piles of paper, and worn books. The owner was either extremely disorganized... or left in a hurry.
+
+Aligern steps closer to the desk. He growls in frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"This is where Orth Faung usually works. If he left a message for me, it must be here... somewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"This is where Orth Faung usually works... but where *is* he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>This desk is cluttered with scrawled notes, piles of paper, and worn books. The owner was either extremely disorganized... or left in a hurry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave the desk alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Examine the papers and books.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Examine the papers and books again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You rustle through the mess of documents and notes. Most of them discuss the buildings and architecture of prior worlds. They're filled with drawings and descriptions of bizarre structures uncovered by scholars and explorers. 
+
+The owner of this desk seems to have been particularly interested in doors, door-frames, and archways. He has drawn circles around all such things, but his scrawled comments are never more revealing than, 'Similar, but not a match,' or 'Could there be a connection here?'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Again you scan the jumbled books and documents, but you don't find anything new. Most of them describe the architecture of prior worlds. Anything resembling a door-frame has been circled in brightly-colored ink.
+
+You also notice a few letters and personal correspondence, but they appear to have been written in code, or perhaps in a foreign script that isn't familiar to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Before you have a chance to examine the mess, Aligern leans forward and plucks a folded note from the top of a pile. 
+
+"Orth is a paranoid bastard. He writes all his messages in code. Looks like this one is for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He breaks the wax seal and scans the note. As he reads, his face grows tight with fury.
+
+"Faung took my frame and left. He said it's not safe here. He wrote more, about my tattoos, and -" He snaps his mouth shut. "Never mind. He's not here."
+
+He glances toward the Aeon Priests. "We can talk about it some other time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What did the note say, Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Faung took my frame and left. He said it's not safe here, and I should remember what happened to my-" He snaps his mouth shut. "Never mind. He's not here."
+
+He glances toward the Aeon Priests. "We can talk about it some other time."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

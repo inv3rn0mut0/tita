@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_coty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Coty works diligently at Sundermun's bench. He's not quite as in step with the merchant as the younger Sundermun is - he misunderstands things and bumps into them on occasion - but the items he strings together are of at least the same quality, if not better.
+
+"Hey!" He looks up with a light in his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'm glad to see you're well. Take care, Coty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I made something for you." He beams proudly as he hands it to you. "I know it's not much, considering everything you did for me, but, well... I had to do *something*."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You're back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"So you like your new job?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me how you like the job again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Rhin's face brightens. "You look like you're actually happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He smiles shyly. "Listen, I'm really grateful for what you've done for me, so I'm working on something on the side. Come back again some time, and I'll give it to you when I'm finished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You're back! Sorry, I'm still working on your present. I should have it done soon, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Thank you. It's more than I expected."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Interesting. Well, I'm sure Sundermun can teach you to do even better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He grins nearly as wide as Parsim Flint did when you asked to buy him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>His smile fades. He returns to his work more diligently than before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I didn't think I would, but I do. Mister Sundermun even thinks I could start my own stand when I'm older - farther away, of course." He glances warily at the elder Sundermun.
+
+{GEORGE/COLIN: The follow-up Node 19 feels like it should only play after a few rests.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He leans in closer. "There's something weird about these two, though. Have you noticed they're almost exactly alike? Not like family, I mean. *Exactly*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"It's better than I thought it would be. I might even be able to start my own shop some day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The Sundermuns are actually the same person. The younger one will fall into the past one day and then return here to establish the shop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You mean...?" Coty looks back and forth between the Sundermuns, his eyes growing wider with each turn of his neck.
+
+Suddenly he stops and holds his head in his hands. "I don't know what you mean. My head hurts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Come back soon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Take care!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>As you turn to leave, Rhin grabs your hand. "I'm really glad you found this for him. Thank you."
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It was the best thing for him. He deserved better than slavery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'm glad, too. Thank you for pushing me toward it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'm glad we found any job at all. There's not much he's good at."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I didn't have much of a choice. You wouldn't let me *not* do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"How are *you* - you know, with the guilt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It's... all right. I admit, some nights I'm afraid to sleep because of the nightmares." You notice some of the old sobriety in his eyes.
+
+"But, you know? The work keeps me busy, so I don't think about it as much. And making things, sometimes serving people - it feels like I'm a bit cleaner, in a way. Not that I've paid for what I did - or ever will - but like... like maybe it doesn't matter as much as I felt it did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Rhin blushes and pulls away, but not before giving your hand a small squeeze.
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hmph!" Rhin rips her hand from yours and stalks away.
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I agree." She gives your hand a light squeeze then skips a small distance away.
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Look at him, though. Everyone's good at something, if you give them a chance to find it."
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"What... what am I doing here? I should be looking for work, not standing around..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Script Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Have you tried asking the Sundermuns why they look alike?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Coty shakes his head quickly and lowers his voice. "Didn't have the nerve. I mean... maybe they're sensitive about it. Besides, I like this job, and I wouldn't want to give them a reason to throw me out."
+
+He glances furtively at his employers. "If you find out, though... I'd love to know." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

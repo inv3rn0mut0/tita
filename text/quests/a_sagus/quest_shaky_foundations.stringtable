@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_shaky_foundations</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Shaky Foundations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sneak into the sticha lair and steal their eggs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Peliai in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Peliai in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Peliai in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Eggs as Leverage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rocky Peace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Peace?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Peace Through Blackmail</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Rock Solid Peace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Rock Solid Peace Through Blackmail</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Killed Peliai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tell Peliai about the deal with the sticha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Peace?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Peace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Peace With Benefits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Fought Sticha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Return to Peliai in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Scrambled Eggs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>A Vanished People</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Killed By Peliai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Left Sagus after dealing with the sticha (one way or the other) but didn't return to Peliai (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Peliai, a varjellen agent of the Slave Families, is trying to stop the sticha from digging underneath the city. Apparently, the creatures are destabilizing Sagus Cliffs and causing buildings to collapse. Her negotiations have gone nowhere, so she's turned to less honorable tactics.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Peliai wants me to steal all the sticha eggs from their lair so that the city can use them as a bargaining chip. She'll also accept a negotiated settlement with the sticha - if I can somehow bring one about - but she doesn't believe that such a settlement is possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>There aren't any egg clusters left in the sticha lair. That means I can head back to the Underbelly and give the stolen eggs to Peliai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I managed to negotiate an agreement with the sticha on my own. Peliai will want to hear the details.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>My attempt to retrieve the eggs failed, and the sticha have retreated deeper underground. Peliai will want to hear what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I gave the sticha eggs to Peliai, and she used them as bargaining chips against the creatures. The sticha have agreed to stop digging near the surface, which means that the homes and public buildings of Sagus Cliffs are no longer in danger of collapse. Peliai plans to keep the eggs to guarantee the good behavior of the sticha. She seemed to be impressed with my work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I negotiated a peaceful settlement with the sticha. They have agreed to stop digging near the surface, which means that the homes and public buildings of Sagus Cliffs are safe. Peliai was displeased that I didn't steal the creatures' eggs, as she wanted to have leverage over them, but she couldn't argue with the results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>My attempted theft of the sticha eggs went awry. Fortunately, the sticha appear to have retreated deeper underground and no longer pose a danger to the city, at least for now. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Using their stolen eggs as leverage, I negotiated a settlement with the sticha. They have agreed to stop digging near the surface, which means that the homes and public buildings of Sagus Cliffs are safe. Peliai was irritated that I didn't leave the negotiations to her, but she couldn't argue with the results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I negotiated a peaceful settlement with the sticha. They have agreed to relocate to a much better home that is some distance away from Sagus Cliffs. This means that the homes and public buildings of Sagus Cliffs are safe. Peliai was displeased that I didn't steal the creatures' eggs, as she wanted to have leverage over them, but she couldn't argue with the results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Using their stolen eggs as leverage, I negotiated a settlement with the sticha. They have agreed to relocate to a much better home that is some distance away from Sagus Cliffs. This means that the homes and public buildings of Sagus Cliffs are safe. Peliai was irritated that I didn't leave the negotiations to her, but she couldn't argue with the results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I murdered Peliai when she insisted that I give up the sticha eggs, and I kept them for myself. The sticha continue to dig underneath the city, and with Peliai gone, it doesn't look like a negotiated settlement is going to happen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>I managed to negotiate an agreement with the sticha on my own, using their eggs as leverage. Peliai will want to hear the details.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Using their stolen eggs as leverage, I negotiated a settlement with the sticha. They have agreed to stop digging near the surface, which means that the homes and public buildings of Sagus Cliffs are safe. Peliai was very displeased that I gave the eggs back to the sticha because she doesn't have any leverage over them if they change their minds. On the other hand, she seemed relieved that I secured a deal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Using their stolen eggs as leverage, I negotiated a settlement with the sticha. They have agreed to relocate to a much better home that is some distance away from Sagus Cliffs. This means that the homes and public buildings of Sagus Cliffs are safe. Peliai was very displeased that I gave the eggs back to the sticha because she doesn't have any leverage over them if they change their minds. On the other hand, she seemed relieved that I secured a deal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>I negotiated a peaceful settlement with the sticha, using their eggs as leverage. They agreed to relocate to an excellent rock source. Peliai was irritated that I didn't leave the negotiations to her and demanded the eggs from me. We fought when I refused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>When I returned from the sticha lair, I got into a fight with Ch'kekt, and the sticha have retreated deeper underground. I gave the stolen eggs to Peliai, but because of my actions, she couldn't finish her negotiations. She kept the eggs as leverage over the sticha if they happen to return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>I destroyed all of the sticha eggs. I should return to Underbelly and tell Peliai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Peliai was angry I failed to recover any eggs. She left Underbelly, saying that I ruined her chances of reaching any kind of settlement with the sticha. The creatures continue to dig underneath the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>The sticha were alerted to my presence, and I fought Ch'kekt. The sticha appear to have retreated deeper underground and no longer pose a danger to the city, at least for now... but Peliai is very, very angry with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Peliai turned violent when I refused to give up the sticha eggs. Unfortunately, she proved stronger than expected and killed me. Then she took the eggs from my corpse. She presumably used them as leverage against the sticha, so it's likely that the creatures have retreated deeper underground and are no longer a threat to the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>I've left Sagus Cliffs and don't know that I'll be returning. Someone else will have to resolve the situation with the sticha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>I dealt with the sticha but didn't get a chance to speak to Peliai before leaving Sagus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>When I asked about an alternative means to reach the sticha lair, Peliai suggested that I look for some sort of digging construct... or find someone skilled in manufacturing who can fabricate one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The Master Foreman agreed to create a digging automaton for me, but it requires the intact corpse of a stichus. I'll have to look around for one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The Foremen have used the stichus corpse I found to fabricate a digging automaton. I can now use it to reach any location underground, including the sticha lair. It's waiting for me in the tunnel where I found the stichus corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>My stichus automaton should be able to take me to the stichus lair. It awaits me in the tunnel where I killed Ch'kekt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I have stolen a stichus egg cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I have stolen a stichus egg cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I have stolen a stichus egg cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I have destroyed one of the stichus egg clusters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I have destroyed one of the stichus egg clusters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>I have destroyed one of the stichus egg clusters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Mapper told me about a black spire of rock that would provide a much better home for the sticha. This might help me convince them to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>I've uncovered an intact stichus corpse at the end of a collapsed tunnel in the Underbelly. I should report its location to the Master Foreman.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

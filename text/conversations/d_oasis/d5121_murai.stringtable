@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_murai</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>124</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A friendly looking ghibra of the bipedal variety bows as you approach. Its scales are a cheerful sea blue, and its sash of office is bright red.
+
+"Greetings, visitors, can I interest you in a tour of the Oasis? You can see all its wonders for only  [Global: d5121_TourGuideCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Thank you for hiring me. What would you like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The ghibra guide bows again as you return. "Hello again, visitors. Still interested in a tour of the Oasis? It is only [Global: d5121_TourGuideCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Yes. I'd like a tour."
+
+{SCRIPT: Conditional - Player has enough money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Thank you. Good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It beams. "Wonderful! Then, come with me to that merchant over there, who will sell you an air-skin bracelet so you can breath within the Oasis. This way!"
+
+{SCRIPT: Take player money. Join Party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Can I go in without a guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>It laughs. "Not without an Agnition Stone you can't. And it is very rare indeed that non-ghibra are given that honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"*Why* can't I get in without a guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Why do I have to have a guide again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The guide bows and makes a speech you can tell it has made many times before. "By order of the Giash no air-breathers are allowed to live or travel within M'ra Jolios without a ghibra escort, or special dispensation from the Giash itself. This is primarily for the safety and protection of our honored visitors, who cannot survive underwater without artificial means. But also, it ensures that the Oasis preserves its beauty and fragile native culture, for the enjoyment of both visitors and residents alike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>It bows again. "For the safety of our visitors, the Giash have ordered that no air-breather may travel within M'ra Jolios without a ghibra escort. It is too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Can you tell me about the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It smiles. "I can tell you that I will be happy to tell you about the Oasis after you have hired me. I can also tell you that it's beauty is beyond compare, and the tour will be well worth the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm done with the tour now, thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I have no more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"All right. Then let's continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It has been a pleasure being your guide. Let me take you back to the Marina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Of course! I'll just take your air-skin bracelets back to Nieto for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Of course! Thank you so much for allowing me to show you my city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Come see me when you want to visit the Oasis again!"
+
+{SCRIPT: Murai walks back to the tour guide spot.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"No need to trouble yourself. I can find my own way back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ha ha. You're the first person to say that, ever." The guide seems a bit stiff. "I'm afraid that is strictly against the rules. Besides, I must go back to the marina if I wish to hire myself out again, mustn't I. So our paths are the same. Off we go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'd like to know about the culture of the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'd like to know about some things I've seen in the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'd like to know about some of the people I've met in the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Certainly. What aspect of our culture would you like me to tell you about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Of course! Which things were you thinking of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The guide chuckles. "Well, I don't know everybody, but I'll tell you what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tell me about the ghibra religion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tell me again about the ghibra religion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[The ghibra religion blah blah blah...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me about the history of the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I wanted to ask you about the history of the Oasis again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Goes on about the Oasis's factual history back to the founding Jerboa and its mythical history dating back to the prior worlds.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bank 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Why is the Oasis called M'ra Jolios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tell me again why the oasis is called M'ra Jolios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[She says it means the Gate of Peace and explains why. She also talks about the Eye of Ny'kul, being its other name.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Bank 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tell me about that building that was destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me again about Atolyu Cay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[She tells you about Atolyu Cay, what happened, and what is happening in the Oasis because of it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me about Oblevis Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me about Oblevis Reef again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[She tells you about Oblevis Reef.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Explain the Menagerie to me."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Tell me again about the Menagerie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[She tells you about the Menagerie.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I met a man in Jerboa named Matak who said he used to be a ghibra. Do you know his story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Tell me Matak's story again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[She tells you the horrible things Matak did and why he was chosen for such a harsh punishment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tell me about Captain Caron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Tell me about Captain Caron again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[She tells you about Caron's achievements and why he is a good captain of the guard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tell me about the Giash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Remind me about the Giash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[She tells you about Omis the Giash Head, Semat his second, and Thom who she knows little about but respects.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"What is an Agnition Stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"It is a pass giving a non-ghibra the right to enter M'ra Jolios without an escort and to visit all areas within it." The ghibra smiles appologetically. "Only the Giash, our rulers, grant them, and that happens very rarely. Without one, a guide such as myself is the only way to visit the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"It means the Gate of Peace," says the guide. "Because the ghibra believe it is a step on the path to the Endless Ocean, our conception of paradise, a place of deep blue calm ruled by the great Ny'kul, our god. For that reason it is also sometimes called the Eye of Ny'kul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"M'ra Jolios means Gate of Peace. Sometimes we call it the Eye of Ny'kul too, in honor of our god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"That is where we ghibra bury our dead. The graves are grown from the coral, with the sarcophagi are enclosed within them. They say there are graves there older than the Oasis itself."
+It chuckles. "It also contains our spawning grounds, so really, it encompasses all our lives. 'From reef to reef,' as we say here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"The Oblevis Reef is the cemetary of M'ra Jolios. It is also our spawning grounds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"The Menagerie is our public zoo. Many strange and fascinating creatures from the water breathing world are on exhibit there. It is very educational."
+
+The guide lowers its voice dramatically. "It is also where we keep air breathing prisoners who are considered too dangerous to banish, and who the Jerboans do not want in their jail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"The Menagerie serves M'ra Jolios as both zoo and jail. It is a popular attraction, for both reasons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Well, it is the only place fit for air breathers to stay, and having so many visitors keeps them from getting bored. Or so I would think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Why do you keep prisoners in a zoo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Interesting. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You have met Matak?" The flesh around the guide's gills pales. "Do not have anything to do with him. Do not allow yourself to be swayed by his lies. He is a monster who was banished from M'ra Jolios for his crimes! He is not to be trusted!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"He is a monster - a mad inventor who killed many ghibra with his barbaric experiments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What did he do exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>It shivers. "He always claimed to be working for the good of the Oasis, and that his inventions would protect us from outside threats, but all they ever killed were ghibra. Sonic disrupters, sentient poisons, strange explosives that would turn people inside out. Horrible, horrible things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She smiles. "Captain Caron is the most senior active duty officer of the Tears of Ny'kul. He is known for his wisdom and restraint in the face of crisis, and his sense of justice, which even our few criminals agree is fair and humane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Captain Caron is an officer of the Tears of Ny'kul, known for his calm, even-handed approach to justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The guide motions at the water around it. "We believe that this, the Eye of Ny'kul, what air breathers call the Oasis, was given to the ghibra by Ny'kul, our god, so that we could do his bidding and bring water and life to the Ninth World."
+
+"We also believe that a ghibra who is good and pious and follows Ny'kul's teachings will pass through the Berata Ny'kul when they die and swim for eternity in the Endless Ocean where all is peace and clear water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"We worship Ny'kul, the god of endless water, who bids us bring water and life to the Ninth World."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The guide nods. "M'ra Jolios' human history starts at the founding of Jerboa, centuries ago, when refugees from far lands found us, and we gave them water and shelter."
+
+"But our legends suggest we ghibra were here long before that. It is said a ghibra named Baji saved the world at its beginning by freeing the waters of M'ra Jolios to drown a great evil, sacrificing himself and many other ghibra in the act. This is likely a myth, but one that speaks to our tradition of charity and peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Our legends go back before the creation of the Lost Sea, but our written records start with the arrival of the Jerboans, some eight hundred years ago. Out two cities have lived in friendly symbiosis since then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The guide hesitates a moment, then speaks. "A terrible tragedy. The building that was destroyed was a... I don't know if there is an air-breather equivilent - a dwelling of meditation. Many people died, and I know many are calling it a deliberate act, but I believe it is still under investigation. It could well have been an accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"A horrible loss of life. I am praying it was nothing but an accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"The Giash are our leaders, who make the laws and rule on them too. There are three members - Omis, the leader, Semat, his second in command, and finally Thom, the most recent member. It is they who weigh the greatest decisions facing M'ra Jolios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"The Giash is the ruling counsil of M'ra Jolios. They both make the laws and rule on them as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Tell me more about the three members of the Giash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Interesting, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>She frowns. "Well, I don't know much about their personal lives. They are very private people, but I can tell you their reputations as leaders."
+
+She ticks them off on webbed fingers. "Omis is said to let his faith guide him in his decisions. Semat is his opposite in that. She tries to lead through reason and inquiry. Thom seems to be the neutral party between their extremes, always striving for compromise and accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"So you don't believe pro-Jerboan forces were behind it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>It choses its words carefully. "I believe that, as a tour guide, it is not my place to speculate on such matters. They are beyond my perview."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"In theory, this mix of personalities should make for wise and well balanced leadership, and it does... when they can manage to work together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I am having trouble telling male and female ghibra apart. Can you help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Of course. There are two ways. Females have a more graceful angle to their gills, and the scents of males and females are completely different." It shrugs. "Unfortunately, many airbreathers say they cannot see or sense either of these distinctions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked the PC to look for Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Do you know a woman named Misha?"
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I'm very sorry. I don't know that name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Auvigne? I knew him very well for a while. I took him into the Oasis many times. I haven't seen him for more than a year, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I wish I did. He was a charming man, and it was a pleasure to show him the wonders of the Oasis."
+
+It frowns, thinking back. "I remember hearing he was involved in a riot that occurred when Counciler Semat visited Hakim Tuck, but I don't believe it. He was such a calm, thoughtful man. Not the type at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"He was in love with it. He wanted to live there, and talked to me often about finding a way to aquire an agnition stone and a permanent set of gills. I tried to disuade him, telling him how hard it was to get those things, but he seemed determined. I half-thought he might join the Compatriots but I never heard him speak of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Why did he go into the Oasis so often?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Can I ask you something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Do you know what happened to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

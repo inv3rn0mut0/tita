@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_erritis_in_rennios_service</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erritis plucks at his fingers, glancing between the ground and his new employer, plucking at the ends of his fingers. The golden aura about him seems... weaker, somehow. Like a candle flame on the cusp of flickering. 
+
+Hearing your footsteps, he looks up, eyes wide.
+
+"I'm so glad you're back! I have... what are they called... those things that people have when their lives aren't interesting and full of adventure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Look at me! Working like normal people!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I had my doubts, but this new adventure is going quite well, I think!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>::sighs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'll have this debt worked off in no time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Yes! That word. How do these normal people deal with these things? These nibbling little thoughts? I need to jump! To run and duel and leap, but no!" He lowers his head. 
+
+"I have *work* to do," he moans.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What? No." He grabs your arm. "Why, is someone saying I'm afraid? I'm never afraid! I'll duel anyone who says I'm afraid of anything!" 
+
+He rubs his temples. "No, it's an 'R' word. Rrrrrrr... rerara... regrets! I have regrets! Me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No, but I'm so glad you said that!" he says, grabbing your arm. "I've *never* understood why they're so popular. It's just bread with things in the middle!" 
+
+He rubs his temples. "Ugh. My thoughts are getting so *boring*. No, it's an 'R' word. Rrrrrrr... rerara... regrets! I have regrets! Me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sandwiches?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fears?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Regrets?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>::fidgets::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nothing happens here! People waddle off their airships, complaining about the food or how long the trip took. No one argues! No one punches a levy, or swings off the ships shouting and throwing daggers! I need to leave. I need to..."
+
+He thumps his chest, abruptly resolute. "No! I swore to serve Rennio. To pay my debt! And that is what I will do!"
+
+He straightens, fists cocked on his hips. "You are a good friend. We should talk more often."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::fidgets::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sorry. Can't talk now. Master Rennio needs me!"
+{SCRIPT: Script node 17 should only play this barks once Rennio is ready to release Erritis from service.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

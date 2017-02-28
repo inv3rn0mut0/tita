@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_indigo_infoobject1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A pair of cylindrical tubes rest an arm's length from one another, set partially into the casing of this machine. Some kind of liquid glass is stretched between them, embedded with gem-like bubbles of air. A beam of light skitters across the glass, drawing jagged, erratic lines above and below a straight vector through the center.
+
+Every so often, the glass stretches and resets, the lines scrolling off to the right. This seems to be some kind of graphing system.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Try to read the initial state of the graph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You hesitate for a moment, and then place your hand directly on the liquid glass. With a flick of your wrist, you roll it back to the left, and it scrolls by with amazing speed. 
+
+The needle traces the lines it drew. Viscous squelching sounds - like pulling something free of thick mud - play from the machine. The audio cues match the zigging pattern on the scroll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>After just a few seconds, the sounds transform, forming words in Truth. The voice is not human, transformed by the muddy sound of the inscribed spikes. It intones, "For all, any. We hunt for the pack. Die for the pack. The pack lives so the pack can live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A human voice speaks over the wet noises: "The nchalsik does not merely place its society above its own well-being, it places the collective above the well-being of *every* nchalsik, the principle of utility taken to the extreme. Any number might be sacrificed to overcome an existential threat to the group. Only elder nchalsik are vulnerable to self-indulgent pride." The voice trails off as the scroll reaches the blank section it was filling before you arrived.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The light-needle continues to inscribe jagged lines into the glass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The device continues etching the brainwave recordings into the glass, but offers no new translations.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

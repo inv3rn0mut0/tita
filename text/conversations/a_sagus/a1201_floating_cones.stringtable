@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_floating_cones</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Two floating cones whirl and spin deliriously around each other, giggling like children being tickled. The air around them smells of sweet, burning leaves. 
+
+{SOUND: We should hear the giggling sounds throughout this dialogue, though we should also hear them outside the dialogue when we approach the cones. Alex, I'm not sure how you want to handle this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The cones have not stopped whirling around each other. Perhaps they never will. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try speaking to the cones again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Touch a cone as it passes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try touching one of the cones again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Watch them for patterns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Leave the cones alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You manage to graze one of them with the tip of your finger. "Rorn," a voice says, and your vision is stolen from you. 
+
+A moon hangs over you, but it is not the one you recognize. It's black and in a pearl-white sky. Thick, flat asteroids orbit it like petals in the wind. You feel questing tendrils at your ankle, and the hot wind on your face smells of scorched hair and grief.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You reach out for the dancing cones, but they gleefully avoid your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The longer you stare at these artifacts, the more you're convinced that they turn faster when their spiraling paths cross each other. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Their edges seem to trace faint glowing lines that twine around each other, resembling a rope fastened to some invisible point beyond this time and place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your vision returns. The cones hang motionless for only a second before resuming their giggling dance.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The cones greet your question with a split second of hushed silence, following by delighted peals of helpless giggling. 
+
+{SOUND: As noted in the text, the giggling should stop of a second, then resume (maybe a little more hysterical at first).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Childlike laughter is their only response. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"They aren't *for* anything. They're from one of the worlds before this one."
+
+Aligern rubs a hand along his stubbled jaw. "Sometimes, the numenera will do something useful. Sometimes, they'll turn you inside out. And sometimes, they don't do a damn thing that makes sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"They aren't *for* anything. They've been here as long as I've been alive. Probably longer. Chances are they're from one of the worlds before this one."
+
+Aligern rubs a hand along his stubbled jaw. "Sometimes, the numenera will do something useful. Sometimes, they'll turn you inside out. And sometimes, they don't do a damn thing that makes sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"They might have a purpose," Callistege says, "but it's not anything we'll divine together. They're from some prior world, or cut from the fabric of a different place entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I've often said the same thing about you, darling," Callistege murmurs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The cones continue whirling and laughing like enraptured dancers, giving no sign that they've heard you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"What are you for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

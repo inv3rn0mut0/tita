@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_circles_in_red</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Circles in Red</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Track down the murderer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Go to the Dendra O'Hur chapel and question the cultists there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Fulsome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kiyatawa was the Murderer!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mallet was the Murderer!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gh'zei was the Murderer!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The Murderer Got Away!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Fulsome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The Murderer Got Away!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Fulsome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The Murderer Got Away!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Left Sagus Without Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Left Sagus after final murder but before returning to Fulsome (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A murderer is loose in Underbelly, the poorest and foulest ward in Sagus Cliffs. If the culprit isn't caught soon, more people are likely to die...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fulsome asked me to bring him any information I can find, but he didn't provide much in the way of leads...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have reason to believe that the murderer was a member of the Dendra O'Hur cult. I should go to the cult's chapel in Underbelly and question all the people I find. Any one of them could be the killer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've questioned all the cultists at the Dendra O'Hur chapel. I can return to Fulsome at any time and tell him who I think committed the murders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I accused Kiyatawa of the murders, but she slipped away before Fulsome's thugs could arrest her.
+
+Fulsome doubts that Kiyatawa will return to Sagus Cliffs. If I ever see her again, he asked me to make her pay for what she did. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I accused Mallet of the murders, and he was arrested by Fulsome's thugs. Apparently he protested his innocence to the end, but they hanged him anyway. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I accused Gh'zei of the murders. She was arrested and hanged by Fulsome's thugs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Fulsome's messenger told you there was another murder, Mechela. Following the last murder the killer fled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Fulsome sent a messenger to tell me that there's been a fourth murder, and the killer has fled the city. He wants to talk to me at once.
+
+There's no point in any further investigation. Fulsome should be able to tell me what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I failed to catch the murderer, and she killed a merchant named Mechela. A few of Fulsome's thugs stumbled onto the scene, but the murderer fled and escaped the city. It turns out that the culprit was Kiyatawa, a Dendra O'Hur cultist. 
+
+I doubt Kiyatawa will return to Sagus Cliffs, so the danger to Underbelly has ended. If I ever see her again, Fulsome asked me to make her pay for what she did.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Fulsome sent a messenger to tell me that there's been a fourth murder, and the killer has fled the city. He wants to talk to me at once.
+
+There's no point in any further investigation. Fulsome should be able to tell me what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I failed to catch the murderer, and she killed a merchant named Mechela. A few of Fulsome's thugs stumbled onto the scene, but the murderer fled and escaped the city. It turns out that the culprit was Kiyatawa, a Dendra O'Hur cultist. 
+
+I doubt Kiyatawa will return to Sagus Cliffs, so the danger to Underbelly has ended. If I ever see her again, Fulsome asked me to make her pay for what she did.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I've left Sagus Cliffs and will certainly not be returning anytime soon. Fulsome will have to find someone else to investigate the murders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I've left Sagus Cliffs without speaking to Fulsome. The messenger made it sound like the killer has been identified. I wonder who it was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Fulsome suspects the involvement of Matkina, the so-called White Death, who is an assassin of some repute. He asked me to question her. He isn't sure where Matkina is, but a mutant called Mapper might know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I questioned Matkina about her involvement, but she insisted upon her innocence. She might have more to say if I describe the scene of a murder in detail... or if she sees it for herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Fulsome let me inspect the scene of his protégé's murder. The body was nowhere to be found - only a single flayed hand and a strange circle drawn on the wall in blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I inspected the scene of a murder. The victim's body was nowhere to be found - only a single flayed hand and a strange circle drawn nearby in blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Another person has been killed - a little mutant woman named Crooked Qeek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Another person has been killed - an itinerant jack named Manth Pa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I have questioned Imbitu, the cult's leader. He says that he was with Fulsome when Wheedle was killed, which sounds like a solid alibi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I have questioned Mallet. He claims that he was getting drunk in a corner of the manufactory when Wheedle was killed. However, he did admit that he knew Wheedle... and it sounds as if the pair didn't like each other much.
+
+Mallet also warned me not to trust Kiyatawa or Gh'zei. He apparently saw Kiyatawa eating a corpse in an alley, all by herself, which suggested to him that she has something to hide. He describes Gh'zei as a particularly nasty sort of mutant who might also be hiding something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I have questioned Kiyatawa. She claims that she doesn't know who the killer is, but she's seen this kind of murder before. It suggests that the killer was sending a warning or holding a grudge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>I have questioned Gh'zei, a cannibal mutant with claws and sharp teeth. She doesn't seem to recognize that a murder took place because no corpse was left behind. However, she cautioned me not to trust Kiyatawa and Mallet, both of whom have been sneaking around at night and keeping secrets from the other cultists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The murderer tried to kill a little mutant named Crooked Qeek. Apparently, Qeek managed to survive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>The Dendra cultists won't talk about the murders until their leader, Imbitu, grants them permission. I should speak to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Kiyatawa admitted to finding a corpse in the city, but she didn't want to share it with the other Dendra, so she ate it alone. Then she suggested that I ask Mallet how many corpses he has found on his own, and she implied that he might have killed some of them himself.
+
+Kiyatawa seemed like she was hiding something else about her visit to Circus Minor. I should speak to the merchants there and see if any of them saw what she was doing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Mallet admitted to killing a man who stole something from him... and then eating the man's corpse. But he claims he only did it once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>The Master Foreman saw a large, male Dendra cultist in the manufactory around the time of the first murder. The cultist was getting drunk under one of the pipes. This would seem to support the alibi that Mallet gave me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>I found Matkina, but I'll have to help her recover her memories before she can answer my questions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Imbitu has given me permission to question the other Dendra O'Hur cultists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Prata, a merchant in Circus Minor, told me that she saw Kiyatawa staggering around the area, muttering about "hollow red circles". This sounds very similar to the symbols the murderer has been leaving on walls in the Underbelly. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

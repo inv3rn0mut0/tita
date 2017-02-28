@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_foremans_brood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Foreman's Brood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Help the Crippled Foreman transfer its life force into its children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Life Force Transfered</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Transfered and Grabbed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Not on My Watch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Crippled Foreman wants to transfer its life force into tiny metallic children that it has built. So far, it's been unable to transfer sufficient power, so it asked for my help. If the power transfer succeeds, the children will live, but the Crippled Foreman will die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I'll need to bypass the safety measures that prevent the Crippled Foreman from transferring energy above a certain threshold. It suggested that I speak to its assistant, Tarnish, who might have some ideas.
+
+Alternatively, there might be some other way to resolve this situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I transferred the Crippled Foreman's life energy into its children. The Foreman died, and I let its children go off into the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I transferred the Crippled Foreman's life energy into its children. The Foreman died, and I captured its children to use as cyphers and power sources.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I convinced the Foreman not to sacrifice its life. It has abandoned its quest to procreate... for now, at least.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've left Sagus Cliffs and don't know that I'll return. The Foreman will have to turn elsewhere for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Tarnish, a human worker and friend to the Crippled Foreman, admitted that he doesn't want the Foreman to give up its life. Maybe I can use this fact to change the Foreman's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Tarnish has given me some additional insight into the workings of the Foreman's body. I may be able to transfer the energy myself, but it won't be easy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Someone at the Order of Truth might be able to provide some assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I acquired a Procreative Surge Turbine from Sn'erf at the Order of Truth. It should facilitate the transfer of life energy from the Crippled Foreman to its offspring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Sn'erf, a guest researcher at the Order of Truth, thinks it can solve the Crippled Foreman's problem. I'll have to pay Sn'erf a fee, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

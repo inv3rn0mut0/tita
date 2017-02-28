@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_bigbook</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An enormous, dusty book sits atop this marble lectern. Its cover is of some strange steel, and animated scenes dance deep within its patina. A massive, carefully wrought chain holds it to the lectern... and incidentally holds the cover closed with an intricate lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You study the strange mechanism that serves as the lock, and you just *know* that whatever's inside these pages is worth the trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the book alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The Sorrow's strange flames have reached the marble lectern! You can see the pages of this massive, metal book beginning to singe, and a small voice in you cries out at the loss of knowledge implicit in every scorch mark, no matter how tiny. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The flames have begun to devour this ancient book, and though the cover is of some strange metal, you can see flames emerging from within its covers. You can only hope that some of its knowledge can be preserved. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ashes, slag, and a few charred pages are all that remain of this invaluable tome of knowledge. You might still save some of these pieces - maybe they'll be useful for something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The marble lectern stands alone in the room. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Gather the pieces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leave the lectern alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>As you place your hand on the lectern, you can feel the words from the destroyed pages leaching into your skin, and as you look at your hand, you see words glow briefly and disappear into your flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You arrange the pieces of the four Blue objects on the table, and after a moment's careful deliberation, you use the pieecs of the other objects to sketch your impressions of the book... and as you do so, the book rebuilds itself under your fingertips. Though enormous gaps remain, you have managed to restore a a good portion of its knowledge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Use the pieces of the Orb of Insight to try to repair the Great Book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The orb's light becomes denser, stronger, and as you hold it near the book, its beams reify, taking the shape of some of the missing pages. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>No matter how you concentrate, you are unable to summon the necessary insight, and the pages continue to char. You had best try something else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Using the pieces of the Memory Coral, try to remember how to repair a book. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Working from memories you summoned from an unused part of your mind, you somehow smooth the coral fragments into pieces of paper that creep into the book's binding. Writing rises from the surface of the pages like water welling from an underground spring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Your memory falters. Did you know how to do this once? You think you may have had that knowledge, but you grasp at it, and it's gone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Perhaps the remaining gusts from the Chalice will suffice to repair the Book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Your breath covers the pages of the book, and the fire gutters and dies back. Incredibly, some of the burnt pages reform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You do not believe, and the breezes escape your lungs with your breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Examine the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The metal is diamond hard to the touch. The script on the cover swims before your eyes for a moment before resolving into a single word: "Knowledge." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>But the book remains stubbornly locked, the chain and lock seeming to evolve before your eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You have managed to unlock the book. Now you simply need to understand it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The book lies open before you, but the script within means nothing to you. How can this be, when the book itself is a product of your own mind? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Now that you understand the nature of the script, you are able to make progress on making its contents clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Read the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Read the book using the newly created lens..</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Finish reading the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The lock is of a living metal, its configuration slithering about so that no single keyhole is ever evident in it. It looks like a serpent with no head and no tail, knotted endlessly around itself. You won't be able to pick this lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Now that the lock has opened, you see the chain has detached from the base of the lectern as well. Picking it up to investigate further, the chain coils from your fingers to the top of the lectern, and something about its appearance nags at you. The outer edges of the chain resemble a serpent's scales, as if they interlock and overlap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You open the cover, but the script is in a language you don't understand. Just looking at it gives you a headache. You'll need some sort of translation device. But what can you use?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Scoop the glassy goo that was the lock into the bowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Try to focus through the pain - I'm almost done with the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You consider the chain briefly, and it seems an easy enough solution. You simply take the spool of chain, like so, and then wind it together like this, and the pieces interlock into place... except that when you try, the chain collapses into a tangled heap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Destroy the chain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Though the chain looks incredibly durable, you manage to scatter its pieces. Even as you destroy the chain, you notice the book crumbling, and you're too late to stop its utter destruction. All that remains are fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You scrape the glassy goo into the bowl, and it adheres to the sides, forming a perfect lens at the bottom of the chain pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The words flow into your mind faster than you can imagine. What you read is incredible. The knowledge contained within is stunning. You read of alternate worlds, of stepping through to places where time runs differently and marvelous machines are at your command. You read legends of heroes and villains, and you come to the slow realization that these lives were not yours... but you have a memory of them nonetheless. Your mind burns as information pours into it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>You block out the external distractions, the pain building in your skull, and the knowledge comes to you in a dizzying burst, a gush of concentrated information. You know now why you can speak, think, and reason, though you are only a few days old: because of the patterns created in this body before you wore it. You suspect that you can call on unseen reserves of mental strength later. You have saved the Great Book of Knowledge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You try to focus, but your concentration slips at the dizzying knowledge you are absorbing. You need a moment to clear your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You have found a way to unchain this living lock. It still squirms on the table, and it appears to be melting into some sort of thick, translucent, glassine *goop*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Try to work with the goo that was the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>It is almost perfectly translucent, with no sign of the metal it once was. However, the material of the lectern underneath it seems to change its appearance, its small imperfections seeming almost like a script. The viscous gel slides out of your fingers frictionlessly. You can push it around, but after a while, you realize you'll need an actual container to hold the stuff. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Examine the remnants of the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Examine the chain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The chain's links are strange. They look almost like scales attached to one another with nanofiber. The chain is unbreakable, though. If you could just get it unlocked, you might be able to explore it further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Bank 98</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Only soot and scorches mark where the Great Book of Knowledge once sat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Suddenly you realize that the fragments of the four items in the room can be cobbled together to create a single item. You can imagine the orb, book, coral, and chalice together... perhaps you can craft something from them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Try to fit the chain's scales together again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Bank 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You just can't seem to make it work. You *know* that it should fit together, but the pattern seems to be beyond you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Take a break to try it again with a clear head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Try to discern a pattern to the lock's writhing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>You calm your mind, and watch the coiling lock dispassionately, After a moment, you can see that there is a small notch on an inner loop that matches with a small notch on an outer loop. When the notches near each other again, you touch the lock on those notches, and the lock falls from the book, remaining on the lectern. The chain coils off to the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>You study it for what seems like minutes, though you recognize the subjective quality of the time, but you are unable to make any sense of the pattern. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Stroke the lock gently in hopes that it will relax its grip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Surprisingly, though the lock is not a living creature, it responds to your touch. It gently parts, unknotting itself, and removes itself from the hasp of the book. It lies on the lectern as the chain uncoils into a spool on the ground. You step back to assess the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>A clever idea, but though the lock is animated, it is not alive. It does not respond to your touch. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Try to force the lock open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>You muster your strength and strike the lock as hard as you can. With a sharp crack, it falls into two pieces, and the chain coils down to the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>You strike it, but succeed only in hurting your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>You consider the chain briefly, and it seems an easy enough solution. You simply take the spool of chain, like so, and then wind it together like this, and the pieces interlock into place, creating a bowl with no bottom. But now what?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Construct an actual serpent from the chain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Through careful folding and manipulation, you are able to coil the scaled chain into a realistic-looking viper. When you step back from it, it comes to life and hisses angrily at you. A massive lump forms in its throat and an egg emerges from its mouth. Then it collapses back into its original form.
+
+{SCRIPT: Gain some small egg-like cypher.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>You coax and prod at the chain, but to no avail. You're unable to put it together properly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Force the chain into a hoop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Through sheer effort and strength, you manage to create a long, thin tube from this scaled chain. It feels as if you may have bent some links... but you hear a strange popping, and one of the links falls off. The rest of the chain shakes itself back into a disorganized coiled pile.
+
+{SCRIPT: Gain some small cypher that could represent a chain link.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Your efforts are useless. It just won't lock into position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bank 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Try to fit the chain's scales together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Bank 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText> A strong, carefully wrought chain attached the lock on the book's cover to the lectern. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Bank 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>The flame seems to have no effect on the strong, carefully wrought chain that both holds it to the lectern and attaches to the lock on the cover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>You calm your mind, relax, and try to save the book's knowledge once again.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>The book remains stubbornly locked, the chain and lock seeming to evolve before your eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>You have managed to unlock the book. Now you simply need to understand it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>The book lies open before you, but the script within means nothing to you. How can this be, when the book itself is a product of your own mind? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Now that you understand the nature of the script, you are able to make progress on making its contents clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>You try to smash the chain with your bare hands, but it's more durable than it looks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>You realize, too, that you have gained something more than just remnants of the words.
+
+{SCRIPT: Recover small # of Intellect Pool, or some other cool, minor reward like a healing cypher.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

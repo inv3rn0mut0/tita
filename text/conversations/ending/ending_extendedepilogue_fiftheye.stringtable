@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_fiftheye</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The veterans of the Fifth Eye enjoyed their retirement from the psychic wars. They drank. They laughed. They retold the same tales to anyone who would listen. Until one by one, their minds faded, and soon there was only Ziobe... drinking with his friends by himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>
+
+That was when the Adversary - that ancient foe of the psychic veterans - chose to attack. It had hidden itself among the Fifth Eye patrons, watching and waiting. With the other veterans gone, it emerged, suddenly and without warning.
+
+The Adversary devoured Ziobe's mind, then it rampaged across the Sagus Protectorate, unchallenged and free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The Fifth Eye veterans recruited for the Endless Battle fought, and fought hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Fifth Eye veteran recruited for the Endless Battle fought, and fought hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>But with the disappearance of the castoffs, the Endless Battle quickly petered out. A few groups continued to fight, but most of the combatants left - for other battles or simply for the comfort of a Fifth Eye drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The Endless Battle continued on for many years - for as many years as there were castoffs, which was indeed a long, long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>
+
+The Fifth Eye faced a menace of its own, however. An Adversary - that ancient foe of the psychic veterans - had hidden itself there, watching and waiting. When it was strong enough, it emerged, suddenly and without warning.
+
+The Adversary devoured the minds of those in the Fifth Eye, then it rampaged across the Sagus Protectorate, unchallenged and free.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

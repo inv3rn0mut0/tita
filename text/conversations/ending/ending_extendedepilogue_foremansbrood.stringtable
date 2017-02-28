@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_foremansbrood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Although the crippled construct eventually agreed to give up trying to procreate, Tarnish could hear the torment in the foreman's voice. Finally, after Tarnish had grown old - too old to do more than tinker - he changed his mind and worked to help the foreman bring his children into the world.
+
+Soon after his ninety-first birthday, they were successful....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Poor Tarnish spent the next several decades trying to regenerate the crippled foreman, after it gave its life for its children. Seeing Tarnish's love for the construct, the other two foremen grew more sympathetic and tried to help. But even they could not restore the construct's life - the life it had given to its children.
+
+Tarnish passed away an old man, and the project - the empty construct - was left abandoned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The tiny construct children of the crippled foreman scattered throughout the city. They began building things at random - much to the consternation of the master foreman.
+
+Finally, the master foreman called for his workers to bring the small constructs in to him. He was surprised at how much they had grown. Apparently, they had been building themselves as well as random pieces of the city.
+
+He now instructs them, treating them as he does his human workers - although it is clear he favors them more. What's unclear is how well they will continue to follow his instructions.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

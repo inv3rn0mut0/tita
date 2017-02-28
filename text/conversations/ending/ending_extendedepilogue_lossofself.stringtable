@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_lossofself</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alara, the girl once known as Loss-of-self, not only remembered her name and the faces of her parents, but the next time they came to bring her food, she was able to tell them everything that had happened to her.
+
+Alara returned home, happy for the first time in years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The girl known as Loss-of-self struggled for a long time against the workings of the probability engines underneath the city. She never fought off their compulsions entirely, nor could she ever fully remember who she was, but she did, finally, walk away from the ledge and live her life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Loss-of-self eventually accepted the personality that had been growing in her mind for so long. She began calling herself Miila and found herself strangely attracted to the Cult of the Changing God.
+
+After watching them for a couple of months, she built up the courage to join the cultists and learn more about this strange god. She is now one of the foremost scholars on the Changing God and his legacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The girl known as Loss-of-self fought the personality that had been growing in her mind for so long, but it was a losing battle. In the moment when she felt her mind slipping away - and the *other* girl taking over - she leaped off the ledge, disappearing into the black water below.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

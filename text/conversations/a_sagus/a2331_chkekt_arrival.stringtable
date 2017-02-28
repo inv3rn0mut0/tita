@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_chkekt_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Emerging from the freshly dug tunnel, you find yourself in a small chamber with veins of refined metal glimmering along the ground and walls. 
+
+Ch'kekt turns to face you. "Place beyond - egg rooms. Hatching chambers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Emerging from the freshly dug tunnel, you find yourself in a small chamber with veins of refined metal glimmering along the ground and walls. 
+
+Ch'kekt turns to face you. "Egg rooms. Hatching chambers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Its claw works up and down slowly. "Future grow here. Not disturb eggs." You can smell threat on the stichus's pheromones. "Your goal, your sanctuary, on other side of nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Its claw works up and down slowly. "Future. Go. No disturb eggs." You can smell the threat. "Find sanctuary past home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Emerging from the freshly dug tunnel, you find yourself in a small chamber with veins of refined metal glimmering along the ground and walls. 
+
+Ch'kekt turns to face you. "Place beyond was egg rooms. Hatching chambers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Emerging from the freshly dug tunnel, you find yourself in a small chamber with veins of refined metal glimmering along the ground and walls. 
+
+Ch'kekt turns to face you."Place beyond was egg chambers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Its claws work up and down slowly. "Future sticha moved far away. Sanctuary on other side of not-nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Its claw works up and down slowly. "Future gone. Sanctuary past not-nest"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

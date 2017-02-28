@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_crisis42_brusca</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Brusca growls as you approach, "Back away! I defend The Memovira with my life!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>["The woman you're defending is no longer the Memovira. I am."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>["The woman you're defending is no longer The Memovira. The Last Castoff is."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>["Then you'll die along with her!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Brusca's eyes narrow. "What are you talking about?"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>["I bonded with The Bloom and it chose me as its new Memovira."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Brusca, who until now has had a face of synthsteel, blanches momentarily. She recognizes the prowess of your party and it draws her mind away from the battle.]
+
+{SCRIPT: Brusca gets the Distracted Fettle for 3 rounds}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Brusca's lip curls in derision. She is unshaken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Brusca, who until now has had a face of synthsteel, blanches, visibly shaken. She begins to withdraw, unwilling to face you directly for now.]
+
+{SCRIPT: Brusca gets the Fear Fettle for 3 rounds}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Brusca's lip curls in derision. She is unshaken. Her lack of fear unsettles you.]
+
+{SCRIPT: user gains Distracted Fettle for 1 round.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Brusca's eyes narrow. "What are you talking about?"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>["The Last Castoff bonded with The Bloom and it chose him as the new Memovira."]</DefaultText>
+      <FemaleText>["The Last Castoff bonded with The Bloom and it chose her as the new Memovira."]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>["I... you're lying. This is a trick. You... were simply trying to win my favor by saving so many of my men. So you could turn me against the Memovira..."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>["I hear The Bloom whispering to me now. It wants your loyalty and your sword. Join me."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>["Fine. If you won't believe me, you'll die alongside the former Memovira."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>["For a fraction of a second, Brusca's brow furrows even deeper than usual, then relaxes. "I believe you. I swore to defend the Memovira. Now that's you. My work is clear." With that, she turns away and readies her weapon.]
+
+{SCRIPT: Brusca switches sides.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Brusca's face remains stoic, but her eyes focus tightly on yours. "You lie. I won't let you distract me from my duty."]
+
+{SCRIPT: Brusca gains the distracted fettle for 1 rounds}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>["Brusca's stony face relaxes. "I believe you. I swore to defend the Memovira. Now that's you. My work is clear." With that, she turns away and readies her weapon.]
+
+{SCRIPT: Brusca switches sides and gains a positive fettle for 3 rounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Brusca's face remains stoic, but her eyes focus tightly on yours. Her voice is a low rumble, "You lie." Her hands tighten around her sword as she bears down on you.]
+
+{SCRIPT: Brusca gains the inspired fettle for 1 rounds}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>["Nevermind."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>["I... you're lying. This is a trick."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>["We entered the heart of the Bloom and he bonded with it. It was amazing. And terrifying."]</DefaultText>
+      <FemaleText>["We entered the heart of the Bloom and she bonded with it. It was amazing. And terrifying."]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>["For a fraction of a second, Brusca's brow furrows even deeper than usual, then relaxes. "I believe you. I swore to defend the Memovira. Now that's the Last Castoff. My work is clear." With that, she turns away and readies her weapon.]
+
+{SCRIPT: Brusca switches sides.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>["Brusca's stony face relaxes. "I believe you. I swore to defend the Memovira. Now that's the Last Castoff. My work is clear." With that, she turns away and readies her weapon.]
+
+{SCRIPT: Brusca switches sides and gains a positive fettle for 3 rounds. Inspired? Confident?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>["Stop wasting time and fight!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>["I... you're lying. This is a trick. You... were simply trying to win my favor by saving my men. So you could turn me against the Memovira..."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>["I... you're lying. This is a trick."]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

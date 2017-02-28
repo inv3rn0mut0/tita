@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_tube_loot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This fleshy tube is emitting a truly foul gas. You notice a tattered bit of cloth hanging over its lip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Reach into the tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The tube is about the height of a human. It flexes ever so slightly as you watch, bending this way and that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As you reach to extend your hand into the tube, you gently brush its lip. The tube snaps shut, contracting violently. If your arm had been inside, you might well have lost it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Reach down the tube, being careful not to touch its sides.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Further down the tube, your fingers stumble upon a bundle of cloth with something harder within it. The tube appears to not be so sensitive further in, and you are able to retrieve the bundle without much trouble. Inside, you find a small pile of shins! Someone must have secreted this away in the tube as a security measure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Halfway down the tube you accidentally brush against its side, and quickly try to snatch your hand back. Not quickly enough, as it turns out, as the opening constricts around your hand, sending pain shooting up your arm before you manage to extract it fully.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>There is nothing else of value in the tubule.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

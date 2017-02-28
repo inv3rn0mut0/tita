@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_is2_oasismere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You're sitting against a mud-brick wall on a dusty, busy street. There's a hand-scrawled sign next to you - "Water to Ice - One Shin a Bucket". Just as you read it, a fishmonger staggers up to you with two brimming pails and plops them down. 
+
+"The usual, Hreese," she says, tossing you two coins. "Already a hot one today."
+
+Instinctively, you touch the water in both pails and it instantly turns to ice. The fishmonger gives you a grin and staggers off again. She was right. It is hot. Miserable in fact. You're sweating through your grimy rags. You need a drink.
+
+{NATHAN: This node begins 3 Talk Nodes in a row (a no-no for Meres, if you'll recall). Also it forces an action on the player, so maybe this node can give the player a choice of things to do, all of which ultimately lead to him realizing that he can make ice with his powers. (It also might be cooler to describe how he uses the numenera to make ice - not defining, of course, just a brief description of what it would feel like).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>...standing before Paj Rekken, getting the dressing down of a lifetime. 
+
+"What is the matter with you?" she snarls. "The child you killed was cast off only two days ago. Her head was filled with our hated father's most recent memories, and now..."
+
+You bow your head. "Forgive me, commander. I was certain she was the Changing God. I was certain he was still in the shell."
+
+Paj shakes her head. "No more forgiveness, Hreese. This is one mistake too many. Maybe you should join his side, as you're already doing his work. Go. And stay gone."
+
+The dismissal still stings, but this happenstance could be a chance to get back into Paj's good graces, or... do as she suggested.
+
+{NATHAN: This flashback within a flashback feels like it might be too much information too fast. The player is likely to be confused what's real and what's going on. I'd recommend instead that this memory come up sooner, and unrelated to seeing TCG and Mazzof. Like in the introduction to this Mere, the player has an opportunity to remember how he got into this situation, and then he remembers Paj's dismissal.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Forget it. All that strife gets in the way of a man's drinking. Time to spend this pair of shiny shins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Go after the Changing God to kill him and return to Paj's good graces. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Go after the Changing God to pledge your loyalty and your services.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As you stumble across the street to the cool interior of the Drowned Gibber, the world swims around you and you feel yourself yanked out of the mere and back into your own body. 
+
+{Mere ends.}
+
+{NATHAN: You're right that this feels too abrupt. In our other Meres, this sort of choice would usually lead to a different branch or eventually to the same branch but from a different path.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You stand and start after Mazzof and the Changing God, trying to keep them in sight over the heads of the ambling crowd while memories of the plan that ended in the unforunate accident with the castoff child continue to echo through your brain. 
+
+To trap the Changing God's conciousness in his shell, you had intended to freeze him solid before he knew you were there, stunning his brain into unconciousness with the cold you can conjure at will - a gift for Paj, to do with as she would. 
+
+The plan failed before, of course, because you chose the wrong target, but this time it will work. All you have to do is catch your sire unawares. 
+
+{NATHAN: This ascribes way too much emotion and motivation to the player. Let the player decide what and why he wants to do something.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You stand and start after Mazzof and the Changing God, trying to keep them in sight over the heads of the ambling crowd while memories of the plan that ended in the unforunate accident with the castoff child continue to echo through your brain. 
+
+To trap the Changing God's conciousness in his shell, you had intended to freeze him solid before he knew you were there, stunning his brain into unconciousness with the cold you can conjure at will - a gift for Paj, to do with as she would. 
+
+This time, however, you will offer that power to the Changing God instead. Maybe he will order to freeze Paj. That would be revenge served cold indeed.
+
+{NATHAN: This ascribes way too much emotion and motivation to the player. Let the player decide what and why he wants to do something.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You lose sight of Mazzof and the Changing God for a moment. When you find them again, they are crossing the Marina market toward the entrance of the Oasis, the underwater city that rises like a mountain-sized fish bowl in the center of Jerboa. 
+
+You quicken your steps, knowing you must catch them before they enter, but the ghibra guards, who normally grill all visitors, take one look at a stone your sire shows them and wave him and Mazzof through like visiting dignitaries. 
+
+You stop as they step through the skin of the water and swim into the interior. You know you need to buy an air-skin bracelet and hire an escort to be allowed in, but something tells you it won't be that easy. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Talk to a seller of air-skin bracelets. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Talk to a licensed escort. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Talk to the guards at the entrance to the Oasis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>A small, bright-eyed man in blue-green robes turns as you approach his stand. He has a forked beard and a forked hairstyle to match. It gives his weathered face the look of a benign demon. He looks delighted to see you - at first.
+
+"Welcome, friend. I am Nieto, seller of novelties and licensed purveyor of water-breathing air-skin bracelets for those who wish to visit the--"
+
+His face falls as he gets a good look at you. "Oh," he says. "It's you. The Giash says I'm not allowed to sell to you. You'll have to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A friendly looking ghibra of the bipedal variety bows as you approach. Its scales are a cheerful sea blue, and its sash of office is bright red. "Greetings, can I interest you in a tour of the Oasis? You can see all its wonders for only--"
+
+As it raises from its bow it gets a good look at you and stops, eyes widening. "Oh no. Not you. Not after last time. They won't let me through the gate with you along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A handful of uniformed bipedal ghibra stand before the Marina gate. They pass other ghibra through with a wave, but stop and check every air-breather that approaches. 
+
+As you near them, their sergeant stares at you, then mutters to his guards to close ranks behind him. He holds up a finned hand. "Are you a fool to come back here outsider? You know you are banned from our city. Turn around now or it'll be the worse for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The beggar woman interrupts before you can reply. "Why won't you listen? You're wasting your time here. Neme can help you, and it won't cost you a shin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What are you proposing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ignore Neme and talk to guards at the entrance to the Oasis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ignore Neme and talk to the seller of air-skin bracelets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ignore Neme and talk to the licensed escort. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Before you can reply, a beggar woman approaches you, tugging at your sleeve. "Don't bother," she whispers. "Neme can get you in."
+
+You look at her and realize you've seen her in the market before, singing songs for shins. She is a gaunt young woman, her skin reddish brown and her hair bleached white from years in the unforgiving Jerboa sun, and her eyes green with bluish tints. She wears a smooth, polished metal band around her throat.
+
+"I saw you staring at that man who just entered the Oasis. There was a fever in your eyes. You need him for something. Well so do I. Let's do business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The young woman approaches you again before you can answer. "Come on. Listen to Neme. I'm telling you. I'm your best bet to follow your 'friend.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>It's far too hot to go to all this trouble. Time to spend those shiny shins on a cold drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ignore Neme and steal an air-skin bracelet from the merchant. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Neme points to the band around her neck. "See this? A gift from the nano-spirits. Lets me breathe water like it's air. And it's grown into me now, made me a water creature - yet the damned ghibra won't let me live in the Oasis. They say I can only hire an escort and visit like I was nothing but an ordinary human!"
+
+She nods toward the entrance. "Well, your friend got in with an Agnition Stone, a pass from the Giash that lets outsiders enter the Oasis without an escort and stay as long as they like. With that, I could live there forever!"
+
+She smiles up at you, squinting in the harsh sun. "So... I give you an air-skin bracelet, bring you to your friend, you give me his stone. Deal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Neme approaches Hreese. "I can get you in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>I'm telling you. I'm your best bet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Why won't you listen to me?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Neme approaches Hreese. "I can get you in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>I'm telling you. I'm your best bet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Why won't you listen to me?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You shove Neme into the merchant's stall, causing her to knock over several displays, then snatch a slim, silver air-skin bracelet in the confusion, but the merchant isn't fooled. He points at you as you try to slip away. "Help! Guards! This man stole an air-skin bracelet!"
+
+Three of the guards from the gate hurry forward, spreading out to corral you. Beside you, Neme stands. 
+
+"Fool!" she hisses. "Now you've done it. Come on. Neme will get you out of here."
+
+{NATHAN: The response options that lead here said nothing about shoving Neme. That's going to frustrate the player, since it's not what he chose.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>As you stumble down the street toward the cool interior of the Drowned Gibber, the world swims around you and you feel yourself yanked out of the mere and back into your own body. 
+
+{Mere ends.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Fine. It's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"No thanks. I'll find my own way in."
+
+{SCRIPT: Sets "said no thanks"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"A stolen Agnition Stone isn't going to give you what you want. They'll kick you out as soon as they find you. This isn't a good plan. I'll find my own way in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"A stolen Agnition Stone isn't going to give you what you want. They'll kick you out as soon as they find you. This isn't a good plan. And neither was mine. I'm going for a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"It's too hot for all this aggravation. I'm going for a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Neme leads you away from the market and into the cramped and twisted streets of the Morphling Grotto, the shabby slum where those born with mutations and shunned by society make their home. You attract a few stares, but nobody makes trouble, and eventually Neme brings you to a empty brick yard that borders the vertical wall of water that is the skin of the Oasis. 
+
+She lifts a brick and takes an air-skin bracelet from underneath, then hands it to you. "Put this on, then follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>She rolls her eyes, frustrated. "Why make it harder for yourself? I have everything you need!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"But... but..." Her already red face turns redder as she realizes the truth of your words. Her fists clench. "It's not fair! This was the chance of a lifetime!"
+
+She starts sobbing into her hands, lost again in her own mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"But... but..." Her already red face turns redder as she realizes the truth of your words. Her fists clench. "It's not fair! This was the chance of a lifetime!"
+
+As she starts sobbing into her hands and you stumble down the street toward the cool interior of the Drowned Gibber, the world swims around you and you feel yourself yanked out of the mere and back into your own body. 
+
+{Mere ends.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She glares at you as you walk away, tears in her eyes. "But what about me?" she shouts. "What about me?"
+
+As you hurry toward the Drowned Gibber to escape her sobs, the world swims around you and you feel yourself yanked out of the mere and back into your own body. 
+
+{Mere ends.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You put on the bracelet and step toward the wall with Neme, but as you reach it, someone clears their throat behind you and you look around. 
+
+A tall thin man stands in the yard, glowing runes orbiting his bald head. He wears dark, finely embroidered robes and a short cape of blue and purple, and his intent gaze makes you feel he is assessing the quality of your soul - and finding it wanting. "Turn from the path you tread," he says. "It will only lead to misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Run with Neme. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Leave Neme behind and run your own way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Fight the Tears of Ny'kul without using your ability to control cold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You and Neme race out of the market, dodging the guards, then disappear into the cramped and twisted streets of the Morphling Grotto, the shabby slum where those born with mutations and shunned by society make their home. You attract a few stares, but nobody makes trouble, and eventually Neme brings you to a empty brick yard that borders the vertical wall of water that is the skin of the Oasis. 
+
+She lifts a brick and takes an air-skin bracelet from underneath, then hands it to you. "Put this on, then follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You race out of the market, dodging the guards, then dive into the maze of cramped streets that surround it, and start working your way toward the Oasis. Finally, in a small brick yard, you find the border - the towering vertical wall of water that is the skin of the underwater city. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You charge one of the Tears, hoping to take him down and steal his weapon, but the others are on you before you can get him to the ground and beat you mercilessly with the butt ends of their spears. 
+
+As they drag you up and start shoving you toward the Jerboa town jail, the market starts to blur around you and you feel yourself yanked out of the mere and back into your own body. 
+
+{Mere ends.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You put on the bracelet and step toward the wall of water, but as you reach it, someone clears their throat behind you and you look around. 
+
+A tall thin man stands in the yard, glowing runes orbiting his bald head. He wears dark, finely embroidered robes and a short cape of blue and purple, and his intent gaze makes you feel he is assessing the quality of your soul - and finding it wanting. "Turn from the path you tread," he says. "It will only lead to misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Sorry, Duskwatcher. I make my own fate. I'm going in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I've been conflicted about this from the beginning. Fine, I'd rather drink than swim anyway. You've convinced me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Neme sniffs as you turn from the Duskwatcher. "Persons of dark inclinations? Who is he to judge? You're all right in my book. Come on."
+
+You step to the transparent wall, then push through into the cool water and float. Even though you've done this before, it is impossible not to hold your breath as it surrounds you, but eventually you relax enough to inhale. The air-skin bracelet is working. You can breathe normally. 
+
+"Which way?" asks Neme.
+
+You start for the Jolios Peak and the Menagerie. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The Duskwatcher nods. "A wise decision. And for making it, this one will grant you this. The person of dark intent this one is to witness will fail in the venture which brought him to this oasis, and many less people will die because you did not interfere."
+
+As he bows to you, Neme snortts and the yard begins to blur around you. You feel yourself ripped from the mere and back to your own body, her last words ringing in your ears. 
+
+"This one? Neme hates people who talk about themselves in the third person."
+
+{End Mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You turn from the Duskwatcher and step to the transparent wall, then push through it into the cool water and float. Even though you've done this before, it is impossible not to hold your breath as it surrounds you, but eventually you relax enough to inhale. The air-skin bracelet is working. You can breathe normally. 
+
+You start for the Jolios Peak and the Menagerie. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The Duskwatcher nods. "A wise decision. And for making it, this one will grant you this. The person of dark intent this one is to witness will fail in the venture which brought him to this oasis, and many less people will die because you did not interfere."
+
+As he bows to you, the yard begins to blur around you, and you feel yourself ripped from the mere and back to your own body, his last words ringing in your ears. 
+
+"Now this one must go and witness the inevitable. Be thankful you are no longer part of it."
+
+{End Mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>It's not an easy journey. Because you're traveling without a licenced escort, any ghibra who sees you will suspect you, so you have to keep to the shadows and only move when no one's around. And it gets more difficult the closer you get to Jolio's Peak, which is a popular park. More and more sightseers, both ghibra and human, crowd the thoroughfares. 
+
+Neme points to a group with an escort. "Come on. Let's tag along."
+
+But as you move from your hiding place, a patrol of Tears of Ny'kul swim down from above you and pull you aside. "You have no escort," says the sergeant. "If you also have no Agnition Stone, you are under arrest."
+
+Neme curses. "I always forget to look up!!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>It's not an easy journey. Because you're traveling without a licenced escort, any ghibra who sees you will suspect you, so you have to keep to the shadows and only move when no one's around. And it gets more difficult the closer you get to Jolio's Peak, which is a popular park. More and more sightseers, both ghibra and human, crowd the thoroughfares. 
+
+Then you see a large group with a single escort. It would be easy to tag along and pretend to be with them. But as you move from your hiding place, a patrol of Tears of Ny'kul swim down from above you and pull you aside. "You have no escort," says the sergeant. "If you also have no Agnition Stone, you are under arrest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Fight the Tears of Ny'kul without using your cold control.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Use your control over cold to fight the Tears of Ny'kul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Surrender to the Tears of Ny'kul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You throw a few punches and try to swim out of their circle. The Tears don't bother to fight back. The sergeant just slaps a disk that hangs from his harness and immediately your air-skin bracelet stops working. 
+
+While you gasp and choke and claw your neck, they grab your flailing arms and shackle you, then the sergeant gives the disk another slap and you can breathe again. 
+
+But just then the Oasis begins to blur around you, and you feel yourself ripped from the mere and back to your own body, the words of the sergeant ringing in your ears. 
+
+"There are supposed to be two of them with tattoos. This might be the wrong one. Keep searching."
+
+{End Mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Instinctively, you draw on your inborn power and thrust outward, drastically dropping the temperature all around you. 
+
+You have vague memories of doing this before on land, and encasing people in thin skins of ice. That is not what happens here. Under water, your power is exponentially stronger, and, in addition to entombing your opponents in thick layers of ice, you have also frozen their blood, causing it to expand and rupture every artery, vein and organ in their bodies. They die in blocks of red ice that start to float upward. 
+
+And you didn't just kill your enemies. Neme was in range too. She floats with the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You hold out your hands and the Tears rush in and shackle you. As the sergeant spins you to face him, the Oasis begins to blur around you, and you feel yourself ripped from the mere and back to your own body, his question ringing in your ears. 
+
+"Where's the other one? We heard there were two of you tattooed outsiders on the Peak. Where's the other?"
+
+{End Mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>As ghibra and humans turn and stare and start to exclaim at the carnage, you back into the crowd then hurry toward the Menagerie.
+
+Moments later, you reach it, a vast arched building looking as much grown as built, and decorated with filigrees of coral and shells. To your relief, you are just in time to see the Changing God and Mazzof, flashing their Agnition Stone to the guards as they walk inside, and acting as if they owned the place. 
+
+Following them won't be so easy for you, as you have no stone, but there are only two guards, so...
+
+{NATHAN: This results in only one possible response option.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Follow the Changing God and Mazzof into the Menagerie to assist them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Follow the Changing God and Mazzof into the Menagerie to capture them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You stop, weighing your options. There are too many to fight hand to hand, but the garden is crowded. Having already used your cold control once in the Oasis, you know that if you were to summon them again you would kill more than just the guards. There are families with children all around. 
+
+On the other hand, more innocents die in the Endless Battle every day. If you could help the Changing God end it, perhaps the end would justify the means. 
+
+Or, you could just... run? Give up?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You start across the ornamental garden that surrounds the Menagerie, but before you get more than halfway you see Tears of Ny'kul rising up from hiding places all around the building. Every clump of coral and kelp seems to hide another. They do not, however, seem to be there for you. As you watch, they converge on the Menagerie, following the Changing God and Mazzof inside.
+
+You hesitate a moment, then start forward. If you want to use your powers to stun the Changing God and trap him in his current body this is the place to do it. You will never be more powerful.
+
+But then Tears of Ny'kul are descending all around you, cutting you off. "A third one," says their captain. "Take him too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Fight guards without powers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Use your ability to control cold to fight the Tears of Ny'kul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Try to flee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Surrender. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Arrested. Meet Duskwatcher. Mere ends. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Once again you draw on your inner power and blast intense cold in all directions. This time however, whether out of desperation or emotion, the radius of the attack is far greater. Not only the guards are frozen and exploded, but everyone for fifteen strides in every direction. Humans, ghibra, men, women, and childen all float upwards in jagged red cocoons of ice. 
+
+You are free to continue toward the Menagerie. Nothing living stands in your way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>You try to swim out of the circle of guards. The captain just slaps a disk that hangs from his harness and immediately your air-skin bracelet stops working. 
+
+While you gasp and choke and claw your neck, they grab your flailing arms and shackle you, then the captain gives the disk another slap and you can breathe again. 
+
+"Right," says the captain. "Take him away. The rest of you, with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You hold out your hands and the Tears rush in and shackle you. 
+
+"Right," says the captain. "Take him away. The rest of you, with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You hurry forward, hoping you're not too late to assist the Changing God, but as you peek into the massive building's entry hall you see Mazzof being led away by Tears of Ny'kul, and beside him, the lifeless body that had until just moments ago held the conciousness of your sire. But he has fled now. You know that. He never stays to the bitter end. 
+
+As you edge back out of sight, you once again hear someone clear their throat. You turn. Iarmid Duskwatcher stands behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>A familiar tattoo in the passing crowd catches your eye and you turn from your lecturer. A man with the castoff mark is striding by, young and fit, with another beside him, bearded, older, deferential. 
+
+The older one says, "It won't be easy, sire. The Menagerie is well guarded," and you realize who they must be. It's the Changing God and one of his followers - Mazzof, maybe - the inventor. 
+
+The sight of your creator stirs a memory, and suddenly you are....
+
+{NATHAN: Take a look at the end of the Ossiphagan Mere (starting at node 148) for how Mazzof looks and sounds. He's basically a gruff mechanic/nerd. He wouldn't grovel to TCG.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>A small, bright-eyed man in blue-green robes turns as you approach his stand. He has a forked beard and a forked hairstyle to match. It gives his weathered face the look of a benign demon. He looks delighted to see you - at first.
+
+"Welcome, friend. I am Nieto, seller of novelties and licensed purveyor of air-skin bracelets for those who wish to visit the--"
+
+His face falls as he gets a good look at you. "Oh," he says. "It's you. The Giash says I'm not allowed to sell to you. You'll have to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Use your control over cold to fight the Tears of Ny'kul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You draw on your inner power and release a blast of cold in all directions. The surrounding Tears stop in mid-step, coated in a thin layer of ice that is enough to paralyze them, and start to topple over. It's enough to give you some running room. 
+
+Neme, frosted all down the left side of her body, gapes. "Did you do that? Amazing!"
+
+She looks back to the gate. The other Tears are running forward, furious about what you did to their comrades. "But there's more coming. Time to go. Come on!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Who are you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What do you know about my path?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You put on the bracelet and step toward the wall of water with Neme, but as you reach it, someone clears their throat behind you and you look around. 
+
+A tall thin man stands in the yard, glowing runes orbiting his bald head. He wears dark, finely embroidered robes and a short cape of blue and purple, and his intent gaze makes you feel he is assessing the quality of your soul - and finding it wanting. "Turn from the path you tread," he says. "It will only lead to misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He inclines his head and puts his hands together. "You speak to Iarmid Duskwatcher, of the Brotherhood of the Chronicle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"A Duskwatcher of the Brotherhood of the Chronicle is tasked with observing tragic events and persons of dark inclinations. Your path leads to one such tragedy. Turn from it now and save yourself and the lives of others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>You start across the ornamental garden that surrounds the Menagerie, but before you make it more than halfway you see Tears of Ny'kul rising up from hiding places all around the building. Every clump of coral and kelp seems to hide another. They do not, however, seem to be there for you. As you watch, they all converge on the Menagerie, following the Changing God and Mazzof inside.
+
+You hesitate a moment, but then start forward. If you want to impress your sire with your powers, you'd be hard pressed to find a better time to do it.
+
+But then Tears of Ny'kul are descending all around you, cutting you off. "A third one," says their captain. "Take him too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You stop, weighing your options. There are too many to fight hand to hand, but the garden is crowded. Having already used your cold control once in the Oasis, you know that if you were to summon them again you would kill more than just the guards. There are families with children all around.  
+
+On the other hand, more innocents die in the Endless Battle every day. If killing the Changing God would help Commander Paj end it, perhaps the end would justify the means. 
+
+Or, you could just... run? Give up?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>As the captain and his men hurry toward the Menagerie and you are led in the other direction, you pass the gaunt figure of Iarmid Duskwatcher, who your captors don't seem to notice. He gives you a pitying look. "Did this one not warn you to change your path? Had you listened, you would have avoided these persons of dark intent."
+
+Just then the Oasis begins to blur around you. The last thing you see, before you are ripped from the mere and returned to your own body is the Duskwatcher, turning his gaze back to the Menagerie to witness the unfolding of tragic events.
+
+{End Mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You hurry forward, hoping you're not too late to trap the Changing God, but as you peek into the massive building's entry hall you see Mazzof being led away by Tears of Ny'kul, and beside him, the lifeless body that had until just moments ago held the conciousness of your sire. But he has fled now. You know that. He never stays to the bitter end. 
+
+As you edge back out of sight, you once again hear someone clear their throat. You turn. Iarmid Duskwatcher stands behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He gives you a pitying look. "Did this one not warn you to change your path? Had you listened, you would have avoided these persons of dark intent and not become one yourself."
+
+Just then the Oasis begins to blur around you. The last thing you see, before you are ripped from the mere and returned to your own body is the Duskwatcher, turning his gaze back to the garden surrounding the Menagerie to witness the horror and grief you caused in the name of a cause.
+
+{End Mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Steal an air-skin bracelet from the merchant. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"All right. You've convinced me. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Steal an air-skin bracelet from the merchant. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Neme sighs with relief. "At last you're talking sense."
+
+She leads you away from the market and into the cramped and twisted streets of the Morphling Grotto, the shabby slum where those born with mutations and shunned by society make their home. You attract a few stares, but nobody makes trouble, and eventually Neme brings you to a empty brick yard that borders the vertical wall of water that is the skin of the Oasis. 
+
+She lifts a brick and takes an air-skin bracelet from underneath, then hands it to you. "Put this on, then follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Instinctively, you draw on your inborn power and thrust outward, drastically dropping the temperature all around you. 
+
+You have vague memories of doing this before on land, and encasing people in thin skins of ice. That is not what happens here. Under water, your power is exponentially stronger, and, in addition to entombing your opponents in thick layers of ice, you have also frozen their blood, causing it to expand and rupture every artery, vein and organ in their bodies. They die in blocks of red ice that start to float upward. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

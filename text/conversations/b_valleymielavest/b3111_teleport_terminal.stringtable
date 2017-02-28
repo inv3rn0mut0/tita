@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3111_teleport_terminal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A shimmering field obscures this pedestal. It seems to be emanating from a small device *within* the field. That must be the whisperlock.
+
+Also inside is a configuration of buttons surrounding a central dial, but with the whisperlock engaged, there is no way to reach them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The pedestal sits silently, awaiting input.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The pedestal remains inside the shimmering field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Inifere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Talira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Memorialist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Kiyatawa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Choi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ceturl prince."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Guni."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Key in the code for the First's tomb.
+
+{SCRIPT: Teleport the PC to the First's tomb.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Key in the code for the Endless Gate.
+
+{SCRIPT: Conditional - PC has learned this code from Motley or Talira; teleport the PC to the Endless Gate.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Key in the code for Ronos Cai'sul's tomb.
+
+{SCRIPT: Conditional - PC has learned this code from Ronos; teleport the PC to Ronos' tomb.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Enter a code manually.
+
+{SCRIPT: Open the teleport terminal UI here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>With a sigh, the shimmering field disintegrates into glimmering shards of light. The controls are now accessible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ha!" Motley's surprise is evident, as is his pleasure. He clasps you on both shoulders. "Now we can get back to helping Lord Inifere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Motley turns to Isalu and points at the prisoners. "We don't need those anymore. Release them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Motley turns to Isalu and points at Talira. "We don't need that one anymore. Release her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"No!" Narve yells, but the sound is cut short by Isalu's blade. Talira scrabbles back against the wall as the other woman moves silently toward her.
+
+"Help!" she calls to you. "Help me!" Isalu jabs her in the chest with her knife, an efficient punching motion that's accompanied by a distant cracking of bone. Talira slumps sideways and lands face down on the bloodied floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"No, wait!" Talira cries. "I -" The sound is cut short by Isalu's blade. There's a wet thump as Talira's body slides bonelessly to the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"No, wait!" Talira cries. "I -" The sound is cut short by Isalu's blade. There's a wet thump as Talira's body slides bonelessly to the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Good work," Motley says, shaking you slightly. He steps forward and taps a sequence into the pedestal as Isalu and Jaelyn line the bodies up at the other side of the room. The stone of the wall sloughs away, revealing a slightly fuzzy image of a dimly-lit room beyond. 
+
+The two women start carrying the bodies through, and before long only you and Motley remain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Press the central button.
+
+{SCRIPT: Return the PC to the Necropolis Entrance. If the PC is already in the Necropolis Entrance, this button does nothing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Key in the code for Oddwald the Sane.
+
+{SCRIPT: Conditional - PC has learned of Oddwald and has the code for the tomb he was last seen in; teleport the PC to Oddwald.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"But first to release the prisoner."
+
+Motley nods. One of the cultists draws his blade, but instead of cutting the prisoner's bonds he puts it to the woman's neck. He intends to kill her!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"But first to release the prisoners."
+
+Motley nods. One of the cultists draws his blade, but instead of cutting their bonds he puts it to the neck of the first prisoner in line. He intends to kill!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Why are you doing this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You got what you want. Let them go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Watch and say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sadly, I shall have to remain here in case the Memorialists try anything similar in the future." He turns a frightening grin to you. "Your help in this matter is most appreciated. Rest assured, it will not be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The cultist draws his blade across her throat. A dark line appears on her neck. She opens her mouth as if to gasp, but no sound escapes her lips. Her body trembles, blood staining the front of her robes.
+
+Finally, the light in her eyes dims and is gone. She falls to the ground with a wet *thwack*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The cultist draws his blade across the first prisoner's throat. A dark line appears on his neck. He opens his mouth as if to gasp, but no sound escapes his lips. His body trembles, blood staining the front of his clothes. Finally, the light in his eyes dims and is gone. He falls to the ground with a wet *thwack*.
+
+The cultist does the same to the next prisoner in line until they're all dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>He motions the cultist to halt. Confusion blooms on his face. "The spirit is encaged in flesh. We must *release* it for Lord Inifere. I thought you understood, this is what we *do*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Attack] "I won't let you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I am more powerful than your Lord Inifere. I command you to leave this Necropolis, or I will release *your* spirits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Let's go, Huckleberry.]
+
+{SCRIPT: Start Tussle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He stumbles backward, his grip on the blade loosening. "You..." He glances at your tattoo, his face paling even further. "Yes, my lord. It will be as you say."
+
+He hurries out of the corridor. A piece of paper flutters out of his pocket as he goes, but he doesn't notice it in his haste to leave.
+
+The paper lands at your feet. You pick it up as his footsteps recede into the valley.
+
+{SOUND: footsteps running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Finally, we can return to Lord Inifere and our all-important work. Sadly, I shall have to remain here in case the Memorialists try anything similar in the future." He turns a frightening grin to you. "Your help in this matter is most appreciated. Rest assured, it will not be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The fat man leans over the whisperlock and speaks the word, "Guni."
+
+With a sigh, the shimmering field disintegrates into glimmering shards of light. The controls are now accessible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"But first to release the prisoner."
+
+Motley nods. One of the cultists draws his blade, but instead of cutting the prisoner's bonds he puts it to the man's neck. He intends to kill him!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The Memorialist looks at you, her eyes pleading. Her whisper is barely audible. "You can stop them. You can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The cultist draws his blade across the prisoner's throat. A dark line appears on his neck. He opens his mouth as if to gasp, but no sound escapes his lips. His body trembles, blood staining the front of his clothes. Finally, the light in his eyes dims and is gone. He falls to the ground with a wet *thwack*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Najma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ronos Cai'sul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

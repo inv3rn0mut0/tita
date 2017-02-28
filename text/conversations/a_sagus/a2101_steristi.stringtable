@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_steristi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nearly every inch of this merchant's body is covered in tightly-wound robes and furs. A hood obscures its head, and a mask conceals its face. It caresses a cracked, ancient scroll with dark fingers.  
+
+It notices you and gently taps its similarly-dressed companion on the shoulder, leaving a smudge of fibrous ink. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The silent merchant traces dark fingers over a cracked scroll. It appears to be ignoring you as politely as possible. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You cut holes in the page and ink flows up... almost as if you're tattooing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Steristi jerks in what can only be surprise... then holds up a single, coalescing finger, bidding you to watch. 
+
+It resumes restoring the scroll, but slower, so you can watch and understand. Eventually, you do. The page is no simple grocery list, or musty treatise. Steristi's methods might be different if it was. 
+
+The scroll is alive, and Steristi is carefully and methodically waking it up. The fresh ink gleams as brightly as a sleeper's eye on waking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>When the scroll is fully restored, the ink flashes. The page promptly crumples itself up and bursts into flame. Neither of the merchants react to this in any way. 
+
+When the smoke clears, Steristi plucks an object from the pile of ashes. Taking hold of your wrist (and leaving tingly, inky fingerprints), the merchant drops it into your palm and closes your hand over it. 
+
+Then, Steristi takes another faded page from a pile and starts fresh.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The merchant's spread-fingered hands glide over a faded parchment with the faint sounds of quills scratching. Vibrant letters in an unfamiliar tongue appear in their wake.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The merchant is restoring the work once recorded on this scroll, not writing it. You are certain of that. But is it scanning it in some way? Or coaxing the text from the page?
+
+Looking closely, you see that Steristi's fingers are unraveling into coiling threads that taste the faded letters below before pricking the page itself. Fresh ink wells up from the holes, forming words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The merchant again passes a hand over the page, and you hear the scrape of quill on paper.  Dark letters emerge from the shadow of that hand, as if pulled from beneath the page.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Watch Steristi work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Watch Steristi work some more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::scritch::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Falinda recognized the thief at once," the creature says, crossing its swaddled arms. "Perhaps he imagined that by speaking with Steristi, he would evade Falinda's notice. Unfortunately for him, nothing ever did." 
+</DefaultText>
+      <FemaleText>"Falinda recognized the thief at once," the creature says, crossing its swaddled arms. "Perhaps she imagined that by speaking with Steristi, she would evade Falinda's notice. Unfortunately for her, nothing ever did."
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bank 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why is your partner narrating me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Why don't you talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Steristi either ignores you or does not hear you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The merchant does not acknowledge your question in the slightest.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

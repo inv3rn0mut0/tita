@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5211_tarver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The leader of the protests is a slender young man with the look of a perpetual student. His wild black hair floats around his head like a cloud, and his fevered eyes and shabby clothes proclaim his righteousness. He also seems to be breathing underwater without any artificial apparatus. 
+
+He throws his arms wide as you approach. "Come to add your voice to the cause, brother? Welcome!"</DefaultText>
+      <FemaleText>The leader of the protests is a slender young man with the look of a perpetual student. His wild black hair floats around his head like a cloud, and his fevered eyes and shabby clothes proclaim his righteousness. He also seems to be breathing underwater without any artificial apparatus. 
+
+He throws his arms wide as you approach. "Come to add your voice to the cause, sister? Welcome!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tarver salutes your return. "Still with us, brother? Wonderful! What do you need?"</DefaultText>
+      <FemaleText>Tarver salutes your return. "Still with us, sister? That's the spirit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Your cause is just, but you're never going to get anywhere with a *peaceful* demonstration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Your cause seems just, but you're going about it all wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"So says the man on the sidelines."  Tarver gives you a superior smirk. "All right then, general. Tell me your brilliant strategy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"So says the tourist." Tarver gives you a superior smirk. "All right then, tourist. What would you do differently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Go home before this turns into a riot and your point gets lost in the violence. Find some other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If there was another way, I would take it. I don't want violence, and I fear for my people's safety. But the Giash have ignored all invitations to talk. This is all that is left to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tarver laughs derisively. "Find some other way, he says. As if we haven't been looking for other ways for years. Go home yourself, tourist. Back to dreamland where you came from."</DefaultText>
+      <FemaleText>Tarver laughs derisively. "Find some other way, she says. As if we haven't been looking for other ways for years. Go home yourself, tourist. Back to dreamland where you came from."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"But what if it all goes wrong? Can you live with the blood of your followers on your hands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I... I don't know if I could. They are my family. It would kill me to see them hurt. Any of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"No revolution was ever achieved without blood. All of us know that, and we are all ready to sacrifice ourselves for the cause." He sets his jaw. "If there must be blood, so be it. But it will be Caron and his guards who begin the shedding of it. We're not leaving, and we're not starting anything either. They'll have to either hear us out or drive us out."
+
+"Now, you'll excuse me. I have a protest to lead." He turns away from you and raises his fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"A true leader does not let embarrassment stop them from making the right decision. You know what to do. Do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Yes. I will. Thank you for helping me think it through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I... I can't. I'm sorry. This is the path I've chosen. I have to see it through. We're staying."
+
+He turns away from you and raises his fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Are you sure? A ghibra sypathetic to your cause suggested all Jerboans should stop work for a day, to show the ghibra how much they rely upon them. Would that work?"
+
+{SCRIPT: I'rush has told PC about stay home protest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Change is not won by asking politely. If you want to get the Giash's attention, you'll have to knock some heads." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Tarver sighs. "I'm beginning to believe that's true. We've been here for days and... nothing. But I fear for my people. If we do as you say, they will be hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"It's too dangerous. And counter-productive. Right now the Giash sees us as an annoyance. If we start *knocking heads* as you call it, they will see us as a threat, and be even less likely to want to let us live here."
+
+He shakes his head. "Sorry, brother, this will remain a peaceful protest."</DefaultText>
+      <FemaleText>"It's too dangerous. And counter-productive. Right now the Giash sees us as an annoyance. If we start *knocking heads* as you call it, they will see us as a threat, and be even less likely to want to let us live here."
+
+He shakes his head. "Sorry, sister, this will remain a peaceful protest."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If you do nothing but sit here and chant, your *people* will quickly drift away. Strike now, while their blood is hot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'm with you, brother. We shall triumph - together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Tarver rubs his chin, still unsure. "It is a bold step. A dangerous step, but... but you're right. No revolution was ever achieved without blood. All of us know that, and we are all ready to sacrifice ourselves for the cause."
+
+He raises his head, newly determined. "If there must be blood, so be it. There will also be justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Tarver rubs his chin, thinking it over. "Aye, you're right. No revolution was ever achieved without blood, but..." He slides an eye towards you. "But it's easy to be bold when you're telling others what they should do, brother. Would you be so bold if it was your blood being shed? Are you in this with us? Or are you all talk?"</DefaultText>
+      <FemaleText>Tarver rubs his chin, thinking it over. "Aye, you're right. No revolution was ever achieved without blood, but..." He slides an eye towards you. "But it's easy to be bold when you're telling others what they should do, sister. Would you be so bold if it was your blood being shed? Are you in this with us? Or are you all talk?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Tarver claps you on the back. "That's the spirit! Then follow me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'm with you, brother. We shall triumph - together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Tarver claps you on the back. "That's the spirit! Then follow me!"
+
+{SCRIPT: PC helps Tarver start a riot, but ducks out shortly after, leading to not being arrested.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Together, eh? Why do I think you you'll be scampering off the minute the blood starts swirling."
+
+He shakes his head. "No no. I know your game now. You're just stirring the pot. Well, I'm not falling for it. We'll keep on as we have been, thanks, slow and steady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He turns to the crowd. "Friends! Brothers and sisters! Listen to me! We have waited long enough. Now is the time to act! If the Giash will not come to us, we will go to them! Storm the chambers! Rise up! Rise up!"
+
+The crowd roads its approval and starts moving toward the Giash Chamber as the Tears of Ny'kul form up on the steps to stop them. The riot has begun.
+
+{SCRIPT: start riot. Set states for riots. Tide change?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He turns to the crowd. "Friends! Brothers and sisters! Listen to me! We have waited long enough. Now is the time to act! If the Giash will not come to us, we will go to them! Storm the chambers! Rise up! Rise up!"
+
+The crowd roads its approval and starts moving toward the Giash Chamber as the Tears of Ny'kul form up on the steps to stop them. The riot has begun.
+
+{SCRIPT: start riot. Set states for riots. PC gets arrested. Tide change.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[You help Tarver start a riot, but duck out shortly after, leading to not being arrested.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Tarver claps you on the back. "That's the spirit! But just to make sure you *stay* with me, you go first. I'm gonna keep an eye on you."
+
+{SCRIPT: Tarver is convinced to start the riot, but unconvinced PC will help him. He makes sure PC is at the front line where they can't slip away. PC is arrested.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"If there was another way, I would take it. I don't want violence, and I fear for my people's safety."
+
+He looks around at his followers, pensive. "I... I don't know what to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Tarver's face falls. "I... I don't know if I could. They are my family. But.. but we've invested so much time in this. We've fought so hard. How can I tell them it was all just wasted effort?"
+
+He closes his eyes, thinking hard, then opens them again. "No. You're right. If I were to see their blood swirling in the water it would kill me. We will find another way."
+
+He grips your arm. "Thank you, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>{SCRIPT: remove the protesters. Set the states for protests stopping. Tide change?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Even a Hakim has to compromise now and then, when the safety of his people is in the balance. The ability to navigate the chasm between one's ideals and one's reality is the essence of leadership. You know what to do. Do it."
+
+{SCRIPT: Conditional - Clue from Hakim Tuck.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Bank 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Thank you, but I'm a stranger here. Tell me what's happening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Tell me again what you're protesting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Keep the faith, brother."</DefaultText>
+      <FemaleText>"Keep the faith, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"The liberation of the oppressed is what's happening, brother. We Jerboans are finally standing up and demanding what should be ours by right - a place in the Oasis!"
+
+He smacks his fist into the palm of his hand. "At last, those who made this paradise what it is shall share in its bounty! Air-breathers and water-breathers shall be equal under the law!"</DefaultText>
+      <FemaleText>"The liberation of the oppressed is what's happening, sister. We Jerboans are finally standing up and demanding what should be ours by right - a place in the Oasis!"
+
+He smacks his fist into the palm of his hand. "At last, those who made this paradise what it is shall share in its bounty! Air-breathers and water-breathers shall be equal under the law!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>His eyes flash. "We are protesting the unequal and unfair treatment of air-breathers in the Oasis! We are here to be heard!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"How are air-breathers and water-breathers unequal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Explain again the difference between air-breathers and water-breathers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Bank 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"They are not unequal! That is the point! It is only the charter of the Oasis that claims we air-breathers are second class citizens." 
+
+He opens a ghibra water-book and stabs at the text with an angry finger. "It's right here in purple and white. Air-breathers may not own property or reside in the Oasis. We may not enter the Oasis without a guide. We may not avail ourselves of the advances in medicine and the healing arts practiced in the Oasis Chiurgeon's Ward. And yet, *we* are the ones who have made this place more than just a bubble of stagnant water in the middle of an empty desert. *We* are the ones who made this place rich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"There is no difference except under the law. Air-breathers cannot live or own property in the Oasis, even though we contributed just as much as the ghibra did to it's rise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He turns to the crowd and raises his hands. "Once again, brothers and sisters. Let them hear you in Jolios' Peak! *Water and air! Give us our share! Water and air! Give us our share!*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You don't seem to be wearing any device. How are you breathing underwater?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Tell  me again how you're breathing under water?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He snorts, making bubbles. "Only true friends of the cause learn that secret. And you, brother, are not yet that."</DefaultText>
+      <FemaleText>He sniffs, making bubbles. "Only true friends of the cause learn that secret. And you, sister, are not yet that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ha! I'll take that secret to the Oblevis Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You say the Jerboans have helped the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Explain again how the Jerboans helped the Oasis rise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Bank 90</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You're a tourist and you're asking me that?" He raises beseeching hands. "Who welcomed you when you came out of the Lost Sea? Who sold you the water breathing device that allowed you to enter the Oasis? Who guides the caravans that bring the goods and tourists both Jerboans and ghibra rely upon? If it wasn't for us, no one would ever find this place, let alone spend their money here. The ghibra would starve! But are we thanked? No! We are shown the door!" 
+
+He spits, which doesn't work very well under water, but the point is made.   </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"We bring the tourists. We guide the caravans. We maintain the Oasis's trade with the outside world." He snorts. "And what do we get for it? Nothing but distain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I wanted to talk to you again about the cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Tarver rubs his hands together. "There's nothing I'd like more, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>He turns to the crowd. "Friends! Brothers and sisters! Listen to me! This demonstration is getting us nowhere, but I have another way. A better way. A way that will get us heard rather than killed. Come with me now back to Jerboa and we will begin to put it in motion."
+
+The crowd murmurs their confusion, and there are some cries of desent, but as Tarver turns and starts to walk out of the square, one by one, they begin to follow him. The demonstation is dispersing peacefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He frowns, unsure. "But how can I back out now, when we've worked so hard to get here?  How can I tell them all our effort has been for nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Tarver raises an eyebrow. "You've been talking to I'rush, eh?" 
+
+He shakes his head. "I always laughed at her for that one. Didn't seem heroic in the least. No opportunity to make great speeches or shake my fist at the guards, but... But maybe that sort of heroism is better at getting people killed than it is at getting things done. The Jerboans staying at home, on the other hand, would hurt the ghibra where they'd feel it most - in their purses. Hmmm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I cannot join you in this, but I wish you every success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Never mind. I was just making idle conversation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Tarver smirks. "I thought as much. Just stirring the pot. Well, I'm not falling for it. We'll keep on as we have been, thanks, slow and steady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"On your way, General."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Go home. I was just talking to Captain Caron. His Tears are looking for any excuse to break some air-breather heads. Do you really want to give them one?"
+
+{SCRIPT: Conditional - Clue from Caron.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I didn't convince you before, but I know you care about your people. Please, call this off before it gets out of hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I'd like to. I truly would. But...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"And do what else instead? Write more letters that will never be read? This is all that's left to us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"A heroic loss now will win you more followers than a polite success. Your cause will become unstoppable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Tarver rubs his chin, still unsure. "It is a bold step. A dangerous step, but... but you're right. No revolution was ever achieved without blood. All of us know that, and we are all ready to sacrifice ourselves for the cause."
+
+He raises his head, newly determined. "If there must be blood, so be it. There will also be justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"A heroic loss? I don't understand you. You're saying we should fight and lose here today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Were you listening to me before? You've *got* to take more drastic measures if you want to achieve anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Maybe if we talk through it again, we will find an answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Yes. Gloriously. Imagine how many Jerboans will flock to you when you show them your bloody brow, broken but unbowed. If you want change, that is the only way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Tarver shrugs. "If you insist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"No revolution was ever achieved without blood. All of us know that, and we are all ready to sacrifice ourselves for the cause."
+
+He sets his jaw. "If there must be blood, so be it. There will also be justice. And justice can wait no longer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Tarver laughs derisively. "Find some other way, he says. As if we haven't been looking for other ways for years. There is no other way. The weakness of your words has suddenly clarified that for me."
+
+"No. I see it so clearly now. Words never win. Only actions prevail. We must fight." He sets his jaw. "We must fight now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"No. It's too late. We've come this far, we must see it to the finish."
+
+He swallows. "And the time to finish it is now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>He rolls his eyes. "The middle of a protest is hardly time for that, friend. There is the people's work to be done."
+
+He turns back to the crowd and raises his fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Once more brothers and sisters! Once more!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

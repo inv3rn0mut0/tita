@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5111_shon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>An attractive - and entirely normal-looking - young woman takes a fishy-smelling bundle from her pack and hands it to an older woman with the skin and beaked head of a turtle, but no shell. The turtle-woman grudgingly gives her a few shins in return and trudges off. 
+
+"Right. Who's next?" says the young woman, looking around. She frowns as she sees you. 
+
+{SCRIPT: This conversation should start with a bark string conversation between Shon and Breggi, an older mutant lady. I don't know how to do that, so here it is. 
+
+Breggi - "What's this? I asked for white fin."
+
+Shon - "Then go yourself next time. I got what was fresh."
+
+Breggi - "You take advantage sometimes, Shon. You really do."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Shon eyes you warily. "Back again, normal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"And what do you want, normal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You look pretty normal to be calling me normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She gives you a nasty smirk. "Looks can be deceiving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"On your way, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"So, your mutation is hidden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"When I want it to be? What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText> Follow-up PQ. 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What are you selling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What did you say you were selling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText> Follow-up PQ. 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What can you tell me about the Morphling Grotto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tell me about the Morphling Grotto again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Bank 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The woman shakes her head. "Not selling. Delivering. I'm the only one around here who can go into the market without getting stared at or beaten to a pulp, so I pick up necessities and bring them back here."
+
+She casts an eye after the old woman. "Not that everyone's grateful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I said I wasn't. I'm delivering groceries for the folks who can't leave the Grotto on their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Bank 34</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She looks around, then shrugs. "What you see is what you get. Just a slum full of mutants who can't live anywhere else. It ain't the Oasis, but it's not so bad. At least we treat each other like family, which is more than I can say for the normals in the rest of Jerboa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Got nothing else to tell you. It's my home sweet home, and that's all that matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She chuckles. "When I want it to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The woman gives you a cold look. "Start any trouble and you'll find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Matkina peers out from under her hood. "She's a teratomorph. A shape changer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wait a minute. You're a teratomorph. A shape changer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Is she right? Are you a shape changer?"
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"That's right." She laughs, bitter. "There's a beast in me. Hide your children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Surprised you know what I am. Not many of my kind left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Surprised you know what I am. Ever since my ancestors left Kholn Village, we've been keeping to ourselves mostly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Why aren't there many of your kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>She growls. "My ancestors were betrayed by treacherous normals before a great battle. Those who weren't slaughtered were taken into slavery. I am the grand daughter of escaped slaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Why did your ancestors leave Kholn Village?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"A pair of heroes warned them an attack was incoming. Their words swayed out elders, and my people left before they were slaughtered."
+
+She frowns, lost in thought. "When we were children, we told each other we would have triumphed if we'd stayed and fought. But likely we would have died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"A pair of heroes warned them an attack was incoming, and convinced our elders to stay and defend ourselves. In the end, our enemies were too many, and we were forced to retreat, but at least we bled them first. At least we put up a fight."
+
+She thumps her chest. "As far as I'm concerned, that battle was the forging of us as a tribe. We are fewer now because of it, but stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She lowers her head, uncomfortable. "I don't want to talk about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You mean like from your village, Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She nods. "Yes, we all lived there together back then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked PC to search for Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Where can I find this Misha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Who, now? Ah, you mean Misha's beau. Haven't seen him in a season or two. Figured they'd had a falling out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Her chiurgery's up aways behind me. Don't let her doctor you, though. Her 'treatments' don't last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Well, you can ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"She promises that she'll get rid of your mutations and let you walk in the normal world. And she can do it, but it don't last. A few weeks, and all your bumps and scales and feathers come right back, and you have to go back from another treatment. It's a scam. She's making a damned fortune off the misery of her fellow mutants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What's the problem with her treatments?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

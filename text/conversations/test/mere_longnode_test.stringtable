@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\mere_longnode_test</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This node has 700 characters per the Mere conventions, but it has 5 separate paragraphs causing it to take up more space than 700 characters would imply.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+Ok now STOP.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Show me a node with 3 paragraphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Show me a node with 6 paragraphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Show me a node with 7 paragraphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Show me the first node with 5 paragraphs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>This node has 700 characters per the Mere conventions, but it has 3 separate paragraphs causing it to take up more space than 700 characters would imply.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing. Ok waitforit STOP.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>This node has 700 characters per the Mere conventions, but it has 6 separate paragraphs causing it to take up more space than 700 characters would imply.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+And STOP.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>This node has 700 characters per the Mere conventions, but it has 7 separate paragraphs causing it to take up more space than 700 characters would imply.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing. If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+If you can see the word "stop" in all caps below, then you are seeing the whole thing.
+
+STOP!!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Stop the Mere. I wanna get off.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

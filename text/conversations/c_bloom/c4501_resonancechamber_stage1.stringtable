@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_resonancechamber_stage1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mazzof's hands race over the muted glow of the Chamber's control console. he mutters angrily to himself, and does not look up as you approach. 
+
+"Don't bother. The controls work for me and none other."
+
+This appears to be true. You notice that the buttons on the console only light up the moment before his fingers touch them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Activate the Resonance Chamber]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Energy pours from the Resonance Chamber, streaming past you to envelop the Memovira in its light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The control console flickers, dying. When you reach for it, a sizzling thread of electricity snaps at your hand, driving you back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Redirect the energies of the Resonance Chamber to yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Target the Last Castoff]
+{other party member is user}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Step away from the machine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your hands race over the controls without thought, without reliance on memory. The Chamber is yours to claim. It always has been. 
+
+Warm, bracing light falls from the Chamber onto you, covering you in brilliant, whispering power. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Energy streams from the Resonance Chamber, focusing on the Memovira. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Resonance chamber is not active, reintro]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Resonance chamber activates]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Redirect the resonance energies towards the Last Castoff. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try again to redirect the resonance energies towards the Last Castoff. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You grit your teeth, straining to shut out the sounds of the battle below, drawing on every inch of your knowledge. By trial and error, you uncover the right sequence to redirect the Chamber's energies, but how...
+
+A map of the room springs up beneath your palm. One of the dots upon it is brighter, far brighter, than the others. 
+
+Without another thought, you press it, and the Chamber's power strikes the Last Castoff like a bolt of lightning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You tap and poke the controls ineffectually for a few precious moments. Nothing happens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Mazzof curses his beneath his breath, but carries on with his work.
+
+"I told you, you're wasting your time. The controls won't work for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Examine the Chamber]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Smash the console. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Attempt to deactivate Mazzof's lock]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Activate the Resonance Chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Switch to Mazzof]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Switch to the console]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[leave]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[examine the chamber bonus to other checks?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You lash out at the console, leaving a wounded, sparking crater in the console. With a horrified, furious look your way, Mazzof snatches a tool from his belt and leans over the damage. 
+
+As you watch, once of the many cracks seals itself. You have bought yourself some time, but only a little. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Mazzof whirls just in time to read the intentions in your eyes. Growling, he shoves you back a step, and covers the console with his body. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Moving around Mazzof, you look on the other side of the console. Nestled within the tangles of wire, you see a flickering light. 
+
+Following your instincts, you reach in and rip it out. 
+
+"Damn it!" Mazzof snaps. Apparently, your instincts were right on target. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You study Mazzof's work, looking for some sign of his control over the console, but see nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You give your hands over to the scraps of memory that once belonged to your sire. You close your eyes, fingers racing over the control console like a musician's. 
+
+The light of the Resonance Chamber explodes over you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Script Node 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Trigger Conv Node 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Trigger Conv Node 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Mazzof lies on the ground, blood pooling around him. He breathes in. Out. His hand twitches, and goes still. 
+
+One by one, the lights on the Chamber's console brighten, as if a flame has been rekindled within it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The light within the Chamber's control console pulses faster as you approach. Faster still as you reach out to touch it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Beneath the blinding glow of the Chamber's control console, you see dark, coiling shadows and hear the massed whispers of a hidden crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The console throbs faster and faster as you reach out to touch it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Find a way to manually override Mazzof's control of the console. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Try again to find a way to manually override Mazzof's control of the console. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The light of the console glows and fades, glows and fades, as rhythmically as breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Disable the shield walls blocking the stairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You close your hands over the 16-sided shape representing the status of the shield walls, and they shrink and disappear. The power running along the stairs stutters and fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

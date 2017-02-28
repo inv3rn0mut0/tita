@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_slump_doctor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>153</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman's blocky face seems to be frozen in a permanent sneer of disdain. Her hair is savagely shorn, her apron spattered with blood. In front of her, a makeshift operating table is covered in dirt and crusted fluids. Her tools are sharp knives, syringes, and other more exotic devices that look none too clean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You're back again? More business for Laarna, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You come to Laarna for healing? I can take care of you. Long as it's physical damage, mind you - I can't do anything for the Bloom-shivers or other such ailments. But I can cut, dig, and sew, and you'll be back to business in no time. Just [Global: c4211_SlumpDoctorHealCost] shins apiece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'd like you patch me up."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Your *healing* passes along infections and diseases."
+
+{SCRIPT:  Need to add a condition here that checks if anyone in the party has the "Diseased" fettle on them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You'll be back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She snorts a wad of phlegm to the ground and wipes her nose with her hand. "I won't tell the Bloom it's wrong, and frankly it's a pleasure to pass the gift along to people like *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I want you to stop infecting people. Right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ha! What'll you do about it if I don't? Fight the Bloom? I do its bidding, not yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She looks you right in the eye and starts to laugh, but as her mouth opens she suddenly stops. She holds her diseased arm to her ear for a moment, and lowers it slowly. 
+
+She looks away from you and down to the ground. "Aye. I suppose you know the Bloom's desire better than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"If you want to keep doing it, then you'd better pay me to keep my mouth shut. Otherwise I'll tell everyone, and that will ruin your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She scratches at an oozing soore with one of her scalpels. "Aye, that's fair. Here you go, then."
+
+She hands over a jingling pouch.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Who are you going to tell, eh? And who'll take your word, when I've done so much good for them? Go on, get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Something in your face and voice convinces her that you are deadly serious. Without a word, she digs into the pouch at her side and hands you an enormous quantity of shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oh, a business proposition? Then here's one for you: suck a Bloom-tongue into your mouth, down your throat, and then choke on it. I'll have no part of your threats, and I'll have none of your coin. You're dead to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You? Bah. You want to get healed, you find someone willing to do it for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Strike her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She's expecting a battle of words, and when you strike her on the chin, she spins once and then sits heavily. She stares dazedly at you for a moment, and scrambles backward before staggering to her feet. 
+
+She touches a stud on the table, and it folds into a small box. Keeping a wary eye on you, she reaches out and takes its handle, and then turns and bolts.
+
+Looking down, you notice that she dropped one of her injectors in her haste to get away.
+
+{SCRIPT:  Need to make her run away and despawn.}
+
+{SCRIPT:  Need to give out an injector cypher.}
+
+{LOOT - Laarna's Injector}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Her time in some of the worst parts of the Bloom shows in her reflexes. She dodges your punch, grins a rotten smile, and delivers a punch worthy of a pit fighter to your nose.
+
+"That what you meant to do? Something like that? Maybe you'd like me to patch that up for you?" 
+
+She cackles and turns away.
+
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She's expecting a battle of words, and when you strike her on the chin, she spins once and then sits heavily. She stares dazedly at you for a moment, and scrambles backward before staggering to her feet. 
+
+She touches a stud on the table, and it folds into a small box. Keeping a wary eye on you, she reaches out and takes its handle, and then turns and bolts.
+
+Looking down, you notice that she dropped one of her injectors and a dirty knife in her haste to get away.
+
+{SCRIPT:  Need to make her run away and despawn.}
+
+{SCRIPT:  Need to hand out an injector cypher, maybe a knife that applies the diseased fettle when it strikes an enemy}
+
+{LOOT - ESSENTIAL - Laarna's Injector}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Not only does she dodge your punch with the practiced ease of a gutter-fighter, she lands several solid blows in your gut, culminating with a vicious uppercut that knocks you to the ground. She spits on your face as stare dazedly up at the Bloom.
+
+"When you're well enough to walk, I want you out of here. You'll get no more succor from me."
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Force her to see the wrong she is doing.
+
+{SCRIPT:  I'm not sure what all is involved in performing a tidal surge, but I'm guessing it'll need a little scripting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>She stares at you, her mouth slightly open, and she remains that way for a good minute. She snaps back to reality and looks down at her hands. Disgust dawns over her features as she considers what she is doing, and she throws down her tools.
+
+She turns and vomits.
+
+"Oh, no. No, no no. The Bloom whispered to me, and I listened. What have I done?" She rushes away, leaving her tools behind.
+
+The ground rumbles under your feet, and you feel a wave of malice from the Bloom-flesh.
+
+{SCRIPT:  Need to remove her from the scene in some way.}
+
+{SCRIPT:  Need to hand out an injector cypher, maybe a knife that applies the diseased fettle when it strikes an enemy}
+
+{LOOT - ESSENTIAL - Laarna's Injector}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She grins, exposing rotten teeth. "Climb onto the table, and we'll get you sorted."
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She stitches and sews, and when she's finished, you climb down off the table. Despite the grime and filth, she appears to have done a tolerably good job.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Script Node 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She stitches and sews, and when she's finished, you climb down off the table. She seems to have done a tolerably good job, but your wounds seem... itchy. More red. You suddenly don't feel well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'd like you to heal Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Climb aboard, old man. We'll have you right in no time."
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'd like you to heal Callistege."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Laarna grins around her hideous teeth. "Which of you is coming up, eh? Never mind - I'll take care of the ones I can touch."
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'd like you to heal Matkina."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Laarna's mouth quirks a bit, but she holds her tongue as she takes your money and helps Matkina to the table.
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'd like you to heal Riastrad."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She studies him carefully. "I've seen him before, I could swear it. No matter." She takes your money and helps Riastrad up to the table.
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'd like you to heal Rhin."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Come right up here, young lady. We'll get you sorted in no time."
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'd like you to repair Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>She recoils visibly. "What is that *thing*?" She collects herself and peers more closely at the toy. "I don't even know where to start. You'll have to find someone else to do your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'd like you to heal Tybir."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Never you mind about that, you handsome rogue. We'll have you right in no time."
+
+She takes your shins and ushers him onto the filthy table.
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'd like you to heal Erritis.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She leers at the young warrior. "Climb up here, sonny. Laarna will take care of you."
+
+{SCRIPT:  We'll probably want to fade out and back in here.  Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I don't actually have the shins for healing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>She looks around at the deserted area around herself and says, "Just as well, for my time is valuable and full of custom." She pauses. "Go on, then. Get. Come back when you've got the means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Let me know when you need another treatment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She cackles with delight. She rolls up her sleeves. Suppurating boils and oozing sores cover her arms. As you watch, one swells and pops, spattering viscous goo. She wipes it away with her free hand, and idly wipes that hand along one of her tools.
+
+"Aye, and it worked? The Bloom gave me this sickness, and I know - I *know* - that it wants me to give this gift to others. The Great Devourer *shares*! Would you stand against the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Script Node 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Script Node 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Script Node 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Script Node 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Script Node 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Script Node 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Script Node 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She cuts and sews, applying poultices and injections around Aligern's wounds. When she's finished, he climbs down off the table and flexes his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Laarna pokes and pushes around Callistege's wounds, spending an inordinate amount of time with scalpel and thread. When the doctor finishes, Callistege stands/jumps/swims off the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She tickles and prods the young man, and something she does seems to make her hands disappear inside his golden aura. He squirms a bit, but bears up under her ministrations. At last he jumps from her operating table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Laarna finishes sewing up Matkina's injuries under Matkina's watchful eye. The doctor appears to be taking extra care with the assassin, and Matkina climbs gracefully from the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Laarna seems to be taking extra care of Rhin, and she pats the girl's head affectionately as Rhin hops from the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The doctor has to be careful that Riastrad's armor doesn't damage her instruments - it seems to ebb and flow as if it were defending him. At last, though, she manages to patch the worst of his wounds, and he lowers himself from the table. He strides confidently to your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Tybir climbs from the table as Laarna wipes her hands on her dirty smock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She cuts and sews, applying poultices and injections around Aligern's wounds. When she's finished, he climbs down off the table and flexes his hands.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Laarna pokes and pushes around Callistege's wounds, spending an inordinate amount of time with scalpel and thread. When the doctor finishes, Callistege stands/jumps/swims off the table.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She tickles and prods the young man, and something she does seems to make her hands disappear inside his golden aura. He squirms a bit, but bears up under her ministrations. At last he jumps from her operating table.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Laarna finishes sewing up Matkina's injuries under Matkina's watchful eye. The doctor appears to be taking extra care with the assassin, and Matkina climbs gracefully from the table.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Laarna seems to be taking extra care of Rhin, and she pats the girl's head affectionately as Rhin hops from the table.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The doctor has to be careful that Riastrad's armor doesn't damage her instruments - it seems to ebb and flow as if it were defending him. At last, though, she manages to patch the worst of his wounds, and he lowers himself from the table.
+
+He staggers a bit as he walks to your side, and his skin seems to have taken on a slightly greenish cast.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Tybir climbs from the table as Laarna wipes her hands on her dirty smock.
+
+{SCRIPT:  Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Go. Leave. Go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ha. No way am I climbing on that table. Have you seen what her tools look like? Just looking at her makes me itch. I'll find some other way to get better."
+
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Get up there, Aligern. You need healing."
+
+{SCRIPT: Minor Aligern Abuse.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"All right, Aligern. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Her disgust curls all the faces you can see. "There is no reality in which I would let this... *woman*... touch me."
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"None except this reality, perhaps. Get on that table."
+
+{SCRIPT: Minor Callistege Abuse.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"All right, Callistege. I'll respect your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He eyes the table nervously, and looks back at Laarna. "Is this a heroic test? Because if it's like a quest or something, I should be brave." He swallows. "All right. Time to be brave."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"If you insist. I suppose I can shrug off anything she might... pass along to me."
+
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Er... when was that last time you washed your hands, madam? This age? The last?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She looks at you plaintively. "Do I have to?" She lowers her voice. "This lady is gross."
+
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Yes, Rhin. You're hurt and need healing."
+
+{SCRIPT: Minor abuse of Rhin}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"No, Rhin. We'll figure something else out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Imagine my surprise. I don't feel like I caught anything." He turns to her and nods his head. "Maybe I was wrong about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Hmph."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ugh. My injuries are fine but... my stomach. Gods, I feel awful. I was right about you, woman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Perhaps I was wrong about you. You seem to know what you're doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You've done a better job than I'd have expected. But whatever you put into the wounds... burns. I feel... a little light-headed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"That quest was much easier than I expected. *Much* easier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You come back any time, boy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What did I tell you?" She pats your arm. "Our constitutions are like stronglass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"That quest was much easier than I expected. *Much* easier." He flexes and clenches his hands. "But there's a hurty part, too. Is it supposed to feel like barfing after you get healed?"
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You come back any time, boy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She looks vaguely guilty and mutters something unintelligible. Then she turns back to him, smiling with her discolored teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>She staggers a little, and glares at the doctor. "If you have damaged me, quacksalver, I will make you *bleed*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The doctor looks vaguely guilty and mutters something unintelligible. Then she turns back to Rhin, smiling with her discolored teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Come back any time, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"That hardly hurt at all!" she announces proudly. Then she wavers a bit. "But my stomach doesn't feel so good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"That hardly hurt at all!" she announces proudly.
+
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Nothing to it, see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Your armor makes it hard to treat you, son."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He gives her an exaggerated bow. "My lady, it appears I owe you an apology. I feel much restored."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>He gives her an exaggerated bow. "My lady, it appears I owe you an apology. I feel much restored." 
+
+But as he stands, he staggers a little, blanching. "Though perhaps I ate something that didn't agree with me."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Your *healing* passes along infections and diseases."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You must stop passing along the Bloom's filth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Try to strike her again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I told you to stop infecting people. This time, you will listen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"And I told *you* - " She suddenly stops and holds her diseased arm to her ear for a moment. Then she lowers it slowly. 
+
+She looks away from you and down to the ground. "Aye. I suppose you know the Bloom's desire better than I. Forgive me, sir."</DefaultText>
+      <FemaleText>"And I told *you*-" She suddenly stops and holds her diseased arm to her ear for a moment, and lowers it slowly. 
+
+She looks away from you and down to the ground. "Aye. I suppose you know the Bloom's desire better than I. Forgive me, m'lady."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Bank 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"A psychic attack is slowly destroying my body. Can you help?"
+{SCRIPT: Node 120 should only be visible so long as the PC has the Specter's Decay fettle. After it's cured, Node 120, 121, and 122 should be hidden.}
+{SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I want you to stop the psychic attack that is destroying my body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Of course," she says, rolling her eyes. "Laarma is no pup doctor. You must pay  [Global: c4211_SlumpDoctorSpecterDecayFettleCost] shins in advance."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Yes, yes," she says, sighing. "And I want to be paid [Global: c4211_SlumpDoctorSpecterDecayFettleCost] shins in advance. Hurry up. Laarma is busy today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Never mind. Let's discuss other business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Pay her. 
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Bank 128</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I don't have the money right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I still don't have the money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Just a minute," she says, snatching the payment from your hand. She turns and digs through a collection of rusty, hook-toothed implements. Muttering, she tosses some of them aside, cuts herself, curses, and pops the wounded digit into her mouth. Then she tucks some of the nastier, barbed ones into her belt.
+
+She glances up at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"These aren't for you," she says, cocking a hairy eyebrow. "If that's what you were thinking. Laarma is teaching an autopsy class tonight." She waves a hand. "Well, not an autopsy at first. This is part of the surprise."
+
+She roots around in one of the sagging pouches on her hip and hands you a purple blob. "Here. Eat this. No questions."
+
+You do. It tastes of hot bread with tin baked into the crust. The pressure in your mind immediately dwindles.
+{SCRIPT: Remove decay fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Bank 135</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Then Laarma cannot help you 'right now'," she says, flapping her hands at you. "Go, go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"No? Then Laarma still can't help you. Come back when you can pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>She shrugs, studying her grimy fingernails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"What? Why do you keep pestering Laarma?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText> Follow-up PQ. 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>She opens her mouth to shout. Closes it. Presses her lips into a white line.
+
+"Yes," she says. "But only because you are dying and it would cost too much to have you hauled away. [Global: c4211_SlumpDoctorSpecterDecayFettleCost] shins. No negotiating."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Yes, yes," she says, sighing. "[Global: c4211_SlumpDoctorSpecterDecayFettleCost] shins. Pay or go."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Pay her. 
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She rips the payment out of your hand and holds out a sachet of purple dust. "Eat it. No questions."
+
+You do. It tastes of hot bread with tin baked into the crust. The pressure in your mind immediately dwindles.
+
+{SCRIPT: Remove decay fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"These aren't for you," she says, cocking a hairy eyebrow. "If that's what you were thinking. Laarma is teaching an autopsy class tonight." She waves a hand. "Well, not an autopsy at first. This is part of the surprise."
+
+She roots around in one of the sagging pouches on her hip and hands you a sachet of purple dust. "Here. Eat this. No questions."
+
+You do. It tastes of hot bread with tin baked into the crust. The pressure in your mind immediately dwindles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText> Follow-up PQ. 128</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText> Follow-up T. 135</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Then Laarma cannot help you 'right now'," she says, flapping her hands at you. "Go, go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"No? Then Laarma still can't help you. Come back when you can pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I don't have the money right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I still don't have the money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"A psychic attack is slowly destroying my body. Will you help me?"
+{SCRIPT: Node 142 should only be visible so long as the PC has the Specter's Decay fettle.}
+{SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"I want you to stop the psychic attack that is destroying my body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Bank 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I apologize for earlier. Can we put this behind us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Are you sure we can't put this argument behind us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Hmm," she says, studying you. "Perhaps when you are dead. Come back then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Never in life! Get gone with you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Once again, she finds the purple blob and thrusts it at you. As soon as you eat it, the pressure in your mind dwindles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Once again, she finds the purple dust and thrusts it at you. As soon as you eat it, the pressure in your mind dwindles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"One of my companions is possessed by demons of some kind. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"This is not the kind of healing that Laarma does. Ask other doctors here, and not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

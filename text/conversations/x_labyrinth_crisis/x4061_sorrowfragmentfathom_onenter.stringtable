@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_onenter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As the black sludge coalesces, you recognize it as a fragment of the Sorrow - stronger from feeding on your subconscious all this time.
+
+Because the fragments have been feeding on your Tidal energy, you sense that they are bound to you, at least for now. You may be able to use the machines in this place to manipulate them.
+
+A mental reflex twitches, a subconscious response to the perceived threat, calling forth reflections of your current companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Call the reflections to aid you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Suppress the reflections and confront the creatures alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"[Your memories of companions begin to take physical form as the Sorrow fragment bears down on you.]"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[You shake off your desire for assistance as the Sorrow Fragment lunges towards you.]"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[An isolated platform floats in a sea of familiar, writhing eidolons, an interconnected mass of  partially-formed events and fading reflections of people. Scenes play out briefly before your eyes, just enough to call to mind a sense of deja vu before melting away, blending back into the background]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Machines, notes, and tools clutter the platform, giving this recollection the feeling of laboratory, long left unmaintened. Five machines, larger and more visbiliy complex than the others, extended beneath the floor, drawing bits of the dream-stuff upwards, into their internals.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[However, pouring forth from the machines are wisps of black ichor, spasming in random directions as they envelope the devices. Moments after you take notice, the goo in each begins to pulse in a regular pattern, pulsing in your direction. Suddenly, the inky blackness drains from one machine, swirling to a point nearby. ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>As your body pours from the portal, an ad-hoc laboratory comes into view. Irregular catwalks connect several platforms, each littered with dusty machines, tools, and displays.
+
+In the center of each platform stands a stronglass tank glowing like the orbs from the dark fathom you were born in. You have a feeling that, like the orbs, those tanks contain your memories.
+
+Each tank is connected to a machine on the same platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Caustic black ichor sputters from all but the nearest of the glowing tanks, keeping you from seeing - or even feeling - what lies inside.
+
+The oily film on the nearest machine pauses, almost as if it has noticed your presence. It begins to drain from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Caustic black ichor sputters from all but the nearest of the glowing tanks, keeping you from seeing - or even feeling - what lies inside.
+
+The oily film on a distant machine pauses, almost as if it has noticed your presence. It begins to drain from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You slip out of the portal, greeted by the same danger as before. An impulse to call forth reflections of your current companions solidifies in your gut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Suppress the reflections and confront the creatures alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>As the black sludge coalesces, you recognize it as a fragment of the Sorrow - stronger from feeding on your subconscious all this time.
+
+Because the fragments have been feeding on your Tidal energy, you sense that they are bound to you, at least for now. You may be able to use the machines in this place to manipulate them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You slip out of the portal, greeted by the same danger as before.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

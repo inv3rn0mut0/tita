@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_falinda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nearly every inch of this merchant's body is covered in tightly-wound robes and furs. A hood obscures its head, and a mask conceals its face. 
+
+This doesn't stop you from noticing that it is apparently *furious* with you. Trembling, it bats at its similarly dressed companion. Both of them turn impassive masks back to you.  
+{GEORGE: I think these characters' people might be responsible for the Words of Qra. You'll see what I mean. Either that, or (as Colin suggested) they can have some reactivity to that content. Colin recommended a [B]-priority connection.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Neither Falinda nor Steristi could believe it, but the thief had come back. Had he come in shame, ready to return what he had taken? No. His hands were empty, his expression *baffled*." 
+
+Falinda crosses swaddled arms. "Perhaps the thief had simply forgotten to return what he had borrowed. But this made him no less a thief."</DefaultText>
+      <FemaleText>"Neither Falinda nor Steristi could believe it, but the thief had come back. Had she come in shame, ready to return what she had taken? No. Her hands were empty, her expression *baffled*." 
+
+Falinda crossed swaddled arms. "Perhaps the thief had simply forgotten to return what she had borrowed. But this made her no less a thief."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What did the book look like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Can you remind me what the book looks like again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The thief returned," the merchant says. "Falinda wondered why, but did not ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The thief said, playing coy, and knowing full well that it was a large book called the Tome of Singing Thorns, bound in the skins of unknown animals, and branded with a jagged symbol divided into five different colors - red, blue, silver, gold, and purplish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The thief said. Falinda reminded him that it was a large, skin-bound book called the Tome of Singing Thorns."</DefaultText>
+      <FemaleText>"The thief said. Falinda reminded her that it was a large, skin-bound book called the Tome of Singing Thorns."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Here's the Tome of Singing Thorns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Falinda snatched the book from the thief's hands," the merchant says, doing so. "And yes, it was the same book. Still sealed. Still worthless. Still priceless."
+
+The merchant traces the sigil on the cover for a long, silent moment. "As a reward, Falinda invited the thief... the *customer* to take - yes, take - one of the merchant's more *ragged* books as payment. Stock space was limited, after all, and the customer would be doing Falinda and Steristi a favor."
+
+You lean forward to examine Falinda's bookshelf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>""
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Falinda returned to the work at hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Are you narrating me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I didn't borrow anything from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You must have met the, uh, previous inhabitant of this body. What did he take?"</DefaultText>
+      <FemaleText>"You must have met the, uh, previous inhabitant of this body. What did she take?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The thief said, trying to distract Falinda from the matter at hand. But the merchant would not be distracted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The thief protested, but Falinda was unconvinced. The merchant's memory was as organized as a library shelf, and it remembered this face, twisted with desire for the very book in question. It remembered the same voice making promises it apparently had no intent of keeping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"The thief asked. Falinda faltered, but only for a moment. The merchant's memory was as organized as a library shelf, and it remembered this face, twisted with desire for the very book in question. It remembered the same voice making promises it apparently had no intent of keeping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ten years ago, this thief had *borrowed* a book. Falinda wondered if the scoundrel was possibly unfamiliar with the definition of the word. It did not mean taking a thing and keeping it, after all."
+
+Steristi pointedly returns to work, ignoring you both. Falinda sighs, massaging its temples with gloved hands. "But in the end, Falinda took a deep, *deep* breath, and asked the thief to simply return the sealed and long overdue book with the five-colored sigil on its cover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'll find the book. You have my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I can't promise anything, but I'll look for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I have no time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"The thief declared, and Falinda was satisfied. Temporarily."
+
+And with that, the merchant returns to its work as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"The thief muttered, ashamed. But Falinda was satisfied. Temporarily."
+
+And with that, the merchant returns to its work as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The thief snapped, but Falinda knew he would consider the request, reasonable as it was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Why do you narrate everything I say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Why won't you tell me why you're narrating everything I say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"The thief said, but Falinda knew from long experience that there was no explaining it." The merchant kneels before a bookshelf, and jams book after book into the remaining space. 
+
+"This frustrated Falinda. After all, the two merchants were creatures of words, bound in metal and cloth, but whenever Falinda tried to bend these same words into explanations and answers, they crumbled and fell apart. They could not fold themselves around the truth."
+
+The merchant slams a final book into place. "And so, Falinda said nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The thief pleaded. He still did not understand that Falinda *wasn't* speaking. That what the thief was hearing was the passage of time."</DefaultText>
+      <FemaleText>"The thief pleaded. She still did not understand that Falinda *wasn't* speaking. That what the thief was hearing was the passage of time."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Memory curls barbed tendrils around the thief," Falinda continues, and it's true. A memory is closing around you. The merchant leans forward with interest. "And *now* he remembers that day ten years ago, when he came for the book..."</DefaultText>
+      <FemaleText>"Memory curls barbed tendrils around the thief," Falinda continues, and it's true. A memory is closing around you. The merchant leans forward with interest. "And *now* she remembers that day ten years ago, when she came for the book..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Frost burns your nostrils as you stare at the book in the creature's hands. You'd thought it lost in the fire, but here it is.
+
+"I wrote this book," you grumble. "I-I don't remember what's *in* it, but it's mine. I don't want to borrow it. I want it *back*."
+
+"And yet, the customer knew that a book, once lost, belongs to everyone," Falinda says smoothly. "And as such, the customer would settle for borrowing the book. For a little while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Two Weeks and a Day in the Pleasure Wagons of Ossam's Traveling Menagerie and Soaring Circus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Angule and the Greater Good: The Rise of the Angulan Knights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Humming and Hiding - The Secrets of the Labyrinth of Sound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Known Powers - A Historical Examination of the Rulers of the Ninth World."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Honestly, I'd be embarrassed to take another book from you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Concealing surprise, Falinda handed the book over. Tales of lustful abandon hardly seemed the customer's type."{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Falinda handed the book over. Personally, the merchant thought it was trash, but everything was worth reading, at least once." 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Falinda gladly handed the book over. The Labyrinth of Sound was an intriguing topic indeed."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Falinda handed the book over, adding that the chapters covering the legacies of each ruler were particularly fascinating."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The customer admitted, and Falinda respected him for that," the merchant says warmly. "The merchant thanked him again."</DefaultText>
+      <FemaleText>"The customer admitted, and Falinda respected her for that," the merchant says warmly. "The merchant thanked her again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"And with that, the thief returned to the present, swaying and dizzy," Falinda says, masked cheek propped against a gloved hand. "The merchant briefly wondered what memories had carried the thief away, but nothing good could be gained from prying into the secrets of others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"How can you possibly remember who borrowed a book from you ten years ago?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"The cunning thief said, hoping to arouse doubt in Falinda's mind. But the hope was a foolish one. Falinda *was* memory in the same way that the thief was fatty tissue, fluids, and chunks of calcium."
+
+The merchant crosses its arms. "Falinda was out of patience. Was the thief going to return the book or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[DEBUG] Jump straight to the Buried Crossroads, where the book lies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Script Node 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"A reader after my own heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"The thief's companion said, wondering if Falinda was naked beneath those heavy robes," Falinda says, sighing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Tybir blinks, then turns to you.
+
+"Guilty," he says, shrugging. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Sour bunch, the Angulans," Tybir says, his face a mask of stern disapproval. "Murderous too, if your body's the wrong shape. They make me ashamed to be human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I'd like to borrow that when you're through," Tybir says, stroking his chin. "It sounds *fascinating*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"That *does* sound fascinating," Tybir agrees, eyeing the merchant with interest. "You have fine taste in books."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Falinda welcomed the customer back," Falinda says, nodding.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

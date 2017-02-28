@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_lenses_of_tcg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You step back into the semicircle of mirrors, sensing the pressure of invisible eyes on you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Mess with the mirrors, trigger a fight with several abykos.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the lenses alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave the mirrors alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[DEBUG] Warp back to Mapper in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A staggering array of mirrors and lenses encircle you. Cables run from their backs to various machines scattered throughout the room. 
+
+Behind the display, you hear a hinge creak.  
+{SOUND: Mechanical Squeak/Creak.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Study the lenses and mirrors. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Study the lenses and mirrors again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The mirrors twitch as you gaze from surface to surface. Eventually, you realize why. They are attuned to your mind - you can move each one as effortlessly as your own hand. 
+
+Every surface shows something *else* besides your reflection. A sliver of glass highlights a red cord around your throat. A small oval mirror lingers on a pulsing blue star beneath your forehead. The mirrors to either side of the large, central mirror periodically flash purple.
+
+The tiny lenses above it all crane their necks to study *you*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The larger ones respond to the lightest touch of your mind. The smaller mirrors strain, creaking, to study you. 
+{SOUND: Creaking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You sense that the tiny lenses are moving with purpose and hold still. They carefully swivel to focus on your arms, and you see something... odd.
+
+The *you* in the audience of lenses is bigger. Stronger. You feel a painful twinge in the crook of your arm and one of the lenses goes cloudy gray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>And you sense danger here as well. 
+
+No... not sense. Remember. You *remember* that these mirrors are directed not just at this world, but at others as well. You can see things in these mirrors that aren't visible to the naked eye. 
+
+And if you aren't careful, they'll see you too. 
+
+
+
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The abykoses already found you. Other things - worse things - might be waiting around the bend of one of these infinite reflections.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Look into the large central mirror. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Look into the large central mirror again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Of all of them, this mirror seems the most mundane. It shows your unaltered reflection, the crease between your eyebrows as you concentrate...
+
+And the gaunt, staring creatures in the hallway behind you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The gaunt creatures roam the hallway behind you, dragging their metallic claws over the rock. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Force the mirrors to focus on the creatures. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Look behind you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Examine the other lenses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You turn your attention to the rest of the array. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You spin around. Nothing is there. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The mirrors strain at your bidding and you see the things behind you clearly. They're bony. Nude. Snuffling at the air through a slit in their swollen faces. 
+
+One of them wheels around, fixing you with a single, hungry eye. It stumbles towards you, feet scraping across the stone. The rest stagger after it, slurping and gasping. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Feed them a stichus egg.
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Stay back. I have no food for you here."
+
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I don't want to hurt you. Return to your realm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The mirrors strain at your bidding and you see the things behind you clearly. They're bony. Nude. Snuffling at the air through a slit in their swollen faces. 
+
+One of them wheels around, fixing you with a single, hungry eye. It stumbles towards you, feet scraping across the stone. The rest stagger after it, slurping and gasping. 
+
+They're abykoses - pandimensional entities that feed on power sources and ancient devices. They won't attack you so long as you give them something to eat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Leave this place or die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Your warning does not deter them. Snuffling and choking, they stagger at you, claws outstretched. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your threat does not deter them. Snuffling and choking, they stagger at you, claws outstretched. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The entities do not respond to your warning. Snuffling and choking, they stagger at you, claws outstretched. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Feed them one of the Under-Foreman's children.
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You grab a stichus egg from your belongings and toss it to the ground. 
+
+The abykoses fall over it, raking it with their insubstantial claws. The egg cracks, then bursts as they feed.  
+
+Eventually, the cluster of entities fades away, leaving a tangle of shells and rusted wire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You grab one of the construct's metal children from your belongings and toss it to the ground. 
+
+The abykoses fall over it, raking it with their insubstantial claws. Rust flowers across the surface of the construct, and it shudders and wails. 
+
+Eventually, the cluster of entities fades away, leaving a little pile of red dust behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Determine the purpose of the tiny lenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The pulsing blue star beneath your forehead expands as you watch. Oddly enough, it feels like it belongs there. Like it was waiting to be discovered. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Motion draws your attention to the other two mirrors. In them, you see a very different reflection of yourself.
+
+Pale clouds of blue light surround your hands. Feathery tendrils trail from every fingertip, flicking at the air. 
+
+You raise your hand. Your reflection does as well. And suddenly, your head burns with the ache of the radiant object within it.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Examine the small oval mirror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Examine the small oval mirror again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The blue star at the center of your reflections forehead blazes, and the pain your felt before returns with a crippling vengeance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Look at your hands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Snatch a rock from the ground and break the mirror. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Pluck out the object. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The skin is glowing. Tiny, needlelike tendrils emerge from the tips of each finger - tiny tools for delicate work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You hurl a stone at the center of the mirror. It bounces off, but you barely sense this over the horrific, nauseating wave of pain that streaks through both temples. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You press your fingertips against your forehead, and feel the needlelike tendrils close around the round object inside your head. Carefully, you pull it out. 
+
+The rising agony melts away, and the glow slowly fades from your hands, revealing a bronze sphere in your palm, growing more substantial with every passing second.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You mentally draw the attention of the tiny lenses, feeling the pull of their eyeless gaze on your skin. In their reflection you see an idealized version of yourself. Stronger. Smarter. Faster. 
+
+And in a flash, you understand - they can change you. Improve you. But a few of them are growing cloudy under the strain. You should act quickly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Direct them at your head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Focus them on your chest and arms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Turn them towards your legs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The constellations of tiny lenses align with your head, and you meet the gaze of your reflection. Something *snaps* in your mind, and suddenly, you feel sharper. More alert. 
+
+One by one, the lenses fade into opaque haze until only one remains, as bright as a winter star. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The constellations of tiny lenses align with your legs. Lean muscle streaks up your calves and thighs, solidifying as it goes. Your skin burns as new nerve clusters blossom throughout your body, increases your reflexes to an almost painful extreme. 
+
+One by one, the lenses fade into opaque haze until only one remains, as bright as a winter star. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The constellations of tiny lenses align with your body. Tendons pop and stretch. New muscle flows up your arms like water, solidifying as it goes. You close your fist, and veins press against your skin. 
+
+One by one, the lenses fade into opaque haze until only one remains, as bright as a winter star. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Bank 63</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Move the slivered mirror that shows the red band around your neck.
+{GAVIN: NB: [B] This could unlock a Fathom, or a hidden part of a Fathom (e.g., the player starts in a part of the Fathom that is otherwise inaccessible). The player should also be sent to this Fathom if he is physically killed in the Buried Crossroads - e.g., by the abykos.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Use the thin mirror to kill yourself again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Mentally, you jostle the mirror and feel an invisible noose close around your throat. And tighten. 
+
+Gasping, you sink to your knees. Fall to your side. And as your vision goes dark, you realize that if you survive this death, you've found a shortcut into the labyrinth. How convenient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The familiar, thoroughly unpleasant noose slips around your neck and chokes the life from you. 
+
+Choking, you collapse, roll onto your back, and die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Matkina, this machine might work for you too. Want to give it a try?"
+{SCRIPT: Only visible if PC doesn't have a good relationship with Matkina and she's active in the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Give the mirrors a chance, Matkina. They didn't hurt *me*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She glares at you. Then at her own reflection. Finally, she groans and shoves you aside. 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I'll pass," she says. "The gifts you get from his little inventions are almost never worth the price."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She spends a minute or so tweaking mirrors and muttering to herself before she focuses on the last small mirror that's still clear, 
+
+"Huh," she says. "That's interesting. I-"
+
+She stumbles back, clutching her head. The mirror goes the same cloudy gray as the others. 
+
+"Ow," she says, but waves you away. "I'm fine. It showed me *me*, but with a new trick. I think I might be able to pull it off, though." 
+{SCRIPT: NODE 74,68 SHOULD NOT PLAY - Matkina gets a more powerful Blinding ability}
+{GEORGE: Jeremy was not aware this was a thing. Is it?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Matkina, this machine might work for you too. Want to give it a try?"
+{SCRIPT: Only visible if PC has a good relationship with Matkina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She eyes you skeptically. 
+
+"Sure," she says finally. "Just don't be surprised if this thing turns me into a pile of melting bone."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Tear your gaze away from the mirror. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You do so. Slowly, the throbbing pain dissipates. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Watch for the purple glow on the side mirrors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Look at the purple glow in the side mirror again, and allow it to carry you through the opposing mirror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>As soon as you look at the mirror to your left, a torrent of radiant light flows through you, nearly tugging you off your feet. You regain your balance just in time to see the light pass into the mirror on your right.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>A flood of purple light streams from the mirror as soon as you look at it. It lifts you from your feet and carries you into the mirror on the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You gasp involuntarily. The light has healed - or stolen - the wounds the Sorrow inflicted on you. 
+{SCRIPT: SHOULD NOT PLAY - this isn't a thing thats possible at this time, nor are we tracking something like this.}
+{GAVIN: Add some sort of reactivity about the place (or person) who is getting all these wounds shipped to them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>In that mirror, you see a machine aglow with the same purple light you spotted before. If you allow the light to carry you, chances are that it will take you to wherever that machine is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[DEBUG] Start the Abykos Tussle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[DEBUG] Warp back to Falinda in Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Travel to Circus Minor through the side mirrors.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

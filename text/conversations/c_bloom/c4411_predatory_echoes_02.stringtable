@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_predatory_echoes_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText> Addend. 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Back away quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You carefully retrace your steps. The combatants don't seem to notice, and they go on with their fight.
+
+{SCRIPT: Party should back out of trigger area.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"This one is not like us," whispers a Bloom cultist. "He was not eaten by the Great Devourer."
+
+"No," agrees a woman who is dressed in the rags of a slave. "He is here for *our* pleasure in these final hours of our lives."
+
+She raises her weapon. Her comrades do the same, baring their teeth and hissing like animals...</DefaultText>
+      <FemaleText>"This one is not like us," whispers a Bloom cultist. "She was not eaten by the Great Devourer."
+
+"No," agrees a woman who is dressed in the rags of a slave. "She is here for *our* pleasure in these final hours of our lives."
+
+She raises her weapon. Her comrades do the same, baring their teeth and hissing like animals...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Stand your ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You come upon a familiar scene. More semi-transparent figures are locked in combat with one another, faces twisted in mindless rage. They seem to sense your presence and turn to regard you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>
+
+If you remain here or try to move past them, they're likely to see you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

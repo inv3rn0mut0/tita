@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3121_phoenixs_marker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The tomb remains as you left it. It does not speak again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This nearly-human face has been sculpted to look like it is emerging from the stone floor. As you draw near, the mouth suddenly begins to move. It speaks in an unfamiliar tongue, and you feel a light touch across your mind. The face continues speaking, adjusting pitch and vibration of its words as it zeroes in on a shared language.
+
+The jumble of noise becomes recognizable speech quickly, and the face becomes more human.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The tomb remains as you left it, but something is different about it now. There's a presence here, gathering its power and potential, but it is sleeping... as if waiting for the right moment to be born again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You recognize the face. It is that of Phoenix, the enigmatic man in the Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The voice is surprisingly pleasant and warm. "I am Phoenix. Seeker of knowledge, lover of wisdom, questioner of the truth. I found ways to bend space and fold reality, but it was not enough to keep death from my door. If you are hearing this message, I am missing a part of my consciousness. I have communicated with it, and feel its presence nearby... but it does not return."
+
+The voice fades, taking with it the memory of the language it spoke.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

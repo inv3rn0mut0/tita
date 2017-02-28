@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_a2332_tcgbook</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>93</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You flip open the cover of the Tome of Singing Thorns. On the title page is a castoff's tattoo divided into five curving, triangular shapes the color of each Tide, with a small inscription beneath. You try turning to the next page, but can't - it's as if the pages are a solid block of paper. 
+
+You lay your hand on the title page's rough, somewhat metallic surface, and the sharp triangular shapes spring up around your fingers with a vibrating hum. 
+
+{SOUND: Each thorn mentioned in this conversation plays a unique note. The puzzle is solved by playing them in ascending order. This melody was a lullaby sung by TCG to his daughter before he became the utter jerkwad we know. Each time the player plays a right note, it sustains, joining the others. When they screw up, the notes fade out, and the player starts over. Let me know if you have any questions, or if you don't have the time to come up with a song. I can throw something together if that's the case.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You flip to the title page with the inscription once more. You move to lay your hand on the tattoo as you did before, and the multicolored thorns spring up again, almost as though they are seeking your flesh. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The possibility of losing your fingers to this book was a danger Falinda somehow neglected to mention. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Read the inscription.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Read the inscription again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Touch the blue thorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Touch the blue thorn again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Touch the red thorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Touch the red thorn again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Touch the indigo thorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Touch the indigo thorn again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Touch the gold thorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Touch the gold thorn again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Put the book away. 
+{SOUND: Any existing music cuts off here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Touch the silver thorn. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Touch the silver thorn again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>It is written in a firm, sharp hand that nearly carved the letters through the page.
+
+"Symptoms - Cyanosis. Haemophilia. Spontaneous bruising. Jaundice. Argyria."  
+
+"See her as she was. You do not deserve to forget what you lost."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Symptoms - Cyanosis. Haemophilia. Spontaneous bruising. Jaundice. Argyria."  
+
+"See her as she was. You do not deserve to forget what you lost."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Your run your finger along the back of the thorn. 
+{SOUND: 1st harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The note rises into the air. 
+{SOUND: Note sustains.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You flick the crimson thorn. 
+{SOUND: 2nd harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The note rises into the air. 
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You caress the golden thorn. 
+{SOUND: 4th harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The note rises into the air. 
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Your prod the silver thorn, producing a high, pure note. 
+{SOUND: 5th harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>It hangs in the air, growing ever louder.
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You prod the silver thorn. 
+{SOUND: 5th harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The note rises into the air. 
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You tap the dense thorn. 
+{SOUND: 3rd harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The note rises into the air. 
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The music fades abruptly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The music fades abruptly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>After a moment, the music fades abruptly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The music fades abruptly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The music fades abruptly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The music fades abruptly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The notes surrounding you scatter into silence, as if swept aside by an impatient hand. The book blurs open, flipping from page to page faster than you can read. 
+
+But still, you catch glimpses - neat tables of strange creatures and their Tidal affinities. Dwindling question marks on each page as the author understood more and more. 
+
+And through it all, you feel the book reading *you*. Touching parts of your mind, erasing uncertainties, and reopening portions that have long been closed.  
+{SOUND: The notes repeat in order, then scatter with a sound like a bunch of guitar strings breaking at once.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You finish the song again. This time, the music doesn't fade. The book twists in your hands, and begins flipping from the end of the book backwards.
+
+You see, in inky shadows, a bed, and the dying young woman upon it. She clutches the blankets to her throat, fists shaking. Silent tears wet the pillow beneath her cheeks. Her teeth are set against the pain. 
+
+And the singing continues, cracked with the hope that it will bring her peace and let her sleep.  
+{SOUND: Female voice humming the lullaby. Fades when the Player leaves this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You carefully pluck the crimson thorn like a stringed instrument. A note rises from the vibrating razor edge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>It hangs in the air, trembling.
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>After a moment, the music fades abruptly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You experimentally run your finger along the back of the blue thorn. The moment raises a cool, complex note from the curved surface.
+{SOUND: 1st harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>It hangs in the air, humming softly.
+{SOUND: Note sustains.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>After a moment, the music fades abruptly.
+{SOUND: Failure. All harp notes fades away.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You caress the golden thorn. A warm note rises from within it, making your fingers tingle. 
+{SOUND: 4th harp note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The note rises into the air, clear and true. 
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>After a moment, the music fades abruptly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You tap this dense thorn, coaxing a multitude of tiny chime-like sounds from the metal. As you listen, they coalesce into a single, firm note. 
+{SOUND: 3rd harp note. Best if it's as described above: A bunch of softer notes that become a single, louder one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>It hangs in the air, strong and deep. 
+{SOUND: All notes sustain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>After a moment, the music fades abruptly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>This time, the book does not open at all. Only the song remains. 
+{SOUND: Male voice humming the lullaby. Fades when the Player leaves this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You finish the song again. This time, the music doesn't fade. The book twists in your hands, and begins flipping from the end of the book backwards.
+
+You see, in inky shadows, a bed, and the dying young woman upon it. She clutches the blankets to her throat, fists shaking. Silent tears wet the pillow beneath her cheeks. Her teeth are set against the pain. 
+
+And the singing continues, cracked with the hope that it will bring her peace and let her sleep.  
+{SOUND: Male voice humming the lullaby. Fades when the Player leaves this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>When you complete the song this time, the book does not open at all. 
+{SOUND: Female voice humming the lullaby. Fades when the Player leaves this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The book slams shut, nearly taking your fingers with it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The book closes with a firm, satisfying *thud*.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

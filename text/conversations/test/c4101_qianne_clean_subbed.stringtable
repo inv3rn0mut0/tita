@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\c4101_qianne_clean_subbed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>105</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This starved, forlorn-looking woman looks to be in early middle age. Her face is pale, with high cheekbones framed by hair so blonde it's nearly white. Tattered formalwear hangs on her gaunt frame, coated by a truly spectacular layer of grime.
+
+She has an odd dignity, beneath the bruises and rind of filth, a regal quality out of place on a woman who appears to be living in a lean-to made of fragments from the crashed transport.
+
+She jerks at your approach. "Please! I don't have any- oh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'm not going to hurt you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You don't have any what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I think you might have mistaken me for someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I saw the whole thing. Are you all right? Are you hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sorry, I didn't mean to... do... whatever it is you think I did. Farewell." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>She relaxes a little, but her eyes remain wary.
+
+"I do apologize for my reaction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Drit-stiffened blonde hair moves as a single mass as she shakes her head. "Nothing, I mistook you for someone else. Please forgive me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pale skin reddens visibly under its protective coating of muck. Even other ditches wouldn't sleep in the ditches this woman must call home.
+
+"I'm terribly sorry, I did. Mistake you. For someone else. Do forgive my rudeness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Do you need some help, Miss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Were you *expecting* someone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"So what is it you don't have any of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"No, I apologize for startling you. Take care." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"There's nothing to forgive. Good day." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She speaks from behind one hand, as if trying to talk and chew at the same time. "Really, it's nothing, I was just... just robbed, you see, and feared the worst when I saw you approach.
+
+"I am Qianne, of Malevich," she adds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Malevich is a Steadfast kingdom with a warlike reputation, rich nobility, and poor everyone else. Qianne is a *long* way from home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>
+
+You abruptly see why she keeps a hand to her mouth: one of her front teeth has been knocked out, and she's trying - badly - to hide it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"A pair of ruffians. In my nervousness I reacted before looking. I'm terribly sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Eyeing you suspiciously, she takes an almost-imperceptible step back. "It really doesn't matter, as you are not who I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Certainly. Just hand over any shins you have squirreled away in that revolting hut of yours, and all will be forgiven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Of course. Have a nice day." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You were just robbed? Are you all right? Are you hurt? Shall I fetch a guard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"If it was recent, they might still be in the neighborhood. Rats don't tend to scurry far - which way did they go? I'll go after them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"That's awful. I hope they didn't clean you out completely, given that I'm only here to rob you myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"No wonder you reacted that way. I hope your day improves - I'll leave you be." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The question seems to surprise her. "You're very kind to ask," she says. "Yes. No. No."
+
+She takes a breath.
+
+"*Yes,* I am all right. *No,* I am not injured. They rarely cause lasting damage. And *no,* please don't bother yourself with the guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It's nothing. Doesn't seem like you were looking forward to meeting this other person, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Two people," she says with a scowl. "No indeed, I was *not* looking forward to the meeting. A pair of brigands - they hound me regularly. In fact, they only just finished robbing me, which is why I reacted when I saw you."
+
+She gives a peculiarly courtly bow, more an incline of the upper body. "Again, do forgive my impolite behavior. My name is Qianne of Malevich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>If true, Qianne is a *long* way from home. Malevich is a Steadfast kingdom. It would take months to get here by normal means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Gingerly, she fingers a lurid purple bruise forming on her cheek. "You... you are kind to ask," she says, evidently torn between gratitude and suspicion. "Yes. No."
+
+She pauses.
+
+"*Yes,* I am all right. *No,* I am not hurt. They rarely cause lasting damage. One of the few things I appreciate about them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wait - they *rarely* cause lasting damage? Have those two attacked you before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I could still go after them. They can't have much of a head start, and I got a good look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You said they *rarely* cause lasting damage, which means this happens a lot. And if it happens a lot, you've learned to hold a shin or two back from them, right? Just hand over whatever's left and we'll part as friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'm glad to hear it. That looked like a nasty encounter. If you're unhurt, I'll leave you be." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"That's nice of them. Of course, I *will* cause lasting damage, so why don't you go ahead and hand over anything they didn't take?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Her eyes widen. "I beg your pardon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>(Reconsider) "That was... a bad attempt at humor. Forget I said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She takes several steps back and narrows her eyes at you. "I see. Not terribly funny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>They *rarely* cause lasting damage? Has this happened before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Why shouldn't I bother with the guards?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"No offense, Qianne, but you seem a little out of place. How exactly did you wind up here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"If you're uninjured, I'll take my leave. Please be careful - this is a rough area." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I went to the guards the first time it happened. They just laughed at me, said something about 'sanctioned activities,' and then told me to stop bothering them. So I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She sighs. "Yes, many times. Every few days, really, Since I arrived in the Bloom almost a year ago. The pair of them find it amusing to target the same person again and again. Rather limited, as humor goes, but there you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She sighs. "Yes, many times. Once or twice a week since I arrived in the Bloom, almost a year ago. They find it amusing to target the same person again and again. Rather limited, as humor goes, but there you are."
+
+She looks at you. "I am Qianne of Malevich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Dimly, you recall that Malevich is a bleak Steadfast kingdom with a warlike reputation and significant gulf between the rich and the poor. If what she says is true, Qianne is a very long way from home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Well, I'm glad you're all right. Of course, I *will* cause lasting damage, so why don't you hand over anything they didn't take off you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I-"
+
+For just a moment the barrier weakens, and her formal manner and carefully trained speech are nothing more than elaborate shields against the realities of her current state. Her eyes lose focus, lost in memory, Her skin grows whiter still. Against the starkness of her flesh you can see the galaxy of bruises, cuts, and lumps more clearly than ever. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Balling her small hands into fists, she makes a visible effort to regain composure. "As I mentioned, I am from Malevich, from a city called Stirthal. I never thought about it until I came here, but I suppose it's fair to say my life was privileged."
+
+She plucks at her dress. It's basically held together by drit now, but beneath that supporting layer it's possible to make out the remains of lavish embroidery.
+
+"I was at a party."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"A formal party. The conversation turned to... well, to here. What our host, Lord Gunnar, called The Excessive Horizon. Beyond the Beyond.
+
+"Several drinks later, some friends and I decided it would be fun to see the place. The far realms, you know? An adventure. As it happened, the catena was leaving that night, for a place called the Bloom. Doesn't that sound mysterious and exotic? Like a night garden in your dreams. So we bought tickets. Why not? It was returning the next morning." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"But it crashed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She nods. "It crashed. Everyone was killed. Except me, of course. I lost consciousness, and when I awoke I was in the Bloom."
+
+With a sniff, she adds, "Which is *not* a night garden of dreams.
+
+"I had little money, all of which was stolen by those brigands on my first day. I have no way to get home, or contact anyone. I... we... hadn't even changed out of our party clothes!" She chokes back a sob, as if being unable to change her clothes was the most nightmarish part of her ordeal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"How have you managed on the streets?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Maybe I can help you, Qianne. I can't get you home, but I might be able to solve your brigand problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's a horrific story, Qianne. I'm very sorry. Best of luck getting home." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A vague shrug seems to be the only answer she's willing to give.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She blinks. "Truly? But... no, I wouldn't want to ask it of you. Besides, my troubles aren't yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"It would be no trouble. Tell me what you know about them and I'll see to it they don't bother you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I have an interest in what happened on the catena, so this wouldn't be entirely out of the goodness of my heart. We'd be doing each other a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"As you wish, I'll stay out of it." (Leave).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>
+
+She regards you hopefully. "I'm not certain I have any information that would be useful, but I would be happy to share whatever I know. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I *would* be in your debt, to be sure." The tiniest flicker of hope crosses her face.
+
+"Vrung is the leader. Delny seems rather taken with him, the stupid girl. They're usually prowling around the Memovira's Courtyard or Little Nihliesh. You needn't get violent with them unless you wish to. Just... just make them stop." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>It's clear she understood all the words you used, but judging by her expression, but they make no sense to her in that order.
+
+"You... go after them? But why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Well, it's- er, it's the right thing to do. I mean, you're clearly not going after them, you only have one shoe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Or I could track down a guard, if you prefer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"That's actually a very good question. Forget I said that. Sorry. You know what? I should say farewell before I get myself in trouble. Farewell." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Consider it done." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You know, on second thought, I'm not sure I should get involved in this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I understand," she says heavily. "We scarcely know one another, and that is a heavy burden to undertake. May your travels be safer than mine have been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I'll take a wild guess that it's shins you claim not to have any of, and I'll go one further - you're lying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You see her eyes dart to the left and right, assessing escape routes. "I assure you, stranger, if I had any shins to my name I would not be living in a ramshackle hut made of seats and panels from a crashed transport. If you *must* know, I was just robbed, and have nothing at all to my name. With that, I will bid you good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Don't try my patience. I'm sorry you were just robbed, particularly since that's what I'm here to do, but anybody with this address knows to hide some shins here and there. Hand them over and we're done, otherwise I'll give you more than a bruise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Nothing to your name, eh? Well, I guess both our days could have gone better. So who robbed you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Robbed already? I suppose there's no point trying to squeeze you for more. Lucky you." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>If your goal was to make her nervous, you've succeeded. "Just a pair of street thugs. They make a habit of victimizing me, once or twice a week."
+
+In a strangely forced, bright tone, she adds, "Why not go brutalize them instead? They're the ones with all my money. The experience would be almost the same as robbing me, I'm quite sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"That's not a bad idea. In my experience, it's always useful to have a street person in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I like your style, lady. What's your story? You talk more like a princess than a hobo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Hah! Nice try, lady. Solve your own problems," (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Apparently confident that the immediate danger to her person has passed, she seems willing to carry on the conversation. "My name is Qianne of Malevich," she says. "I am  most assuredly *not* a princess, and you will likely find my story exceedingly dull, but I suppose I can share it if you wish. I am not in the habit of speaking to people these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"But you *are* in the habit of using sixteen long when two short ones would work. Go on, I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You know what? Forget it. At this rate we'll be on the Eleventh World before you finish. I'm going to go deal with those two robbers, and you just keep on talking and pretend I've been listening, okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I really only asked to be polite, and honestly I'm not *that* polite. Take care of yourself." (Leave)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>She tenses, and for a moment it seems she might make a run for it, but then her shoulders slump in a defeated way. "Fine. I should have expected that. This is all I have left, I hope it brings you great joy."
+
+She hands over a few shins she'd secreted in her rags, then glares at you venemously. "Will that be all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Her eyes get a size bigger at the threat of harm. She reaches for a pocket in her bedraggled party dress, then suddenly bolts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>She looks you up and down, fear written all over her face. "Fine," she growls, reaching into her rags and pulling out a few shins. "I hope your mother is proud of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>She makes a break for it, darting between passersby and disappearing into an alley.
+
+{SCRIPT: On critical failure of the player attempting to mug Qianne, she runs away and avoids the player for the rest of the area. The TwiceTheTrouble quest is no longer available.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Try to grab her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Let her go.
+
+{SCRIPT: Qianne runs off.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>She's surprisingly light on her feet, but it's difficult to run with only one shoe - and a mud-spattered party shoe at that. You close your hand tightly around her shoulder as she darts away, spinning her around roughly. Feeling your grip on her collarbone, she loses any remaining trace of defiance.
+
+"Please," she says. "Just don't hurt me. This is all I have." Reaching inside her rags, she produces some coin and hands it over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>She's more nimble than she appears, or you're more clumsy than you thought.  Squirming between your outstretched hands, she grinds the miraculously unbroken heel of her one remaining shoe into your foot  before darting into the bustle and vanishing. 
+
+{SCRIPT: On critical failure of the player attempting to mug Qianne, she runs away and avoids the player for the rest of the area. The TwiceTheTrouble quest is no longer available.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>It's pathetic, watching her try to escape while wearing only one shoe. Your snatch her shoulder, harder than you had intended. She cries out as she's spun around, all the defiance leaving her.
+
+"Fine! Here! Just don't... this is all I have left." With shaking hands, she reaches into a torn pocket and produces some coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>For a second you have her, your fingers closing on a scrap of fabric from her ragged dress, but it tears off in your hand, allowing her to vanish among the stalls and pedestrians.
+
+{SCRIPT: add "piece of filthy party dress" to player inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I'm sure it will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>You feel her eyes burning into you as you leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Many thanks. Have a nice day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Well, you really *do* know how to hide cash from thugs. I'm impressed."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_execution_official</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A stout, middle-aged man stands atop the execution platform. He wears the badge of a city official, and a fringe of dreadlocks hangs down to his shoulders from his otherwise bald pate. He gives you a disinterested look as you approach. "Please stay back with the others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The official gives you an annoyed look. "What is it now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We are executing a prisoner, Ris of Flatwater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What is Ris's crime?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How does the execution work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Why does the Devourer of Wrongs eat executed criminals?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>IT IS DAY</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>IT IS NIGHT</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He pulls his eyes away from the sky and clears his throat. "Er, the prisoner, Ris of Flatwater is being publicly executed as a warning to all who would flout the laws of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A stout, middle-aged man stands atop the execution platform. He wears the badge of a city official, and a fringe of dreadlocks that hangs down to his shoulders from his otherwise bald pate. He is staring at the dark sky as you approach and hardly notices you. "Er... yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'll take that risk, if you'll take [Global: a2101_ExecutionOfficialBribe] shins to let me pass."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Please. He's my father. I must speak to him before he dies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He hisses through his teeth, then takes the coins. "Very well. Talk to him if you must, though you should know it's pointless. He won't hear you or speak in return."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"It isn't worth my position to take your shins. If I were caught, or you were to die, I'd lose everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"A blunt offer, but I am not so rich as to be offended. Very well. Talk to him if you must, though you should know it's pointless. He won't hear you or speak in return. Also, the touch of his twin will kill you. Steer well clear of it."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Do you know what the fine is for bribing a public official in Sagus Cliffs? It's  [Global: a2101_ExecutionOfficialBribe] shins, which I shall collect here and now. Now begone with you."
+
+{MONEY}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He shakes his head. "Speak to him if you must. But don't expect him to speak to you - or hear you. He's past that now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I sympathize, but I can't. It isn't worth my position. If I were caught, or you were to get yourself killed by his Death, I'd lose everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He shrugs and waves you past. "My heart is getting soft. Speak to him all you want. But don't expect him to speak to you - or hear you. He's past that now."
+
+"And don't touch his Death, or it will be yours as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"A likely story. You're just another thrill seeker wanting a closer look. I haven't the time for your sort. Begone with you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Treason. He sold state secrets to the enemies of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He sighs. "Another rustic. It is very simple, sir. Our nanos induce in him a hallucinogenic state. In this state he experiences visions... nightmares, really. He speaks of the things he sees, and his words become flesh as they leave his mouth. We shape the flesh into a humanlike form - the Death you see beside him." He gestures toward the hideous figure, which looks to be made of rotting viscera. 
+
+"As more strands escape his mouth, his Death wraps them around him, and they slowly crush the life out of him." </DefaultText>
+      <FemaleText>He sighs. "Another rustic. It is very simple, ma'am. Our nanos induce in him a hallucinogenic state. In this state he experiences visions... nightmares, really. He speaks of the things he sees, and his words become flesh as they leave his mouth. We shape the flesh into a humanlike form - the Death you see beside him." He gestures toward the hideous figure, which looks to be made of rotting viscera. 
+
+"As more strands escape his mouth, his Death wraps them around him, and they slowly crush the life out of him." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He smiles, grim. "He is of the Dendra O'Hur, who can suck the memories of the dead from their marrow. In those memories is not only the proof that the condemned were guilty, but also the names of their compatriots and other associates. Many an accomplice has been found out in the belly of the Devourer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He bows slightly. "I am Capital Punishment Overseer Yeen, in charge of organizing public executions for the Council and making sure they run smoothly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What would it take to free Ris?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He laughs, then sobers quickly. "The only thing that could free him would be a pardon from the Council, and for a luckless nobody like this? That's about as likely as me growing wings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"My patience is not endless, friend. But... as you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Good day. Er, night. Er..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I want to talk to Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I still want to talk to Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Why are you staring at the sky?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He lowers his eyes to you. "Did you not notice? Day became night in an instant. What does it mean? Are we safe? Is it the Tabaht returned again? What am I, as an official of the city, obliged to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What do his words mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He shrugs. "Some believe there is wisdom to be gained from the rantings of the condemned. I have never gleaned any. Others say that the torment of the condemned means nothing, but it deters would-be criminals from committing offenses of their own. I have never noticed *that* to be true either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He looks at you, wild-eyed. "No. Too risky right now. Can't you see there's a crisis going on? The sky's gone dark! It might be an attack! It might be sabotage!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Sorry, friend. Until this false night passes, I have to be on full alert! Anything might happen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He snorts. "Impossible. No one speaks to the condemned. It is against the rules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I told you before it was against the rules. Put it out of your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Now, are you finished pestering me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Is that all, or do you have more questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I'll take that risk, if you'll take [Global: a2101_ExecutionOfficialBribe] shins to let me pass."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"That makes it even more urgent. Please. He's my father. I must speak to him before he dies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He hisses through his teeth, then takes the coins. "Very well. Go on. Who will see in this darkness anyway. Though you should know talking to him is pointless. He won't hear you or speak in return."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"No, no! Everything's out of order. I dare not risk it until I know what's going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Very well. Go on. Who will see in this darkness anyway. Though you should know talking to him is pointless. He won't hear you or speak in return. Also, the touch of his twin will kill you. Steer well clear of it."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You think you can take advantage of me in this crisis? Ha! I'm a stronger man than that."
+
+"Let me tell you the fine for bribing a public official in Sagus Cliffs. It's  [Global: a2101_ExecutionOfficialBribe] shins, which I shall collect here and now. Now begone with you."
+
+{MONEY}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He shakes his head. "Fine, fine. If these are the end times, then what does it matter? Speak to him all you want. But don't expect him to speak to you - or hear you. He's past that now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"No, no. It's impossible. I don't know what's going on. The world may be ending for all I know. This is not the time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>He waves you past. "Fine, fine. If these are the end times, then what does it matter? Speak to him all you want. But don't expect him to speak to you - or hear you. He's past that now."
+
+"And don't touch his Death, or it will be yours as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"A likely story. You're just another thrill seeker wanting a closer look. Well, in case you haven't noticed, the world might be ending. This isn't the time! Begone with you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He looks beyond you at the angry crowd. Sweat is running down his brow. "You're trying to turn them against us, you trickster. Well, it won't work! And even if it does, the authorities will hear of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The overseer of the execution raises an eyebrow as you show him your badge of office. "Yes, sir," he says. "How can I help you?"</DefaultText>
+      <FemaleText>The overseer of the execution looks you over as you approach, noting your badge and robes of office. "Yes, ma'am," he says. "How can I help you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>ASK FOR TRIAL OF TRUTH</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The official is staring at the dark sky as you approach. "Tabaht take us all," he mutters.
+
+Eventually he lowers his eyes to you and gives you an annoyed look. "What is it now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Call them off! Call them off!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"This man has a full pardon. Release him immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"This man has a full pardon. Release him immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He scowls at you. "You were here before, and you didn't have that badge. Do you work for the city or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>TRIAL OF TRUTH
+
+{SCRIPT: Not implemented yet. Waiting for a decision from George.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The official once again notes your badge and gives you a polite nod. "How can I help you, sir?"</DefaultText>
+      <FemaleText>The official notes your badge and nods to you again. "How can I help you, ma'am?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He looks over the stay of execution, paying close attention to the signature. Finally he nods. "This is all in order. One moment."
+
+He turns and calls to the levies. "Unmake the Death of the condemned and set him free. He is pardoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He turns back to you and bows. "There you are, sir. All taken care of."</DefaultText>
+      <FemaleText>He turns back to you and bows. "There you are, ma'am. All taken care of."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I was undercover before, testing you. You did very well, but now I want this man released - immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He scowls at you. "Weren't you here before, and without a badge? Is this some kind of-?"
+
+He cuts off and looks at the black sky again. "Oh, what does it matter? If you take him, I can go home to my wife. She must be in such a state over this darkness. One moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Oh no you don't. I'm afraid I'll need an answer to that question. Do you work for the city or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Oh no you don't. I'm afraid I'll need an answer to that question. Do you work for the city or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"That's it. I'm out of patience with you." He sighs. "Now, ordinarily, I'd have the levies arrest you, but you obviously have *great* interest in this Ris person, while I have no interest in him at all, so perhaps we can come to an agreement. Say.... [Global: a2101_ExecutionOfficialDemand] shins, and you can do what you like with him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He gives you a skeptical glance, then looks over the stay of execution, paying close attention to the signature. Finally he shrugs. "Fine. One moment."
+
+He turns and calls to the levies. "Unmake the Death of the condemned and set him free. He is pardoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He looks over the stay of execution, paying close attention to the signature. Finally he shakes his head and hands it back to you. "I'm sorry. I can't risk it. This may be another test. I can't let him go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He swallows, nervous. "Ah, I see. A performance review. Well, let's just see now." He gives the stay of execution a perfunctory once over, then smiles. "Yes, fine. This is all in order. One moment."
+
+He turns and calls to the levies. "Unmake the Death of the condemned and set him free. He is pardoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He looks over the stay of execution, paying close attention to the signature. Finally he shakes his head and crumples the paper into a little ball. "Sorry, this is as suspect as you are. Now take a walk before I have you arrested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Thank you, I'll pay it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I don't have that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He takes the shins. "Most kind of you. Now just a moment."
+
+He turns and calls to the levies. "Unmake the Death of the condemned and set him free. He is pardoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Then you won't get Ris. Want to reconsider?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Then come back when you do. That's the only way I'll release your friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Well, if you change your mind, you know how much it will cost you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The official curls his lip at you. "I said I wouldn't speak to you again. Did I not say it loudly enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The overseer smirks as you approach. "Ready to do business, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Yes. Here's your [Global: a2101_ExecutionOfficialDemand] shins. Free him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>He turns back to you and bows. "There you are, sir. All taken care of. Oh! Wait!"
+
+He reaches into his robes and pulls out a smallish bundle. "And here are his personal effects, which we were going to, uh... give to the poor."
+{LOOT}</DefaultText>
+      <FemaleText>He turns back to you and bows. "There you are, ma'am. All taken care of. Oh! Wait!"
+
+He reaches into his robes and pulls out a smallish bundle. "And here are his personal effects, which we were going to, uh... give to the poor."
+{LOOT}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He turns and calls to the levies. "Unmake the Death of the condemned and set him free. He is pardoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>He turns back to you. "There. Now I'm going home..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Good day. Er, night. Er..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Tell me again what's happening here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>He casts a brief glance over his shoulder toward Ris. "The prisoner, Ris of Flatwater, is being publicly executed as a warning to all who would flout the laws of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"We are executing a prisoner, Ris of Flatwater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>He pulls his eyes away from the sky and clears his throat. "Er, the prisoner, Ris of Flatwater is being publicly executed as a warning to all who would flout the laws of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"We are executing a prisoner, Ris of Flatwater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"How does the execution work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Tell me again about the execution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What is Ris's crime?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Tell me again what Ris's crime was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>He bows slightly. "I am Yeen, Overseer of Capital Punishment, charged by the Council with organizing public executions and making sure they run smoothly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Yeen, the Overseer of Capital Punishment. I am in charge of all public executions in the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Treason. He sold state secrets to the enemies of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Selling state secrets. That's treason here in Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"If I must. The prisoner is put into a hallucinogenic state. As he speaks of his visions, his words become rotting viscera that are wrapped around his body. They gradually constrict until they kill him, and his corpse is eaten by the Devourer of Wrongs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"That's what I'm afraid of! I'm begging you. Let me speak to my father before something happens!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"It's a matter of life and death! Please, let me speak to my father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"What? You're bribing me? At a time like this?" For a moment he looks like he's going to tear into you, then he sighs. "Fine. If only to get you out of my hair. Give me [Global: a2101_ExecutionOfficialDemand] shins, and you can tell him anything you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Thank you, I'll pay it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>He snatches the shins out of your hand. "All right, all right, go on. Though you should know talking to him is pointless. He won't hear you or speak in return. Also, the touch of his 'twin' may kill you. Steer well clear of it."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"And I won't take less. Are you sure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I don't have that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Then I can't help you. Go away. Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Yes. Good. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"A few shins?" He snorts. "A few shins? Obviously you don't know how we do business in Sagus Cliffs. A few shins won't get you a civil hello. Now, if you were to offer me [Global: a2101_ExecutionOfficialDemand] shins, we might be in business." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Thank you, I'll pay it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He takes the shins and waves you on. "Most kind. Now go on, though you should know it's pointless. He won't hear you or speak in return. Also, the touch of his twin will kill you. Steer well clear of it."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"And I won't take less. Are you sure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I don't have that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>He shrugs. "Then you'd better get it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"If you change your mind, the offer stands... until the condemned is dead, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I'll take that risk, if you'll take a few shins to let me pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Let's talk shins again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Are you going to tease me again, or do you have [Global: a2101_ExecutionOfficialDemand] this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Would a few shins help you forget the rules?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Let's talk shins again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Are you going to tease me again, or do you have [Global: a2101_ExecutionOfficialDemand] this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I don't work for the city. It was a desperate attempt to deceive you and free my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>He sighs. "Honesty. At last. Good. So, now we know where we stand. You're desperate, I'm underpaid. Let's come to an agreement."
+
+He scratches his chin as he does a mental calculation. "I'd say.... [Global: a2101_ExecutionOfficialDemand] shins, and you can do what you like with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>At the Overseer's order, one of the levies takes out a device like a circular mirror and squeezes its frame. The mirror spins, flashing shards of light across the Death and the umbilical viscera it is wrapping around Ris, and all of it disintegrates. Soon Ris stands alone on the platform as reddish dust swirls away from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>At the Overseer's order, one of the levies takes out a device like a circular mirror and squeezes its frame. The mirror spins, flashing shards of light across the Death and the umbilical viscera it is wrapping around Ris, and all of it disintegrates. Soon Ris stands alone on the platform as reddish dust swirls away from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>At the Overseer's order, one of the levies takes out a device like a circular mirror and squeezes its frame. The mirror spins, flashing shards of light across the Death and the umbilical viscera it is wrapping around Ris, and all of it disintegrates. Soon Ris stands alone on the platform as reddish dust swirls away from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Fine. I don't work for the city. This was just a desperate attempt to deceive you and free my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"All right, all right. What if I just bribe you outright?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>He laughs. "Now you're talking. Let's come to an agreement."
+
+He scratches his chin as he does a mental calculation. "I'd say.... [Global: a2101_ExecutionOfficialDemand] shins, and you can do what you like with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"You said you would not release Ris. I thought some shins might change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I thought I told you to go away or I'd have you arrested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Nothing right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Script Node 191</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Script Node 192</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Once the condemned is dead, the Devourer of Wrongs will eat his corpse."
+
+He raises his chin, proud. "Thus is justice upheld in Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Script Node 194</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Script Node 195</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

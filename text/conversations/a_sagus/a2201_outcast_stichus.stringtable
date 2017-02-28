@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_outcast_stichus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Partially hidden in the trash of the dump is a strange and frightened creature. It is covered in chitin like an insect, but its shell looks thin and soft, and its small and malformed claws seem half-grown. 
+
+It stares at you from its hiding place and chitters incomprehensibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The stichus is still cowering in the trash. It watches you fearfully. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Partially hidden in the trash of the dump is a frightened stichus, though it doesn't look like the other sticha you've seen. Its chitin is thin and soft, and its claws are small and malformed. 
+
+It stares at you from its hiding place, chittering. Because of its physical deformities, you can barely understand its speech. "Don't hurt. Not tell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The stichus is still cowering in the trash. It watches you fearfully. "Not hurt. Only hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try to remember the language of the sticha. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>TRY TO REMEMBER LANGUAGE (ANAMNESIS)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Use the Tides to summon the memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>A murky memory comes to you: a small box resting between you and a patient stichus, your muscles jerking and twitching as the device translates your words and thoughts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A murky memory comes to you. You and a stichus, standing over a small device... but what is the device? What is it doing? 
+
+The memory slips away from you, spinning into the mists of amnesia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A memory comes to you, crystal clear. 
+
+You see yourself interacting with a stichus, the two of you patiently exchanging hand signals, a small box between the two of you translating your words and thoughts. Each time it conveys a thought or concept, the device sends a stimulus into the appropriate parts of your brain, and electricity into your limbs, making you a marionette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You find yourself sitting near a stichus, a tiny device between the two of you. The stichus moves, and a blast of electricity jolts through your limbs, stiffening you and frying the hair from your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>SUCCEED
+
+MAKES HARD TASK EASIER</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>ABLE TO COMMUNICATE
+
+HOW DID YOU COME HERE?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>ABLE TO COMMUNICATE
+
+WHAT ARE YOU?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>ABLE TO COMMUNICATE
+
+WHY DO YOU DIG?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You turn the Tides on yourself, burning away the accumulated detritus of the amnesia settled in your mind. Light flares within your vision, mandalas dancing before your eyes, and a host of images flickers through your true memory. 
+
+You see yourself interacting with a stichus, exchanging hand signals, a small box between you translating your words and thoughts, forcing your muscles to react.
+
+With a rush, Information pours into your mind. The smell of granite fills your nose: *knowledge*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>WHERE ARE YOU FROM?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>WHY WERE YOU EXILED?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>ATTACK STICHUS</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Attack the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"How did you get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Where are you from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Partially hidden in the trash of the dump is a frightened stichus, though it doesn't look like like the other sticha you've seen. Its chitin is weak and soft, and its claws are small and malformed. 
+
+It stares at you from its hiding place and chitters incomprehensibly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The creature makes vague motions with its claws and emits a series of clicks and wet, guttural noises. Oddly, you smell dust and lightning. Some of the sounds are reminiscent of a human with digestive trouble, but you're fairly certain it's some form of language. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>It weaves its head and clicks its claws, then pauses as if waiting for a response. The odor of ozone and stale air surrounds you. When you make no reply in its language, it shakes its head vigorously and 'says' nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A series of gurgling sounds emerges from deep inside its belly, punctuated by a concussive grunt, followed by a scent of sparks struck from rocks and metal. It isn't clear whether the stichus understood you or not.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Something about the creature's behavior is familiar, and you realize that you - or at least the Changing God - have spoken to the beasts before... not skillfully, but well enough to be understood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Calm yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The stichus watches you warily, as if confused by your actions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As the vision fades, you realize the creature's language is yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>WHAT ARE YOU?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sticha dig for food? What do you eat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Leave the stichus alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You were sent up here? By the other sticha? Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>ATTACK STICHUS</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>As that frustration rises, so too do the Tides, you feel them building inside you, undirected but potent, and it becomes clear: you can burn the true memory into your mind, and learn the language that way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You shake yourself free, shaking, with the knowledge that it was no true memory. An unreasoning anger builds in you, a deep and abiding frustration at the limitations of your human mind.
+
+{SCRIPT: Stat pool damage? Negative fettle?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What is a stichus doing up here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tell me again why you're up here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Where are the sticha from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Where did you say the sticha were from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"What are you doing in this garbage dump?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tell me again how you ended up in this garbage dump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Its clicks and scents resolve themselves into words in your head. "Tunnel live. Below. But bad claw not dig. Not eat. No home. Sticha family..." and the scent it uses is one of desolation and abandonment, a great void within the earth.
+
+"Send above ground to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Dead stichus. Still live, but dead. No more family. No more eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>It points straight down. "Tunnel. Broodmates born tunnel. Eggs not made here. Not know where from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Down. Other place. Not in tunnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Yellow-shell grub steal. Leave here." It emits a fear-scent of rotten air and underwater floods. "Not speak. Dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Yellow-shell grub take from tunnel. Drop here. Make noise. Hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>It makes a digging motion, dragging his claw against the ground, then with his other, fans his stubby talons like someone miming a bright flash. "Dig make sparks. Eat sparks. Not dig, not make spark. Not eat. Hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>It holds up its malformed claws. "Not good." It presses its shell, which bends like leather. "Soft like grub. Not strong. Not dig. Not eat. No worth. Trash. Rubble. Not even knell tunnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Safe return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A man with a yellow shell left you in Cliff's Edge? Did you mean a man with yellow skin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Its odor becomes strong, hard rock, mixed with veins of ancient metals: *intense affirmation*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"If you can't make 'sparks' to eat, why haven't you starved to death up here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>It points down the alley. "Baby brown grub feed." It shows you a heap of small electrical devices, all drained of energy. "Spark shells. Spark tubes." It points to itself, and smells of flint and steel. "Eat." Its scent is *gratitude*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"The eggs of your people were brought from somewhere else? Were they brought to Sagus Cliffs specifically to undermine it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Is the burrowing of the sticha responsible for making the houses collapse here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Its scent is of blank wall and impenetrable synth. It smells like "mystery".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>It nods and chitters. "Sticha no care grub homes break. No dig? Sticha die." It taps its chest. "Not dig. No claws. No grub home break."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Are you the 'rogue stichus' that everyone is looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>As you speak, you gesture in the direction of the square where you met Lord Vuntgen, and the stichus seems to understand. It shrinks back, raising its deformed claws as if to defend itself. It doesn't seem like it would be much of a threat to anyone. It puffs a miniscule amount of vapor from the spiracles on its head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>As you step forward, the creature senses what is about to happen, and again it cowers away from you, a pitiful whine rising from its throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He cocks his head and rests his chin on his hand. "People are *scared* of this poor creature?" He frowns unhappily. "For a rogue stichus, it doesn't seem very... roguish. And attacking it definitely doesn't seem heroic. It feels... what's the word for the opposite of that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You're going to *kill* it?" Rhin stares up at you, shocked. "It can't defend itself. Can't we just tell that lord that it's harmless?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Aligern sneers. "Stomping a bug to death. They'll sing your praises for *years*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bank 80</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Kill the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Leave the stichus alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Backed into a corner, the pitiful stichus groans frantically but raises its deformed claws to defend itself.
+
+For all its bulk, it is an empty threat. You bat its claws away and knock it to the ground. You lift your foot and drive your boot through its weakened exoskeleton, splattering its juices across the garbage heap. Its scent glands burst, filling the air with a riot of pungent chemicals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The creature's futile gestures subside, but its eyes are still wary as you back away from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Bank 85</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"*Not* heroic! That's the word. It feels very not-heroic. Villainous, maybe. Or evil. Or just... mean." He grumbles under his breath, "Definitely not heroic at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Rhin blinks away tears. "I don't understand you. I hope I never do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Aligern turns away in disgust. "Turns out I can still be disgusted by your actions. Who'd have thought?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The creature's futile gestures subside, but its eyes are still wary as you back away from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Bank 90</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Try once more to remember the language of the sticha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Can you tell me anything about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The smell of coal dust and rotting metal surrounds you, and it takes you a moment to realize that the stichus emitted the scent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[DEBUG] Kill the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Your muscles twitch in sympathy with these memories, and you realize that the stichus tongue is a jumble of scent, movement, and sounds.
+
+With the memory, information pours into your mind, as if a plug had been removed. The smell of granite fills your nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You wipe your fouled boots off in the garbage. The stichus's body is already attracting vermin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You wipe your fouled boots off in the garbage. The stichus's body is already attracting vermin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Unearth the buried knowledge of the sticha language in your mind.
+
+{GEORGE/ADAM: this is an exception to the Tidal Surge rule - the PC uses a Tidal Surge on himself to unlock his own knowledge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You turn the Tides on yourself, burning away the accumulated detritus of the amnesia settled in your mind. Light flares within your vision, mandalas dancing before your eyes, and a host of images flickers through your memory. 
+
+You see yourself interacting with a stichus, exchanging hand signals, a small box between you translating your words and thoughts, forcing your muscles to react.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>It exudes a sense of sentience as it watches you, but you sense nothing in its mind, as though it were a common animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>It exudes a sense of sentience as it watches you, but you sense nothing in its mind, as though it were a common animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Are you the stichus everyone is looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>It waves its deformed claw in affirmation. The scent of mud - sadness - wafts from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

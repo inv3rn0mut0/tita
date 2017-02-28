@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_a_hilt_without_a_blade</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Hilt Without a Blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Examine the Mesmeric Handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a power source for the Mesmeric Handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Insert the Transdimensional Power Source into the Mesmeric Handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Powered the Transdimensional Scalpel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Left the Bloom before powering the scalpel (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Inside a fleshy cyst, I found a device that resembles a hilt. It seems to be technological in nature, so perhaps there is a way to reactivate the blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>If I examine the device that I found in the cyst, I might learn how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The hilt doesn't appear to be damaged - it just needs a fully-charged power source in order to function.
+
+I found the name 'IOXU' inscribed into the surface of the hilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've found a power source in the crashed catena that appears compatible with the hilt. All that remains is to install it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Once I installed the power source, a small blade emerged from the hilt, composed of pure transdimensional energy. It appears that this device is a transdimensional scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I awakened in the Labyrinth when the Resonance Chamber was activated. I don't know when or if I'll be returning to the Bloom, so it looks like this device will never be activated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The device requires a transdimensional power source... something that harnesses the energy of singularities or parallel universes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The varjellen nano, Ioxu, claims that he made the device as a scalpel to cut through Bloom-flesh. He suggested that the crashed catena in Little Nihliesh may contain a power source that I can use to reactivate the blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

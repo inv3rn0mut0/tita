@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_artaglio_standard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A battered standard lines the edge of the murden chief's nest, covered in his filth. Its cloth is torn and ragged, but it remains largely intact. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Take the standard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Carefully disentangling the standard from the refuse in the murden chief's nest, you pull it free of the twigs, murden feathers, rotten flesh, and assorted bones and scraps without damaging it much further. The smell trapped within its folds would make an aneen gag. You fold up the standard and place it in your pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The murden chief clacks its beak and hisses at you, waving its jagged blade menacingly. The burst of mental static from its mind is acute, and nearby, the human shell jerks into life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A battered standard lines the edge of the murden chief's nest, covered in his filth. Its cloth is torn and ragged, but it remains largely intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Do not defile our trophy, human. Taken by right, it is ours. Right of property, right of law, right of trophy. Punishments come for those who ignore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She jerks slightly and stiffens as she speaks. "Step from the nest now, human. Or suffer. Suffer as the others have suffered. Now. We warn you no more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The gathering murdens have had enough of your effrontery, and they leap to attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>But as you look more closely, you see it depicts a silver stein on a field azure, with a bar of three downward-facing triangles atop and below - just like the flag hanging outside the door of his tent. This is most definitely Artaglio's standard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>It looks like it might be the missing flag of which Artaglio spoke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The murden chief's nest is filthy, covered in molted feathers, rotten flesh, and other, less mentionable substances. You might be able to find something of value in it... if you don't mind getting your hands dirty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You've already gotten your hands dirty enough with this cesspool of a nest. You're certain there's nothing left of value within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The murden chief's nest is filthy, covered in molted feathers, rotten flesh, and other, less mentionable substances. You might be able to find something of value in it... if you don't mind getting your hands dirty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The murden chief's nest is still disturbingly filthy. Maggots crawl in and out of some of the rotting material. You might be able to find something in here if you're willing to risk the diseases that must be hiding within this mess.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Search the nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Step away from the nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Search the nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try searching the nest again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You root around in the filth, and your hands are growing slimier with each passing moment. It seems the murden chief used his nest as an all-purpose oubliette, whether for its food or its feces. Small sticks and bones poke into your skin - none breaking it, fortunately - and at last you come up with a few handfuls of shins that slipped into the nest.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The disgusting morass of feathers and filth coats your hands, and after a few moments you give up searching the nest. The smell alone is enough to make you gag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You root around in the filth, and your hands are growing slimier with each passing moment. It seems the murden chief used his nest as an all-purpose oubliette, whether for its food or its feces. Small sticks and bones poke into your skin - none breaking it, fortunately - and at last you come up with a few handfuls of shins that slipped into the nest.
+
+Just as you start to withdraw your hand, something else pokes you - something round. You pull it out along with your newfound wealth. 
+
+{MONEY}
+
+{SCRIPT: Please add a crafting item here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You plunge your hands into the mess. You're immediately rewarded... with a sliver that slides right under your fingernail. You pull your hands free and extract the sliver.
+
+It's coated with some disgusting mess... that is, except for the part of the sliver that's totally clean. That's the part that was under your skin.
+
+You don't feel very good.
+
+{SCRIPT: Confer Diseased Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

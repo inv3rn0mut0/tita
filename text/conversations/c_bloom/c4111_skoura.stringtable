@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_skoura</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[A woman paces restlessly here, clutching a small object to her chest. Utterly hideous, her face appears to have melted. You can't tell if her mouth is simply enormous, or just appears that way due to being the only part of her face left untouched.
+
+The old woman hears your approach, and turns and asks if you could help her. She offers her most prized possession as compensation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bank 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Skoura's head tilts as you draw near. She once again asks for your help.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ask her what she wants.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ask more about her prized possession.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[She tells you that prior to her current condition she was researching the Iron Wind. Unfortunately, an accident occurred and she became as you now see her. While she has adapted somewhat to her condition, she finds that her research is greatly inhibited by her lack of sight, and she will handsomely reward anyone who can restore her vision.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[She holds up the object she's always clutching. It appears to be a large jar filled with swirling black things too small to make out. She says that it's a captured bit of the Iron Wind.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Agree to help her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Skoura thanks you profusely, and wishes you good fortune.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Skoura asks if you've found a way to restore her sight.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Give her Obervich's eye.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Skoura cackles with excitement as you place the eye in the middle of her face. You're not sure what's worse, the sound the eye makes as it burrows into her flesh or Skoura's frantic screams as it happens.
+
+Aghast, by the time you decide to forcefully remove the eye Skoura stops screaming and stands erect, the new eye moving about naturally. At least, as natural as a single centered eye in an otherwise melted face can be.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[It takes Skoura several seconds to stop looking around at everything in wonder. When she once again remembers your presence, she thanks you tearfully and hands you the jar, mutter that she's glad to be rid of the thing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Skoura greets you with a wink.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

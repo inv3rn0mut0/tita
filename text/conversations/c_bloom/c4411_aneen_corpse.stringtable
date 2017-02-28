@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_aneen_corpse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A small trickle of putrefaction leaks from the aneen's cloaca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cut a couple slices of meat from the aneen's corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the corpse alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The meat, softened by time and the warm air of the Gullet, peels away from the aneen's corpse almost as soon as you begin to cut. The smell that rises suggests that you might want to get rid of the meat quickly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[It's a pretty gruesome scene with the corpuscular maw doing some pretty horrible things to the remains of the corpse. It's a bit hard to watch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[It appears the corpuscular maw is quite enthusiastic over that aneen meat. You carve out a portion of the meat yourself to save for a later time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Either it was the smell or the visual of the corpuscular maw ripping into the aneen like a fat kid breaking open a pinnata, but you vomit at the sight of the horrific scene. It's just too much to watch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Cut open the aneen's stomach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The creature's viscera spills out as you touch the blade to its belly, a steaming pile of entrails full of half-digested food, acids, and a stench that beggars description. You also find an improbably clean device. You shake the last residue from it and slip it into your pouch.
+
+{SCRIPT: add a new cypher}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The corpse of this tall beast is only now just starting to decay. Though it's covered in the juices of the Bloom, it doesn't look as though it has started to break down. Something has been chewing at pieces of it, but for the most part, the aneen's corpse remains intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Something catches your eye. The aneen's belly is distended beyond the bounds of normal gaseous bloat. Perhaps it ate something that didn't agree with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

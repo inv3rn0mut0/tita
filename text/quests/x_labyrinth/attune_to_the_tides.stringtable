@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\attune_to_the_tides</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Attune to the Tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mentally link with each of the 5 creatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Eject a Sorrow fragment from one of the control panels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mentally link with the creature near the recently-restored control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eject a Sorrow fragment from another control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mentally link with the creature near the recently-restored control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Link with the remaining creatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Complete attunement by touching the glowing crystal at the rear of the platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Attunement completed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Specter tells me I need attune to a force called the Tides. The tanks in this place allow me to mentally link to the creatures inside, each representing one of the five Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>By interacting with the tanks containing them, I can venture into the mind of each creature. Once connected, the Specter says I'll need to help the creature resolve a simulated situation - but that I should choose the path *I* prefer, not what I think think the creature prefers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>After completing my interaction with one creature, Sorrow fragments have infested the remaining control panels that allow me to form that mental link. The Specter or I will need to force them out before I can link with a creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>With the Sorrow fragment driven out, I can now continue attunement by linking with the nearby creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Sorrow fragments continue to hinder my attempts to link to the remaining creatures. The Specter or I will need to drive another out of a control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Once again, a creature has been cleared of the Sorrow's influence. I can now form a mental link with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>With all of the Sorrow fragments now chasing the Specter and me, there's nothing to stop me from forming a mental link with the remaining creatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Somehow my actions have activated a glowing crystal placed at the back of the platform. The Specter says I just need to get to it to complete the attunement process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>As I laid my hand on the glimmering crystal, I was pulled into it in a flash of white light.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

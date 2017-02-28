@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_locked_grate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The thick metal grate bars your passage. The water that rushes through it splashes over your feet. Worse, there's a heavy chain keeping the grate closed. Worse still, there's a sturdy-looking lock on the end of that chain, water splashing it across its surface. The lock's just within reach, though...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Smash the grate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Use the ice artifact to freeze the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Try to reach the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Walk away to consider my options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Try to use the lockpick I found in the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You easily slip your fingers into through the grate and snag the lock and chain. Though there's a brief moment where you fear the water might tear the chain from your hand, you manage to keep your grasp on it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Keeping a firm grasp on the lock, you insert the mechanical lockpick, and you can feel it whir and click under your rapidly-freezing fingers as it works its charms. Then the lock pops open and the chain slthers out of the grate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>In your mind, you conjure the thought of iced-over rivers, flames turning brittle, icicles pluming into great glaciers, and the water pouring through the lock freezes solid.
+
+The lock is frozen. There's no way to get to the mechanism. Now what?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Try to use the ice artifact to *unfreeze* the lock.
+
+{ADAM: I just added 2 xp here. Needs to be DP. Please change as necessary}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try to use the lockpick I found in the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The mechanism cannot turn. Perhaps it's the ice covering it?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You call up the memory of freezing cold, of bitter ice, of the savage chill of your fall, and then you pull that memory back inside yourself, replacing it with warm breezes, blast furnaces, the heat of the sun above. The lock's mechanisms, overcome by the rapid and extreme fluctuations, pops open, its remains scattered around your feet. The water washes them away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The thoughts of ice still pervade your mind, and you are unable to reverse your esotery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The passage stands open before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Try to pick the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You throw your weight into the grate, and it shivers at your strength. You can feel it has become loosened from its mooring, and so you do it again... and one more time. The grate bounces from its hinges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You throw your weight into it, but your weight just doesn't seem to be enough. You bounce off the grate with little more than a bruised shoulder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You actually manage to get your hands around it for a brief moment, but then the freezing water tears it from your hands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Though the cold water numbs your fingers, you managed to finesse the lock well enough. It pops open and the chain spools into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The cold water numbs your fingers, and you are unable to master this lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Smash the frozen lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The ice has weakened the structural integrity of the grate, and it cannot withstand your strength. You throw your shoulder into it, and the grate shatters underneath it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

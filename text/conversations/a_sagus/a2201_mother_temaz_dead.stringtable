@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_mother_temaz_dead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mother Temaz is gone. Her fate is not a mystery. Over the edge of the cliff, you see the ruins of her house, and the streaks of bloody fingers, scrabbling at the rock. She fell into the distant sea, along with her home. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>In a little stone cistern on the broken roof, you find a long string of strange-looking beads - the same beads that Mother Temaz was clutching in her hands when you last saw her. You pocket them and step away from the edge. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You take a look around the ruins of this house, but find nothing else worth salvaging. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Peering over the edge of the cliff, you see the ruins of a house, and the streaks of bloody fingers, scrabbling at the rock. Whoever lived here fell into the distant sea with their home. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The ruins of the cliffside house lie below you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It is possible, however, that they left some of their valuables behind. And they are certainly not coming back for them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>It is possible that the midwife left some of her valuables behind, and she is certainly not coming back for them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>In a little stone cistern on the broken roof, you find a long string of strange-looking beads. You pocket them and step away from the edge. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Script Node 11</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

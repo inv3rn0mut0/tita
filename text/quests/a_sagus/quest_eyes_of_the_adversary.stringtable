@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_eyes_of_the_adversary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eyes of the Adversary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search the Fifth Eye for any signs of an Adversary's presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Confront the Adversary that calls itself Malaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Dhama.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defeated Malaise Myself</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Destroyed Malaise With The Help of the Psychic Warriors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Malaise Defeated, Dhama Killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ask Dhama about the stranger in the corner of the bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Inform Dhama that I've detected an Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Deal with the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Deal with the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Left Sagus Before Completing Quest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Party rested, Warriors Fought Malaise alone, Dhama Killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A potentially dangerous entity may be lurking in the Fifth Eye tavern. Dhama of the Bloom called this entity an Adversary, a mind-eater. These malign beings were defeated in a psychic war by Dhama and his friends, but he believes that a single Adversary survived. He asked me to help him find and confront his old enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dhama thinks that the Adversary is somewhere close, watching him and his friends. That means it's somewhere in the Fifth Eye, but it must be concealing itself from them. If I encounter anything suspicious, I should tell Dhama at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Having discovered and identified an entity in the Fifth Eye that calls itself Malaise as one of the Adversaries Dhama warned me about, I've convinced Dhama to let me attempt to take the creature on alone. He strongly advises against it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I faced Malaise in a psychic game and defeated the creature. It tried to absorb me into itself, but I was able to resist, and I forced it back into whatever reality it came from. Dhama will be happy to hear that his nemesis is gone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I confronted and defeated the entity known as Malaise, banishing it from this world. Dhama was highly impressed and extremely grateful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I joined the psychic warriors in a battle against the Adversary known as Malaise. We destroyed the creature, and the Fifth Eye is now safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I joined the psychic warriors in a battle against the Adversary known as Malaise. Unfortunately, I was nearly killed and blacked out. I awoke in the Fifth Eye to find that Dhama of the Bloom had sacrificed his life to defeat the Adversary. Despite the loss of their leader, the other psychic warriors were grateful for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've encountered an odd being in the corner of the Fifth Eye that I swear wasn't there a moment ago. Maybe one of the other patrons will know more about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I've discovered a presence in the Fifth Eye that none of the other patrons seem to detect. This must be the Adversary that Dhama was talking about. I should let him know that it is lurking nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I told Dhama about Malaise, the stranger who appeared in the Fifth Eye, and Dhama became frightened. He knows Malaise is an Adversary, but he can't detect the creature on his own. He wants my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I told Dhama about Malaise, a stranger I could I only see after I drank the black ichor at the bar. Dhama is sure that Malaise is an Adversary, but he can't detect the creature on his own. He wants my help to defeat it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I've left Sagus Cliffs and don't know that I'll be returning. The psychic warriors will have to find and deal with the Adversary on their own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I've left Sagus Cliffs and doubt I'll return soon. The Adversary has been dealt with, but I didn't get a chance to inform Dhama before leaving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>While I was otherwise occupied, the psychic warriors fought Malaise without aid. Though they ultimately defeated their nemesis, the victory was not without cost. Dhama sacrificed himself in the battle, and died a true hero.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I can return to Dhama at any time if I decide you want help from the psychic warriors... but once I start the battle with the Adversary, I'm committed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I insisted upon confronting Malaise on my own. Dhama cautioned me against this and offered to assist, since he and his friends have faced these creatures before. If I change my mind, I need only ask him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dhama told me that ghostly woman I encountered is not the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Dhama hinted that Ysg is more than he seems, but he is not the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Dhama confirmed that Ysg, the man trapped in the form of an abykos, is not the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Dhama was at a loss to describe what O *is*, but the strange entity is definitely not an Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Dhama was certain that Almas is not the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Dhama got a good laugh out of my notion that Clarion might be the Adversary. She's just an ordinary human.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Dhama seemed to be familiar with Sir Arthour, and he assured me that Arthour isn't the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

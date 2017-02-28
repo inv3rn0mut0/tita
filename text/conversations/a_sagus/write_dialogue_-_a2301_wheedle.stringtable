@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\write dialogue - a2301_wheedle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>He's a young man with a bruised cheek and a number of nasty-looking daggers tucked into sheathes along his belt. Despite his rough appearance, he nods at you with weary good humor. 
+
+"You the one sent the letter?" Then, his eyes find your tattoo. "Ah, never mind. Your kind don't usually work as couriers, do you."
+{SCRIPT: This guy needs a speaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Grinning, he shakes his head at the sight of you. 
+
+"You're back! No offense, but we don't get your kind down here, not for any length of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Who are you waiting for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What do you mean, 'my kind'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Have you seen a woman named Matkina down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Yeah, take care."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You know," he says, shrugging. "Castoffs. Godlings. Children of the Changing God."
+
+He shakes his head. "Can't be easy, living in *that* shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Name's Wheedle. I work for Fulsome, the man who runs things down here. He has us patrol the place, keep an ear out for problems."
+
+He spreads his hands. "And that's why we're chatting. Someone sent me a letter to meet them here. No sight of them, yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"No idea. Letter was unsigned, but that's common. People don't like others knowing they got problems. Makes them seem weak, you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Looking for the White Death?" He whistles. "Hope you got a good reason. And sure, she comes down here all the time, but I haven't seen her for a few days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I wish I knew. Guess I'll find out when they show up."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

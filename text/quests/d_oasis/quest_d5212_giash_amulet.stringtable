@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\d_oasis\quest_d5212_giash_amulet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Giash Amulet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Get the Amulet from Omis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Talk to Omis outside the Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Collect the Amulet from Thom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Got the Amulet from Omis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Got the Amulet from Thom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>One of the artifacts Mazzof needs is the Amulet of Scorgil, which is currently worn by Omis, the head of the ruling Giash and elder of M'ra Jolios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I have to find a way to get the Amulet from Omis. I suspect this won't be easy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>While I was in Thom's body, I convinced Omis that the Last Castoff (me) needs the Amulet more than the Giash. I should talk to Omis again in my own body to see if he really changed his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>While I was in Thom's body, I was able to get the Amulet from Omis. Thom has it now, so I just need to get it from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>With a little Merecaster magic, I was able to convince Omis to give me the Amulet. That's one more artifact for Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>While I was in Thom's body, I was able to get the Amulet from Omis. Then I just gave it to myself... sort of.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I tried the direct route, but Omis refused. Looks like I'll have to either steal it or find some way to convince him that I need it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Thom, another member of the Giash, is a castoff! Maybe he will help me get the Amulet from Omis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>While in Thom's Mere, I left the Amulet in a hidden container in the Giash Chamber. All I need to do is collect it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I talked to Thom, and he says he wants to help, but he doesn't know how he can convince Omis to part with the Giash's most important artifact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>With a little Merecaster magic, I was able to convince Omis to give me the Amulet. That's one more artifact for Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>While I was in Thom's body, I was able to get the Amulet from Omis. Then I just gave it to myself... sort of.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

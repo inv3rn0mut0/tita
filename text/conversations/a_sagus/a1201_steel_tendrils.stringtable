@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_steel_tendrils</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A tangled cluster of metallic tendrils grows from the depths of the nearby water. Strangely, they resemble clawed, alien hands, most of which have seven or eight fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The 'hands' of this plantlike growth tinkle gently against one another. They have more fingers than a human hand - you count seven or eight digits on most of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Break off one of the hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You grip the hand nearest to you and snap it from its roots. 
+
+Stepping back, you give it a couple experimental swings. Good balance - it might make a decent weapon. 
+
+{LOOT}
+{SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You grab hold of one of the wrists and pull with all your strength, but the stem is stronger than it looks. Hidden layers of thin, incredibly sharp spines - some sort of defense mechanism - emerge from the metallic surface and pierce your flesh, burrowing into the meat beneath. 
+
+The pain quickly subsides, replaced by a numb but oddly pleasant sensation. You feel an icy liquid flowing - hardening - over the bones and tendons of your arm. When you clench your fist, veins of steel shine through the bloody skin. 
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You grip the hand nearest to you and pull. It rips free from its roots easily.
+
+You give it a couple experimental swings. Good balance - it might make a decent weapon. 
+
+{LOOT}
+{SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You grab hold of one of the wrists and pull with all your strength, but the 'stem' is stronger than it looks. Hidden layers of thin, incredibly sharp spines - some sort of defense mechanism - emerge from the metallic surface and tear open your flesh, burrowing into the meat beneath.
+
+The throbbing pain subsides slowly, replaced by a numb but oddly pleasant sensation. You feel an icy liquid flowing - hardening - over the bones and tendons of your arm. When you clench your fist, veins of steel shine through the bloody skin. 
+
+{DAMAGE - More?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText> Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You try to lean around the nearest palm and notice that it innocently moves with you, as if guided by a wind that's not there. You feint right and go left instead, just in time to see what the hand was trying to hide. 
+
+One of the lower hands is passing a small, silvery object - a seed pod - to another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>None of the hands are trying to pass seed pods around anymore. They've likely hidden them from you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The 'hands' sway softly, but their movements are difficult to follow. Watching them for too long makes you feel nauseous. 
+
+Apart from the 'hands' themselves, you don't notice anything of interest in the cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Examine the cluster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Examine the cluster again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Walk away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It appears you've made an enemy. Congratulations, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You aren't happy unless you're breaking things, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Script Node 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You wrap your hands around one of the wrists and pull with all your strength. 
+
+Eventually, gasping, you give up. The tendrils seem thicker and stronger now, as if they fortified themselves against you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Try pulling another hand out of the cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Try to grab the seed pod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You wait for an opening, then snatch the pod as it passes from one hand to another. Immediately a wave of outrage washes over you from the cluster's direction.   
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You try to snatch the seed pod, but the hands somehow detect the motion. The seed pod is swept away by other hands before you can get to it.
+
+You don't see any other seed pods after it. It seems the hands have learned not to trust you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

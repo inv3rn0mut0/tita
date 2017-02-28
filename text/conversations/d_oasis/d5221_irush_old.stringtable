@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5221_irush_OLD</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText> Follow-up T. 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A dark-complected ghibra meditates among the graves, her robes swaying around her like translucent black fins. It takes her a long time to notice you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You find Ir'ush once again in contemplation, and once again it takes her a moment to notice your presence, but when she does, she smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oh. Forgive me. I did not see you there. Welcome to the Oblevis Reef. My name is Ir'ush. I am one of the curators here. Have you come to see our history? Or perhaps search for an ancestor among the graves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ah, friends, I see you received the gills from Nieto. I hope you are enjoying the freedom they allow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Your long-time admirer sends you his warmest regards."
+
+{SCRIPT: Plays only if PC knows Ir'ush's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Thank you for your time. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ir'ush smiles warmly. "How sweet of him. Please return my affections to him, and tell him I will send him a thank you gift at my earliest convenience. 
+
+{SCRIPT: Set flag that player has contacted Ir'ush.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Farewell, outsider. And good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Who you are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"No one of any great importance. I am a widow, and come here to tend the graves as a way to pass the time. I find it very peaceful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No one, really. Just a widow with too much time on my hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tell me about this place again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"The Oblevis Reef is the cemetery of M'ra Jolios. It began as a memorial to all those who died when the Oasis was formed, but has become the resting place of all who die within our waters. It therefore contains the graves from before and after the great flood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"The Oblevis Reef was a memorial to all those who died when the Oasis was formed, but is now the cemetery for all who die within our waters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bank 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>What are you doing here again?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I was praying. A plea to Ny'kul that there would be no new graves built here in the near future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I was praying for peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You didn't say all you wanted to before. Tell me more about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"There isn't much more to tell. I am a Reef Curator and a widow, and I work for peace."
+
+"You see, my husband died many years ago during another surge in Jerboan unrest, and his death inspired me to work for a peaceful resolution to the conflict and an end to the unfair devide between water and air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I am a Reef Curator and a widow, and I work for peace. My husband's death inspired me to work for a peaceful resolution to the conflict between the Jerboans and the ghibra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Thank you for helping us."
+
+{SCRIPT: Plays only if Ir'ush has helped PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"My pleasure. I am always happy to help friends acquire open access to our waters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Which is why I help outsiders enter the Oasis, because I feel there should be no barrier between us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bank 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"How do you feel about the unrest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"How do you feel about the unrest again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"How do you think the crisis should be resolved?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tell me again how you think the crisis should be resolved?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What do you think the Giash should do with ththe saboteurs who destroyed the building?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tell me again what the Giash should do with the saboteurs?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Is your relationship with Nieto purely professional?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Thanks again. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I fear it will bring death before it brings justice, and I dread it. I stand firmly with the Jerboans in their fight for equality, but their impatience and the Giash's intransigence are on a collision course that will result in nothing but tragedy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I stand firmly with the Jerboans in their fight for equality, but their impatience and the Giash's intransigence are on a collision course that will result in nothing but tragedy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Bank 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"It is the Giash who make our laws, so the change must come from them. If only one of them had the courage to speak up about the Jerboans' true value to our society, they might stop talking about how to stop the air-breathers and instead start talking about how to include them."
+
+{ADAM: This should have reactivity in the Giash Mere!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Perhaps if one of the Giash had the courage to speak up about the Jerboans' true value to our society, they might stop talking about how to stop the air-breathers and instead start talking about how to include them."
+
+{ADAM: This should have reactivity in the Giash Mere!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I have other questions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ask them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I am not so openhearted that I believe they shouldn't be punished. But the Giash is once again blaming an entire community for the actions of a few."
+
+"If they must punish the wrongdoers, then they must. But if they were to see reason and give the Jerboans the equality they deserve, then no more buildings would fall, and no more would die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Punish them if they must, but do not punish all Jerboans for the actions of a few. Equality for Jerboans will bring the peace that punishment will not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>How can I can influence their decision?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Can you help me free Mazzof from the Menagerie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I'm afraid I don't know this person. I am sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>{Check if PC is female}
+
+"We like each other very much, and look forward to the day when air and water are not a barrier between us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I'm afraid that is none of your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Thanks again. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Bank 91</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"There is history here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Explain again about the history in this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Bank 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I might find people I know buried here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Tell me again how to find people who are buried here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Bank 97</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Oh, yes. Much can be learned of our past by reading the epitaphs enscribed on the graves. Wars, plagues, famines, all are reflected here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Our past is written in the epitaphs enscribed upon the graves. Wars, plagues, famines, all are reflected here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Bank 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It is very possible. Many are buried here from the days of the great flood, and even before - both ghibra and Human. Ask the other Reef Curators. If you have a name, they can tell you if it is here and where to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"If you have a name, give it to the other Reef Curators. They can tell you if it is on their list and where to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Are you afraid there will be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I had some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Please. Ask them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"The recent unrest worries me. I fear there will be violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"How do you feel about the unrest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'm sorry. I don't wish to discuss it. Only that I hope it ends before someone gets hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You husband was killed by the Jerboans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Yes. He was a guard outside the Giash Chamber. There was a riot. The Jerboans beat him to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"And now you're on their side? I'm surprised you don't hate them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"For a long time I did. But then I realized that the Jerboans were not to blame. The conflict itself was to blame, and the conflict stemmed from the unfair treatment of the Jerboans by the ghibra."
+
+"The Jerboans have done an equal share of the work in making this place the prosperous paradise it has become, and yet they are denied most of its benefits. We have no reason to keep them other than selfishness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I cannot stand by and let others die as my husband did, in the name of something as worthless as selfishness."
+
+"This must end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Bank 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"How can the Jerboans help their cause?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Tell me again how you think the Jerboans could help their cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Bank 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"The Jerboans shout often about their rights and how they are no different than us, but the Giash are, at their core, merchants. All they understand is value. If the Jerboans could prove their value to the Giash, then the Giash might finally see them as equals."
+
+"Pehaps if the Jerboans stayed home one day, did none of the work that allows us to receive tourists and necessary goods from the outside world, then we within the Oasis would see them as the other half of a balanced equasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"The Giash are, at their core, merchants. All they understand is value. If the Jerboans could prove their value to the Giash, pehaps by staying home and doing none of the work that allows us to receive tourists and necessary goods from the outside world, then they would finally see them as the other half of a balanced equation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Not unless you could find a way to speak in their chamber, and that is impossible. No air-breather is allowed to speak there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Welcome back friend. How may I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Welcome back, friends. And you are without a guide this time. I am happy to see it."
+
+{SCRIPT: Plays if PC is without a guide, but did not get gills from Nieto, and was with a guide the last time they visited Ir'ush.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I had some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Please. Ask them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I feel that we ghibra have brought it upon ourselves, and it is up to us to bring it to a peaceful end."
+{SCRIPT: Plays if PC does not have a guide.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText> Follow-up PQ. 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Who are you?"
+
+{SCRIPT: Plays if PC not is accompanied by a guide but has spoken to Nieto about Irush and has not met her before.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Who are you again?"
+
+{SCRIPT: Plays if PC not is accompanied by a guide and has not been with a guide in Ir'ush's presence before.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"The difficulty is that we ghibra are blind to what the Jerboans have given us. We believe ourselves perfect beings, little water-born godlets almost, who exist to dispense wisdom and largess to the lesser races, but who require none of our own. They cannot see - they *refuse* to see - how much better our life is now with the Jerboans working for our security and prosperity outside our heavenly little bubble."
+
+"Pehaps if the Jerboans stayed home one day and did none of the work that allows us to receive our tourists and necessary goods from the outside world, then we would see them as the other half of a balanced equasion, rather than charity cases who we helped from the gutter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Bank 139</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>You notice that Ir'ush's gills have turned pink at the edges, which is the ghibra equivalent of blushing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Do I take it that you have feelings for this admirer?"
+
+{SCRIPT: Only play if Node 140 has played}
+{SCRIPT: Only play if guide is with party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"You're blushing. Does that mean you have feelings for Nieto?"
+
+{SCRIPT: Only play if Node 140 has played}
+{SCRIPT: Only play if guide is not with party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"You are too inquisitive, sir. My private life is my own."
+
+{SCRIPT: If PC is male}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"You have very keen powers of observation, madam. Though my reasons for blushing shall remain my own."
+
+She lowers her eyes. "But, er, what were your impressions of Master Nieto?"
+
+{SCRIPT: If PC is female}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I thought he was a charming old rogue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"He seemed too obsequious by half."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"He seemed to have a true heart behind his merchant's smile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I see. Thank you for your honest opinion."
+
+She smiles again. "Can I help you further?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"There is much wisdom to what you say. Equal effort should earn equal reward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"The beauty of this place would be overrun if you let too many people in. Don't let sentiment destroy it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Extending the privilege of living in the Oasis only to the Jerboans is unfair. Everyone in the Ninth World should be allowed to live surrounded by such beauty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What an interesting conclusion to come to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"What violence is this?"
+
+{SCRIPT: Only plays if guide is with party}
+{SCRIPT: Only plays if Node 106 has played.}
+{SCRIPT:  Only plays if PC has not witnessed the protest or heard about the destroyed building.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"What violence is this?"
+
+{SCRIPT: Only plays if guide is not with party}
+{SCRIPT: Only plays if Node 106 has played.}
+{SCRIPT:  Only plays if PC has not witnessed the protest or heard about the destroyed building.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Are you concerned about Jerboans killing ghibra, or ghibra killing Jerboans?"
+
+{SCRIPT: Only plays if guide is with party}
+{SCRIPT: Only plays if Node 106 has played.}
+{SCRIPT:  Only plays if PC has witnessed the protest or heard about the destroyed building.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Are you concerned about Jerboans killing ghibra, or ghibra killing Jerboans?"
+
+{SCRIPT: Only plays if guide is not with party}
+{SCRIPT: Only plays if Node 106 has played.}
+{SCRIPT:  Only plays if PC has witnessed the protest or heard about the destroyed building.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Ir'ush's eyes flick to your guide, then away. "If you know nothing of it, then I will spare you. What else can I help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Jerboan extremists destroyed a building here in the Oasis. They are also protesting outside the Giash Chamber. It's the old troubles all over again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Ir'ush's eyes flick to your guide, then away. "My concerns are no concern of yours. What else can I help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I am concerned with anyone killing anyone. This conflict must be settled peacefully, and for good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Bank 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

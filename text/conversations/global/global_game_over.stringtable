@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\global\global_game_over</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>201</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Most of your body is splattered across the ground.  Your sole legacy to the world is a small crater near Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Your life and your legacy are no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>kongradulayshunz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You linger on for far too long, your flesh and bones a mockery of what you once were. Your mind, though misshapen by the Iron Wind, holds sense enough to churn with shame at what you have become.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Your newborn consciousness has been snuffed out by the Sorrow before your life even began.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>When the light fades, you are utterly gone, burnt to an ash too fine to be seen amidst the drit of the Ninth World. For a time, your tale lingers as a lesson in foolhardiness, but, alas, even among the reckless you prove unremarkable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>There is a thing that endures, twisted and knotted from Castoff flesh. The Iron Wind has made a puzzle from you, one that asks who was the greater fool: Erritis for unleashing the Wind, or you for letting him?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your legacy is to bestow your body to the Adversary. Your flesh shuffles on in service of that dark will, but the deeds left in its wake are not yours, for *you* are utterly gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You are your own legacy, tortured on the rack of your own choices, eternally. Those who hear your howls delight in them, learning nothing but the savor of another's suffering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your consciousness can find no escape from the fields of pain that lie beyond the Endless Gate. Your mind remains, suffering among the suffering, in a sentence that spans beyond measure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You yield your body up to the Specter, and your flesh falls from your mind like a burden laid aside. What comes after is not your legacy - you are no more than the one who stood aside. But the vessel that remains is famed far and wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Your hunter has at last hounded you down and put an end to the pursuit that began before you even awoke. For you, all is over, but for your foe, there is merely a new quarry to be slain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Your ruined remains serve as a useful object lesson that there are men of means before whose might even castoffs must yield, giving way to privileged wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Your hunter has at last hounded you down and put an end to the pursuit that began before you even awoke. For you, all is over, but for your foe, there is merely a new quarry to be slain.
+
+{SCRIPT: The Sorrow kills the PC in Crisis 4-3. Could be merged with Node 12 using an OR conditional if that's your preference; text is the same}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>At a stroke, the Sorrow has undone all the deeds - both good and bad - that were your work since you awoke in the Reef of Fallen Worlds. You are erased and unwritten, a non-life with a null legacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>With nobody left to stand in his way, the Specter opened the cage and drew all castoffs unto himself - including you.
+
+You may have been *you* once, but now you are just a piece of him. So it goes. All is change, a whirling transformation of one thing to the next, agglomerations and dissolutions unto infinity, a world without beginning or end. It is only you who have stopped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It is vanity for the finite and mortal to stand against the eternal, a mad striving that both birthed your kind and brought your end. Still, it is upon such vanity that humanity's legacy has been built, and ripples of your deeds spread ever outward upon the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your deed spreads across the world with the impact of an asteroid, working wanton destruction and irrevocable transformation alike. Your kind endures, mortal but free from the Sorrow's long shadow. Others pay a price in madness. This new world, one both brighter and darker than before your birth, is your legacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>This is how it ends: in futility. Your short life spent in frantic flight that never reached escape velocity, dragged down till your last strength was turned against targets whose destruction brought no victory. You fell before, but rose again. This time, there will be no return.
+
+{SCRIPT: Destroyed the fragments and died.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Although you have fallen, the Specter defeated the First in your stead. With no one left to challenge him, he opened the cage and drew all castoffs unto himself.
+
+You may have been *you* once, but now you are just a piece of him. So it goes. All is change, a whirling transformation of one thing to the next, agglomerations and dissolutions unto infinity, a world without beginning or end. It is only you who have stopped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>With you down, and the Specter weakened, the First has little trouble removing the penultimate threat to the castoffs' continued existence. Soon after, the Labyrinth's hold on the castoffs dissolves, and each one returns to their own body - their own life.
+
+Until the Sorrow comes for them again, as it eventually must.
+
+{SCRIPT: This is a B-priority ending. The EndGame_BroadCrisisState flag setting is still TBD.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>With the Labyrinth sealed, the castoffs of the Changing God returned to their lives, great and small, well aware that they lived in the Sorrow's shadow. 
+
+True to its word, the Sorrow came for them in time, one by one, and tore them from the fabric of the world. But for a short time, at least, they were able to live out their lives in peace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The daughter of the Changing God set out into the world he had, without knowing, made for her. She traveled in the body that had once belonged to the Last Castoff - and with a mind forged by sacrifice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The absence of the castoffs changed the Ninth World. Sometimes for the better, often for the worse. For the castoffs were powerful, and seats of power do not remain empty - or uncontested - for long. 
+
+And yet, they were never seen again. Their minds dwelled on in dull, insensate darkness, trapped in a singular mind for eternity - or near enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The Bloom held many dangers, but none that were the equal of the White Death. True to her word, Matkina took control of the Bloom, and with the wisdom and experience of the castoffs to draw on, she ruled well for a time.
+
+But nothing lasts forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>True to her word, the First Castoff sought - and fought - to make the world a better place. She largely avoided the mistakes of the Changing God, and she honored the sacrifices of her siblings by mending the damage they had done... and helping, whenever possible, the ones they had left behind. 
+
+But the First was no perfect being, no goddess, and she made mistakes of her own. Mistakes that rippled out into the world, causing new havoc, new heartache - and much of it, her own. But that is another story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The absence of the castoffs changed the Ninth World. Sometimes for the better, often for the worse. For the castoffs were powerful, and seats of power do not remain empty - or uncontested - for long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Thousands lost their minds in Sagus and the surrounding lands. The unaffected struggled to go on with their lives while madness plagued the countryside. It prowled the alleys and hollows of the place like the predator the Sorrow had been.
+
+Meanwhile, the castoffs - mortal, yet still very long-lived - carried on as they always had, bickering, fighting, and hiding, in a vast and ever-growing shadow. As the decades passed, they felt the Tides stir and strengthen. They turned their attentions from each other and guarded their lives like precious treasure, walling themselves off from the world, increasingly terrified that their hunter might someday return...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>
+
+You were remembered for your thoughtfulness and your passion, your logic and your actions. Tales of your life inspired poets and philosophers to create great works that lasted centuries... and beyond. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>
+
+Future leaders admired you for your wisdom and sense of justice. Tales of your existence led to better lives for the citizens of Sagus Cliffs, the Bloom, and beyond. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>
+
+You were remembered for your wisdom and selflessness. For many years to come, tales of your life inspired healers to know themselves. To better themselves, and to make the world a better place. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You were remembered for your curiosity, your insight, and the impact you left on the world in your time upon it. For many years to come, Aeon Priests hungry to make a name for themselves studied your every decision in hopes of emulating your victories... and avoiding your failures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>
+
+You were remembered for your passion, your defiance of authority, and your sense of justice. Tales of your life inspired students, revolutionaries, and eventually... revolutions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>
+
+You were remembered for your heroism, and ultimately, your sacrifice. For years to come, tales of your life inspired the people of the Ninth World to follow in your example, and help others... even when the price was too great to bear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>
+
+You were remembered for your passionate devotion to decisive action. For many years to come, warriors and renowned mercenaries went into battle with tales of your life ringing in their ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>
+
+You were remembered for your selfless championing of the greater good and your unerring sense of justice. Tales of your life inspired stunning acts of philanthropy and sacrifice for many years to come. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>
+
+Politicians of every rank studied your actions in later years to learn how to claim power and hold on to it. For years to come, tales of your life inspired wise rulers... and savage tyrants. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>
+
+For many years, your name was synonymous with empathy and power. Tales of your life inspired future rulers of the Ninth World to use their power in service of their subjects.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>
+
+You were remembered for your curiosity, your insight, and your devotion to logic. For years to come, young scholars studied your life, and emulated your approach to difficult problems. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>
+
+You were remembered for your passion and your devotion to change. For years to come, tales of your life inspired the works of painters, poets, and musicians - pieces that would long outlive them... and the Ninth World itself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>
+
+You were remembered for your sense of justice and dedication to the greater good. For years to come, tales of your life inspired lawmakers, judges, and rulers alike. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>
+
+You were remembered for your great acts of compassion and sacrifice. For years to come, tales of your life inspired the people of the Ninth World to follow the murmuring of their conscience and protect those who could not protect themselves. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>
+
+For years, your name was synonymous with influence, manipulation, and power. For years to come, tales of your rise from anonymity inspired those hoping to make a name for themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>
+
+Yours was a singular life, a careful balance of insight, passion, justice, compassion, and power. Tales of your life were told and retold for thousands of years. Heroes and villains of every era were compared to you... and always found wanting. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Aligern returned to Ormen with the frame that had brought him so much grief. One by one, he pulled his tattoos free and cast them through the black metal portal. His friends emerged on the other side, dazed and shocked by their long years of imprisonment in Aligern's mind and body.
+
+He saved his wife and daughter for last, hoping without hope that they would be unharmed.
+
+They suffered no lasting damage.
+
+Over his remaining years, Aligern learned to understand the frame and its function. Ormen became a nomadic village, carried on the body of a solitary traveler.
+
+Its people flourished, and none forgot the name of the man who showed them the new way: Aligern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Aligern sought out psychics outside the city of Sagus Cliffs. They taught him to unlock the secret code that would free his people. 
+
+He returned to Ormen with the frame. One by one, he pulled his tattoos free and cast them through the black metal portal. His friends emerged on the other side, dazed and shocked by their long years of imprisonment in Aligern's mind and body.
+
+They suffered no lasting damage.
+
+Over his remaining years, Aligern learned to understand the frame and its function. Ormen became a nomadic village, carried on the body of a solitary traveler.
+
+Its people flourished, and none forgot the name of the man who showed them the new way: Aligern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Aligern returned to the Bloom, seeking the metal frame that Orth Faung had requested. He found it at last, and his colleague told him the truth - the tattoos that Aligern had regarded as a curse were the transformed villagers of Ormen, their data carried in biological light and transplanted into his skin.
+
+Aligern discovered how he might free his family and friends from the cursed tattoos. Some of the villagers suffered permanent damage, and Aligern devoted his remaining days to caring for those he had harmed. He refused to deal with the numenera again.
+
+He was buried in Ormen. They scratched his name on the wall of the Valley of Dead Heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Aligern sought his friend Orth, but never found him. In despair, he journeyed west, through Augur Kala and into the Steadfast. None could provide him the answers he sought, and he became a dead-eyed mercenary, hurling his living tattoos with abandon.
+
+He was a haunted man. He never knew what became of his family, and he never stopped looking. On the day of his death, the tattoos he bore screamed aloud and disappeared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Callistege stayed with the Last Castoff for many years, sometimes traveling, writing books and giving lectures during brief moments of civilization. Eventually, she vanished, though none are truly sure that she is gone. In her home town of Sagus Cliffs, a chair remains vacant for her in the grand library, waiting only that she should return to share her knowledge once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Callistege became a scholar of renown, filling the grand library of Sagus and all of the libraries of the Ninth World with her treatises on multiple realities and possibility versus probability. She speaks as a woman who has lived many lifetimes more than her due, save for the life she led while with the Last Castoff. That subject remains hers and hers alone, hidden by a smile or a grimace, but forever, irrevocably, private.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Callistege eventually found a way to be free of her sisters, giving up her multiple realities for a single concrete one. The lessons taught to her by the Last Castoff gave her hope for this life over any others, and through perseverance and the memories of the time they shared, she was able to appreciate the life she had, and die, at an old age, happy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Callistege eventually found a way to be free of her sisters, giving up her multiple realities for a single concrete one. Though she thought often of the Last Castoff, the lessons she learned during their travels together brought her no comfort. Eventually, she disappeared into the wastes beyond Sagus, never to be seen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Callistege found in the datasphere a world of knowledge and delight. She and her sisters came to an understanding, unifying themselves completely. She turned her formidable intellect to understanding her new situation, creating a subtle haven from which to explore these vast worlds.
+
+What became of her after that is beyond human understanding. It is said a flame-haired angel manifests among those who remember the legends of the Last Castoff. Of what she tells them, the stories remain silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>What became of Callistege, no one knows. Occasionally, whispers of her voice appear within the datasphere, sneaking out of numenera across the world as fragmented, half-heard sentences. Of her intelligence, her personality, there is no sign. Even should the Ninth World long for her, there is no one left who remembers her name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>What became of Callistege, no one knows. Some say she wandered into the deserts around Sagus. Others say she was found dead on the streets shortly after the most recent Bloom-quake. And others still say she wanders the known world, seeking something forever beyond reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>{Merge Matkina ending already has a starting slide that says she takes over the Bloom}After consolidating power quickly and ruthlessly, Matkina declared a new era in the Bloom. Ever the cynic, she trusted no one. Like her old mentor, she kept her lieutenants at each other's throats - so they wouldn't focus on her.
+
+Ten years passed. The Bloom turned against her, as it had against all the previous rulers. She decided to run. She almost made it to M'ra Jolios when an enormous Maw swallowed both her and the sands around her.
+
+Traders now use the new Maw to move their goods from the Oasis to Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>{Merge Matkina ending already has a starting slide that says she takes over the Bloom}Matkina ruled the Bloom for only a short time - long enough to restore order in the wake of the Sorrow's destruction. She had no desire to maintain rulership of a place she hated when it would eventually devour her.
+
+She returned to Kholn Village to build a life that would honor her fallen siblings and her creator's intent. Others came to work with her in time. She discovered she had lost her taste for solitude, and welcomed their company. 
+
+She helped them build, resolved their disputes with confidence and care. She became a leader, without a single drop of blood spilled.
+
+Ten years passed. One morning, Matkina did not emerge from her home. Inside, a new Maw stretched wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>{Merge Matkina ending already has a starting slide that says she takes over the Bloom}Matkina ruled the Bloom for only a short time - long enough to restore order in the wake of the Sorrow's destruction. She had no desire to maintain rulership of a place she hated when it would eventually devour her.
+
+She returned to Kholn Village to build a life that would honor her fallen siblings and her creator's intent.
+
+Others came in time. Some were scavengers. Some thought to praise the Changing God and honor *her*. She discovered she had lost her taste for solitude and so welcomed their company. 
+
+She helped them build, resolved their disputes with confidence and care. Spilling not a drop of blood, she somehow became a leader.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Matkina sought a new outlet for her energies and talents. She didn't know how to start shedding the mantle of the White Death.
+
+She went to the Cult of the Changing God to ask them about her siblings. She remained with them for a year, telling them what she knew of the fate of her sire. Some of the cult quit in rage and grief. The others followed her back to Kholn Village. 
+
+They built a monument to her fallen creator, and a small community accreted around her. To her surprise, she found she was a natural leader, and the town of Kholn Village began to grow. For a time, she knew peace. 
+
+When the Sorrow came for her decades later, she greeted it as a friend.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Matkina assumed control of the Bloom through a lightning-fast campaign of terror and vicious assassinations, consolidating power quickly and ruthlessly.
+ 
+Upon taking the role of the Memovira, she declared a new era in the Bloom. Ever the cynic, she trusted no one. She kept her lieutenants focused on each other, and she encouraged their rivalries.
+
+Ten years passed. The Bloom turned against her, as it had against all the previous rulers. She decided to run and almost made it to M'ra Jolios.
+
+Almost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Matkina claimed the Bloom, but only long enough to restore control. She remembered its appetite, and she wanted to make a new start, to cast aside the mantle of the White Death. 
+
+She journeyed to Kholn Village. Some castoffs followed her in time, though none congregated for long - the threat of the Sorrow was too great. Ordinary humans came too, and Matkina discovered she had lost her taste for solitude. She welcomed their company. 
+
+She helped them build, resolved their disputes with confidence and care. She became a leader, without a single drop of blood spilled.
+
+Ten years passed. One morning, Matkina did not emerge from her home. Inside, a new Maw stretched wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Matkina claimed the Bloom, but only long enough to restore control. She wanted to shed the mantle of the White Death. She went to the Cult of the Changing God to talk about the histories of her siblings. She remained with them for a year, telling them what she knew of the fate of her sire. Some of the cult quit in rage and grief. Others followed her back to Kholn Village.
+
+They built a monument to her fallen creator, and a small community accreted around her. To her surprise, she found she was a natural leader, and the town of Kholn Village began to grow. Castoffs came and went. For a time, she knew peace. 
+
+When the Sorrow came for her decades later, she greeted it as a friend.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Matkina started toward M'ra Jolios. Others eventually joined her, mostly castoffs. The Oasis proved unwelcoming to such a crowd, so she traveled on and one day found herself in Kholn Village.
+
+Together, she and the other castoffs built a monument to their fallen creator. They tried to create a new community, none harder than Matkina, who had discovered a talent for leadership.
+
+But castoffs are fractious and quarrelsome. After a century of leadership, one of her foes planted a singularity detonation in her bed, obliterating her.
+
+To commemorate her efforts, the castoffs carved a remembrance in the stone walls of the village.
+
+That was eventually destroyed too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Matkina went to M'ra Jolios, but only to gather support. She returned to the Bloom later with a retinue, assuming control in a lightning-fast campaign of terror and assassinations. She consolidated power quickly, ruthlessly, ensuring that anyone who challenged her died horrifically.
+ 
+She declared a new era in the Bloom. Ever the cynic, she trusted no one. Castoff siblings sought her favor, to use the trade routes she controlled... and she repaid them by feeding them to the Bloom. At last they left her alone.
+
+Ten years passed. The Bloom turned against her, as it had against all the previous rulers. She decided to run. She almost made it out of Sagus before a Maw opened beneath her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Matkina started toward M'ra Jolios. Others eventually joined her, mostly castoffs. The Oasis proved unwelcoming to such a crowd, so she traveled on and one day found herself in Kholn Village.
+
+Together, she and the other castoffs tried to create a new community. Matkina played peacekeeper for them.
+
+But castoffs are fractious and bloody-minded in their arguments, and Matkina had had her fill of death. After nearly a decade, she left her home.
+
+Some of her siblings pursued her, hoping to gain the benefit of her hard-won wisdom. The only evidence of her passing was a fresh Maw on the stairway to Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Matkina started toward M'ra Jolios. Others eventually joined her, mostly castoffs. The Oasis proved unwelcoming to such a crowd, so she traveled on and one day found herself in Kholn Village.
+
+Together, she and the other castoffs tried to create a new community. Matkina played peacekeeper for them.
+
+But castoffs are fractious and bloody-minded in their arguments, and Matkina had had her fill of death. After several years, she left her home.
+
+Some of her siblings pursued her, hoping to gain the benefit of her hard-won wisdom... but she had vanished utterly.
+
+She is happy now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Seeking a way to atone for his part in the death of Auvigne, Tybir left Sagus and the Bloom in the company of a band of mercenaries with a noble reputation. Well, nobler than most. 
+
+Eventually, he saved enough to fund a mercenary band of his own. Comprised of idealists, selfless lunatics, poets, prostitutes, and wealthy runaways, Tybir and his tribe of Penniless Sellswords roved about the land for many, many years, protecting the innocent by picking suicidal fights with tyrants and bandits alike, all in the name of protecting the innocent. 
+
+Tybir died on the wall of a village under siege by a veritable army. And he died smiling. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Seeking a way to atone for his failures, Tybir left Sagus and the Bloom behind, and traveled to the nameless village where he and Auvigne had once broken each other's hearts. To his surprise, he found that the villagers were still there - the noble that had tried to drive them away had been killed by a large, masked man many years ago. 
+
+To his credit, Tybir did not lie to them. He told them who he was, and what he had done. And he swore to protect them until the end of his days. 
+
+He did, and the villagers forgave him in time. Later, they respected him. And when he died in his sleep decades later, they mourned him as one of their own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Cold-eyed, Tybir returned to the Bloom, his mercy buried alongside his grief for the loss of his lover, Auvigne. In those dark and twisting tunnels, Tybir took any work that would pay for drink and pleasure. He rarely smiled. And he had too many nightmares. 
+
+One day, he simply disappeared. No one cared enough about him to wonder whether the Bloom had claimed him or one of his former enemies. No one loved him enough to go looking for him. 
+
+Naturally, he was never seen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Tybir returned to Sagus Cliffs, bowed beneath the weight of his guilt and the loss of his lover Auvigne. Bereft of any greater purpose, he rededicated himself to the myriad of schemes that had once sustained him.
+
+But they no longer did. Desperate to forget his failures, he buried himself in pleasure and took dangerous - and despicable - jobs to support his extravagant lifestyle. 
+
+Near the end, he had no less than five contracts on his head - but the levies found him first. Guilty of crimes that would have once made him shudder, Tybir at last found himself before a jeering crowd and the executioner he had once feared: Death-of-Tybir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Erritis set off on his own, blazing as bright as any comet. And yet, the cloud of nano-demons had not exaggerated the cost of their hero's increased power. Soon, Erritis was limping. Then, crawling. 
+
+A week later, a traveler found an unremarkable, straw-haired stranger lying dead in the road. He did not have a single wound. A single golden fleck marked the corner of his mouth. 
+
+Light-footed bootprints - the corpse's feet were clean and bare, the traveler noticed - wound away down the road. In the direction of the sunrise. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Erritis set off on his own, driven by the competing urges of the nano-demons, but also by the lessons the Last Castoff had taught him. He spent his life - what little there was left of it - helping people as best as he could, whether they wanted it or not. 
+
+But what mattered was that he tried. That in some rare cases, he found someone who *actually* needed help, and saved them as a hero does: just in time. 
+
+Eventually, his exertions took their toll. He fell ill on the road, then collapsed. Erritis died miles from anywhere, alone, but with a satisfied smile on his face. 
+
+The voices within him went dormant. Quiet. Waiting for the next Hero to come along.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The hero Erritis was never seen again. 
+
+But in a nameless field not far from the Valley of Dead Heroes, an aging herdsman drove his newly-bought yol towards a run-down hut. Humming to himself, he rebuilt the hut stone by stone. That night, he slept better than he had in years. 
+
+He lived out his many years as a stranger to everyone who saw him in the tiny town where he bought his supplies. And one day, a shopkeeper realized he hadn't seen the herdsman in months. 
+
+That was the last time anyone thought of the man Erritis had become. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Erritis set off on his own, driven by the competing urges of the voices in his head. Hungry for the grand quest would define his life and etch his story into the heavens, he chased rumors in circles, got lost in deserts, and scaled mountains. He explored ruins, claimed artifacts, climbed and fell and swam and ran... and...
+
+Collapsed. Months and months of unending adventure had taken their toll on the Hero. Erritis died in a nameless field not far from where he had begun his mad and frantic quest. And the voices within him went dormant. Quiet. 
+
+Waiting for the next Hero to come along.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>After leaving the Last Castoff in the Bloom, Rhin returned to Aen-tozon. She begged him to open his Maw for her, but he reiterated what he had said before - the Maw won't open at his whim.
+
+Rhin spent the night with the other refugees outside the Memovira's fortress and returned the next day. She returned every day. She sought out people the Maw might feed on. She even considered asking for a slave once, but she couldn't make herself do it.
+
+One day, Aen-tozon... disappeared. Some said he was swallowed by the Bloom. Others said he had swallowed himself somehow. Most agreed he had met a bad end, as most do in the Bloom.
+
+Rhin never found out the truth, and she never went home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Rhin remained with the Last Castoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Or rather she stayed with the Changing God's natural daughter, though she often forgot there was a difference.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>They were a family, or as close to one as Rhin was ever likely to find. She studied everything the Last Castoff did, taking in his skills as her own.
+
+They fought, as families do, but they remained very close for several years. As Rhin grew older, and realized the Last Castoff did not, she decided to set out on her own - maybe even start a new family.
+
+But she never forgot the Last Castoff, and they remained good friends to the end of her days.</DefaultText>
+      <FemaleText>They were a family, or as close to one as Rhin was ever likely to find. She studied everything the Last Castoff did, taking in her skills as her own.
+
+They fought, as families do, but they remained very close for several years. As Rhin grew older, and realized the Last Castoff did not, she decided to set out on her own - maybe even start a new family.
+
+But she never forgot the Last Castoff, and they remained good friends to the end of her days.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Rhin returned to her world content. She had rescued the one who had so kindly rescued her. In so doing, she brought closure to a significant part of her life. She would never forget the Last Castoff.
+
+As for the rest of her story, that has yet to be written.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Rhin was reunited with her parents in her own world. They forgave her, and she them. It was exactly as Rhin had said - their argument was foolish, certainly not worth the loss of their little girl.
+
+She grew stronger and more beautiful, learning the ways of her people. As for the rest of her story, that has yet to be written.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The histories of Sagus Cliffs relate only the mundane details of Rhin's life, after she entered the House of Empty Time.
+
+They *don't* relate the rest of her childhood. She was taken in by an old couple at the end of their years. They loved her well enough, but died only a couple of years after taking her in.
+
+They left her with their son, a cruel man who beat her. She ran away shortly after.
+
+She took care of herself on the streets. It wasn't until her mid-twenties that she became a toymaker - one who brought joy to the young hearts of Sagus Cliffs, and young hearts to the old.
+
+She gave every shin she made to the Hospice, a home for children with nowhere to go. She died content.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Rhin never found the way back to her home. She</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>and the Last Castoff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>and the Last Castoff - or rather the Changing God's natural daughter, though Rhin often forgot there was a difference -</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>searched for years, but never found so much as a clue.
+
+Some time after she turned thirty, Rhin realized she had given up her search, though she did not remember ever having made that decision consciously. She had simply... stopped looking.
+
+She wasn't even sure when the last time was she *had* looked.
+
+The realization didn't bother her as much as she thought it might. She had grown accustomed to this world and her place in it. It wasn't home, but... maybe it was close enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>{This node will not play. It's just a convenient place to store the variables that contribute to the above endings:
+
+Rhin_Fate:
+-2 = Rhin left party to open Aen-tozon on her own
+-1 = Rhin left party permanently
+0 = Rhin stayed with PC, never found portal home
+1 = Rhin agreed to stay with PC even after finding portal home
+2 = Rhin returned home and never came back
+3 = Rhin returned home and came back to help player
+4 = Rhin left at HoET
+
+Rhin_EndGameDecision (only available if Rhin_Fate == 0 or 1):
+0 = Left PC, doesn't know about Aen-tozon
+1 = Stayed with Miika as family
+2 = Stayed with PC looking for home
+3 = Stayed with Miika looking for home
+4 = Left PC, going back to Aen-tozon
+5 = Stayed with PC as family}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>The chiurgeon made Piquo stronger, as advertised. Despite his loathing of the Underbelly, he eventually returned there and became one of Fulsome's enforcers. He didn't have a family, but he had *respect*, and to him that was just as good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Piquo's new looks enabled him to attain better jobs in the higher tiers of Sagus Cliffs. Eventually, he landed a job working for Tranquility's hostel in Caravanserai.
+
+She tells anyone who will listen the good work he does, and he's easy on the eyes to boot. Piquo hopes one day to take over the place, but Tranquility has other plans for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>What began as one or two drinks turned into four then five. Soon it became a habit. Piquo would go to the bar every night, sometimes even paying a girl to stay with him, if he had the money for one. So long as he had the money to pay, people treated him well there. And when he didn't, he would work hard for more.
+
+He never made anything of himself, but he lived his life and even got the respect he wanted, in a way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>As it turned out, Piquo excelled in the Order of Truth. He read everything anybody would give him, tried everything anybody would let him try. In a few short years, he was well-versed in all manner of numenera. He became an Aeon Priest in less than a decade.
+
+Now he is vying for Min's position as head of the Order. Min is not putting up much of a fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>As a cultist, Piquo learned much about the Changing God and his offspring - about the man who originally set him on his path. He found inconsistencies, however, between what he saw in the histories and what the cultists told him, but he was afraid to bring them up for fear of being ostracized.
+
+After years of study, he decided that the Changing God was *not* in fact an inspiration, but a man only interested in himself and his own immortality. He is now wondering what other jobs his time as a cultist might have suited him for. If any.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>After Qeek's murder, Piquo went back to the chiurgeon and slapped his bag of shins on the counter. He wanted to become stronger. He wasn't able to be there for Qeek...
+
+But he would never let that happen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Piquo and Qeek spent a long life together. Eventually, Piquo convinced Qeek there were better jobs on the streets above. They had it hard, but they always had each other.
+
+They eventually married and left the Sagus Protectorate in search of a quieter life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Piquo waited for the Last Castoff to return for several days, until he figured out that he'd been swindled. Heartbroken and disillusioned, he went back to scrimping shins at whatever job he could.
+
+Some day, he would go back to the chiurgeon. He would make his *own* decision, not letting anyone else tell him what to do with his life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Piquo waffled and wavered outside the chiurgeon's parlor for days. Finally, a well-dressed man approached him offering to change his life for the better for just a few shins. Piquo gladly paid.
+
+The man came back day after day, each time with a gift, a new promise, and a new request for money. Piquo ran out of the rest of his money within a week, and he never saw the man again. His life never did change for the better.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Alara, the girl once known as Loss-of-self, not only remembered her name and the faces of her parents, but the next time they came to bring her food, she was able to tell them everything that had happened to her.
+
+Alara returned home, happy for the first time in years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The girl known as Loss-of-self struggled for a long time against the workings of the probability engines underneath the city. She never fought off their compulsions entirely, nor could she ever fully remember who she was, but she did, finally, walk away from the ledge and live her life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Loss-of-self eventually accepted the personality that had been growing in her mind for so long. She began calling herself Miila and found herself strangely attracted to the Cult of the Changing God.
+
+After watching them for a couple of months, she built up the courage to join the cultists and learn more about this strange god. She is now one of the foremost scholars on the Changing God and his legacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>The girl known as Loss-of-self fought the personality that had been growing in her mind for so long, but it was a losing battle. In the moment when she felt her mind slipping away - and the *other* girl taking over - she leaped off the ledge, disappearing into the black water below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Sagus records do not relate what happened to Zebb, because the House of Empty Time took him into the future. He found a good family, but even so he was lonely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>He never truly understood why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>
+
+Zebbak, his father, returned to their home in Cliff's Edge - or what was left of it. He found no trace of his children, but Alcen Perie informed him what had happened. He, too, was lonely to end of his days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Zebb remained in Cliff's Edge, making his home among the rubble of one of the other houses. He eventually found work in the Underbelly, as a scavenger for the foremen. Nym's shadow never haunted him, but he often felt a loneliness he could not explain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>
+
+His father, Zebbak, returned from the Bloom finally. Their reunion was tearful but full of joy, and Zebbak was proud of what his son had become. But when he asked what had happened to Nym, Zebb could only say, "Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Zebb remained in Cliff's Edge, making his home among the rubble of one of the other houses. He eventually found work in the Underbelly, as a scavenger for the foremen. Nym's shadow haunted him, and he often returned to the site of his old house to think of her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>
+
+His father, Zebbak, returned from the Bloom finally. Their reunion was tearful but full of joy, and Zebbak was proud of what his son had become. They mourned Nym together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Nym and Zebb remained in Cliff's Edge for many years. Nym became an artist, though her sculptures never sold very well. Zebb found work in the Underbelly, as a scavenger for the foremen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>
+
+Their father, Zebbak, returned from the Bloom finally. He was proud of what his children had become, and the three of them lived a hard but joyful life together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The Fifth Eye veteran recruited for the Endless Battle fought, and fought hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>The Fifth Eye veterans recruited for the Endless Battle fought, and fought hard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>But with the disappearance of the castoffs, the Endless Battle quickly petered out. A few groups continued to fight, but most of the combatants left - for other battles or simply for the comfort of a Fifth Eye drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The Endless Battle continued on for many years - for as many years as there were castoffs, which was indeed a long, long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>
+
+The Fifth Eye faced a menace of its own, however. An Adversary - that ancient foe of the psychic veterans - had hidden itself there, watching and waiting. When it was strong enough, it emerged, suddenly and without warning.
+
+The Adversary devoured the minds of those in the Fifth Eye, then it rampaged across the Sagus Protectorate, unchallenged and free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>The veterans of the Fifth Eye enjoyed their retirement from the psychic wars. They drank. They laughed. They retold the same tales to anyone who would listen. Until one by one, their minds faded, and soon there was only Ziobe... drinking with his friends by himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>
+
+That was when the Adversary - that ancient foe of the psychic veterans - chose to attack. It had hidden itself among the Fifth Eye patrons, watching and waiting. With the other veterans gone, it emerged, suddenly and without warning.
+
+The Adversary devoured Ziobe's mind, then it rampaged across the Sagus Protectorate, unchallenged and free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Poor Tarnish spent the next several decades trying to regenerate the crippled foreman, after it gave its life for its children. Seeing Tarnish's love for the construct, the other two foremen grew more sympathetic and tried to help. But even they could not restore the construct's life - the life it had given to its children.
+
+Tarnish passed away an old man, and the project - the empty construct - was left abandoned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The tiny construct children of the crippled foreman scattered throughout the city. They began building things at random - much to the consternation of the master foreman.
+
+Finally, the master foreman called for his workers to bring the small constructs in to him. He was surprised at how much they had grown. Apparently, they had been building themselves as well as random pieces of the city.
+
+He now instructs them, treating them as he does his human workers - although it is clear he favors them more. What's unclear is how well they will continue to follow his instructions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Although the crippled construct eventually agreed to give up trying to procreate, Tarnish could hear the torment in the foreman's voice. Finally, after Tarnish had grown old - too old to do more than tinker - he changed his mind and worked to help the foreman bring his children into the world.
+
+Soon after his ninety-first birthday, they were successful....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>With the sticha's eggs safely in the care of the city, the quakes beneath Sagus Cliffs ceased for many years. Indeed, it had been so long that Peliai often considered selling the rest of the eggs for herself.
+
+One night, the inhabitants of Government Square were woken by a thunderous crash that shook even the strongest buildings. Bleary-eyed, they came out of their homes to see what had happened.
+
+Peliai's home was gone, and Peliai with it. In its place was an enormous sinkhole that seemed to stretch down beneath the level of the ocean itself.
+
+Nobody ever climbed down to see what became of her, but the city has been silent ever since.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>The quakes beneath Sagus Cliffs ceased for many years, despite Peliai's concerns that without leverage over them, the sticha would return some day. She would stand in the square most days, preaching her fear to whomever would listen.
+
+One day, Peliai announced that she had evidence the sticha had returned. She called for a group of brave souls to follow her beneath the city, to stop them before it was too late.
+
+Several of her bravest listeners followed her into the dark. Nobody knows what has become of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>The sticha traveled long and far to reach their new home. Many died along the way, the rocks between Sagus and the new rock providing very little in the way of sustenance for them.
+
+But they reached it in the end, and forged a new home for themselves. They flourished there for a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>The quakes beneath Sagus Cliffs ceased for many years, despite Peliai's concerns that without leverage over them, the sticha would return some day. She would stand in the square most days, preaching her fear to whomever would listen. Few did.
+
+Until the quakes began again...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>The quakes beneath Sagus Cliffs continued. One by one, most of the houses in Cliff's Edge fell into the sea, and the people of Sagus grew more and more afraid.
+
+In a last desperate move, Peliai called for a group of brave souls to follow her beneath the city, to stop the sticha before it was too late. Dozens of brave men and women answered, following her into the dark.
+
+They were never seen again. Nobody knows what became of them, but the quakes *did* stop a short time later.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>With Inifere gone, Marcysa became the leader of the Children of the Endless Gate. The Gate was never opened in the Valley, and the cultists eventually left.
+
+Although they never understood why the cultists had come, Ronos and the other surviving Memorialists were able to clean and rebuild. There were so few of them left, so it took months before the last of the blood was removed. They never did get rid of the smells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>With the Endless Gate closed, Ronos and the other surviving Memorialists were able to clean and rebuild. There were so few of them left, so it took months before the last of the blood was removed. They used several different barrier cyphers to block the tomb that had held the Endless Gate, in case something *else* ever came through again.
+
+They never did get rid of the smells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>The Children of the Endless Gate ran rampant over the Valley. Within a month, every Memorialist and traveler had been killed, except for the hardiest of explorers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Even poor Oddwald eventually found his spirit "freed from its cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>
+
+Now, no caravanner will travel to the Valley, and the Necropolis has become a dungeon rather than a memorial. Late at night, the screams can be heard from as far as Kholn Village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>The Bloom was relatively quiet for days after the Sorrow's attack on the Memovira's Fortress. Nearly all of the Memovira's soldiers had fled, and the rest of the Bloom's denizens waited quietly, wondering what would happen.
+
+When the Memovira did not return, and nobody rose up to take her place... that's when the fighting began. It started with the mutants of Little Nihliesh, but soon every faction was involved. The Bloom became a deadly battleground - one the Bloom itself seemed to encourage, engorging itself on the lust of its denizens.
+
+Brusca harbored a small contingent of civilians inside the fortress, hoping that the violence would die down.
+
+They are still there, hoping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>After the Sorrow was driven out of the Memovira's fortress, Coty remained, waiting. Even after all the other soldiers fled - all except Brusca - he stayed and watched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>
+
+When the First returned to the Bloom, Coty became Brusca's second-in-command. When Brusca retired a few years later, Coty was put in charge of all the Memovira's soldiers. He was cold and respected. Not a single man crossed him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>
+
+When the Last Castoff returned as the new Memovira, Coty served him as well as any soldier - better even, for he knew what it was to obey without question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>
+
+When Matkina returned as the new Memovira, Coty served her as well as any soldier - better even, for he knew what it was to obey without question. Matkina came to rely on him more than any other. None challenged her in the time he served as her right-hand man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>
+
+When the various factions of the Bloom rose up against each other, he and Brusca shut off the fortress. Gradually, they gathered those unaligned with any faction into the fortress, creating a kind of safe-haven... at least until a new Memovira arose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>After the destruction of the Memovira's Fortress, and the disappearance of the Memovira, Coty fled, alongside most of the Memovira's other soldiers. Nobody has seen him since, but it is widely believed that most of the Memovira's former soldiers were swallowed by the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Coty worked hard at the Bloom-flesh shop. He never grew quite as skilled as the Sundermuns, but he had enough skill in his own right.
+
+Eventually, he expanded their services to woods and metals, and became sought after as a carpenter and an engraver.
+
+Some time later, he left the Bloom to make his own way. He started a shop in Circus Minor, fashioning numenera into polished tools. He made a name for himself, in some small way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Coty served the Observant Speck as well as he knew how, though he never quite felt comfortable working in the shrine. He was loyal and trustworthy, but when Speck told him she was passing on, and asked him to take on the mantle of Observant Speck, he refused.
+
+He lived out the rest of his days working in the shrine, quiet and safe. And very nearly content.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Coty waited loyally for the Last Castoff to return. When the Fortress was destroyed, he was afraid, but still he waited.
+
+The Last Castoff returned, and Coty found himself the servant of the new Memovira. It was a good life, he thought, even if he did still feel like a slave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Coty waited loyally for the Last Castoff to return... but he never did. After a while, the slavers started looking at him suspiciously. Afraid that they would try to sell him again, he ran.
+
+Nobody knows where he went or what became of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Artaglio and his troop remained in Chiurgeon's Slump. Free from the desires of the Maw, Artaglio became more jovial, friendly even. He drank less and extorted less - though he still extorted of course. A man's got to make a living *somehow*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>
+
+A few days after he'd heard the Last Castoff returned as the new Memovira, Artaglio paid him a visit to thank him for his help. He would never serve under a castoff again, of course, but he assured the Last Castoff that he'd get no trouble out of Chiurgeon's Slump.</DefaultText>
+      <FemaleText>
+
+A few days after he'd heard the Last Castoff returned as the new Memovira, Artaglio paid her a visit to thank her for her help. He would never serve under a castoff again, of course, but he assured the Last Castoff that she'd get no trouble out of Chiurgeon's Slump.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Ranard, Artaglio's second, continued in his commanding officer's traditions as best as he could. Artaglio's Irregulars eked out a modest life in Chiurgeon Slump even without their leader.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>
+
+When they heard that the Last Castoff had returned - as the new Memovira, no less - Ranard told his men they were digging in. They created a barrier at the entrance and posted more guards, hiring some of the former Memovira's guards who had run after the destruction of her fortress.
+
+The Irregulars of Chiurgeon Slump were a thorn in the new Memovira's side for many, many years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>
+
+When they heard that the Last Castoff had returned - as the new Memovira, no less - they came to offer their services, hoping for an increase in pay and authority. They got both.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>What was left of Artaglio's Irregulars left the Bloom in disgrace. With nowhere to go, they ended up heading their separate ways. Each of them trying to outrun their past. Each of them haunted forever by it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Maralel returned alone to the ruins of Miel Avest, looking with regret upon the destruction *she* had wrought. With little more than a sigh, she marched forward and got to work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>The Last Castoff returned to the ruins of Miel Avest, hoping to rebuild some of what he had lost - or maybe to find something he didn't *know* he had.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>A few castoffs return to the rubble of Miel Avest. It will take them years to rebuild, but they do so anyway. It is their city, their home. Even if the shields were inoperable or unnecessary, it is still a sanctuary for them.
+
+And a memorial to their beloved Aadiriis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>The ruins of Miel Avest lie broken, untouched. It is more than a century before a group of explorers stumble upon them, wondering what happened in this place. What in the Ninth World could have caused so much destruction?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>After being set free, Coty wandered the Bloom for a while. He would steal food when he was hungry, until he heard the merchants grumbling and then he would move on.
+
+After a while, the slavers started looking at him suspiciously. Afraid that they would try to sell him again, he ran. Nobody knows where he went or what became of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>After earning his freedom, Coty found his way out of the Bloom and made his way to Sagus. He eventually found work in Caravanserai as a dockhand and later as a deckhand on Zenia's crew.
+
+He never became much more than that, but he never became less either. He spent his days on honest, hard work, and in doing so found peace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Doran erases your consciousness, and your flesh falls from your mind like a burden laid aside. What comes after is not your legacy - you are no more than the one who stood in the way. But the vessel that remains is famed far and wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>
+
+When the troubles in the Bloom started, Artaglio and his men barricaded Chiurgeon's Slump. They are still there, though the Bloom itself tears down every barricade they erect. They simply build another one, making sure the Slump, at least, remains safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>
+
+When the troubles in the Bloom started, Ranard and his men barricaded Chiurgeon's Slump. They are still there, though the Bloom itself tears down every barricade they erect. They simply build another one, making sure the Slump, at least, remains safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>With Inifere's past changed, the Gate was never opened in the Valley, and the cultists eventually left.
+
+Although they never understood why the cultists had come, Ronos and the other surviving Memorialists were able to clean and rebuild. There were so few of them left, so it took months before the last of the blood was removed. They never did get rid of the smells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Rhin was taken to wherever it is the decanted take all their bounties. Like the others, she was never heard from again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Aligern continued traveling with the Last Castoff, eager to discover the secret of his tattoos. After a long time, and several adventures, the Last Castoff unearthed the means to unlock the secret code that would free Aligern's people.
+
+Aligern returned to Ormen with the frame. One by one, he pulled his tattoos free and cast them through the black portal. His friends emerged on the other side, dazed and shocked by their long years of imprisonment in Aligern's mind.
+
+They suffered no lasting damage.
+
+Aligern bid goodbye to the Last Castoff then, choosing instead to study the frame and its function. Ormen became a flourishing nomadic village, carried on the body of a solitary traveler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Aligern continued traveling with the Last Castoff, seeking answers to the fate of his village.
+
+After a long time, and several adventures, Aligern was reunited with his friend Orth and the metal frame that had started it all. Aligern's colleague told him what he had learned - the tattoos that Aligern had regarded as a curse were the transformed villagers of Ormen, their data carried in biological light and transplanted into his skin by the metal frame.
+
+Aligern discovered how to free his family and friends from the cursed tattoos, but some of the villagers suffered permanent damage. Aligern devoted his remaining days to caring for those he had harmed. He refused to deal with the numenera again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Aligern returned to the Bloom and reunited with his friend Orth and the metal frame that had started it all. His colleague told him the truth - the tattoos that Aligern had regarded as a curse were the transformed villagers of Ormen, their data carried in biological light and transplanted into his skin.
+
+Aligern discovered how he might free his family and friends from the cursed tattoos. Some of the villagers suffered permanent damage, and Aligern devoted his remaining days to caring for those he had harmed. He refused to deal with the numenera again.
+
+He was buried in Ormen. They scratched his name on the wall of the Valley of Dead Heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>The quakes beneath Sagus Cliffs continued. One by one, most of the houses in Cliff's Edge fell into the sea, and the people of Sagus grew more and more afraid.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

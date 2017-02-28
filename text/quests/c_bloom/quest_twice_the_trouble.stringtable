@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_twice_the_trouble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Twice the Trouble</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the thugs who have been harassing Qianne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Stop the thugs from harassing Qianne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Qianne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bribed Vrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Intimidated Vrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Killed Vrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Damaged Vrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Drove Vrung Off</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Entered Endgame (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Entered endgame after dealing with Delny and Vrung but before telling Qianne (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Qianne, a refugee who lives in the Memovira's courtyard, is being harassed by a pair of thugs. I offered to help her deal with the problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The two thugs are named Delny and Vrung, and they're hiding in the slum of Little Nihliesh. I should track them down and have a talk with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found Delny and Vrung at the end of an alley in Little Nihliesh. Now I need to find a way to stop them from harassing Qianne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've dealt with Delny and Vrung. I should return to Qianne and tell her what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I paid Vrung to leave Qianne alone. I think he'll keep his word... for a while, anyway. Qianne was grateful, and she said that I can sleep in her tent any time, free of charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I threatened Vrung, and he agreed to stop bothering Qianne. He struck me as a coward, and I think he'll keep his word. Qianne was grateful, and she said that I can sleep in her tent any time, free of charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I killed Vrung, which freed Delny from his psychic control. Neither of them will be any further threat to Qianne. As a reward, Qianne said that I can sleep in her tent any time, free of charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I freed Delny from the psychic bond that Vrung had placed on her, and then I convinced her to burn the psychic power out of Vrung's mind. He's completely harmless now, and he's no further threat to Qianne. As a reward, Qianne said that I can sleep in her tent any time, free of charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I broke the psychic bond that Vrung had placed on Delny, and he fled in fear. I don't think either of them will be any further threat to Qianne. As a reward, Qianne said that I can sleep in her tent any time, free of charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. As I have no idea when I'll be able to return to the Bloom, it appears Qianne will have to find another means of dealing with the thugs troubling her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. Though I managed to deal with Delny and Vrung, it looks like I won't be able to share the good news with Qianne.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

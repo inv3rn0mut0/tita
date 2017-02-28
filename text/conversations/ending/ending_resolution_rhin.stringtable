@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_resolution_rhin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>After leaving the Last Castoff in the Bloom, Rhin returned to Aen-tozon. She begged him to open his Maw for her, but he reiterated what he had said before - the Maw won't open at his whim.
+
+Rhin spent the night with the other refugees outside the Memovira's fortress and returned the next day. She returned every day. She sought out people the Maw might feed on. She even considered Parsim's slaves once, but she couldn't make herself do it.
+
+One day, Aen-tozon... disappeared. Some said he was swallowed by the Bloom. Others said he had swallowed himself somehow. Most agreed he had met a bad end, as most do in the Bloom.
+
+Rhin never found out the truth, and she never went home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rhin never found the way back to her home. She </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>and the Last Castoff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rhin remained with the Last Castoff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText> - or rather with the Changing God's natural daughter, though she often forgot there was a difference</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>and the Last Castoff - or rather the Changing God's natural daughter, though Rhin often forgot there was a difference - </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Rhin returned to her world content. She had rescued the one who had so kindly rescued her. In so doing, she brought closure to a significant part of her life. She would never forget the Last Castoff.
+
+As for the rest of her story, that has yet to be written.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rhin was reunited with her parents in her own world. They forgave her, and she them. It was exactly as Rhin had said - their argument was foolish, certainly not worth the loss of their little girl.
+
+She grew stronger and more beautiful, learning the ways of her people. As for the rest of her story, that has yet to be written.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The histories of Sagus Cliffs relate only the mundane details of Rhin's life, after she entered the House of Empty Time.
+
+The histories don't relate the rest of her childhood. She was taken in an old couple at the end of their years. They loved her well enough, but died only a couple of years after she had arrived.
+
+They left her with their son, a cruel man who beat her. She left soon afterwards.
+
+She took care of herself on the streets. It wasn't until her mid-twenties that she became the toymaker who brought joy to the young hearts of Sagus Cliffs, and young hearts to the old.
+
+She gave every shin she made to the Hospice, a home for children with nowhere to go. She died content.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>. They were a family, or as close to one as Rhin was ever likely to find. She studied everything he did, taking in his skills as her own.
+
+They fought, as families do, but they remained very close for several years. As Rhin grew older, and realized the Last Castoff did not, she decided to set out on her own - maybe even start a new family.
+
+But she never forgot the Last Castoff, and they remained good friends to the end of her days.</DefaultText>
+      <FemaleText>. They were a family, or as close to one as Rhin was ever likely to find. She studied everything she did, taking in her skills as her own.
+
+They fought, as families do, but they remained very close for several years. As Rhin grew older, and realized the Last Castoff did not, she decided to set out on her own - maybe even start a new family.
+
+But she never forgot the Last Castoff, and they remained good friends to the end of her days.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>searched for years, but never found so much as a clue.
+
+Some time after she turned thirty, Rhin realized she had given up her search, though she did not remember ever having made that decision consciously. She had simply... stopped looking.
+
+She wasn't even sure when the last time was she *had* looked.
+
+The realization didn't bother her as much as she thought it might. She had grown accustomed to this world and her place in it. It wasn't home, but... maybe it was close enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>{This node will not play. It's just a convenient place to store the variables that contribute to the above endings:
+
+Rhin_Fate:
+-2 = Rhin left party to open Aen-tozon on her own
+-1 = Rhin left party permanently
+0 = Rhin stayed with PC, never found portal home
+1 = Rhin agreed to stay with PC even after finding portal home
+2 = Rhin returned home and never came back
+3 = Rhin returned home and came back to help player
+4 = Rhin left at HoET
+
+Rhin_EndGameDecision (only available if Rhin_Fate == 0 or 1):
+0 = Left PC, doesn't know about Aen-tozon
+1 = Stayed with Miika as family
+2 = Stayed with PC looking for home
+3 = Stayed with Miika looking for home
+4 = Left PC, going back to Aen-tozon
+5 = Stayed with PC as family}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_patrol_crisis_guard_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This burly man's face seems to have been partially melted in some unspeakable battle. Keeping his eyes on the mutants, he says, "Ask your questions, but you might want to do it quick. I don't think our hosts want to put off their fun for much longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What would you have of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ask how the situation started.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He coughs a bit, a wet hack, and says, "We make this route every month. We're collectors. It's our job to bring in revenues for the Memovira from her loyal subjects - " He pauses as the mutants break out raucous, derisive laughter, then continues, " - but they laid in wait for us, and got the jump on us as we walked into Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ask if the Memovira is sending any backup and when they will arrive.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I... don't know. The patrol schedules have been spotty lately, and we had another one go missing just the other day - " He clamps his mouth shut. He hastily adds, "-but the Memovira spared no expense to find them."
+
+No one believes him.
+
+{SCRIPT:  Add a negative asset to the tasks to convince the mutants to stop. The player just inadvertently gave them an alibi to attack these guys.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Suggest that the Memovira's enforcers will come to check on the patrol shortly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He opens his mouth to disagree, and then realizes what you're saying. "Ah... yes, of course. The Memovira keeps a close eye on her patrols. This money is important to her operation, and she sends backup to make sure none of it goes missing. They're bloody-minded bastards, too."
+
+The mutants' muscles tense as they lean away. They exchange worried glances.
+
+{SCRIPT: Makes easier to convince mutants to back down}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ask what the Memovira does with the collections.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"She pays us, mostly. And the mercenaries who come through the Maws, and the bribes to the Sagus Cliffs officials... but she's been falling further and further behind on those payments."
+
+He swallows and looks at the mutants around him. "Like as not she'll want vengeance if we fall. She *needs* this money, and she'll use her nastiest tricks to get it back."
+
+The mutant leader shifts his weight as the sergeant speaks, but he does not retreat.
+
+{SCRIPT:  Add an asset here that makes convincing the mutants to back down a little easier, as they've just learned the Memovira potentially has access to some crazy superweapons.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Any time you want to calm these mutants down, I'd appreciate it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"These freaks don't just want to beat us. They want human blood. Talk fast." His eyes never leave the mutants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"We'll be lucky to get out of here alive. Ask your questions quick, because you won't have time later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You chose your side. Stick with it, scum - and we'll remember your face!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Script Node 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Script Node 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Script Node 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Back off, mutant. This doesn't end well for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You want to answer to the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Just give us what we're owed and we'll be on our way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Don't interfere with the Memovira's takings if you know what's good for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"No need for blood... but we're happy to spill yours, if need be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Don't want to hurt you if we don't have to. Step *back*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell you what, freak. Take another step and we'll see what color your blood is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'm warning you, mutant scum. Not another step."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You wanted a fight? We'll kill you and be home for lunch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Step away from the sergeant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Attack the sergeant and his men.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You freak-loving laak-skist! The Memovira will hear of this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Why are you talking to me? You've made your choice. Now start fighting!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You going to pick a side? Or you planning to watch us all get slaughtered?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ally with the humans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Savvy play, traveler. These mutants are a treacherous bunch - they got strange powers that they hide away in their pus-bags. Keep an eye out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Script Node 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Much obliged for your help. The Memovira will hear of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Let's get moving. Don't want to catch whatever diseases these mutant vermin carry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Script Node 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The thugs are ready for violence. Their eyes are wide and their breath comes in quick gasps. They know death is a heartbeat away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The Memovira's thugs are in a defensive crouch, ready to fight, and knowing that violence is almost upon them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Script Node 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The knuckles of the Memovira's thugs are white on their weapons. They know the scent of impending violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The nervousness of the Memovira's thugs seems to be inflaming the mutants' ire still further. Bloodshed is just a few ill-chosen words away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The thugs are on edge. They can sense the violence approaching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The thugs exchange uneasy glances with each other. They recognize the signs of an impending bloodbath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The thugs seem calm for men whose lives are being threatened. They recognize the words, but they don't seem to believe they're in much danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The thugs are alert, but they're not frightened. They don't seem to believe that violence is imminent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

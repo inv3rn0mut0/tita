@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_ledge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>From this height, you can see everything. Beyond the city of Sagus Cliffs, bluffs and chasms extend toward the horizon on either side for at least fifty kilometers. The sea stretches between them, perhaps twenty kilometers across at its widest. Then the waters widen and swallow the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Look down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The tiers of Sagus Cliffs spread out to your right, a jumble of streets and buildings. To the left is the opening of a dark chasm. Tendrils of flesh cling to the edges like vines.
+
+The ocean lies almost a thousand meters below you, dark and dangerous. Scavenging and fishing sloops crawl slowly across its surface. The rooftops of a few Sagus homes jut from the cliff's surface, but mostly it's a clear drop to the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You realize you're standing in a shallow depression worn away by more than just weather. The ground and the lip of the ledge are worn smooth from human traffic. Thousands must have come here over the centuries, looking at the sea... and contemplating their own demise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You leap into the air. The fall is exhilarating. Wind rushes past you, faster and faster, stretching your face like it was made of putty. The boats in the sea grow at an alarming rate. The calls of fishermen and scavengers reach your ears, distorted by the speed.
+
+Finally, you slam into the water, the impact as hard as if it were an ocean of bedrock. Then there is only darkness.
+
+{SOUND: PC leaping off a cliff, then wind rushing past him for the fall.}
+{SOUND: (On exit) PC slamming into the water (and wind stopping abruptly).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Jump off the ledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Jump off the ledge again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

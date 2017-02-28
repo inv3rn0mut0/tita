@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_third_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This Merecaster is large, almost like a sarcophagus. A myriad of ports and slots of various sizes, shapes, and depths mar its surface, as if it should have been suspended from a rack for entry and anchored with hoses. It gives off the impression of great age.
+
+An insistent voice in your mind says that you need to enter it to activate the Merecaster, but you cannot see a way into the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Place Endira's Merecaster down the long port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Place Vicarian's Merecaster into a deep port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Join Endira's and Vicarian's Merecasters, and then place them into the deep port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Place Endira's Merecaster into a shallow port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Place Vicarian's Merecaster into a shallow port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Search my memories... or those of the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>It is made of a strange metal, much like the other two Merecasters the castoffs of Miel Avest entrusted to the Memovira. Looking more closely at it, you see that the deepest port here almost perfectly matches the shape of Endira's Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>It looks as if Endira's Merecaster could fit down one of the long ports. If you do that, though, you won't be able to pull it back out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The many ports and slots of the sarcophagus seem to mock your lack of understanding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You have placed Endira's Merecaster into the deep port. There's no way to get it back out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You have joined Vicarian's and Endira's Merecasters. They seem to have fused together, and now the two of them emit a deep and throbbing hum. The sarcophagus appears to be cycling in color in time with the hum, red and silver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The powered-up Merecasters fit neatly into the deep port on the side of the sarcophagus. Vicarian's Merecaster forms a neat handle, protruding slightly from the top. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Place the joined Merecasters into the deep port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Connect Vicarian's and Endira's Merecasters together.
+
+{COLIN/GEORGE: The option to fuse the two Merecasters together and then put them in later feels strange to me. What if the player walks away? Won't he still have two separate Merecasters in his inventory?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Push Vicarian's Merecaster into that same slot.
+
+{SCRIPT: Remove 2nd Bloom Merecaster from inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Turn the handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Examine the artifact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>It goes down easily enough, prongs first, and the top of it protrudes from the surface of the sarcophagus. However, it doesn't appear to do anything. You pull it back out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>They fit neatly together, the two prongs of Vicarian's Merecaster slotting perfectly into those of Endira's. They fuse together, and hum and begin to cycle. The sarcophagus seems to hum as well. Vicarian's Merecaster forms a neat handle, protruding slightly from the top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Yes... yes. This machine is of a piece with Endira's and Vicarian's Merecasters. You'll need to join the two of them, place them into a port, and then activate the device. That should open the sarcophagus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Follow the instructions of my memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You connect the two Merecasters together, and they fuse as you do so. They hum and begin to cycle, as does the sarcophagus. You place the joined Merecasters into the deepest slot on the sarcophagus, rotate the handle of Vicarian's Merecaster, and the sarcophagus powers fully to life. A pulse of red and silver light flickers from within, and it cracks open, ready for your use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>It doesn't seem to do anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You hear it neatly click into the two holes on Endira's Merecaster. The two of them fuse together - you can feel the vibration through your hand. A low hum emerges from that port, and you can hear the sarcophagus humming on the same note.
+
+{SOUND: Play a low hum}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You rotate the handle, and the sarcophagus powers fully to life. A pulse of red and silver light flickers from within, and it cracks open, ready for your use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>It slides in as if the port were designed for it. You hear it click into place in the bottom. You try to pull it back out, but it remains fixed, a permanent part of this sarcophagus.
+
+{SCRIPT: Remove Merecaster from inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>It is made of a strange metal, much like the other two Merecasters the castoffs of Miel Avest entrusted to the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Examine the artifact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Examine the sarcophagus again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The powered-up Merecasters fit neatly into the deep port on the side of the sarcophagus. Vicarian's Merecaster forms a neat handle, protruding slightly from the top. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The top of Vicarian's Merecaster emerges from the top of the port, forming a neat handle.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>It seems you don't have Vicarian's Merecaster, unfortunately...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Unfortunately, you don't seem to have Endira's Merecaster in your possession.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Your hands instinctively find the two Merecasters in your pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You don't have either of them in your possession, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>They slip together seamlessly, and their metal anneals itself. Now a single piece, the two of them emit a deep and throbbing hum. The sarcophagus appears to be cycling in time with the hum, in red and silver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>With a start, you realize those colors appear only in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

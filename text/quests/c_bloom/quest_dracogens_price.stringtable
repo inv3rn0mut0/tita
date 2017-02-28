@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_dracogens_price</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dracogen's Price</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Go to the Trade Post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a Maw that leads to the Trade Post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enter the Ascension and claim the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Dracogen with the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Handed over the Magmatic Annulet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Deferment of Payment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Handed over the Navigational Cortex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Speak to the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I've arrived in the Bloom, seeking the First Castoff. Dracogen, a self-proclaimed information broker, suggested that I speak to the Memovira, who rules the Bloom. If the First Castoff is truly alive and hiding here, the Memovira would know. Unfortunately, meeting the Memovira face-to-face is out of the question without a proper introduction. Dracogen would be happy to provide this introduction if I procure an item called the Magmatic Annulet for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dracogen told me to follow the "caravan route" from the Memovira's Courtyard to the Trade Post. That's where I'll find a Maw that will take me to the Ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Trade Post has been devoured by the Bloom, so I can't get there from the Vast Interior. According to Grisseler, a Bloom-guide, the Trade Post is probably still intact, but I'll have to find another way to reach it. My only recourse is to try opening various Maws and hope that one of them leads to the Trade Post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I found my way to the Trade Post, where an open Maw leads to the Ascension. Now I need to search the Ascension for the Magmatic Annulet, which Dracogen described as a dark, hyaline circlet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Now that I have the Annulet, I can bring it to Dracogen and complete my side of our bargain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>As promised, I returned the Magmatic Annulet to Dracogen. In return, he spoke to the Memovira, and she has agreed to meet with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>After returning to Dracogen with the Magmatic Annulet he seeks, I convinced him to let me hold onto it for a while longer. He was very specific that failing to turn it over in a timely manner will have consequences...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I kept the Magmatic Annulet and gave Dracogen the Navigational Cortex instead. In return, he spoke to the Memovira, and she has agreed to meet with me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Now that Dracogen has opened the way, I should pay a visit to the Memovira in her fortress and see what she knows about the First.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dracogen hinted that he might be willing to accept another item in place of the Annulet, but it would have to be something of equal or greater value.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I discovered that Dracogen once attempted to steal an item called the Navigational Cortex from the Anchorage of the lascars. Perhaps he would be willing to accept the Cortex in place of the Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dracogen agreed to take the Navigational Cortex in place of the Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

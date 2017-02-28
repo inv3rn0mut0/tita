@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_silver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>77</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Unvisited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Blue option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Red option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Indigo option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Gold option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Silver option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Some extra info.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Extra info simple]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Examine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Examine again]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Unvisited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Visited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Visited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[All done]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Tiny currents coil over the hulking creature in this tank, stirring the brown and silver fur on its muscular forelimbs. Long, curving tusks curl away from its jaw, and it is these that remind you what these creatures are called. This is a tusked grorthas - though, as far as you remember, there is no such thing as a tuskless grorthas. 
+
+The currents speed up, spiraling around the creature... then you are drawn up through the eye of the whirlpool into the creature's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The tusked grorthas massive paw clenches as it continues its unconscious battle with its rival. Currents spin up around the two of you once more, carrying you back into the creature's mind. 
+
+Your host and the other leader growl and snarl at each other. The only thing between them and the kilometer of open air below is a thin sheet of ice. The first grorthas to flee for safety will lose the duel, and their pack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tiny currents coil over the hulking creature in this tank, stirring the brown and silver fur on its muscular forelimbs. Curving tusks curl away from its jaw, and it is these that remind you what these creatures are called. This is a tusked grorthas - though, as far as you remember, there is no such thing as a tuskless grorthas. 
+
+The currents speed up, whirling around the creature. Suddenly, you are drawn through the eye of the whirlpool into the creature's mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The tusked grorthas's massive paw clenches as it continues its unconscious battle with its rival. Currents spin up around the two of you once more, carrying you back into the creature's mind. 
+
+Your host and the other leader growl and snarl at each other. The only thing between them and the kilometer of open air below is a thin sheet of ice. The first grorthas to flee for safety will lose the duel, and their pack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A whirlpool fills this tank, obscuring the creature within except for the occasional glimpse of silvery-brown fur. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>What will you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Force your host to make the wise decision, returning to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>In defiance of his own instincts, your host springs for the cliff as the ledge crumbles, baffled shame expanding through his chest like a scalding weight.
+
+The ledge falls away, but a second later, his rival appears beside him in a flash, grunting in satisfaction. The rival leaves, and both packs follow him over a distant hill. Tusked grorthas will not follow a leader that flees from duels, no matter the reason. 
+
+The Tides swell around you, carrying you with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Back in the strange laboratory, five hulking, smoky creatures bound onto the platform, sucking at the air with crackling snarls. The sour dread in your gut recognizes them for what they are: hands of the being that hunted you while you regained your memories. Fragments of the Sorrow. 
+
+Four of them lunge into the machines connected to the remaining tanks, wreaking chaos on their delicate innards. The fifth fragment focuses its eyeless gaze on you and your ally. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Sorrow Fragment emerges from machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>After returning to your own body, a dull heat settles in your gut, and an oily haze crowds your vision. You sense... no, you *know* that the Sorrow has focused its dire attention directly on you. 
+
+The remainder of the Sorrow fragments spill from the devices they were infesting, and join the hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>That was the last of the creatures. You steel yourself for the deadly race to the tank at the back of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You lean against a tank to catch your breath, eyeing the remaining creatures in the tanks. You will need to be swift to avoid the Sorrow fragments hunting for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Blue attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Blue attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Blue attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Convince your host to finish off his enemy as quickly as possible and then teleport to safety. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The tusked grorthas bounds at his rival, his blood singing with the strength of your command, and impales his rival with his tusks and tosses the body over the edge.
+
+Your host chortles to himself when suddenly the ledge snaps. He falls into the abyss after his rival, teleporting himself to the top of the cliff at the last second, both packs cheering his victory.
+
+The Tides swell around you, carrying you with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Red attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Red attunement crit success.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Red attunement crit fail.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Urge your host to compromise. If both grorthas fall, then *two* packs will be leaderless. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Unwelcome doubt stirs in your host's chest, and he grunts reluctantly at his rival, jerking his head at the watching tribes. Who will rule them if they both fall to their deaths? Surprise surfaces on the rival's face. Then, he snorts his agreement.
+
+As the ledge crumbles, the mortal enemies teleport simultaneously to the top of the cliff. The packs are surprised but hopeful as the fight continues on solid ground.  
+
+The Tides swell around you, carrying you with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Indigo attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Indigo attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Indigo attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Encourage your host to save his rival, ensuring at least one leader survives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>With fluid speed, your host slams into his rival and teleports the rival to the top of the cliff against his will.
+
+There is a sharp crack. The ledge crumbles away beneath your host's feet. As your host falls into the abyss, you sense a great confusion. It cannot figure out whether it just won the duel or lost.
+
+The Tides swell around you, carrying you with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Gold attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Gold attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Gold attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Display your superiority to the packs at any cost. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The tusked grorthas bounds at his rival, howling. Their tusks lock, scraping against each other.
+
+Suddenly, the ledge snaps, and both tusked grorthas fall into open space. Both animals huff and growl, but neither will be the one to teleport first.
+
+At the last second, the rival's eyes open in fear and it disappears. Your host slams into the ground, too late to teleport itself. As it lies dying, you feel its immense satisfaction.
+
+The Tides swell around you, carrying you with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Silver attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Silver attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Silver attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Someone clears their throat inside your head, and speaks. 
+
+"Designate - tusked grorthas. Nomadic creatures with a strong affinity for the Silver Tide. Pack leaders demonstrate limited psychic abilities - including teleporting itself or one other once per day - but packs will only follow leaders that display not only strength, but absolute superiority. A duel between rivals, once begun, cannot be ended until one of them is either defeated or dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The voice clears its throat in your head again. It's even less pleasant than last time.  
+
+"Designate - tusked grorthas. Nomadic creatures with a strong affinity for the Silver Tide. Pack leaders demonstrate limited psychic abilities - including teleporting itself or one other once per day - but packs will only follow leaders that display not only strength, but absolute superiority. A duel between rivals, once begun, cannot be ended until one of them is either defeated or dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Examine the creature. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Examine the grorthas again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Tiny currents coil over the hulking creature in this tank, stirring the brown and silver fur on its muscular forelimbs. Curving tusks curl away from its jaw, and it is these that remind you what these creatures are called. This is a tusked grorthas - though, as far as you remember, there is no such thing as a tuskless grorthas. 
+
+The currents speed up, whirling around the creature. Suddenly, you are drawn through the eye of the whirlpool into the creature's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The malfunctioning machine nearby seems to be causing the whirlpool in this tank that's preventing you from making contact with the creature within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The tusked grorthas massive paw clenches as it continues its unconscious battle with its rival. Currents spin up around the two of you once more, carrying you back into the creature's mind. 
+
+Your host and the other leader growl and snarl at each other. The only thing between them and the kilometer of open air below is a thin sheet of ice. The first grorthas to flee for safety will lose the duel, and their pack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The tusked grorthas hangs quietly in the still water, paws hanging loosely at its sides. Its mind is closed to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Your host and a rival pack leader tumble down a snowy cliff face, biting and clawing each other. They strike a ledge of transparent ice and roll apart, growling. Far above, their packs hoot in excitement.  
+
+Cracks spiral out from their paws. Both leaders tense. The ground is over a kilometer below, but the first leader to teleport to safety will lose the duel... and their pack.
+
+Your host bares his teeth. He will ensure his rival is dead to demonstrate his superiority, even if he dies, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Your host and a rival pack leader plummet through icy darkness, biting and pummeling each other. They strike the frozen bottom of the cavern, and bounce apart, growling. 
+
+The outlines of their packs peer over the rim of the ragged hole in the cavern's roof. Your host sees them, and snorts. Incomprehensible, malevolent *things* roam these caverns, but losing this battle in the sight of its pack would be a far worse fate than mere death. He will kill - no, *dominate* - his rival, or die trying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Rapid flickers of bruised light at the corner of your eye draw your attention to a machine nearby. Mounted on its face is a rapidly-spinning disc - spinning, in fact, at exactly the same rate as the whirling currents in the tank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Your host and a rival pack leader plummet through icy darkness, biting and pummeling each other. They strike the frozen bottom of the cavern, and bounce apart, growling. 
+
+The outlines of their packs peer over the rim of the ragged hole in the cavern's roof. Your host sees them, and snorts. Incomprehensible, malevolent *things* roam these caverns, but losing this battle in the sight of its pack would be a far worse fate than mere death. He will kill - no, *dominate* - his rival, or die trying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText> Follow-up PQ. 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Examine the grorthas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Examine the grorthas again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Someone clears their throat inside your head, and speaks. 
+
+"Designate - Tusked Grorthas. Nomadic creatures with a strong affinity for the Silver Tide. Details available at the monitoring station."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The voice clears its throat in your head again. It's even less pleasant than last time.  
+
+"Designate - Tusked Grorthas. Nomadic creatures with a strong affinity for the Silver Tide. Details available at the monitoring station."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

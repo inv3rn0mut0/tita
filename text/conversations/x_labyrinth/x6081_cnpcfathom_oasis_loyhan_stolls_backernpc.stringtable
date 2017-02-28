@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6081_cnpcfathom_oasis_loyhan_stolls_backernpc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The wiry ghibra gives you a nod as you approach, his lips crooked into a friendly smile. Although his relaxed posture suggests a measure of comfort with his surroundings, his hand is wrapped tightly, almost nervously, around a tattered, leather-bound notebook. 
+
+Inexplicably, the book seems unaffected by the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You're back!" says Loyhan with a wry smile. "Ready to answer a few questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Loyhan Stolls," he says, with another nod. "Census-taker and demographer plenipotentiary, by appointment of the Giash."
+
+He opens his book - leaning it back so its contents remain hidden - and pulls out a quill pen. "Might you spare a moment for a few questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hello again," Loyhan says with a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'd be happy to answer your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Can I see that book you're holding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Can I look in your census book again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I must be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Safe travels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Loyhan nods, excitedly, touches the quill to the page, and opens his mouth. "Well, ahh..." He gives an awkward laugh. "I suppose I should..."
+
+He blinks and shakes his head. With renewed enthusiasm, he begins again. "Yes, I'm sure the first thing to ask would be..." He coughs and closes the book.
+
+"Strange, very strange. Well, maybe you have some questions for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You may not," he answers. "Out of the question. Absolutely forbidden." He peeks inside it and snaps it shut again. 
+
+"As you can imagine, it is replete with sensitive personal information. The Giash vouchsafes the privacy of its citizens and, naturally, as the Giash's agent, I must do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Efimpi says you're not real, just a figment of a collective imagination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Is it really a good idea to use a leather book underwater?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The ghibra shrugs. "As you can imagine, we census takers receive all manner of imprecations. I suppose this 'imaginary' jab relates to the Chief Demographer's decision to transition us to statistical sampling methods."
+
+He waves a webbed hand, creating a slightly eddy in the water. "I assure you, every person counts! Even me," he adds, with a wry smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He glances first at the tome - whose marbled cover shows no sign of wear or tear - and then at the quill pen between his fingertips. After a moment, he shrugs. "I suppose it could be a numenera of some sort. Or maybe the leather is tanned from some sort of hydrophobic hide."
+
+He looks again from the book to the quill and then back to the book. "Strange, though," he concedes. "Truth be told, I hadn't particularly thought about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I think there might be something important in the book. Please let me look at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I really need to look inside your book."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oh, all right," he mutters. "But I'll need you to give it back to me right as soon as you're done."
+
+He hands you the book. Far from being full of personal information, it is overwhelming empty. There are only five pages that aren't blank. Each is a solid color - indigo, blue, gold, silver, and red. In the center of each is your familiar tattoo, like a deletion, an absence of color.
+
+Still, something about them draws your attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He shakes his head. "It really would be improper, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Your book is basically empty! The only pages with anything on them are just marked with my tattoo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You're a census-taker with an empty book that miraculously stays dry under water. Can't you see that Efimpi's right? You *aren't* real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Loyhan's inhuman face takes on a very human look that is part embarrassment, part relief. "Ah," he says, and then with a pop, he disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The ghibra's gills flutter in what seems to be an expression of agitation, and he clutches the book to his body. "Well, 'basically,' eh? That's an important qualification!"
+
+Then he shakes his head and groans. "Very well, I confess - I'm not even the one who filled out those entries. I think they've been here the whole time." He groans again. "The Chief Demographer will have my scales, I fear. But, truth be told, there just doesn't seem anyone to interview. Odd, isn't it?"
+
+He shrugs it off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Yes, yes," Loyhan says. "Now that you've seen it once already..."
+
+He hands you the book, which is unchanged: only five out of the hundreds of pages have any markings on them, the indigo, blue, gold, silver, and red pages with your tattoo blotting out the color in the center.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Examine the indigo page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Examine the indigo page again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Examine the blue page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Examine the blue page again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Examine the gold page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Examine the gold page again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Examine the silver page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Examine the silver page again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Return the book to Loyhan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He seems happy to have it back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Smells. Brackish water fouled with skist. Burning hair. Garbage rotting beneath the sun. It's *you* they're burning. Your feet are wet, but they're burning too, differently: they're flayed and the filthy saltwater sets your nerves aflame.
+
+Why? Why are they doing this? Through the smoke, through the pain, you see a ruined land, poisoned, stripped, murdered. The natives want you to look at a stone tablet. They gibber about a contract graven in the rock, generations ago. A trade. A promise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Pain and fire, a dead land and a dying newborn castoff; the absence of sense and justice. Nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>There is a time to question, and a time to obey. As a soldier, you know the difference - as a *friend*, even.
+
+Does she really mean to put her trust in this pedant? His study is adorned with trophies and accolades. A particularly large one commends its recipient for solving a complex fraud permeating the entire operation of the caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The study, the puzzle-breaker's trophies, and the weight of orders. Humility and humiliation are but a hair's breadth apart, but the thin line holds with discipline and obedience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Lying prone on the dune, the pale gray cloak and cowl blending with the drit, you are surely invisible to the distant caravanners. They can no more see you than they can detect the Iron Wind howling their way.
+
+They are ignorant of the line being drawn across their lives - as ignorant of the calm before as they are of the coming storm. Later, this moment will matter. 
+
+Not just for them. For the Wind can know no master, but what it sows can be reaped. Its fruits, fermented into toxins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The Iron Wind, the doomed caravan, and the dream of breaking faith with broken bodies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Across from you is a fellow castoff, a fellow officer, a fellow gambler. Eyes inscrutable. Cards impossible to guess. The other players are broke: their companies' bonuses and leave and even materiel pissed away at the table. 
+
+Tomorrow some will die for want of shield-cyphers; others will live because a captain drew a trump card. Chance. But iterate chance enough, and probabilities become inevitable. And the battle never ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Again, you are struck by the senselessness of luck, the forks of fate by which a life is eaten up, the gears that grind glory to drit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Snatch the book away from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Try again to steal the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>With a deft maneuver, you slip the book from his arm, opening it before he can react.
+
+When he sees what you've done, he's more relieved than dismayed. "Go ahead. There's no harm to be done. Just return it when you're finished."
+
+Far from being full of personal information, the book is overwhelming empty. There are only five pages that aren't blank. Each is a solid color: indigo, blue, gold, silver, and red. In the center of each is your familiar tattoo, like a deletion, an absence of color.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Just as you reach for the book, Loyhan shifts it more firmly under his arm.
+
+He doesn't seem to have noticed your attempted theft, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Actually, I'm from the Census Office, and I need to check your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Loyhan audibly gulps, but holds out the book. "I have nothing to say for myself," he murmurs. "But when you are finished, please return it so that I can fill it out further."
+
+Far from being full of personal information, the book is overwhelming empty. Each is a solid color - indigo, blue, gold, silver, and red. In the center of each is your familiar tattoo, like a deletion, an absence of color.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>For a moment, Loyhan is seized with abject panic, and his huge fish eyes seem to become even larger. Then he chuckles, wagging a finger at you - an odd gesture with his webbed hands. 
+
+"You almost had me," he says, laughing anxiously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>It wasn't you who made it. You swear it. You swore it before, as the Folk first pleaded and then howled about the 'living sphere' they grew for you, how they sapped the land's health and drove the earth below the sea to quicken the sphere.
+
+Madness. Pain and madness. Your entire life. Pain and madness and fire, a few hours, and nothing else, then it will all end. "It wasn't me! I wasn't even here!"
+
+Death without reason; punishment without crime. A legacy of ash washed away in a rising tide. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You're singing. You were *born* singing. It shifts your senses away from the smells; it shifts your mind away from the shame. You like the *doing* of it, the escape from being trapped in your own thoughts.
+
+You've seen others that he made. 'Castoffs.' Strong and fast and beautiful. Human. Even a ghibra, once, swift-swimmer, smelling of burnt copper. To yourself, in the dark, you sing of them and their lives beyond the ghetto's bounds.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Singing and longing, and chains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Examine the red page.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Examine the red page again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Vanity. The very organization of the room - not a clutter but a catalogue - is a shrine to self-love. As an officer, you disappear behind your ribbons. You obliterate yourself. This 'puzzle-breaker' has done exactly the opposite.
+
+Obedience. The order is given. Your job is to secure the services of a brilliant mind for whom no conundrum has proven insoluble. To ask, to wonder, to ponder - those are tasks for another.
+
+Let the Endless Battle end. Let the dying stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Your brothers and sisters are hard to kill. *Faith* is hard to kill. Too many of them still revel in the bodies your father 'gave' them, groveling for the half-chewed meat he's tossed away.
+
+When the flesh fails, faith will follow. No one loves a father who can't protect them.
+
+The drit begins the stir. The Wind is coming, and with it, change. You give those who lie in its way no warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You could leave, couldn't you? Any action, any change, would surely be better.
+
+But perhaps not. Every song has its place, the space that holds its sound best, where echoes and reverberations harmonize. *This* is your place. He locked you here, for better and for worse. You are your own shackles.
+
+So, you sing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>It's leave you're playing for. For you and your soldiers. Nearly every company is being sent to Ansau to deal with the Chalcedon's assault. But one lucky band will have a milk run and a good debauching.
+
+Not yours, though. The cards in your hand are low. You know your bluff will be called. Tomorrow, your grunts will be in the thick of it, and this laak-nibber will be playing nursemaid to an Aeon Priest.
+
+Luck. Dumb, dumb luck, grinding beneath it all pride and striving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I'm afraid I can't do that. It would be completely improper without the correct permissions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>These are castoff memories. There's some familiarity to them, but that's nothing new in this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>So many memories - so many *lifetimes* - trapped within this place. The weight of it is overwhelming.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

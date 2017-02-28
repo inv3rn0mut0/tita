@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5211_caron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>160</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A tall and elegant Captain of the Tears of Ny'kul stands on the steps of the Giash Chambers, watching the protesters with quiet disgust. ghibra guards are ranked behind it, at parade rest, seemingly unpreturbed by the howls of the mob. 
+
+The captain barely looks at you as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The captain continues to watch the protesters. "Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"These people destroyed a building? They're murderers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Why are the guards in the Oasis called Ny'kul's Tears?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Them or others like them. They disabled an artifact that kept an old building pressurized, and it imploded, killing all within." Its brow furrows. "I delivered the news of the victims' deaths to their relatives personally. Had I a spear for each song of grief I heard that day, I could slay every one of these fools twice over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The captain purses its lips and looks away. "This is because Ny'kul is a god of peace. Violence offends him. Therefore, when violence is necessary, Ny'kul can only accomplish it with grief and shame."
+
+It clears its throat. "He has grieved much lately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Be off with you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"For me? No. For your city. Each moment these ingrates befoul this hallowed place lessens the honor and dignity of M'ra Jolios. Let this farce continue and you will be a laughing stock. Tourists such as myself will stay far away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The captain looks back out at the protesters, gills rippling as if it smelled something foul. "You make a fair point, friend. Their presence here is an insult, to us, our traditions, and our valued guests. It cannot be allowed to continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tourists such as yourself?" Caron sneers. "I sincerely hope you are one of a kind, sir."</DefaultText>
+      <FemaleText>"Tourists such as yourself?" Caron sneers. "I sincerely hope you are one of a kind, madam."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I would like an audience with the Giash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Right this way, sir. The Giash always has time for persons such as yourself."
+
+{SCRIPT: add conditional for believing being changing god. Allowed to gain access.}</DefaultText>
+      <FemaleText>"Right this way, madam. The Giash always has time for persons such as yourself."
+
+{SCRIPT: add conditional for believing being changing god. Allowed to gain access.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Caron glares. "After making me the most hated man in Jerboa? Why would I want to do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Haven't I earned the right? After all I've done for the Oasis since I've come here? Ask them. They will see me."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I know who really destroyed the ___ building. They must be brought to justice!" [Lie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I know who really destroyed the ___ building. They must be brought to justice!" [Truth]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[playing to Caron's Affectedness.]
+
+{SCRIPT: How?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Caron gives you a look of grudging respect. "You have had your successes, ham-fisted though they've been."
+
+He sighs. "Fine, I'll announce you. This way."
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Caron gives you a disgusted look. "Your successes have made me look a failure. I'm not giving you a chance to do it again."
+
+He waves you off. "Go away. You've done enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"A lot of people have claimed that, and a lot of people lied." He gives a grudging grunt. "You do seem to have friends in low places, however. Maybe you do know something."
+
+He turns toward the entrance. "Fine, I'll announce you. This way. But I'll be keeping an eye on you."
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"A lot of people have claimed that, and a lot of people lied. You're just one more."
+
+He waves you off. "Go away. I'm tired of listening to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"A lot of people have claimed that, and a lot of people lied." He gives a grudging grunt. "You do seem to have friends in low places, however. Maybe you do know something."
+
+He turns toward the entrance. "Fine, I'll announce you. This way. But I'll be keeping an eye on you."
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"A lot of people have claimed that, and a lot of people lied. You're just one more."
+
+He waves you off. "Go away. I'm tired of listening to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Success]
+
+{SCRIPT: Allowed to gain access.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Hmmm. You have no guide. Have you an agnition stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"My stone was stolen from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I don't have an agnition stone, but I do have this fat purse of shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Caron stares, amazed. "You're trying to bribe a Captain of the Tears of Ny'kul?"
+
+It turns away, rubbing its head-fin in disbelief, then waves to the Tears. "Take this fool before he hurts himself somehow."</DefaultText>
+      <FemaleText>Caron stares, amazed. "You're trying to bribe a Captain of the Tears of Ny'kul?"
+
+It turns away, rubbing its head-fin in disbelief, then waves to the Tears. "Take this fool before she hurts himself somehow."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The captain fixes you with a slit-pupilled eye. "If you've lost your stone, go back to where you got it and apply for a new one. And if I catch you without one again, I'll have you in chains before you can invent another excuse. As you're here, however. I will answer your questions, if you have any." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The captain sniffs. "A likely story. Just another troublemaker."
+
+It waves to his men. "Take him."</DefaultText>
+      <FemaleText>The captain sniffs. "A likely story. Just another troublemaker."
+
+It waves to his men. "Take her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What do you need?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Captain Caron looks back out at the protesters, his gills rippling as if he smelled something foul. "You make a fair point, friend. Their presence here is an insult, to us, our traditions, and our valued guests. It cannot be allowed to continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>{SCRIPT: Allowed to gain access.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>{SCRIPT: Cutscene to start a riot. Player is unscathed. More soldiers die.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Certainly. Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Player (truthfully) offers to help].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Player (deceitfully) offers to help].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You have already been paid, Captain. I and M'ra Jolios's other honored guests have been paying your wages for years, one sea shell souvenir at a time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Player succeeds then slips away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Player fails.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Player succeeds really well.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Player fails. Caron forces him to help.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Riot begins with player's help.]
+
+{SCRIPT: Cutscene to start riot. Player gets hurt, but fewer soldiers die.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Caron's eye go hard at your tone, but he can't meet your gaze. "Thank you, friend, for reminding me who the true rulers of the Oasis are. I will do my duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Caron's eyes go hard at your tone. "That may be true, but no such guest has ever personally asked me to put the lives of my men in danger before. I'm afraid I will have to insist on some compensation if you want me to proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Player is extremely convincing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Caron looks squarely at you for the first time, realization dawning in his eyes. "You're no tourist. You just want to see a fight. Well, resist and I'll give you one."
+
+He waves to his men. "Arrest this troublemaker. He's trying to incite a riot."
+
+{SCRIPT: teleport to arrested state?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I don't have one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>It stiffens. The Tears come on guard. "Then you had better have a damned good reason why not."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Walking away from me again?"
+
+It waves to the Tears. "Arrest this thick headed fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>It bars your way. "Not so fast, air-breather. If you haven't an agnition stone, I'll place you under arrest. Now, have you a stone or not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"On your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Captain Caron really looks at you this time, then takes your agnition stone and examines it closely. Finally it hands it back to you. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ask me again once these fools have gone home. The Giash cannot convene until this unrest is over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Why are you letting these ne're-do-wells ruin the tranquil beauty of your city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Captain Caron's eyes widen, then he smirks over his shoulder. "Gentlemen, it seems this unsightly display of civil unrest has upset the delicate sencibilities of our honored guest."
+
+He bows deeply as his men chuckle behind him. "Forgive me,  exalted one. Shall we get rid of them for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"No no. Just making an observation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Let me ask you something else instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I thought as much." He chuckles. "Go ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I thought the Tears of Ny'kul could not be bribed.""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Who spoke of bribery? I am asking you to help offset the cost of the bandages and chiurgeon's visits and funeral expenses of those who you would send so casually into battle merely so your eyes will not be offended by the sight of *ne're-do-wells* in our fair city."
+
+He sneers. "Or do you find it only worth complaining about, but not paying for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Will this be enough?"
+
+{SCRIPT: Player offers an amount through the store interface.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"How about this much?"
+
+{SCRIPT: Player offers an amount through the store interface.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Now who's being insulting? Want to try again?"
+
+{SCRIPT: PC did not meet correct bribe amount.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Captain Caron smiles. "That is most generous. My men thank you."
+
+{SCRIPT: PC met correct bribe amount.}
+{SCRIPT: Raise in Gold tide?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>It draws its cudgel and motions to the Tears to do the same. "Excuse me, please. I have some tranquil beauty to restore."
+
+{SCRIPT: Riot cut scene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"If they have done such terrible things, why are you allowing them to hold this demonstration?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The captain squares its shoulders. "Because, when I wear this uniform, what I know in my heart is not enough. I must have proof, and I do not. I believe they did it. I do not *know* they did it. Until I do, I wait and watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The captain watches you as you approach."Ah, it's you. You're the one who talked the Jerboans into going home. Thank you. Saved me a lot of blood and ill will. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Protest over. PC convinced the protesters to riot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The captain watches you as you approach, less than happy to see you. "You again. The one who goaded me into driving off the rabble. I hope you're happy with the results. It cost *me* blood and lives and the ill will of Jerboa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Caron shoots you a sharp look, then returns its focus to the protesters. "Not exactly the time for pointless questions, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You think this is mere unrest? Compatriots lurk in the crowd. They mean to do to the Giash chamber as they did to the Atolyu Cay. Act before it's too late!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The captain turns to you, taking you seriously at last. "This is true? You heard them say it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Caron gives you a hard look. "Now I know the sort of tourist you are. The kind that wants to see the natives fight."
+
+It waves you away. "Move along before I have you arrested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Caron gives you a hard look. "Now I know the sort of tourist you are. The kind that wants to see the natives fight."
+
+It waves to the tears. "Arrest this trouble maker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I did. They are mustering their courage for an assault as we speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Forget it. I probably misheard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"This is a bad time to be making jokes, friend." It turns away from you. "I hope you're finished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The captain glares out over the crowd, hesitating, then grunts. "Better safe than sorry."
+
+It draws its cudgel and motions to the Tears to do the same. "Excuse me, please. I have some tranquil beauty to restore."
+
+{SCRIPT: Riot cut scene.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Caron gives you a hard look. "Now I know the sort of tourist you are. The kind that wants to see the natives fight."
+
+He waves you away. "Move along before I have you arrested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Caron gives you a hard look. "Now I know the sort of tourist you are. The kind that wants to see the natives fight."
+
+He waves to his men. "Arrest this trouble maker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I would like an audience with the Giash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Haven't I earned the right? After all I've done for the Oasis since I've come here? Ask them. They will see me."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I know who really destroyed the ___ building. They must be brought to justice!" [Truth]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Never mind. I'll be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Carry on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Before you can defend yourself, Caron's sergeant touches a disk on its belt and the water pressure around you increases tenfold, crushing every part of your body, inside and out.
+
+As you convulse, the guards bind your hands and feet. Then, just before the pain becomes unbearable, the sergeant touches the disk again and you feel a wave of relief.
+
+"If you want more of that, just try something."
+
+The guards float you away like a sack of garbage.
+
+{SCRIPT: Conversation ends. Transition scene to Marina (if Giash is not in session) or Giash (if they are).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Why are the guards in the Oasis called Ny'kul's Tears?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"What are these people protesting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Remind me why these people are protesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>The captain sighs. "Nature, as far as I can tell. They are angry that they are not allowed to live in the Oasis, even though, without artificial gills, they would drown here. Indeed, they are so angry about it they destroyed one of our buildings and killed the people within it. This does not incline me to believe they would be productive members of our society."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"They want to live in the Oasis, even though they can't breath here without artificial gills. They don't seem to see that by not allowing them to live here, we are saving them from drowning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I would like an audience with the Giash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Right this way, sir. The Giash always has time for persons such as yourself."
+
+{SCRIPT: add conditional for believing being changing god. Allowed to gain access.}</DefaultText>
+      <FemaleText>"Right this way, madam. The Giash always has time for persons such as yourself."
+
+{SCRIPT: add conditional for believing being changing god. Allowed to gain access.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The captain shakes its head. "Sorry, they're busy ghibra. Unless you have a compelling reason to see them, they don't have time for social calls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Isn't ending the protest peacefully enough? They wouldn't be in session if not for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Isn't ending the protest peacefully enough? They wouldn't be in session if not for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I have new information about the destruction of Atolyu Cay. Without it there will be a miscarriage of justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I have new information about the destruction of Atolyu Cay. Without it there will be a miscarriage of justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I know who really destroyed the Atolyu Cay. I want to see them brought to justice." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>The captain nods. "True enough. You've allowed the wheels of justice to resume their milling."
+
+It turns toward the doors. "Fine. Let's go see what they say."
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>The captain shrugs. "They would have dispersed on their own in a day or two even if you hadn't helped. I'm afraid that's not good enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Now *that* is a compelling reason. I just hope you're telling the truth."
+
+The captain turns toward to doors. "This way. I'll let you make your case."
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The captain shakes its head. "Sorry. We've had plenty of fools come forward, claiming to know who did it, and everyone of them a liar."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Now *that* is a compelling reason. I just hope you're telling the truth. We've had a lot of people claim to know, but they were liars."
+
+The captain turns toward to doors. "This way. I'll let you make your case."
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The captain shakes his head. "Sorry. We've had plenty of fools come forward, claiming to know who did it, and everyone of them a liar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Why are the guards in the Oasis called Ny'kul's tears?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Caron thinks for a moment, then motions around him. "We live within the Eye of Ny'kul, and Ny'kul is a god of peace. Violence offends him. Therefore, when violence is necessary, Ny'kul can only accomplish it with tears. We are those tears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Why are you letting these ne're-do-wells ruin the tranquil beauty of your city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Tell me again why you're allowing this protest to continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The captain's eyes widen, then it smirks over its shoulder. "Tears, it seems this unsightly display of civil unrest has upset the delicate sencibilities of our honored guest."
+
+It bows deeply as the guards chuckle. "Forgive me,  exalted one. Shall we get rid of them for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Tell me again why you're asking. Do you want us to remove them for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"We aren't. That is a Jerboan translation of our true name. Tears are a foriegn concept to those who live in water. Our true name is closer to the Grief of Ny'kul, or the Shame of Ny'kul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The captain nods as you approach. "You're back. Now that the rabble are gone, I can give you my attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>A tall and elegant Captain of the Tears of Ny'kul stands on the steps of the Giash Chambers, surveying the empty square. ghibra guards are ranked behind it, at parade rest. It barely looks at you as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Why would I need an Agnition Stone? I'm the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Caron looks at you again, squinting askance at your tattoo, then turns to one of the Tears. "Inform the Giash that someone fitting the description of the Changing God is here."
+
+{SCRIPT: The Giash wants to see PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>The guard salutes and runs through the front door while you and Caron wait awkwardly on the steps. A few minutes later, the guard returns and salutes again. "The Giash says to show him in, Captain."
+
+Caron nods and beckons for you to follow. "This way."
+
+{SCRIPT: Transition to the Giash chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Caron gives you a flat look. "That won't swim, I'm afraid. The Giash specifically said they don't want to see you."
+
+It clears its throat. "Now, about that stone...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Why didn't you ask me for an Agnition Stone before?"
+
+{SCRIPT: PC had no guide when he spoke to Caron during the riots.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"During the protests? I was a little preoccupied." He folds his arms. "But I'm asking now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Very true. And a most impressive feat, by the way. They're talking about it all over the Oasis."
+
+The captain's proud face softens. It turns toward the doors. "Follow me. I'll put in a good word for you."
+
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Every other person who has come to me about Atolyu Cay has accused someone of doing it. You are the first to put justice before blame. Very admirable."
+
+The captain turns toward to doors. "This way. I'll let you make your case."
+
+
+{SCRIPT: Transition to the Giash Chamber.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Do you know if any women who died in the collapsed building might have left a young orphan behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>It frowns, thinking back. "I only remember one female young enough to have been a recent mother. Her name was Amaht A'luma, but there was no record of her having a child. I would have sought it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Do you know if anyone who died in the collapsed building left an orphan behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>It sniffs, impatient. "I'm afraid I cannot answer your questions at present. This protest is simmering, and I must watch that it does not boil over. Find me again when these fools have dispersed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>A tall and elegant Captain of the Tears of Ny'kul stands on the steps of the Giash Chambers. As you approach, Matak balks and backs up. "What are you doing? I cannot be seen by these goons! Turn around. Quickly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Continue toward the Captain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Turn away from the Captain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Matak breathes a sigh of relief. "Whew! A close call."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Matak backs up, then turns to run. "No, fool! I will not suffer their predations again. I see I cannot trust you. I must flee!"
+
+{SCRIPT: Matak leaves party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>As you start to speak, he looks at you again, then holds up a hand. "Wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>It looks you over, frowning. "You certainly match the description, but that makes no difference to me. As far as I'm concerned, the Changing God is just another air-breather. Show me a stone or face the consequences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>As you start to speak, Caron looks at you again, then holds up a hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Come, let's get away from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Mad! All outsiders are mad!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"An unwarranted one. Is this the *only* tourist attraction you could find? There are others, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You have no guide. Have you an agnition stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

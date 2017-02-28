@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3111_motley</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Stunted and piebald with a large, hairless head, this humanoid reminds you of a court jester. But unlike those half-wits, his wide violet eyes sparkle with cunning and intelligence, and you wonder what's going on in his large dome. "You there! Halt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Why did you come here?" Several people sit bound and beaten along the far wall, surrounded by corpses. At second glance, some of those who are sitting upright may themselves be dead, as well. The man in front of you moves to block your view of them, stepping closer and lowering his voice to a growl.
+
+"Well? Answer me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Why did you come here?" A large number of corpses are strewn across the floor and against the far wall. He moves to block your view of them, stepping closer and lowering his voice to a growl.
+
+"Well? Answer me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Motley watches you approach, a sour smile pulling at the edges of his lips.
+
+"Well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Motley clasps you warmly on the shoulder. "Any luck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"My mistake. I'll just be leaving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Klin'Kar sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Kiyatawa sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm looking for some Memorialists that came this way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wait." He looks you up and down in wonderment, noting your armor and weapons. "We could use someone like you. We've been locked out of a place that's very dear to us, and we've had to resort to such unfortunate measures in our attempts to seek a resolution." He steps back, giving you full view of the bodies along the far wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"We don't want to do this," he murmurs. "It's against our nature. Help us find another way. Help us stop the bloodshed." He puts a hesitant hand on your arm.
+
+"Please," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Who's tied up over there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why are there so many bodies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What do you need me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Tell me more about this conflict of yours first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Where are you trying to get to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I'm going to have to think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He glances behind him and grimaces. "Have you ever been betrayed by a false friend, someone whose every promise is a lie?" He searches your face for an answer.
+
+"Of course you have. It's the nature of this cruel world we live in. And so often, it seems, when we need help the most, Fate abandons us..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He rubs the back of his neck and looks away. "Sometimes this world can just beat you down again and again until you don't think you'll ever get back up. I confess, in my desperation, I..." He seems unable to go on, overcome with regret.
+
+"I just needed one of them to help me. Someone, anyone, to give me a helping hand. If only..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Attack] "I've seen what you've done to this valley. You all deserve to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"As you will it!" the pudgy man snarls. He backs away, calling to his comrades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Children! To me! We must protect Lord Inifere!"
+
+{TUSSLE: Klin'Kar and goons may be here if Klinkar_resolution=2, otherwise not. PCKilledCultists var needs to be set if killed cultists in combat.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He looks around, comprehension dawning on his face as he takes in the room and its contents.
+
+"It's not what you think," he says fervently. "We were just defending ourselves, trying to reclaim what small part of this world Fate has seen fit to cede us. It never would have come to this if we'd only had someone to help us explain..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He bows his head. "Of course. I understand. But I will have to ask that you respect the necessities of our position and only return once you've made your decision. Is this acceptable to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Will you let me kill the rest of the prisoners once we're done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He studies your face carefully.
+
+"Are you certain? The path of inaction is the one you choose to take?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What's the hold up?" a woman with white hair calls. "We gonna scrag 'em or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Patience, Jaelyn," the man says, holding up a hand for silence. "Our friends here are just deciding whose side they'd rather be on." He turns his attention back to you.
+
+"Well, what do you say? Are you that set on working against us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hold on. Let's talk more first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'm afraid so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Attack] "Definitely. You deserve to die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He breathes out heavily and smiles. "Of course. The sooner we resolve this, the sooner we can all go about our lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>All semblance of friendliness leaves his face, the mask of the well-meaning man falling away so completely that the person in front of you seems alien by comparison.
+
+"As you will it," he snarls. "Your body will feed the Gate as well as any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Actually, let's keep talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He bows his head. "I'll see you out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"One of our martyrs is entombed here. We make a habit of leaving offerings for him daily, but since the Memorialists locked us out we haven't been able to reach him." He sighs heavily. "I understand that some people don't see spirituality as a need or an obligation, but for some of us it's as vital as breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>A strange light kindles in the man's piggish eyes. "That could be arranged. If you would be willing to give the bodies over to us afterward." He pats you paternally on the arm. "We'll talk about it later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Where to begin?" He falls quiet, considering. "We came to the Valley quite recently, called here by the voice of our Lord. We hadn't heard from  him in many years, so naturally we were anxious to be reunited with him." He smiles briefly. "Not in the physical sense, of course, but in spirit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"We arrived and set about consecrating those elements of our faith that had been unable to make the journey with us. We had just re-established contact and were in a state of communion when this group - the Memorialists - deemed our faith..." He bows his head quickly. "Undeserving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Who are the Memorialists?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"They - or, more accurately, a lady named Talira - locked the controls that allowed us to visit the tomb of our savior. We've been trying to negotiate with them since, but it seems they respond to nothing less than physical harm." He shakes his head. "My people are good people. None of us want to be here, and none of us want to hurt anyone. We just want to be left alone to practice our faith." He falls silent, staring at the locked pedestal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"That Dendra child?" the man hisses, his face flushing deep red. "She told you about us?" He runs a hand across his bald pate. "Of course she did. It's exactly the kind of behavior I should have expected."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Rest assured, I will be speaking with her on the virtues of secrecy," he says darkly. "As soon as we have regained our access to Lord Inifere. I'd wager she's whispering secrets to him as we speak." The color of his complexion deepens.
+
+"We must access the Gate, now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"She clearly knows better than to show her face around here." He barks a short, mirthless laugh. "It may be the smartest decision she's ever made." He looks you up and down, noting some aspect of your demeanor. "Still, perhaps she saw something in you that has yet to be revealed. Lord Inifere will know." He gestures uselessly at a pedestal behind him. "But first we must regain access to the Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Still, your arrival is fortuitous," he says, eyeing your weapons and armor. "We need someone who can walk among the Memorialists unrecognized. Without such a person to help us, we will never regain access to the Gate and Lord Inifere." He gestures at a nearby pedestal in frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Welcome back." Motley's smile is tentative and hopeful. "Have you decided that you can aid us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He speaks slowly, weighing each word. "They're a splinter religion. I wouldn't say a cult, but..." His eyes drift to the woman leaning against the far wall, her hands and feet bound with thick cords. "They believe this world is the afterlife, and that if each person could remember who they were, it would become a paradise." His half-smile dares you to laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He speaks slowly, weighing each word. "They're a splinter religion. I wouldn't say a cult, but..." His eyes drift to the bodies arranged along the far wall. "They believe this world is the afterlife, and that if each person could remember who they were, it would become a paradise." His half-smile dares you to laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Naturally, they don't regard human life too highly. The fewer people there are who have yet to remember, the fewer people they need to convince." He shrugs eloquently. "Couple that with occasional outbreaks of violence within their own ranks and you have a broad overview of their philosophy. You can see why we had to restrain them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I imagine whoever sent you spun a tale of darkness and fates worse than death?" He shakes his head. "I've heard it from tens of other good souls who wanted to vanquish the evil coiled in the belly of the Necropolis. It gets a little tiring, if I can be the one to say so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"She," he points at a woman near the far wall who's bound at both wrists and ankles. "She's the one who started all this. She locked the pedestal, she locked us away from our most sacred site, and for what?" He turns to you, a pained expression on his face.
+
+"All because we follow a different ideology. Theological differences should never be settled by blood! Help us. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Some of them, we had to put down." Hesitantly, he steps aside, giving you full view of the bodies along the wall. "Those three," he points at men wearing armor instead of robes, "happened upon the lady there and were taken in by her lies. They refused to desert her, even when her deception was made clear." He turns to you, a pained look on his face.
+
+"All because they locked us away from our most sacred site. Theological differences should never be settled by blood! Help us. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"What do you need me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What's with the prisoners?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Where'd all those bodies come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Who's the lady?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What this one says is true," Klin'Kar admits, stepping forward and fixing the man before you with his gaze. "I had thought they could be of assistance, since they proved themselves sympathetic to our cause." The man turns to look at him. Klin'Kar retreats. Nevertheless, the tension in the room abates somewhat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Did he now?" He regards you with a dead gaze, devoid of curiosity. "How very kind." He considers you in a long, unbroken silence. Eventually, he turns to look at a nearby pedestal instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You'll forgive me if I test your sympathies a little further," he murmurs. "One can't be too careful these days." He gestures to the pedestal behind him.
+
+"That spherical lock was placed there by our enemies, the Memorialists. They're rather narrow-sighted, and don't see the value in what we do. If we regain our access to the Gate, we can show them firsthand." He smiles. The effect is not reassuring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Maybe later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I need you to figure out the word that codes the whisperlock. Unfortunately," and here he scowls, "none of the prisoners saw fit to talk. You'll have to find your own Memorialist to question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I need you to figure out the word that codes the whisperlock," he says, watching your face closely. "We've tried asking them, but, well..." With a shrug he indicates the bodies - and living prisoners - along the far wall.
+
+"They've been less than cooperative. Maybe you'll have better luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What did you need me to do, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Does 'the name of the ceturl prince' mean anything to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"The password is 'Guni.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Don't keep me waiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Is it?" He regards you shrewdly. "It could be a trap. In that case, better you than me. Go try it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I'll be sure to tell Lord Inifere of the assistance you so competently provided."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"No. Should it?" He raises an eyebrow. "Let me be clear. I'm not interested in the process, only in results."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Get the whisperlock key word from one of the Memorialists. I don't care who or how."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Who are you, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Have I not introduced myself yet? My name's Motley. The two friendly ladies are Jaelyn and Isalu. They're my right and left hands, respectively." He raises his own hand pre-emptively. "And please, no jokes about which of them gets to wipe my arse. We've heard them all before. Trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'm Motley, the white-haired one is Jaelyn, and the quiet one is Isalu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He turns to look at the people ranged along the wall. Then he turns back to you, clearly dismissing them.
+
+"She set the whisperlock, and the others helped her. She's a Memorialist, they're blundering fools without a wit to share between them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"She's the one who set the lock." Dim hatred burns in the man's piggish eyes. "We saved her for last, but she won't talk. I'd admire her, if she wasn't in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"All over. But if you mean to ask why they're here, the simple answer is that they stopped us from getting what we want." He smiles grimly. "They don't have that luxury anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What's this Gate you mentioned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He steeples his fingers in front of his mouth and regards you for a few moments before replying.
+
+"The Endless Gate is the symbol of our search for life everlasting, beyond the unholy prison of our flesh. Lord Inifere resides wthin, and it is through him that we come to know the will of the Faultless Ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What's going to happen to the prisoners once this is over?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"They'll be released, naturally. Their suffering will end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He puts a hand on your arm, gently restraining you.
+
+"You don't want to make enemies out of us," he says quietly. "No matter what you hear or say, remember that we hold the power here." He looks into your eyes, searching for something. Then he nods and lets you go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Do you know anyone named Choi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"No, but it sounds like an old name. We have little interest in the dead, unfortunately. You could try asking Oddwald the Sane, though the asking may require extreme patience. We last saw him in the tomb reached by the code 5-1-4-3."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Of course, if we ever get the terminal unlocked again, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sure. I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Excellent!" He claps his hands together, smiling with utter contentment. "Do you have any further questions before you set out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I can get you access to the gate, but only if you leave so I can work in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I still think you should leave so I can do what needs to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Motley regards you for a long moment. Whatever he sees must please him, because he gives you a curt nod before calling to his companions.
+
+"Isalu, Jaelyn, let's give our new friend here some breathing room." They file toward the entrance, where Motley turns to address you once more.
+
+"Don't waste my time." His shadow blocks the sunlight for a moment, then is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You're bold for one so unlearned in our ways." He bares his teeth at you, neither a smile nor a grimace. "I serve Lord Inifere, not you, and I will stand where I see fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"It's not going to happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"What do you need me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What do you need me to do again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Get the whisperlock key word from one of the Memorialists. I don't care who or how."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I work better alone. Could you and your people possibly wait outside?"
+
+{SCRIPT: Should be one step easier for Dominant Indigo.}
+
+{ADAM: Right now this is kind of dumb. Marked Should Not Play until/unless we can think of an alternative way to talk them out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'd really prefer it if you and your people could wait outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>He regards you for a long moment. Eventually, he smiles.
+
+"Sure, we can do that. Isalu. Jaelyn." He jerks his head toward the entryway and they obediently file out. Motley follows them, but pauses in the doorway.
+
+"Don't waste my time." His shadow blocks the sunlight for a moment, then is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I'm afraid that's simply not possible." He grimaces, running a hand over his bald head. "See, Memorialists have a way of twisting people's ideas to their own ends. I'd hate to see you manipulated so egregiously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I don't feel comfortable leaving you with Talira. I'm sorry, but I hope you can understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"What do you need me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What do you need me to do again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>As consciousness flows back into your mind, you hear the cultists around you gasp.
+
+"He's like Lord Inifere!" The woman's whisper carries reverence, jealousy, and pity in equal parts. You open your eyes to see Motley peering down at you. He startles and back away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I'm sorry, my Lord! I did not know!" he protests, falling to his knees with bruising speed. Jaelyn and Isalu quickly follow suit.
+
+"Forgive us!" Motley presses his hands to the stone in front of him and bows his head, exposing the back of his neck.</DefaultText>
+      <FemaleText>"I'm sorry, my Lady! I did not know!" he protests, falling to his knees with bruising speed. Jaelyn and Isalu quickly follow suit.
+
+"Forgive us!" Motley presses his hands to the stone in front of him and bows his head, exposing the back of his neck.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You are forgiven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Since you failed to kill me, it seems you owe Lord Inifere a death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Break his neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Wordlessly, the three of them scramble to their feet and flee the chamber. You can hear their footsteps echoing from the valley walls as they run away.
+
+{SFX: Running footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Motley stares up at you in dumb amazement.
+
+"Truly?" He regains his feet, brushing the dust of the Necropolis from his robe with chagrin. "You are far more lenient than our Lord. Perhaps we can serve you as well, some day. At the very least we could introduce you, if we are ever abe to see him again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Motley's head jerks as if he's been slapped. He rears back onto his heels and snaps his fingers at the two women behind him.
+
+Without a word, Isalu draws one of her daggers and plunges it into Jaelyn's chest. With barely more than a sigh, Jaelyn collapses to the floor, enshrined in a rapidly growing pool of her own blood.
+
+"I hope we have pleased you, my Lord," Motley simpers. "Now if you would help us regain access to the gate..?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The force of your blow shatters the vertebrae in his neck. He slumps forward, head resting on his outstretched arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>He regards you for a long moment. Eventually, he shrugs.
+
+"Sure, we can do that. Isalu. Jaelyn." He jerks his head toward the entryway and they obediently file out. Motley follows them, but pauses in the doorway.
+
+"Don't waste my time." His shadow blocks the sunlight for a moment, then is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ah, but we know her lies better than you. What better way to navigate her treachery than to have us by your side to steer you toward the truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I don't feel comfortable leaving you with Talira. I'm sorry, but I hope you can understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I would prefer to speak with the prisoner privately. Could you give us a little space?"
+
+{SCRIPT: Should be one step easier for Dominant Indigo.} 
+
+{ADAM: Right now this is kind of dumb. Marked Should Not Play until/unless we can think of an alternative way to talk them out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I still think I'll get more information out of the Memorialist if you and your people could wait outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Start Tussle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[DEBUG] Go back outside so the neo-minnim will appear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Isalu and Jaelyn stare at you in slowly mounting horror. Jaelyn is the first to her feet, but Isalu is quicker to reach the entrance. She shoulders the other woman aside as the two of them flee the Necropolis, their frantic footsteps echoing from the valley walls as they run.
+
+{SFX: Running footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Isalu stares at you in slowly mounting horror. She leaps to her feet and flees the Necropolis, her frantic footsteps echoing from the valley walls as she runs.
+
+{SFX: Running footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Jaelyn stares at you in slowly mounting horror. She leaps to her feet and flees the Necropolis, her frantic footsteps echoing from the valley walls as she runs.
+
+{SFX: Running footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Do you know anyone named Choi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Who did you say I could ask about the name Choi again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"No, but it sounds like an old name. We have little interest in the dead, unfortunately. You could try asking Oddwald the Sane, though the asking may require extreme patience. We found him in the tomb reached by the code 5-1-4-3."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Try asking Oddwald the Sane. You can use the code 5-1-4-3."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"What's going to happen to the prisoner once this is over?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"She'll be released, naturally. Her suffering will end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Attack] "Everything about this is wrong. It ends *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[DEBUG] Stop talking to Motley and explore the Necropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_cortex_room_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Though multiple well-polished locks line the edges, you can't help noticing that this door isn't quite as thick as the others you've seen here, and a soft, buzzing hum rises from within it.
+
+A complex control panel - or possibly another lock - is in the wall beside the door. The buttons are marked with symbols you don't understand, and the light behind them flickers like a candle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hello? Do not touch the door, please. No outworlders are allowed in the Cortex Chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The ancient door is still locked tight. The control panel beside it flickers with a sizzling sound. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The ancient door is locked tight. The control panel beside it flickers with a sizzling sound. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Use the control panel to open the door. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Try again to use the control panel to open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You tap the symbols at random, noticing that the light behind them goes out when you hit certain buttons in sequence. Clicks and mechanical *snaps* sound within the door as you work, glancing back occasionally to be sure you haven't been discovered.
+
+With no warning, the door opens. With a sizzling *pop*, the panel goes utterly dark, and you smell burning wires. You won't be closing this door again, it seems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You tap a few buttons, but you can't make any sense of the complex panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Break through the door. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try breaking through the door again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You ram your shoulder into the door. Sparks explode around you and the door gives way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You ram your shoulder into the door. Metal screeches beneath your blow but does not give way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Hold the broken lascar helm up to the panel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[A cheerful melodic tone sounds as the helmet is held in just the right place, and the door slides open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Leave the door alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Do not touch the door, please. The Cortex Chamber is not for outworlders. Apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pardon. Do not touch, please," Genjes says. A note of irritation has entered his voice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Trigger Conv Node 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Script Node 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Script Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Outworlders! I warned you. Anhalu vor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Genjes is right there, kid. Be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Do contain your curiosity, dear," she murmurs. "Genjes is watching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"We should see what's inside," Erritis says thoughtfully. "But maybe not while Pilot-Major Genjes is here. Something tells me we should wait until he's gone."
+
+He frowns. "It might be that he told us not to touch it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Genjes is still watching us, sibling. Be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Pilot-Major Genjes does *not* look happy that we're close to the door again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I thought we'd find our way back here," Tybir murmurs. "But Genjes is watching. Be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[One or more companions confirm that past this door is the Cortex that you need to get to, and comment that it'll be impossible to do with Genjes just standing there.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"We won't be getting in there so long as he's around," Aligern mutters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"This door is under his watchful eye, dear," Callistege whispers. "We'll have to get him away from it somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I don't think he's going to let us in," Erritis whispers, outraged. "We should either break the door down or," he grimaces, "find a way to distract him. With *trickery*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"We won't be getting in there so long as he's around," Matkina mutters. "We have to distract him somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I don't think he's going to let us in there," she whispers. "What a shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Well," Tybir mutters, looking to the side. "Seems as though we'll have to get him away from this door somehow, doesn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Script Node 40</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

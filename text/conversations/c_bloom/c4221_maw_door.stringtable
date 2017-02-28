@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_maw_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you tug on the heavy door, a panic-filled male voice calls out to you. "Hello? Is someone out there? I know you're not murdens - I can't feel their blasted mental noise, and by all the gods I hope you're friendlier than they are. Please! You have to help me! For the love of everything you hold dear, please open the door!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Unlock the door with the key you took from the murden chief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Pick the lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bash the door down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Walk away from the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"My friends call me Shinwise. Please... I don't want to die. Open the door!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What's trying to kill you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>With a click, you unlock the door, and it grumbles open, revealing an emaciated man in tattered rags, a look of profound shock and fear on his face. Behind him, blood and bones litter the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You jiggle the tumblers and scrape around inside the keyhole, but this lock is more cunningly constructed than you expected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You throw your shoulder into the door... once, twice, and again. At last, you hear the locking mechanism snap. You grab hold of the door and it groans open, revealing an emaciated man in tattered rages, a look of profound shock and fear on his face.
+
+Behind him, blood and bones litter the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Several times, you throw your weight into the door. You're surprised to discover that it is far heavier than it looks, and it refuses to yield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I don't know - I don't *know*! Tentacled things that hang around the edges of the room. There's blood and bones all over the floor. The murdens threw me in here, locked the door behind me. I think I'm supposed to be some kind of sacrifice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Script Node 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I can hear something moving in the walls. It's coming closer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I can hear you out there! Please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hello? Hello?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to pick the lock again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to bash the door again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You hit the door just right, and the locking assembly bursts from its cage of wood and Bloom-flesh to shatter open on the floor. Inside the wreckage of the lock, you find an interesting device. You slide it into your pocket and pull open the now-lockless door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Summoning all your strength, you throw yourself at the door. Somehow you misjudge both the distance and the tensile strength of the door, because instead of getting your shoulder into it, you bounce your head into it instead. You stagger back and try to convince yourself that the wet trickle you feel is perspiration.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The door grumbles open, revealing an emaciated man in tattered rages, a look of profound shock and fear on his face.
+
+Behind him, the room is filled with mostly-devoured bodies and jagged bones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>For all the jiggling and tumbling and poking around with the lock, you have come no closer to opening the lock. In fact, as you grow more frustrated, your tools manage to break one of the pins inside the assembly. You won't be able to open the door like this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Your deft fingers manage to disassemble the lock assembly entirely, and find something interesting inside. You pocket it, and then you heave on the door.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>An emaciated man, clad in dirty tatters, staggers from the room. Behind him, you see a Maw of the Bloom, its tendrils questing for the unfortunate soul whom you have just freed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Trigger Conv Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You hear frantic shuffling on the other side of the door.
+
+"You're back! Please let me out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Please! Don't leave me in here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bloom-flesh has grown over the edges of the door, holding it firmly in place. After a moment of struggling, you return your attention to the monsters bearing down on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Script Node 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Script Node 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Once again, you're unable to open the lock. The mechanisms are old, but they're cleverly made.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You slam into the door again, but you only manage to bruise your shoulder. The door holds firm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Help! Let me out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

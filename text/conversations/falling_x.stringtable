@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\falling_x</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A distant howling fills your ears, louder with each passing second. You can feel hands grasping and tearing at the membrane that protects you. Darkness fills your mind, and an aching cold begins to set in your bones. You realize that your eyes are closed, and they open sluggishly at your command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Look around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Look at myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A white-pink, fleshy envelope surrounds you. Even as you look, you see it begin to tear, and the howling wind forces its way inside. The cocoon rips away, spinning you into a dizzying tumble. You catch a glimpse of a curved horizon, and the ground beneath you that is approaching deceptively quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try to arrest the fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Look at the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Try to stabilize myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You are spinning too rapidly to get a good look.You *can* make out a singular landmass, a vast body of water, and scattered archipelagos, but the detail eludes you. A deep black night is above you, its nocturnal clarity disappearing as the haze of atmosphere envelopes you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

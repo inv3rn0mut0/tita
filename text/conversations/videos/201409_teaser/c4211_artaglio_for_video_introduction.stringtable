@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\videos\201409_teaser\c4211_artaglio_for_video_introduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[8A8A8A]The features of this once-handsome man are sunken and splotchy, the face of anxiety and drink, evidenced by the flagon in his hand. Any cheer that might have lived in his rosy face has fled, replaced with frequent, nervous glances over his shoulder. Following his gaze, you see a Maw some distance away. He looks you over, his eyes lingering on your castoff tattoo.
+
+He takes a slow, deliberate drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Come looking for soldiers, have you? You've found us. Want a kingdom overthrown, a tomb robbed, a caravan guarded? I'd tell you that if you had the shins, you'd have your mercenaries... but then I'd be lying, and I *hate* to lie. We gave up the mercenary business after we deserted the Endless Battle." He looks at the nearby troops. "We want no part of your castoffs' wars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Lore: Civilization] He grimaces, his face showing his age as he does. "It was a tattered old rag, to be sure. But the troops were attached to it. Must come from marching under its flutters and seeing so many of their friends dying under it. Does strange things to a person's mind." He drinks again. His gaze shifts nervously to the maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Some thieving murdens stole in here the other night, raiding us for food, weapons, and shins. They didn't get away with much, but they managed to swipe our standard. I think it was a personal insult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Can't you send your troops after them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I don't even know where they've gone." [8A8A8A] He swallows another drink and spits. [FFFFFF]"Just one more thing the Bloom has taken from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"This? This is Astarian rum, one of the finest and deadliest concoctions I've found in my travels across this land. It's like being smothered in a blanket of soft fur and drowned in love. It can strip the gloss off just about any material you care to name, too." He takes a hefty swig. "And it's not for the weak. Want some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Drink some rum. [Might]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Success] It burns on the way down. He wasn't kidding about its harsh qualities, but failed to mention the acrid sting it puts in your nose. Tears spring to your eyes, but you manage to swallow it all.
+
+Artaglio beams broadly. "Have another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Absolutely." Drink more rum [Might]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>It doesn't go down any easier than the first. In fact, it's a little tougher. But you manage to choke it down, and though your stomach rebels, you're able to keep it under control.
+
+"Most people can't drink one mug, let alone two. Even these brave soldiers - " he gestures to the crowd around him, irony inflecting his voice, " - even these mighty warriors find it hard going. But you? I challenge you to match me, and I'll match you. Put that vaunted castoff constitution to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Critical Success] You remain unaffected by the alcohol, but Artaglio is slumping further and further toward the ground. He drops the last couple of feet in an instant, knocking over his cup. His troops hoot and holler, and they cheer your success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He gathers himself at last, pulling himself from the ground, and says, "Castoff, you are better than any other of your kind I've ever met. From this day forth, we are mug brothers. Mug brothers! You get one favor from me - ask quick, before I forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Then do me a favor and stop whining about the Maw. Go confront it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>(Truth) "Then tell me where Skoura is so that I can protect her from the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>(Lie) "Then tell me where Skoura is so that I can protect her from the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Then give me your transdimensional rapier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Farewell, Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Which segment do you want to go through?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Artaglio Intro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Drunk Artaglio Persuade (Obsolete)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He bursts out laughing. "You are truly the soul of wit." He takes another hearty gulp of rum, and his brow furrows. "You're also dead right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He shouts to his cohort. "My dear fellows! Your leader wishes you to know that he is not, in fact, a mewling craven! It's time to show the Bloom what *Artaglio* is made of!"
+
+His troops stare at him, aghast. They clearly don't want to disagree with their condottiere, but they also recognize that this is pure foolishness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You think you can match me? I doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You've had trouble with murdens before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Why not steal it back yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Artaglio's Standard Persuade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"If you fought in the Endless Battle, where is your company standard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Why do you keep looking over at the Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You again? What do you want now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I think you're missing something." Give him back the company's standard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The conversations around the Slump die down. Artaglio's soldiers look at you, at each other, at their commander, and at the standard that Artaglio takes from you. He unfurls it reverently, momentarily taking his eyes from the Maw. The standard is stained from the murdens' trash heap, bloody, and torn, but he holds it as if it were an infant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>His face and voice lose their ironic, cynical edge. "I am in your debt, castoff. Name your price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I ask you to face the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I ask you and your soldiers to pledge allegiance to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"A fat purse of shins should suffice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me *everything* you remember about the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I ask for nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"OK, I'll do that." (Error node)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"No thanks." (Error node)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'll call in that debt another time. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He stiffens noticeably, and the good cheer drains from his face. His eyes sharpen, no sign of drink in them now, and he studies you carefully to see if you jest with him. He looks around at the soldiers, who have fallen silent, and he sighs.
+
+He stands. "My soldiers! Watch now: this is how to face your fears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>He walks to the Maw, and it trembles in anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Because it'll get someone killed? Either the murdens thought it was important and they're currently offering it their worship, or they thought some foolhardy merc would try to retrieve it and they'd get a hot meal delivered to their door. No matter what, someone dies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You should not be seeing this because Matkina should have an interjection here. Perhaps you neglected to add her to your party?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me about 'Artaglio's Irregulars.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me why you deserted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"This doesn't hurt at all. It's like the Bloom is shuffling through my memories..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Why was I so afraid of - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[8A8A8A]He grimaces, his face showing his age as he does. [FFFFFF]"Some thieving murdens raided us the other night and lifted our standard. It was a tattered old rag, but... the troops marched and bled under it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[E00000][Red Tide rises slightly] [FFFFFF]"A fool's errand. The murdens are probably hoping that I'll go after it, and I don't intend to deliver a hot meal to their nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"A fool's errand. The murdens likely thought they'd lure some of these mercs over to retrieve it. Pretty clever for those beasts, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Artaglio raises his glass in a toast. "And *you're* pretty clever, for a castoff. Personally, I'm not in the hot-meal-delivering business, so I've told the troops to let it go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"We're not for hire anymore, castoff." [8A8A8A]Artaglio looks at the nearby soldiers, and his eyes grow soft and protective. [FFFFFF]"Your brethren shattered our morale in the Endless Battle. If you're here about our desertion..." [8A8A8A]His mouth quirks into a hard smile.[FFFFFF] "... we don't offer refunds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tell me why you deserted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Why do you keep looking over at the Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Remind me about your company standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

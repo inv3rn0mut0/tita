@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5101_bogun_atlin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>259</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Just a minute." He beckons you closer. "Those were some of Dracogen's mob you were tangling with there just now, weren't they."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You got it! Tremendous! Everything's finally fallin' into place. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"'Lo again. Ready to head out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"'Lo, friend. Wouldn't have happened to come across that Figment I was lookin' for, would you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Brilliant. On our way, then. I've got a score to settle."
+
+{SCRIPT: Transition to Act 3.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>A big man with slicked back gray hair stands in the sun with his tunic open to the waist, revealing a broad tanned belly, well furred. He would be ugly but for the beatific smile on his rough-hewn face. He nods lazily as you look his way. "Nice day for it, isn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nice day for what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Indeed. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"For baskin' in the sun and watchin' the world go by. Nothin' better. Nothin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sorry. Too hot for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Yes. Wonderful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I spent too many years in the damp dark of the Bloom to want humid weather or close horizons ever again. Never catch me going into that overgrown bubble of spit over there neither. No, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It's never too hot. Never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Fair weather, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You lived in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You don't like the Oasis? Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oh, yeah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm sweatin' here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Roastin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Boilin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Bakin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Swelterin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"'S'like a furnace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ahhh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ridiculous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tremendous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Fantastic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Fan..... tastic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>{SCRIPT: These barks need a trigger set up that fires his conversation at the script node every few seconds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"For the sun, friend. For the sun."
+
+He stretches. "Ahhh! This is the life. Brilliant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"If you could call it livin'. I was one of the top men there, in my time. Top of the top." He chuckles, rueful. "Rather be a nobody here than a somebody there any day."
+
+He grunts, contented. "Any day at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Who were you in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Never mind about that. It was a long time ago, and far far away. I'm nothin' but a sun worshipper now. A cult of one. Basting my way to heaven."
+
+He turns his face to the sun and closes his eyes. "Glorious. Absolutely glorious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"'Lo, again. Just another day in paradise, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bogun turns away from you. "Hmmff. Don't talk to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"As you wish. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Yeah. You do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You think I'm stupid or something? Trying to trick me? Not a chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I don't know what you're talking about. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'm talking about you, beating Dracogen's agents. Nobody beats Dracogen's agents, unless they're Dracogen's agents pretending they're not Dracogen's agents. See?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He stabs a finger at you. "Tryin' to get on my good side by beatin' up my enemies so you can stick the knife in later. I'm wise, friend. Very wise. Now get out of here. You're blocking the sun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I promise you. I'm not Dracogen's agent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Sure, sure. That's just what Dracogen's agent would say." He motions with his chin. "On your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Hmmff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Yes they were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Why do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"That's none of your business. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Any enemy of Dracogen's is a friend of mine, friend. He did wrong by me and my partner back in the Bloom, and I've been dreamin' of revenge ever since."
+
+"Hmmm." He probes his left ear with a thoughtful pinky. "Maybe you and me can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Thought so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"How can we help each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I'm not interested. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Say you was wanting to get out of town before Dracogen's agents decided to finish you off for good. Maybe *I* could provide a reliable conveyance."
+
+He pats his chest. "And say I wanted to get a little payback on a certain mutual enemy of ours. Maybe *you* could find a way to get the item that would do the job. What do you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"What item is this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"And don't come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Don't laugh, but it's called the Figment." He shrugs. "You know how kids'll say, 'I'll hit you so hard, your whole family'll die?' That's what it does. It kills individuals who exist in more than one place and time. And that's Dracogen all over - a bunch of false faces hiding a single, rotten-hearted fiend."
+
+He rubs his hands together. "All I need is one clean shot and... Pow! Right in the multi-dimentional neck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Where would I find this item?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The Gibbers got it stashed somewhere in their air breather menagerie. I'd get it myself, but I'm not the svelt young thing I once was. My breakin' and enterin' days are behind me. You on the other hand, look like you're made for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Why do you want revenge on Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"General principles?"
+
+He shakes his head. "No, no. It's more than that. I was partnered up with my mate Kovo back in my Bloom days - him the Memovira, and me his right hand man. Thick as thieves we were. Thicker. Ran that place right, too. No complaints from anybody. But Dracogen was a particular friend of that bitch who became the new Memovira, and was a particular enemy of ours, on account of us wantin' to tax his profits. I *know* it was him who helped her turn the Bloom against us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"People say Dracogen never had that kind of pull with the Bloom. That nothin' does. But they don't know. They haven't seen behind his mask. I have. I know what he really is. He's as big as the Bloom. Bigger."
+
+Bogun smacks his meaty fists together. "But he's not too big to kill. I gaurantee it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Fine. I'll help you if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Tremendous! Bring the Figment back to me once you find it and, when you're ready, I'll take you anywhere you want to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I've just come from the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Is that the truth?" His eyes open fully for the first time. "What's happening there now? Who's the Memovira these days?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"There's been a change recently. A woman named Matkina is the new Memovira."
+
+{SCRIPT: Matkina is the Memovira.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"There's been a change recently. I'm the new Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"There is no Memovira. The Bloom ate the last one, and there's been no replacement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I couldn't tell you. I didn't stay long enough to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I remember that name. Reliable blade, if I recall, if a bit..." He circles his finger next to his ear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I don't know. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"So, uh, is Dracogen still hangin' about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>He laughs, big and hearty. "Are you now? Well, maybe you *were*, but the Memovira doesn't leave the Bloom. That's the contract. Soon as you see daylight, the bond's broken."
+
+He scratches himself. "There'll be someone else now. Someone who can stand the smell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He nods. "Well, there will be soon enough. A bit of squabblin', a bit of chaos as the Bloom goes mad for a while, but someone'll take the reins."
+
+He chuckles. "Or rather, the reins'll take someone. It's never so much a matter of choosing, when it comes to the Bloom, as being chosen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Well, aren't you informative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Yes, he's still there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I don't know who you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Sorry. No time to talk. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He cracks a wide, and not entirely pleasant smile. "Good, good. Glad to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He chuckles. "Sounds like you're scared of him. Very wise. Well, never mind. Only askin'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You're friends with Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>He sputters. "Friends isn't exactly the word, no. Let's just say we go way back. Way back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You said you and the old Memovira were friends for life? Does that mean you were lovers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The old Memovira's still there in the Bloom, you know. They call him Walks Without Fear now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He snorts. "Lovers? That hardly covers it. We were mates - in every sense of the word. And Dracogen took him from me, the bastard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>His face goes pale behind his tan. He stares at you. "What? What are you telling me? He's alive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"He's more of a ghost. He found his way back from the gullet after being eaten, but it took most of his memory. Now he just wanders around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I shouldn't have said anything. Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Sorry. No time to talk. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"No no, friend. You don't drop somethin' like that and leave it hangin'. Tell me! Is my mate alive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The man steps in your way. He doesn't look so easy-going anymore. In fact he looks downright dangerous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>His hands go slack. He stares into space. "Alive. All these years, and me just sittin' here in the sun, like I hadn't a care in the..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>His eyes clamp shut over sudden tears, then he looks up at you again, cold and determined. "Seems I've got one more reason to go back to the Bloom now. Get that Figment for me, friend, and I'll do more than just give you a lift. Got a few toys left over from the bad old days. They're yours if you do this for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Tell me where to find it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Well, when you do..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"It's in the Menagerie, inside the Oasis. In the air breathers jail. Got it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I had some questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Doesn't matter what it is. What matters is, I want you to get it for me. Got it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Let me give you the toys I promised you now, and when you're ready, I'll take you anywhere you want to go."
+
+{SCRIPT: Give player extra reward}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"When you're ready to go, I'll take you anywhere you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'm ready now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I need to take care of a few things first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'll be here when you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Brilliant. Me too. Let's go. I've got a score to settle."
+
+{SCRIPT: Transition to Act 3.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Yes, but I don't know much more than that. He seems to have lost his memory. Now he just wanders around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You lived in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You said you lived in the bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You don't like the Oasis? Then why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Remind me why you're here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Who were you in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Remind me who you were in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You're friends with Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"What did you say about you and Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"If you could call it livin'. I was one of the top men there, in my time. Top of the top." He chuckles, rueful. "Rather be a nobody here than a somebody there any day."
+
+He grunts, contented. "Any day at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Didn't just live there. I was right next to runnin' the place." He smiles. "Now I'm not runnin' nothin', and I love it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"For the sun, friend. For the sun."
+
+He stretches. "Ahhh! This is the life. Brilliant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Because of that big old orange ball in the sky, friend. Never a cloud in the sky in old Jerboa town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Never mind about that. It was a long time ago, and far far away. I'm nothin' but a sun worshipper now. A cult of one. Basting my way to heaven."
+
+He turns his face to the sun and closes his eyes. "Glorious. Absolutely glorious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I didn't say. But nice try, friend. Nice try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>He sputters. "Friends isn't exactly the word, no. Let's just say we go way back. Way back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Not much. He's one of the many reasons I don't miss the Bloom. At all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>She raises her head at the man's words. "I know that voice. Bogun Atlin. Old Kovo's number two."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>He steps back, suddenly wary, and gives Matkina his attention. "The White Death, as I live and hope to continue breathin'. Not here on, uh... business, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>She shakes her head. "Nothing that concerns you, Bogun. And you'll be glad to hear your old nemesis is dead too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Who? Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"You and Matkina know each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Remind me how you know Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I was her employer. Well, my mate Kovo was - he was the Memovira back then." He grins at Matkina. "Best blade in the business, Matkina was, and not a treacherous turncoat like her backstabbing friend. Never bit the hand that fed her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I was partners with the old Memovira. We were Matkina's employers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"She's gone now. You can let it go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>He sighs. "And good riddance to her. I only wish I'd been the one to do it. I'd have killed her a thousand times for killing old Kovo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"So-and-So said you used to be second in command to the old Memovira."
+
+{SCRIPT: So-and-So to be replaced with an NPC name TBD.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Then So-and-So's got a big mouth." He shrugs. "And what if I was? The past is dead, and so is the old Memovira. Let 'em both lie."
+
+
+{SCRIPT: So-and-So to be replaced with an NPC name TBD.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"The Old Memovira isn't dead. He still wanders the Bloom like a ghost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I'm not interested. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Yes. Here it is. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>His face goes pale behind his tan. He stares at you. "What? What are you telling me? He's alive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Yes, but I don't know much more than that. He seems to have lost his memory. Now he just wanders around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>His hands go slack. He stares into space. "Alive. All these years, and me just sittin' here in the sun, like I hadn't a care in the..." His eyes clamp shut over sudden tears. "Now I got twice the reason to avenge him. What a fool I've been!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>His eyes clamp shut over sudden tears, then he looks up at you again, cold and determined. "Seems I've got one more reason to go back to the Bloom now. Get that Figment for me, friend, and I'll do more than just give you a lift. Got a few toys left over from the bad old days. They're yours if you do this for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"He's more of a ghost. He found his way back from the gullet after being eaten, but it took most of his memory. Now he just wanders around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I shouldn't have said anything. Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"No no, friend. You don't drop somethin' like that and leave it hangin'. Tell me! Is my mate alive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Sorry. No time to talk. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The man steps in your way. He doesn't look so easy-going anymore. In fact he looks downright dangerous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I thought you already knew. I was the Old Memovira's number two. And he was my number one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"I told you. I was partners with Kovo, the old Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"What's one of the old leaders of the Bloom doing here basking in the sun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Tell me again why one of the Bloom's top men is taking it easy in the Oasis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>His eyes are suddenly much harder than they were. "No no. I'll ask you one for a change. Why is a total stranger asking me about the old days? You got a contract on me from somebody?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Remind me why you're askin'? And who you're askin' for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"The Memovira's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"I'm not working for anyone, and I don't like the Memovira or Dracogen any better than you do. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I was just curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Well, don't be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"And...? Maybe I was her dyin' wish. I'll ask again. Why are you askin' questions? And who for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"The Memovira? Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Easy enough to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"It's the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"The Memovira tried to feed me to the Bloom's heart, and dealing with Dracogen was like reaching into a Jiraskar's mouth after a cypher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I don't have to prove anything to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Fine. I believe you. But I don't trust you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"That's right. And I don't have to trust you. We're even."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Yeah, all right. You've got the look of a man who's stared into the Bloom's black heart. And faced down Dracogen as well. Fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You're sayin' it, but I'm not feelin' it. Sorry, friend, better we both keep our secrets, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Yeah, all right. You've got the look of a man who's stared into the Bloom's black heart. And faced down Dracogen as well. That makes you a mate in my book."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Maybe so, but you're up to somethin' all the same. I don't think I'll talk to you anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"The Memovira tried to feed me to the Bloom's heart, and dealing with Dracogen was like reaching into a Jiraskar's mouth after a cypher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I originally came to Jerboa lookin' for a gadget that would help me get revenge on Dracogen for what he did to the old Memovira - Kovo, my mate for life. Never could lay my hands on the thing, though, so after a while I just... sat in the sun." He chews his lower lip. "But now, maybe it's time to wake up. Maybe we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Here's the deal. Say you was wantin' to get out of town for reasons I wouldn't presume to guess. Maybe I could provide a reliable conveyance."
+
+He pats his chest. "And say I wanted to get a little payback on a certain mutual enemy of ours. Maybe you could find a way to get the item that would do the job. What do you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Yeah, all right. You've got the look of a man who's stared into the Bloom's black heart. And faced down Dracogen as well. Fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"I originally came to Jerboa lookin' for a gadget that would help me get revenge on Dracogen for what he did to the old Memovira - Kovo, my mate for life. Never could lay my hands on the thing, though, so after a while I just... sat in the sun." He chews his lower lip. "But now, maybe it's time to wake up. Maybe we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Here's the deal. Say you was wantin' to get out of town for reasons I wouldn't presume to guess. Maybe I could provide a reliable conveyance - along with a few toys left over from my bad old days - just to sweeten the deal."
+
+He pats his chest. "And say I wanted to get a little payback on a certain mutual enemy of ours. Maybe you could find a way to get the item that would do the job. What do you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>He looks up at you, considering. "Listen. I don't know you from a margr's leavin's, but you've told me things here that other friends of mine should've mentioned long ago. If you're interested, I could use some help. But first I gotta know you're all right, so tell me. What's a total stranger asking me about the old days for? You got a contract from somebody?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>He looks up at you, considering. "I don't normally trust people I don't know, but as you're with Matkina, I figure you're all right, so if you're interested, let's help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"He's all right, Bogun. If you trust me, you can trust him."</DefaultText>
+      <FemaleText>"She's all right, Bogun. If you trust me, you can trust her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>He gives her an appraising stare. "Well, can i?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I never betrayed you. You know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Yeah, I suppose I do." 
+
+He sighs. "Fine then. I came here originally lookin' for a gadget that would help me get revenge on Dracogen for what he did to the old Memovira - Kovo, my mate for life. Never could lay my hands on the thing, though, so after a while I just... sat in the sun." He chews his lower lip. "But now, maybe it's time to wake up. Maybe we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Why did you retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Remind me why you retired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Enjoyin' my retirement, if it's any business of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Can you think of a better place to retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Why did you retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Remind me why you retired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Why did you retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Remind me why you retired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Why did you retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Remind me why you retired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"What item is this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Tell me about the item again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Where would I find this item?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Remind me where the item is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Why do you want revenge on Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Tell me again why you want revenge on Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"You said you and the old Memovira were friends for life? Does that mean you were lovers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Did you say before that you and the Memovira were lovers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Don't laugh, but it's called the Figment." He shrugs. "You know how kids'll say, 'I'll hit you so hard, your whole family'll die?' That's what it does. It kills individuals who exist in more than one place and time. And that's Dracogen all over - a bunch of false faces hiding a single, rotten-hearted fiend."
+
+He rubs his hands together. "All I need is one clean shot and... Pow! Right in the multi-dimentional neck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"It's called the Figment. It kills multidimentional beings. I'm gonna kill Dracogen with it. All of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"The Gibbers got it stashed somewhere in their Menagerie. I've tried to get it myself, but I'm not the svelt young thing I once was. My breakin' and enterin' days are behind me. You on the other hand, look like you're made for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"In the gibber's Menagerie, inside that fish bowl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"General principles?"
+
+He shakes his head. "No, no. It's more than that. I was partnered up with my mate Kovo back in my Bloom days - him the Memovira, and me his right hand man. Thick as thieves we were. Thicker. Ran that place right, too. No complaints from anybody. But Dracogen was a particular friend of that bitch who became the new Memovira, and was a particular enemy of ours, on account of us wantin' to tax his profits. I *know* it was him who helped her turn the Bloom against us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"He turned the Bloom against my mate, Kovo. It's his fault what happened to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>He snorts. "Lovers? That hardly covers it. We were mates - in every sense of the word. And Dracogen took him from me, the bastard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"That's only the smallest part of what we were. We was everything to each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"The Memovira. She who killed Kovo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>He spits into the dust. "And good riddance to her, the polyp. But say... With her dead, maybe I can finally make a move against nemesis number two. Hmmm."
+
+He strokes his lantern jaw, thoughtful. "You and your associate here wouldn't be interested in a little job, would you?I could make it worth your while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Tell us about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Sorry. We've got too much to do already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Well, it's like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"If you change your mind, I'll be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"What business is it of yours?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I'll consider it. Farewell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"That's fine. If you get hold of the Figment, bring it back to me, and, when you're ready, I'll take you anywhere you want to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Yeah, yeah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Fair weather, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I haven't been looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+[SCRIPT: Only plays if PC has been asked by Tybir to help find Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Who? Never heard of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

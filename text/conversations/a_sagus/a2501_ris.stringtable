@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A group of tough-looking thugs approach from behind you. Leading them is Ris, who gives Tybir a mocking salute.
+
+"Hello, Tybir. Leaving town? My friends and I would like the money you owe us first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He takes an involuntary step back and addresses the thugs. "I don't know what Ris has told you, but I promise you, I was never paid for the job. I don't have any money, and beating me won't change that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Don't believe him, helpmeets. He's never spoken the truth in his life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tybir turns to you, pleading. "Lad, please. I'm all out of tricks. Say something. Get me out of this!"</DefaultText>
+      <FemaleText>Tybir turns to you, pleading. "Lass, please. I'm all out of tricks. Say something. Get me out of this!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"If you want shins, take this!" Throw [Global: a2101_RisThrownMoney] shins on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ris sneers. "If you think we can be bought off so easily, you're sadly-"
+
+One of the toughs makes a run for the shins. Then the other. Ris spins around. "Hey! Stop that! That's not nearly enough! We-"
+
+The thugs are already fighting for the scattered coins. Ris groans in frustration, then dives in after them. 
+
+{SCRIPT: Ris and the toughs scramble in the middle of the space and pay no more attention to the PC or Tybir. The party should now board the airship and leave Sagus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Some of that's mine, you chew rags!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Captain Tybir is under my protection. Do you want to face the wrath of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ris sneers and looks back at his companions. "He's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, he's not the Changing God!"
+
+They don't listen. He chases after them.
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</DefaultText>
+      <FemaleText>Ris sneers and looks back at his companions. "She's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, she's not the Changing God!"
+
+They don't listen. He chases after them.
+
+{SCRIPT: Ris and the toughs exit the space and pay no more attention to the PC or Tybir.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He breathes a sigh of relief. "Thank you, lad. I owe you one."</DefaultText>
+      <FemaleText>He breathes a sigh of relief. "Thank you, lass. I owe you one."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Come back here, you cowards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ris sneers and looks back at his companions. "He's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, he's not the Changing God!"
+
+They beat a hasty retreat, and Ris chases after them.</DefaultText>
+      <FemaleText>Ris sneers and looks back at his companions. "She's not the Changing God. The Changing God is ten feet tall and..." 
+
+He pauses as he sees the others backing up and slinking away. "Hey! Where are you going! I'm telling you, she's not the Changing God!"
+
+They beat a hasty retreat, and Ris chases after them.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ris and his companions laugh. "He's not the Changing God. He's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, him for gullibility."</DefaultText>
+      <FemaleText>Ris and his companions laugh. "She's not the Changing God. She's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, her for gullibility."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ris and his companions laugh. "He's not the Changing God. He's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, him for gullibility."
+
+
+{SCRIPT: Initiate combat. PC starts at some kind of disadvantage. Low initiative?}</DefaultText>
+      <FemaleText>Ris and his companions laugh. "She's not the Changing God. She's just another dupe who you've tricked into being a meat shield. Well, we're going to beat both of you. You for villainy, her for gullibility."
+
+
+{SCRIPT: Initiate combat. PC starts at some kind of disadvantage. Low initiative?}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Attack] "If you threaten my friends, you threaten me. Draw your weapons or leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Get 'em!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I don't need this aggravation. You're on your own, Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What?" says Tybir." After all I've done for you? You'll regret this!"
+
+He makes a break for it, shoving past the thugs. They follow close on his heels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Script Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Get 'im, helpmeets!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Out of my way!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Get back here, you cowards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You're really going to die for this charlatan? Hand him over and you can fly off to wherever you were going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Fine. Take him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Not a chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"A wise choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Lad! No!"</DefaultText>
+      <FemaleText>"Lass! No!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You'll regret that."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

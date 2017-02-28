@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_matkina_assassin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[return text to Matkina]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[some idle threats about not fucking with her assassination]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Why were you talking to that man? What did you say to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[If the player tried to warn Jebedee, but the old man didn't believe the player, confronted Matkina, and got himself killed, Matkina will probably be a little smug when she walks over to the player. She knows what the player tried to do, but she'll meet him at the Cave anyway. However, this counts as Minor Abuse of Matkina.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[If the player warned Jebedee and he actually got away, Matkina will walk over and confront the player angrily. She needed that money! The player can try to soften her anger (a DT, much easier if Riastrad and Satsada are there to help). If successful, it's only a Minor Abuse. Otherwise it's Major. Either way, she grudgingly agrees to meet the player at the Cave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[If the player warned Jebedee and he actually got away, Matkina will walk over and confront the player angrily. She needed that money! The player can try to soften her anger (a DT, much easier if Riastrad and Satsada are there to help). If successful, it's only a Minor Abuse. Otherwise it's Major. Either way, she grudgingly agrees to meet the player at the Cave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[what are you doing here?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[trying desperately not to kill you, you stupid bastard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[So your warning was for nothing. But i'll bet it made you feel good about yourself, huh? glad to see you could make a difference.
+
+hey, hero, why don't you meet me at my home.]
+
+{SCRIPT: Minor abuse}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She eyes you appraisingly, though her eyes have begun to lose focus. With her target dead, she has begun to retreat to some inward world, as if searching for some half-forgotten truth. "I can't believe that worked. For one of our kind, you're not entirely worthless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Come to my home in the Cave of Last Words. I have something for you. Satsada knows where to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[She also tells the player how to open the Engraved Panel (if Satsada isn't here), then exits and despawns.
+
+Alternatively, she could launch into her full intro dialogue right here, if that makes sense (including the opportunity for the player to enter Tash's Mere).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Whoa, chill out, Matkina!]
+
+{SCRIPT: Modifiers: Does PC know about a) her motivations; b) who she's working for; c) Riastrad is present; d) Indigo Dominant Tide; e) Silver Dominant Tide}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Matkina, you should totally not be trying to kill this guy.]
+
+{SCRIPT: Modifiers: Does PC know about a) her motivations; b) who she's working for; c) Riastrad is present; d) Indigo Dominant Tide; e) Silver Dominant Tide}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Knowing what you know about those who hired you, do you think they deserve their power?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She shakes her head in disbelief. "You may have cost me everything. *Everything.* But fine. You want me? You want something from me? Then meet me at the Cave of Last Words."
+
+{SCRIPT: Minor abuse}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Fuck you.]
+
+{SCRIPT: Major abuse}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[yeah, I'll chill out... but you have just cost me a pretty coin. I want you to think about what you've done.]
+
+{No abuse}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Super fuck you, dude. There is nothing you can do to make this better.]
+
+{SCRIPT: Major abuse}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Satsada knows the way to open the lock. Have her bring you when you're ready." She points an accusing finger at you. "And don't forget - you *owe* me for this."
+
+{SCRIPT: Matkina paths to Engraved Panel, Despawn Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Open the lock on the panel there. This is the pattern." She draws it quickly on your skin with her fingernail, a quick succession of lines and dots. "Without it, you won't get in." 
+
+Her face is still and cold. "Don't forget, sweet sibling. You *owe* me."
+
+{SCRIPT: Matkina paths to Engraved Panel, Despawn Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Introductory text for Matkina]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[why were you talking to that old man? if you warned him, I swear you'll pay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[warned him about what?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I don't care how much it cost you. I need to talk to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>(Lie) "I'll make the cost up to you. But I need to ask you some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>(Truth) "I'll make the cost up to you. But I need to ask some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>She scoffs, and her eyes narrow. "You lie, brother. I can see it all around you. But I'll hold you to the promise anyway."
+
+{SCRIPT: Minor abuse}</DefaultText>
+      <FemaleText>She scoffs, and her eyes narrow. "You lie, sister. I can see it all around you. But I'll hold you to the promise anyway."
+
+{SCRIPT: Minor abuse}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She stares at you closely. "You might actually believe that. Very well, brother. I'll hold you to that."</DefaultText>
+      <FemaleText>She stares at you closely. "You might actually believe that. Very well, sister. I'll hold you to that."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

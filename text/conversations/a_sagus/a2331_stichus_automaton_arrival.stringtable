@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_stichus_automaton_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you emerge into a rough hewn chamber laced with golden filaments, the automaton makes a series of agitated clicks and begins to retreat toward the tunnel. It seems that the creature cannot - or will not - go any farther.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This place smells strongly of mold and damp earth... with a hint of ozone. The air crackles with static electricity. It would appear that you've reached the sticha lair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>This place smells faintly of ozone, and the air crackles with static electricity. It doesn't *feel* like a place that your sire would have built... but the entrance to his sanctuary must be somewhere nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Again you find yourself in the sticha lair, and the automaton quickly retreats back down the tunnel. The entrance to your sire's sanctuary must be somewhere in the lair... and since the automaton seems unwilling to trespass in its former home, this was as far as it could take you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Again you find yourself in the sticha lair. The automaton lingers in the tunnel for a moment, then retreats back to Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_matkina_at_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I suppose you already know how this panel works. But when we part, know that you can come through here if you need to find me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I won't always be at your beck and call. You won't always be at mine. So look. If we ever get separated and you need to find me, you can find me here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Now watch." She bends down and traces a complex pattern across the complicated hieroglyphics of the engraved panel. The memory of the pattern catches a piece of your mind.
+
+"Trace that pattern, and you'll be able to enter here. Without it, you're better off destroying the cliff than trying to break through the panel."
+
+She adjusts her cloak. "Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Once you've seen it, you won't forget the pattern. Never." She adjusts her cloak. "Let's go."
+
+{GEORGE/COLIN: This raises questions. Why won't I forget it? Is it numenera? If it's not relevant to anything else, I'd just cut it. The player would assume he won't forget it. --AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

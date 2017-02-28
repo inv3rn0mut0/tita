@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_aligern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A shaking ghost stands at the lip of the pool. Transdimensional energy tickles your senses with a touch of unreality. It is not until it turns its miserable, guilty face to you that you recognize Aligern.
+
+"You did this. You. All your pestilential kind, your thrice-damned sire. You brought me to this. You put me here." He chokes back a sob. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Bloom is devouring Aligern. He's splayed cruciform against the fleshy wall, the lower half of his body already absorbed into the wall. His face contorts with rage and a silent scream. His tattoos have half-slid from his arms, lashing him down and leaching out into the walls. In the walls, they spread out and change, turning into horrific, vividly colored and primitive paintings of suffering humans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>She continues to stab and slice. Aligern's ghost is suffering, screaming, and moaning, The blood from Matkina's blades collects in runnels in the floor, and the Bloom sucks it up greedily. Aligern's ghost is no closer to dying, and Matkina's shows no signs of stopping any time soon. 
+
+It seems likely this grisly tableau will last until Aligern's ghost has been devoured completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He gestures to the pool. "I could end it. I could leap in and fall to my death. I deserve that." He attempts a ghastly smile. "But I'll stay. Oh, I'll stay. Because what I truly deserve is suffering. Knowing my crimes. Comprehending my failures. Staring into oblivion and denying its release."
+
+He nods. "It's penance. It's the price I pay for my actions.  This is me now. My fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You might be able to free him, though it appears that his flesh and that of the Bloom is conjoined. You can't tell where one ends and the other begins.
+
+{GEORGE/JOBY: Is this what you had in mind for the freeing?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>His voice is like ashes. "So this is what the Bloom takes from us. I don't suppose you're going to do anything about it." He studies the ghost carefully. He is quiet for a long while.  "That was unfair of me. You couldn't have known. I apologize."
+
+He is almost calm when he says, "I would like to find a way to free this part of me from its existence. To destroy it. I reject this ghost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Her voice is sardonic, almost gleeful. "The mighty Aeon Priest, the man who would judge the world, trapped in a personal hell." She quirks an eyebrow at you. "Leave him here. No more than he deserves, I wager, and he won't thank us for ruining his martyrdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aligern's double remains trapped in the wall, his tattoos splayed out beside him. As he sees you, he begins to curse you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>But then a flash of movement catches your eye, a piece of camouflage broken by rapid, violent movement.
+
+It's Matkina. She's close to Aligern, and you realize that her hands are red with blood. Her face is a mask of rage, contorted into a vicious smile, and she is stabbing and slashing the helpless Aligern over and over. She doesn't appear to notice you.
+
+He isn't dying. He's just suffering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>His voice is like ashes. "So this is what happens when you feed a companion to the Bloom. I don't suppose you're going to do anything about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He looks at his doppelganger in the wall, and jerks back as he sees what the tattoos have become. Then he looks at Matkina, and his expression is unreadable. "Nice to know where I stand with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She sounds embarrassed, and even defensive. "That's not me. Maybe a twisted reflection. That's what the Bloom does. You know that. At least you should."
+
+She watches the slaughter. "Nothing we can do here. We can't kill him, we can't free him, and anything we do will get that ghost turned on us. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She sounds embarrassed, and even defensive. "That's not me. No more than it's you. Maybe a twisted reflection. That's what the Bloom does. You know that better than anyone. At least you should."
+
+She watches the slaughter. "Nothing we can do here. We can't kill him, we can't free him, and anything we do will get that ghost turned on us. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I need to stop this."
+
+{SCRIPT: Minor improvement for Aligern}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You're right. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I need to stop this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're right. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Try to stop her.
+
+{SCRIPT: Minor improvement for Aligern}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Force the Bloom to release him. {SCRIPT: TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Cut him free.
+
+{COLIN: What if the PC isn't carrying a bladed weapon?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Kill him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Walk away from the poor man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You plunge your blade into the Bloom's walls, careful to cut around the places where Aligern's hands might be... but the Bloom has absorbed him and *integrated* him. His arms don't terminate. Gray veins and perforated membrane pull from the wall, inextricably enmeshed and intertwined with Aligern's body. The tattoos seem to scream as they pulled from the Bloom.
+
+Even as you consider your next steps, the Bloom heals, sucking him back in. Aligern's dark echo mocks you, sneering and spitting.
+
+{COLIN: What if the PC isn't carrying a bladed weapon?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You reach out to slash the phantom-Aligern's throat. The blade passes easily through his skin, cutting muscle, tendon, and vein with alacrity. But what spills from the angry wound isn't blood or lymph or any fluid you recognize. It's Bloom-juice, for lack of a better phrase, the noisome liquid that courses through the Bloom's arteries.
+
+The ghost holds its hands to its throat and slumps to its knees. Its eyes stare at you accusingly as it falls over and begins to steam, to dissolve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The Aligern-thing offers no defense as you drive it to its knees. Incredibly, its wounds heal instantly, and it laughs as it rises to its feet again.
+
+"You can't kill me, castoff! You can't destroy me! I destroyed myself! This is *my* choice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Kill the ghost using the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Bloom's walls seem to cringe before the edge of your scalpel, and they part like waves before a keel. With a few deft strokes, you carve the man from the Bloom's walls, ignoring his curses as you do so. As you cut through the embedded tattoos, you hear something that sounds like faint, despairing screams.
+
+{GEORGE: Do we want to reduce Bloom favor here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Aligern's half-digested body lies on the ground of the Bloom before you. The eyes that stare back at you suggest an inhuman intelligence, something not born on this earth. They are filled with hate and rage.
+
+"Your fate, castoff! Your fate someday!"
+
+The body liquefies quickly, like running wax, and like a sponge the Bloom's floor drinks in the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He does not look at you, and his voice trembles. "You have my thanks, castoff. Many thanks indeed. I may even forget that it was your hand that put my reflection there."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Nothing remains of the thing but the stench of spilled Bloom-juice - like the reek of ruptured organs - and a sense of frustrated malaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You summon your energies and feel them rise around you. The Bloom pushes back, and you can almost hear its ultraterrestrial snarl as it struggles to retain its victim. Your will against the will of the Bloom, and you can feel its immense strength pushing against your own... but suddenly it relents and releases its victim.
+
+With a wet slurp, the sound of a moistened finger being pulled from a wound, it spills him from its walls.
+
+{GEORGE: Do we want to reduce Bloom favor here?}
+{I think Bloom favor should definitely lower, if only to provide additional downside to the Tidal Surge - AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Disgust colors her voices as all of her echoes mince away from the Aligern-residue.
+
+"I told you this would happen, didn't I?" None of her meet your eye.
+
+{SCRIPT: Minor abuse for Callistege}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Trigger Conv Node 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He turns his head long enough to register your presence. "Oh. It's you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She laughs softly. "I'd be glad to kill it for you, Aligern. I've been aching to stop your moping, and this is the next best thing."
+
+She punches him playfully on the arm, and - incredibly - winks at him. "Now you understand what you've been like to travel with, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He manages a small smile. "I deserve that, Matkina. And... I apologize. For what it's worth."
+
+He looks to you. "Let's get rid of this thing, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She laughs softly. "I'd be glad to kill it for you, Aligern. I've been aching to stop your moping, and this is the next best thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>His distaste evident, he says, "The feeling's entirely mutual, Matkina."
+
+He looks to you. "Let's get rid of this thing, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Yes! We will vanquish this ghost and... hang on, Aligern, are we actually going to kill *you*? How will we be able to tell which is which? What if it tries to trick us by dressing up as you?" His eyes are wide. "I don't want to accidentally kill you, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He almost snaps, and then reconsiders. "Just keep your eye on it, Erritis. I know it's a tall order, but don't be fooled." 
+
+He looks to you. "Let's get rid of this thing, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tell me again what you're doing here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Why don't you end it? Jump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me again why you insist on staying here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Attack the ghost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Try to kill the ghost again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Considering my life. Remembering my failures as a father and a friend and... how I let you destroy my family. How I was too much a coward to stop you. How arrogant I was. And then I think about ending my life and realize I don't even deserve that. So I watch. I wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Waiting to die. Not wanting to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I would. I would, if I deserved to end it. But... I don't. You know. *You* know. You're the Changing God, after all. Hundreds of years ago you sentenced a Tabaht general to an eternity of suffering and left him on display in the city. I deserve no better. Don't tell me my crimes aren't equal." The ghost stares into the pool. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"This is my penance. I will stay until I have paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>You strike the ghost again, and again its wounds heal instantly. "You never learn, do you? I think that one day the Bloom will take you. You'll wind up here... just like me. And then you'll *know*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>It takes your assault wordlessly, and when you have finished, its injuries heal instantly. It breathes out a frustrated sigh. "You can't kill me. Only I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Leave me here. I deserve this. I deserve it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Aligern - the real one - do you have anything more to say about this ghost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"No. No, I... yes. I look at this and think of how I've lived. How I've wasted my life in guilt and recrimination for a mistake. I've been miserable, and have made others miserable with me. And for that, I apologize."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"It's my misery made flesh. I hate it. I hate what it says about me and what I've done with my life. Come on. Are we going to kill this *thing* or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You deserve to be miserable. Look at you. Look at us. We are not good people. We're failures. Come on, Aligern. Join me here. We can leap into the pool together. Maybe if we both go, it will expiate our sins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>He swallows and closes his eyes. "Please. Kill it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Push him over the edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Try again to push him over the edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>You step close, as if to speak quietly to the ghost, and then shove him backward. He shrieks and topples into the pool, twisting to try to drag you down with him.
+
+He splashes into the noisome pool and thrashes to the surface. "You've murdered me! You've cheated me! You are a blight on this wor-"
+
+Then the current catches him and drags him under. He is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>He somehow senses your intent, and he braces himself at the lip of the pool. He grabs your arm and locks your shoulder joint. "No," he whispers. "This is *my* fate. You don't have any more say in my life."
+
+He shoves you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Again you try to shove him over the edge, and again he foils your attempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>He breathes a sigh of relief as his doppelganger sinks beneath the surface... and suddenly he is violently ill into the Bloom's fluid.
+
+He stands up and wipes his mouth. "By the Black Three, I never thought I'd be so happy to see my own death. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>She looks at the stain on the ground. "How many times I've done that very thing in other worlds. I always imagined... that I would find it more satisfying than this." She glances at you. "I hope you at least took some pleasure from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He gestures to the pool. "I could end it. I could leap in and let the Bloom tear me apart. I deserve that." He attempts a ghastly smile. "But I'll stay. Oh, I'll stay. Because what I truly deserve is suffering. Knowing my crimes. Comprehending my failures. Staring into oblivion and denying its release."
+
+He nods. "It's penance. It's the price I pay for my actions.  This is me now. My fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You step close, as if to speak quietly to the ghost, and then shove him backward. He shrieks and topples over the edge, twisting to try to drag you down with him.
+
+He lands hard and rolls. He bounces, screams once, and lands again on his neck. You hear the unmistakable crunch of bones. Then he slides out of view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I found a Maw that eats despair. It would solve your problems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I don't want *solutions*. I don't want your idea of penance. A Maw is the easy way out. I'm *done* with the easy way. I must pay with my own coin... and that coin is time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Script Node 94</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

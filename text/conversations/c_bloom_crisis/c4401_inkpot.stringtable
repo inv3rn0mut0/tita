@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_inkpot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The Great Devourer has called us to the Heart!" You recognize the shrill voice of Inkpot the Bloom-cultist. "A trespasser and defiler is *tormenting* our god. Let us *punish* him, brothers!"</DefaultText>
+      <FemaleText>"The Great Devourer has called us to the Heart!" You recognize the shrill voice of Inkpot the Bloom-cultist. "A trespasser and defiler is *tormenting* our god. Let us *punish* her, brothers!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The Great Devourer has called us to the Heart!" The voice is wild, almost a shriek. "A trespasser and defiler is *tormenting* our god. Let us *punish* him, brothers!"</DefaultText>
+      <FemaleText>"The Great Devourer has called us to the Heart!" The voice is wild, almost a shriek. "A trespasser and defiler is *tormenting* our god. Let us *punish* her, brothers!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A transdimensional rift tears open, and several humans tumble out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Death to you, blasphemer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"How dare you set foot in this place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I shall write of your death in the scriptures!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"May you drown in flesh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You are less than flatus to our god!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eat us, Great Devourer! Eat us all!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

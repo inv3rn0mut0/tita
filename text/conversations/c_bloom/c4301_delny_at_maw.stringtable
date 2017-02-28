@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_delny_at_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She steps up to the Maw, and her hair seems to rustle in an unseen wind. Delny glances back at you, eyes bright with fear.
+
+"It wants me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It wants me," she repeats, and she quakes as the Maw's tongues begin to stir and writhe, lifting, questing, probing. They reach toward her, and she takes a step backward in fright.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"It wants me!" The pitch of her voice is rising. "Something is drawing it to me, and that part of me *reaches back* - oh. Oh, that's nice." Her voice becomes more dreamy. "Would it be so bad, would it be so bad, to be devoured, to give my voice to the Bloom, to carry on through the years as - no, wait. Wait. Wait!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The tongues withdraw as Delny reaches out to them. They seem to have lost interest in her altogether. As her hand touches one, it snaps back, and she whimpers in despair. Then she shakes her head as if waking from a dream.
+
+"What was I *thinking*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Now that she knows that the Maw no longer desires her, Delny is braver than she was, and she stands amidst the Bloom-tongues, her hands outstretched. Her hair fans out around her head, a pink corona, a nimbus that seems to crackle with energies of its own.
+
+"Guilt," she announces. "It feeds on guilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She turns away from the Maw. "It tasted the guilt I feel for what I did when I was Vrung's toy. But it knew I wasn't responsible for that, so my guilt wasn't strong enough. Someone who has genuine guilt - not regret, not shame, but all-consuming guilt - the Maw will devour them."
+
+She shivers. "I think my debt to you is paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

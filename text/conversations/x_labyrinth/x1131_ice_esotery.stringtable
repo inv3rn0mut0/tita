@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_ice_esotery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This strangely-shaped chest reminds you of nothing so much as an egg waiting to hatch, or perhaps a flower bulb carrying a deadly toxin. Veinous metal tubes run up its side, locking it together.
+
+Its outside is coated with a thin layer of frost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This empty chest, rimed with ice, once held the knowledge of how to use the ice esotery. Now you hold that knowledge in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lift the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the veins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Walk away from the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText> Follow-up T. 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The chest waits for you, pulsing and crackling with frost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The chest, despite its fragile appearance, is too heavy for you to lift. In fact, you can't even lift it from the floor. Additionally, it's extraordinarily cold - so cold that it burns to the touch.
+
+{ADAM: I dealt 1 point of damage here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The veins come from the base of the chest, and are made of a coppery material. They exude a fierce, bone-chilling cold. They are interlaced with one another across the top of the chest - you can see a seam where the chest opens, but you can't get to it because of these frozen tubes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Figure out a way to heat the veins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Unlock the veins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Strike the veins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Looking more carefully at the veins, you realize that introducing a careful about of heat at their top should cause them to retract - but that touching them would hurt you.
+
+You think for a moment, and then breathe out, slowly, and your breath fogs the chest for a moment.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Pick up the lozenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You raise your hand to the sky and try to smash the veins. It hurts quite a bit, and the veins remain undamaged.
+
+{ADAM: I did 1 damage here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The chill seeps into your fingers far faster than you would have imagined. It reminds you of the burning cold from your recent fall from space, which in turn reminds you that you should by all rights be dead right now. Distracted by these thoughts, you fail to open the chest, and your fingers are so numb that for a moment you don't realize that you've damaged them.
+
+{ADAM: I did 1 damage here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Walk away from the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You try to step away, but your feet cannot move. You've been frozen to the floor!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Break free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>It takes more strength than you thought would be required, but at last you're able to break yourself free. It appears that the veins that held the chest closed sprouted again from the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You're unable to wrench yourself free. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>It's cold... so cold. You feel its chill radiating through your hand, and your skin begins to gray and burn underneath it. An icy tendril shoots up your vein, into your neck, and you can feel the power of the cold echo through you. You place the lozenge into your pocket - your first real artifact!
+
+You step back from the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The tubes pull up toward the top of the chest, as if they were melting in reverse. When the last of them have reached the top, the veins dissipate into the air and the chest cracks open.
+
+A deep blue glow and a numbing cold spill from within. You can see, nestled in the icy heart of this chest, a small violet lozenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

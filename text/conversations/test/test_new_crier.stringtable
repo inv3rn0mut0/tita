@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\test_new_crier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"A star falls into the Reef! Hundreds witness the spectacle!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Foul murder in Underbelly! The killer remains unknown... and at large!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Another house collapses in Cliffs Edge! The Council blames the sticha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Another murder in Underbelly! All that's left of the victim is blood and a flayed hand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"More destruction in Cliffs Edge! The house of Madelia Glittering collapses into the sea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The Flayed Hand Killer strikes again! A third murder in Underbelly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"By order of the Council, the mercenary calling himself Tybir is wanted for questioning on charges of treason!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Yet another collapse in Cliffs Edge! A beloved midwife is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The Flayed Hand Killer escapes, leaving a final victim dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tragedy in Cliffs Edge! A child is killed when her house falls into the sea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"The sticha continue their digging! Cliffs Edge lives in fear that more homes will collapse!"
+
+{GEORGE: Should this set the global that tracks whether the PC knows the sticha are responsible for the tremors, falling houses, etc.? This is tracked by G_ZoneA_KnowStichaUndermineCity. I'm not sure what the repercussions of setting it here would have, so leaving alone for now. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Cliffs Edge is saved! The sticha have stopped their digging at last!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Rogue stichus spotted in Cliffs Edge! Lord Vuntgen promises to track the beast down!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"A rogue stichus has been slain in Cliffs Edge, thanks to the brave intervention of Lord Vuntgen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"A rogue stichus has evaded capture in Cliffs Edge! Lord Vuntgen leaves the district in disgrace!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"All's quiet and well! Long live the Council and the Slave Families!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Foul murder in Underbelly! The killer remains unknown... and at large!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"A rogue stichus has been slain in Cliffs Edge, thanks to the brave intervention of Lord Vuntgen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Foul murder in Underbelly! The killer remains unknown... and at large!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Another house collapses in Cliffs Edge! The Council blames the sticha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Another murder in Underbelly! All that's left of the victim is blood and a flayed hand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"More destruction in Cliffs Edge! The house of Madelia Glittering collapses into the sea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The Flayed Hand Killer strikes again! A third murder in Underbelly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"By order of the Council, the mercenary calling himself Tybir is wanted for questioning on charges of treason!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Yet another collapse in Cliffs Edge! A beloved midwife is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The Flayed Hand Killer strikes again! A third murder in Underbelly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"By order of the Council, the mercenary calling himself Tybir is wanted for questioning on charges of treason!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Yet another collapse in Cliffs Edge! A beloved midwife is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The Flayed Hand Killer strikes again! A third murder in Underbelly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"The Flayed Hand Killer strikes again! A third murder in Underbelly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"By order of the Council, the mercenary calling himself Tybir is wanted for questioning on charges of treason!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Yet another collapse in Cliffs Edge! A beloved midwife is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"A star falls into the Reef! Hundreds witness the spectacle!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Foul murder in Underbelly! The killer remains unknown... and at large!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Another house collapses in Cliffs Edge! The Council blames the sticha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Another murder in Underbelly! All that's left of the victim is blood and a flayed hand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"More destruction in Cliffs Edge! The house of Madelia Glittering collapses into the sea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Justice is done! The traitor, Ris, is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The Flayed Hand Killer strikes again! A third murder in Underbelly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"By order of the Council, the mercenary calling himself Tybir is wanted for questioning on charges of treason!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Yet another collapse in Cliffs Edge! A beloved midwife is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"The Flayed Hand Killer escapes, leaving a final victim dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Tragedy in Cliffs Edge! A child is killed when her house falls into the sea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"The sticha continue their digging! Cliffs Edge lives in fear that more homes will collapse!"
+
+{GEORGE: Should this set the global that tracks whether the PC knows the sticha are responsible for the tremors, falling houses, etc.? This is tracked by G_ZoneA_KnowStichaUndermineCity. I'm not sure what the repercussions of setting it here would have, so leaving alone for now. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Cliffs Edge is saved! The sticha have stopped their digging at last!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Rogue stichus spotted in Cliffs Edge! Lord Vuntgen promises to track the beast down!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"A rogue stichus has been slain in Cliffs Edge, thanks to the brave intervention of Lord Vuntgen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"A rogue stichus has evaded capture in Cliffs Edge! Lord Vuntgen leaves the district in disgrace!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"All's quiet and well! Long live the Council and the Slave Families!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

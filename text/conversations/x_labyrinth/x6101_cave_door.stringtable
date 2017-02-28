@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_cave_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Strips of citrine light under a transparent casing crisscross the rough hewn stone door in front of you. They meet in the center, their energy flows merging, binding the door shut tight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The cyclopean stones of the door continue glowing with yellow hashes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Wriggling your fingers under the edge of the stronglass, you manage to yank the covering free of the door. As soon as it is disconnected, the nearly unbreakable material crumbles to dust. The stream of flaxen light continues flowing, unbroken, holding the door closed. Searing heat emanates from the exposed beam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Try again?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You fail to find purchase on the fused stronglass panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tear off the stronglass panels covering the yellow light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Try again to tear the stronglass panels off the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText> Follow-up PQ. 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Carefully, you reach your hand into the gap between the doors. Blisters immediately begin forming on your skin, seared by the coruscating light. A few tears trickle down your face, but you manage to hold still. Just as you think you can't resist any longer, the energy sputter and flares then dies. The covalent bond is broken, revealing a heavy but crude mechanical lock underneath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Reaching into the narrow gap between the stone slabs, you immediately feel the skin on your hand burning. The pain builds until it is too great and you must pull away or risk passing out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Hold your hand in the exposed light and try to disrupt it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try to disrupt the beam by holding your hand in it again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText> Follow-up PQ. 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You deftly lift the pins inside the cast iron lock. There is a satisfying click, and the doors open of their own accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Your fingers fumble inside the lock, unable to grip the pins that clasp the mechanism shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Pick the mechanical lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Try to pick the mechanical lock again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Turn away from the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Script Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The light flowing across the stone doors has faded, but the gate remains held shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The cyclopean stones of the door remain sealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The beam is too powerful to disrupt without doing great damage. However, it has no apparent source - somehow, the beam is feeding upon *itself*.
+
+Rather than disrupt it, you deflect part of it away with a piece of metal. A smaller beam shoots up into the sky, and gradually the beam loses power. The energy sputters and flares, then dies.
+
+Underneath is a heavy but crude mechanical lock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Studying the mechanisms creating the beam proves fruitless. After several moments, you are no closer to figuring out a way through the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Figure out another way to disrupt the beam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try again to figure out another way to disrupt the beam.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\specter_calm_backup</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>188</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>He looks worriedly to one corner of the calm. A new portal has appeared where there was only empty space before.
+
+"They're in there," he says anxiously. "Whatever you did to that fragment opened up the way, but... there are a lot of them. I can *feel* them. They're angry." He gives you a nervous smile. "It's probably worth getting rid of them, but uh... make sure you're strong enough first, right?"
+
+{SCRIPT: Force start after player has defeated the Sorrow Fragment in the Trainer Fathom, and the Sorrow Fathom is now unlocked.}
+{SCRIPT: Remove ShouldNotPlay once the correct conditional is attached.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hey! I'm glad you're here. That fathom the Sorrow kicked you out of? It's opened! I don't know what you did out there, but it worked!"
+
+He clasps you by the shoulders. "Now all you gotta do is beat that thing. Shouldn't be hard, right?" He laughs nervously.
+
+{SCRIPT: Force-start when the Trainer Fathom is unlocked.}
+{SCRIPT: Start the Wrested Mind quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You did good work. Heh, we make quite a team, don't we? That was close. Too close. I never thought the Sorrow would get that close to us. I never thought it would find its way... *here*. Not in your *mind*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Everything about the specter seems dreamlike. He is a hazy silhouette of blue-glass smoke, wearing stylish, well-cut clothes. He fixes his piercing eyes on you.
+
+His handsome, bearded face seems hauntingly familiar, though you've never seen him before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He leans in and speaks urgently. "Look, I know you have questions, and I want to answer them. I will, promise. But if the Sorrow found us here once already, then we've got to work fast. So listen to me. We've got to stop it. That means we need to get you to something called a resonance chamber. You need to activate the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText> Follow-up PQ. 349</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText> Follow-up T. 360</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm..." He pauses and looks down at himself, considering a long time before answering. "I'm you. I'm a part of your mind. When the Sorrow hit you, it *shattered* you. I'm a splinter. I was waiting here for you. I called you, instinctively. And then the Sorrow came, and I knew it meant to destroy us. But the important thing is that we're together now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm you. A piece of you that broke off when the Sorrow attacked us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Who are you and what are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tell me who you are again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText> Follow-up PQ. 352</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText> Follow-up T. 395</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"It's your *mind*. A construct built to... I don't know. Share thoughts? Wait, you know how people say, 'in the first place...'? This is definitely the first place."
+
+"Well, it was the first place for me, anyway. You'd probably know better, since it's yours. If you don't remember now, maybe it'll come to you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I told you as much as I know. It's your mind, and that means you're in control. You just need to figure out how to unlock its secrets. I don't know how, but I think the resonance chamber will do that for us. It'll unite us, make us whole again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He shrugs. "You know what I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"If this is my mind,why don't I remember this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tell me about this place again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"How do you know all this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I don't know!" He throws up his hands in frustration. "I'm just a part of you. I look at you and I *know*. This place was made for you - for us - and I know that much. And I know about the resonance chamber. But... that's all I know. Unlock it, use it, and it feels to me like all our questions will be answered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What's a resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"It's... hang on. Let me remember." He presses his hands to his temples and closes his eyes. "It's a glass sarcophagus. Except it's in the real world, it's inside a crystal dome somewhere, with five mechanical arms around it and a metal ring set in the floor. It feels like... like we were aiming toward it when we fell. It should be close to where we'll be when you open your eyes in the real world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What's the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The fall hit you that hard, huh? That thing that was here... that black fragment... that was just the smallest piece of it. You felt it. You saw it. It's our death. I don't know anything more than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"So what's the plan, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You wake up. Look over there. You see that tear in space that just opened?" 
+
+"That's a Tidal rift. The Tides are a force, right? Like gravity or magnetism or something, except they respond to people's actions. When you step through that portal, you'll gain some power from the Tides. In theory, this Tidal rift should take you back to your body, to the real world. But don't be alarmed if you encounter something different on the way. You'll figure it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I've told you everything I know. Until you get to the resonance chamber, I'm as blind as you." He points to the rift in space. "Just head through that portal, activate the chamber, and we're healed. It's as simple as that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Oh, gods! Not the Sorrow! Not here! Let me help you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Well, I can't say I expected you back so soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Something feels odd about this man, but it takes a while to put your finger on it. It's his thoughts. They aren't there - or rather they're there, but they're indistinct, a kind of white noise that blends in too well with the background hush of this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Do you know who the ghostly woman is in that fathom I came out of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>He shakes his head. "Don't know anything about that one. I can't go in there for some reason."
+
+He shrugs. "It's not surprising, really. It's your mind, not mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Probably this woman is just a lacuna - a construct of your buried memories. Either that, or she's a reflection of someone you met in real life. Whatever she is, she probably isn't real. You're the only one with that distinction." He chuckles to himself. "And maybe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Why am I here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You died. Well, you're not *dead* dead, but you came awfully close." He leans in. "You should be more careful out there... for both of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Are you always here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>His shoulders rise in a ghostly imitation of a shrug. "Where else would I be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I found the resonance chamber, but it's broken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{mutters}"Yeah, I saw that. {end muttering}I don't see everything you do out there in the real world, but I definitely saw *that*. You have to find a way to fix it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What should I do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You *have* to find Mazzof. That name is tickling my memories. I'm *sure* he can help you fix the chamber. Then we'll find a way out of this mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You need to find this Matkina person. She might not know how to fix the chamber, but she's the only lead we have on who can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Well, with the chamber broken I... you know, I'm not sure. We need to find someone who can fix it. That chamber's our only hope. Without it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText> Follow-up PQ. 320</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText> Follow-up T. 323</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[It must have triggered something in your mind, or you gained more power when you activated it.
+
+Sometimes that can happen - memories or new powers or other events in the real world can form bonds and bridges here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[follow-up]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"How did activating the clock in the real world open that other fathom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"How do other fathoms open again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText> Follow-up PQ. 326</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> Follow-up T. 327</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Your sire could do a lot of things. Connections to all those things are still in here, somewhere.
+
+You can even change which abilities you're attuned to at will, though I imagine that will get harder each time you try to do it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[follow-up]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What can you tell me about these new abilities I gained?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tell me about my new abilities again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText> Follow-up PQ. 307</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText> Follow-up T. 310</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"My thoughts? Oh ho! I didn't know you had *that* in you. I couldn't say for sure, but the simplest answer I can think of is that I *am* thought. Ain't nothing to read!" He gives a hearty laugh.
+
+"To tell the truth, you shouldn't expect to read much in the way of thoughts in this place. Most things here aren't real. It'd be like reading your *own* mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Because I *am* thought! I'm not completely... real, like most things in here. You might find a thought here and there that you can read in this place, but I wouldn't expect it for the most part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Your thoughts are... fuzzy. Why can't I read them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Why can't I read your thoughts again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText> Follow-up PQ. 269</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText> Follow-up T. 282</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"The portal's still there, right? I don't see why it wouldn't work twice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Use the portal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"How do I get back this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"How do I get back again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText> Follow-up PQ. 273</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Oh, sure! There's a bar that serves dream whiskey and nightmare ale just two fathoms south of here." He jabs you in the arm with his elbow. "You looked like you believed me there for a second. It's your mind! There's nothing like that here. {mutters}I've looked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"But you never know. You've changed things plenty already. I wouldn't be surprised if something showed up here eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He shrugs. "Look around. It's *your* mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Is there anything to do while I'm here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Has anything changed since the last time I was here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"i want to talk about the memoria again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[That statue just appeared. It's a memoria, a relic of something you did outside. I think you can use it to give you some kind of power.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Sure. Follow-up explanation on what he said the first time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText> Follow-up PQ. 291</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText> Follow-up T. 298</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Explanation]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"What does the memoria mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What does the memoria mean again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText> Follow-up PQ. 294</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText> Follow-up T. 301</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Explanation]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"How do I use the memoria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"How do I use the memoria again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'd like to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Thanks for the explanation. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I want to talk about something that came up the first time I was here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Why not? My memory goes back *that* far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>A kaleidoscope of colors drags you back from the welter of memories. That memory was more powerful than the others, but it has faded. Your personality reasserts itself, and you stand in the strange laboratory once more. The specter beams as you approach.
+
+{SCRIPT/JESSE/ADAM: I marked this as should not play because of the redesign - delete if that's fine. -Colin}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"That was great! Did you see that? Scattered 'em!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText> Follow-up PQ. 262</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"The tank? I don't know. All I saw was you put your hand on it and then blast those Sorrow fragments to the stars. But it's *your* mind, right? It was probably some mental connection, like the creatures in those tanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Did it? I don't know what to tell you. It didn't look like anything happened out here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"What happened to me in that tank? Whose memory was that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"That memory I had felt a lot more real than what happened with the creatures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"That surge of energy that drove away the Sorrow fragments... was that something *I* did?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"It was! That's one of the things attuning *does*. The Tides keep you alive. Maybe you can't control them all the time, but they can change things around you. I wouldn't be surprised if it worked that way in the real world, too." A wide grin plasters itself across his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText> Follow-up PQ. 213</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"It means you're alive, for one thing, so that's a bonus. The Tides keep your body together, sucking energy in so you can heal. You can push that energy out, too, like you did with the Sorrow fragments just now."
+
+He spreads his fingers. "There's five Tides. Your nature - like your choices with the creatures - determines which ones you're most attuned to. Like..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Bank 219</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"But that's just how you are right now. The Tides are always moving, and you can change. I mean, you're going to be who you're going to be, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You're most attuned to blue and red, so like wisdom and passion, logic and zeal, insight and action. That's... an interesting combination, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You're most attuned to blue and indigo, so wisdom and justice, insight and community, logic and the greater good. Those are good leadership qualities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You're most attuned to blue and gold, so logic and empathy, wisdom and compassion, insight and sacrifice. Huh. Makes you sound like a historic figure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You're most attuned to blue and silver, so wisdom and influence, logic and power, insight and renown. That sounds... that sounds powerful, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You're most attuned to red and indigo, so passion and justice, action and community, zeal and the greater good. Sounds like a revolutionary to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You're most attuned to red and gold, so zeal and compassion, action and empathy, passion and sacrifice. Heh, makes you sound like a hero, doesn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You're most attuned to red and silver, so passion and power, zeal and influence, action and renown. Sounds like a great warrior to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"You're most attuned to indigo and gold, so justice and compassion, community and sacrifice, empathy and the greater good. With traits like that, someone could change the world for the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You're most attuned to silver and indigo, so power and justice, renown and community, influence and the greater good. Sounds like a powerful leader, to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"You're most attuned to gold and silver, so power and empathy, compassion and influence, sacrifice and renown. Huh, I wonder what someone like that would do to the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"You're most attuned to blue, which is about wisdom, logic, and insight - the kind of person who wants understanding or enlightenment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You're most attuned to red, which is about passion, zeal, and action - the kind of person who wants to live life and change things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You're most attuned to indigo, which is about justice, community, and the greater good - the kind of person who wants what's best for the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You're most attuned to gold, which is about empathy, compassion, and sacrifice - the kind of person who wants what's best for those close to them, whatever the cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You're most attuned to silver, which is about power, influence, and renown - the kind of person who wants to leave an impact on those around them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"... huh. You're balanced in all five Tides. That's kind of impressive, actually. I don't think *I* could've done that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"So I'm 'attuned' now. What does that mean exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Can you tell me what Tides I'm attuned to again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText> Follow-up PQ. 243</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText> Follow-up T. 246</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Didn't introduce myself, did I? You can call me a composite - like a mishmash of your thoughts and memories and everything. I remember some things you don't, just like you know some things *I* don't remember. You made me when you hit the ground. Of course you didn't *mean* to make me, but... here I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I'm a part of you, I suppose. I was created when you hit the ground - woke up before you, too. I remember some of what you've forgotten, just like you know things I never learned. Not that I understand what happened, mind you. It's just... one of the things I *know*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Who are you, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Can you tell me who you are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText> Follow-up PQ. 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText> Follow-up T. 210</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I don't know what else to call it. This isn't the real world, but everything you do here seems to change things. I mean, look what you did to the Sorrow, right? I *think* you can change the real world too, but you'll have to get there to find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"We're in your mind while your body's in the real world putting itself back together. You can change things here - already have, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Earlier, did you say we were in my mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Can you tell me about this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText> Follow-up PQ. 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText> Follow-up T. 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I don't remember much - maybe you know more than me - but the Sorrow is what threw you to the ground and nearly killed you. It's still after us. It'll *always* be after us. Unless you can stop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"But we got you attuned, right? We can do this, too. Together." He leans in conspiratorially. "{conspiratorial whisper}I have a plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>{Suddenly serious}"That was the Sorrow, or pieces of it anyway. You can imagine how terrible the real thing is." His smile has disappeared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Just that it's old. *Really* old. And it doesn't pay much attention to laws - I mean space-time laws, not human ones. {to himself}Though I bet it ignores those, too. {shivers}Skist-sucking creature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Those creatures that were here... can you tell me more about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Can you tell me anything else about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText> Follow-up PQ. 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText> Follow-up T. 63</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Hmm. I probably should've started with that. The Tides are a force. Like gravity or magnetism or something, except they respond to people's actions. There are five of them, uh... blue, red, indigo, gold, and silver. At least that's what they're called in here." He gestures at the laboratory equipment around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Think of them like a magnetic force - or five forces, I guess - that responds differently to different people and actions, especially you and yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"What are the Tides, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Can you tell me about the Tides again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"What's your plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText> Follow-up PQ. 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText> Follow-up T. 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Second, you need to find something called a resonance chamber. I don't know everything about it, but I remember what it was supposed to do. It's *supposed* to stop the Sorrow once and for all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"It'll look a lot like the tank you used to attune yourself - a glass sarcophagus. Except in the real world, it's inside a crystal dome somewhere, with five mechanical arms around it and a metal ring set in the floor. I'm sure you can't miss it. Use it like you used this one, and we should be fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"First, you need to get back to your body. When you wiped out those Sorrow fragments, a tear opened in space just over there. Fair bet that it's your way back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Wake up first. Then use the resonance chamber. I think that's it. {mutters}I *hope* that's it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"What am I supposed to do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Can you tell me what the plan is again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I'd like to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"No problem. What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I think I'm ready to go. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"All right. Good luck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Hold on! You ought to know what we're running from first. I don't remember much - hells, maybe you know more than me - but the Sorrow is what threw you to the ground and nearly killed you. It's still after us. It'll *always* be after us. Unless you can stop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Hopefully that resonance chamber I told you about will do it. If not... let's just assume the chamber will do the trick, all right? {mutters}It's less frightening that way. {normal voice}We can make other plans if it doesn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Good luck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Hold on! I didn't tell you how to *stop* the Sorrow yet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Hold on! You saved your mind, but we're not in the clear yet. I don't remember much - hells, maybe you know more than me - but that creature that was here, the Sorrow, is still after us. It's what threw you to the ground and nearly killed you. It'll *always* be after us. But I think I know a way to stop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"First, you need to get back to your body. When you wiped out those Sorrow fragments, a tear opened in space just over there. I'll bet anything that's your way back."
+
+He clasps your shoulder tightly. "Second, you need to find something called a resonance chamber. I don't know everything about it, but I remember what it was supposed to do. It's *supposed* to stop the Sorrow once and for all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"It'll look a lot like the tank you used to attune yourself - a glass sarcophagus thing. Except in the real world, it's inside a crystal dome somewhere, with five mechanical arms around it and a metal ring set in the floor. I'm sure you can't miss it. Use it like you used this one, and we should be fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Yeah, just fine... Good luck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>{concerned}"Hey. Are you all right? You've still got one thing to do. I don't want to put pressure on you, but it's important."
+
+{SCRIPT/JESSE/ADAM: I marked this as should not play because of the redesign - delete if that's fine. -Colin}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Script Node 413</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>You are in a lightless space. Colors begin to shimmer into existence around you - blue, red, indigo, gold, and silver. Shapes take form within the flickering shades. 
+
+In the blue haze, a man consults a datacube, seeking knowledge in an ancient cenotaph. In the red, a mutant struggles against the foes venting their violence on his people. The indigo shade leans forward, urging his vessel to cut the waves more quickly, speeding toward a judgment that will save or doom a people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>In the gold light, a dying man struggles with his bequest, balancing demands on his time with the needs of his supplicants. The silver shadow trudges through a war-torn landscape, dreaming of glory and power.
+
+Luminous pathways lead from your feet, one to each colored rift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Choose the blue path.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Choose the red road.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Choose the gold walkway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Choose the silver route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Choose the indigo current.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I saw what happened. Are you all right? That thing almost took you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>A worried expression grows on his face. "The Sorrow must be gathering its strength, taking spaces in your mind to keep you from reaching your full potential. I don't know why it doesn't just kill you, though. Maybe the fragments aren't that strong... yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Where did that fragment come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Heh. Well that was the same thing that attacked you here before - a fragment of the Sorrow, stuck in your mind somehow." He rubs the back of his neck. "It looks like there's more than one of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"How do I get back in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>He shrugs. "I don't know if you can. At least not until you gain more power over your mind." He puts a spectral hand on your shoulder. "Don't worry. If you need to get in there, you'll find a way... eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

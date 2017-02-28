@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_gold_infoobject1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A stronglass plate covers the front of this curving, branching enclosure. Inside, a small furry creature with six multi-jointed limbs, a long, flexible neck, and saucer-shaped eyes, scurries about. A leather pouch containing glowing pellets hangs near the top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Drop a few pellets into the enclosure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The creature snatches the pellets from the air as they tumble down the sides of the enclosure, shoveling them into its mouth as fast as it can.
+
+The large pupils in its inky eyes dilate, and an astonishingly low hum emerges from its mouth. A deep, authoritative voice pulses from the hum, as if waves of air were being compressed into language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"The fire wights of Ossiphagan are beings composed primarily of light. Those who travel to Ossiphagan believe them to be vicious killers, but the truth is that they are so different from organic creatures that they do not recognize us as lifeforms. Among their own kind, they give freely. A dying wight will receive the last drops of water (which they catalyze for energy) from a healthier one, even if it puts the giver in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The creature stops vocalizing. It blinks its eyes slowly, a sudden wave of exhaustion overtaking it, then crawls to the bottom of the enclosure, curls into a ball, and falls instantly asleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The six-legged primate continues to flit around its enclosure. It stops to point fingers at the bag of pellets, turning its pleading eyes to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The creature is fast asleep. You hear a low, murmuring snore.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

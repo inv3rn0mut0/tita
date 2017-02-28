@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A matte-black obelisk floats in midair above the water. It has sharp, curved sides that converge to a glowing tip that brightens or dims with the passing of the bay's faint breezes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bank 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lean out to touch the obelisk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Reach out toward the obelisk again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You raise your hand toward the obelisk. Dull green light wells from within the black stone, fixed on you like a furious eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Touch it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Yank your hand away from the obelisk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>A beam of light streaks from the tip of the obelisk toward your hand, but you are faster, and it passes within a hair of your tingling fingertips.
+
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A beam of light streaks from the tip of the monument and pierces your hand. Shouting in pain, you stagger back.
+
+{DAMAGE}
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Emerald light gathers at the razor tip of the structure before resolving into a bar of radiant light aimed directly at your outstretched hand. 
+
+You yank your hand out of its path, and the beam slips harmlessly into the water below with a gout of silver steam. The sullen glow slowly fades from the obelisk. 
+
+{SCRIPT: This needs to call LaunchProxyAbility(oei_user, LaserSourceNode, 0)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>A beam of light streaks from the tip of the monument, impaling your palm and ripping through your wrist. Shouting in pain, you stagger back. 
+
+{DAMAGE}
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You raise your hand towards it, and once more, an emerald glow rises from within the heart of the monument. Instinct takes over, and you yank your hand back just as the beam of light sizzles through the space where it was. 
+
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Leave the obelisk alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The obelisk floats serenely above the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I knew someone who did what you're about to do," Aligern says casually. "Aeon Priest. A beam came out the top of that thing, and he caught it in a crystal lattice. I almost felt bad when the second beam ripped his face off."
+
+"I'm sure you know what you're doing, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Be careful around that device, dear. It does tend to spit beams of light at people who get too close."
+
+Her eyes gleam with warm recollection. "A handsome young Aeon Priest I knew managed to capture one in a crystal necklace. He looked *so* pleased with himself, but only in the one reality. In the others, the beam had torn straight through his eye. He wasn't quite as handsome - or alive - after that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, hush. At least that poor priest died in service of his curiosity rather than stumbling about the coast complaining and feeling sorry for himself."
+
+"Go ahead if you must," she tells you, ignoring Aligern's glare. "But do be careful." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Stretch your crystal shard toward the obelisk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Carefully, you level the shard at the obelisk, and a superheated beam lances from the tip of the structure into the crystal, sending vibrations up your arm and suffusing the shard with a warm, green glow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bank 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A beam of light streaks from the tip of the monument and pierces your hand. Shouting in pain, you stagger back.
+
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Reach out and touch the obelisk anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Back away from the obelisk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Furious light gathers at the tip of the monument. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The obelisk's glow fades as you step back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Aligern snorts. 
+
+"Hope it was worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"There are less painful ways to lose a finger, dear. If that's what you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Aligern lets out a low, appreciative whistle.
+
+"You don't see people dodge light every day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Do be careful with those lovely hands. Fingers are in *such* short supply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I knew someone who did what you're about to do," Aligern says casually. "Aeon Priest. A beam came out the top of that thing and ripped his face off. Made a fancy night light out of his crystal necklace, though."
+
+"But hey, I'm sure you know what you're doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Aligern lets out a low, appreciative whistle.
+
+"You don't see people dodge light every day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Do be careful with those lovely hands. Fingers are in *such* short supply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Aligern snorts. 
+
+"Hope it was worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"There are less painful ways to lose a finger, dear. If that's what you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Aligern snorts. 
+
+"Hope it was worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"There are less painful ways to lose a finger, dear. If that's what you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The glow fades from the structure. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>As you watch the obelisk for any further signs of danger, the glow fades. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[DEBUG] Test the laser hitting the PC.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[DEBUG] Test the laser missing the PC.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Script Node 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Touch it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You lay your palm on the surface of the obelisk. A brilliant emerald beam erupts from the apex of the structure and strikes you in the chest. 
+
+What follows is not pleasant, but mercifully brief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The light intensifies, collecting at a point near the top of the device, and you feel the hairs on your arm stand straight up. 
+
+Instinctively, you pull your hand back. Both the feeling and the light fades away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You snatch your hand away as quickly as you can, but it's too late. An emerald beam lashes from the obelisk's tip and strikes your chest. What follows is not pleasant, but mercifully brief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Script Node 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Once again, a dull, malevolent light blooms from the obelisk as you extend your hand towards it. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

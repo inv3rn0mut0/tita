@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\global\item_global_hall_of_relics</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>105</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The metallic edges of this engraved globe press into your palm. Interlocking spirals spin over its surface, pulling at your thoughts. At places in your mind. 
+
+Before your eyes, segments of the spirals rise from the sphere with whispering clicks, forming detailed sigils. 
+
+Buttons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You pull the whorled orb from your bags. The sigil-buttons rise obediently from its surface, waiting to be pressed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Hold the orb up to the light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Hold the orb up to the light again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Light is faintly visible through the curves of the orb's inner spirals, but only just. You see flickers of movement within. Mechanisms, perhaps. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Light sparkles off the razor innards of the sphere. The movement you spotted before is nowhere to be seen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Touch the button with the circle of interlocking hand mirrors engraved upon it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Callistege. I need you to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You press the button with your thumb and *instantly* feel eyes - countless eyes, outnumbering the stars - turn towards you, seeking your identity and your secrets.
+
+Callistege. Callistege and her sisters. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mmm?" says Callistege's voice inside your head. "Oh, it's you, dear. Of course! I'll be right there."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Push Callistege's button again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You thumb the button, and again feel the eyes of Callistege's countless sisters upon you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You poke the button, and hear Erritis's voice within your mind. 
+
+"I wonder what would happen if I dueled myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Is this actually *you*?" Erritis shouts in your mind. "Yes! A hundred dozen times, yes!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You revisit Erritis's mind. He appears to be accusing himself of cheating in a duel against himself. 
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tap the button showing a sword made of tiny swords. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Erritis. Join me if you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Push Erritis's button again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You stab the button with a finger, and hear someone growling under their breath... in your head. 
+
+It's Matkina. You recognize the swearing. 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What?" Matkina says, inside your mind. "Oh, it's you. Why not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You listen to her curse under her breath for a few moments. Then, you lift your thumb and her voice fades away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Press the button with the dagger on it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Matkina. I need your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Press Matkina's button again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You hold the stone in your hand, and hear Rhin laugh in your mind, then ask someone a question you can't quite catch. 
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"All right. I'll be there soon."
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She is having a whispered conversation with someone you can't sense or see. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>A perfectly round stone sits atop the pedestal nearest the rubble. Hold it.
+{SCRIPT: Rhin has joined party but is not currently in it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Ask Rhin to join you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Hold Rhin's relic again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The button yields easily beneath your thumb. You hear Tybir's chuckle in your head. 
+
+Hmm. A large number of people seem to be panting, sighing, and moaning in his general vicinity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Sure, lad," Tybir says, seemingly at ease with the presence of a sudden voice in his head. "Let me find my trousers, and I'll be right there."</DefaultText>
+      <FemaleText>"Sure, lass. Let me find my trousers, and I'll be right there."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>He's whistling a jaunty tune over the moans of a gathered crowd. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Press the button showing a pair of joined rings. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tybir. Join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Press Tybir's button again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You press the cage sigil with your thumb, and hear Aligern's voice in your head, as though from a great distance. 
+
+"Doesn't make sense," he mutters, accompanied by the clinking of tools. "It's like this thing wants to be broken."
+{ALIGERN}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Huh?" Aligern says in your mind. "Oh, it's you. Sure, kid."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You feel the sharp edge of his focus, directed wholly at the jumble of parts on the workbench before him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Press the cage sigil. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Aligern. I need you to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Press Aligern's sigil again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Put the orb away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Strange relics sit atop the short pedestals lining this crumbling, low-ceilinged hall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Many of the strange relics atop the pedestals have crumbled into unremarkable dust, but not all. 
+{SCRIPT: Node only appears if the player has recruited at least one companion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You step back through the doorway into blinding light and find yourself holding the sphere once more. You put it away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Then, the button snaps beneath your hand, and Aligern's voice fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Then, the button *cracks* beneath your thumb, and Callistege's disdainful presence fades from your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>With a sudden hiss, the buttons sinks back into the orb, and Erritis's voice fades from your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Without warning, the dagger sinks back into the sphere with a series of ratcheting clicks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The stone grows hot in your palm, too hot to hold, and you drop it with a muttered curse. 
+
+It lies at your feet, white-hot, before crumbling into pale dust. 
+{SCRIPT: Node only appears if this companion has permanently left the party}
+{SCRIPT: This node disables Node 50}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Without warning, the button sinks back into the sphere, and Tybir's chuckle dies away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Interesting. The sphere connects you to people you have met in the real world, and more than that - you sense, at some instinctual level, that it can *transport* them to you, if you call them while pressing the button, and they're willing to come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>A jolt races up your arms and arcs out the door into the real world - or, at least, the world where your body is. 
+
+Your companion is out there, waiting for you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Aligern blinks into existence beside you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You leave your companion alone for now. You have enough people with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You stare at the sphere, and understanding dawns. Things ended badly between you and your former companion. You won't be able to make contact with them again, it seems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What? Oh, hey kid." He sighs in your mind. "And the answer's 'no'. I can *smell* Callistege on you. Ask me again when you've dropped her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"You're still with *him* aren't you. I told you how I felt about that. If he leaves, you may ask me again. Otherwise..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>With a soft *pop*, Aligern appears beside you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Aligern abruptly appears beside you, wobbling on his feet a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Script Node 152</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The globe weighs down your hand, cold as a sphere of ice. Something about the air in this place makes it hard to focus on the object, as if it is barely here at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>You cradle the hazy sphere, trying to make out the details decorating it. You sense it is not at ease here. That it is trying to leave this place. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Script Node 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Erritis blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>With a soft *pop*, Erritis appears beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Erritis abruptly appears beside you, wobbling on his feet a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Callistege blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>With a soft *pop*, Callistege appears beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Callistege abruptly appears beside you, wobbling on her feet a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Callistege blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Matkina blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>With a soft *pop*, Matkina appears beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Matkina abruptly appears beside you, wobbling on her feet a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Matkina blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Tybir blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>With a soft *pop*, Tybir appears beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Tybir abruptly appears beside you, wobbling on his feet a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Tybir blinks into existence beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Press the tree sigil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>The button depresses only slightly. You hear a brief shriek that sounds like Rhin, then the button stubbornly rises again. Examining it more closely, you notice two small concentric circles lying at the foot of the tree, though you don't understand their meaning.
+
+Suddenly, a flash of light forces you to shield your eyes. When you look again, the circles and the tree sigil are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>The button depresses only slightly. You hear a brief shriek that sounds like Rhin, then the button stubbornly rises again. Examining it more closely, you notice two small concentric circles lying at the foot of the tree... It looks suspiciously like Rhin's 'god' Ahl.
+
+Suddenly, a flash of light forces you to shield your eyes. When you look again, the circles and the tree sigil are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>The button yields easily. You hear a young girl hum a strange tune. It's Rhin!
+
+The tune cuts off abruptly, and the button rises back to its former position, refusing to be pressed again. It's almost as if something hid her from your sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Press the tree sigil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Try to press the tree sigil again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>No matter how hard you push, the button refuses to budge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Maybe Rhin is still in Cliff's Edge, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>The button yields easily. You hear Rhin sobbing - quietly, as though she were trying to keep it in and not be heard.
+
+Her sobs cut short when she notices your presence. "Who- who's there? Please! Whoever it is, you have to help m-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Looks like you'll have to talk to Tol if you want Rhin back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>The cruel voice of Tol Maguur cuts her off. "Who are you talking to, little bird? Well, whoever it is..."
+
+A sudden blast of force strikes you painfully behind the eyes, and the connection is cut off. The button rises back to its former position, refusing to be pressed again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

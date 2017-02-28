@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5101_decanted_at_caravan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This slender, armor-plated humanoid is no simple automaton. An ice-speckled dome on the construct's chest holds a frozen human head, cradled in a glowing nest of cables. 
+
+A buzzing, emotionless voice issues from the polished grille on the automaton's head.
+
+"Greetings. We regret to inform you that this unit is not currently purchasing specimens. Our skilled team of acquisition agents has been granted permission to browse for candidates directly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This creature is in far better shape than the malfunctioning construct you met in the Bloom. Its armor is a creamy white, unmarked by damage or joint grease. Even the frozen head in its chest seems... fresher.
+
+A smooth, emotionless voice issues from the polished grille on the automaton's head.
+
+"Greetings. We regret to inform you that this one is not currently purchasing specimens. Our skilled team of acquisition agents has been granted permission to browse for candidates directly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Greetings." This time, the creature doesn't even glance your way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What is your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What do people call you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"This one's designation is likely beyond your understanding," it says, spreading its delicate hands apologetically. "Your kind, however, commonly refers to ours as 'Decanted'. We preserve our heads within these constructs to  prolong our lives, and accumulate vast centuries of knowledge. We are scholars. Explorers. Seekers of beauty."
+
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"'Decanted'," it says, folding its hands with deliberate care. "We achieve long and useful lives by preserving our heads within these armored frames."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me why you're here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We represent a select group of buyers who are dedicated to the appreciation of physical beauty. Normally, we pay handsomely for those willing to assist us in the procurement of said specimens." 
+
+A soft bark of static emerges from the creature's grille, as if it is clearing its throat. "As I have said, however, we have received a gracious invation from the Chimaera to purchase local candidates directly from his agent. We have accepted his exciting offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::hhhk::
+
+"The Chimaera has invited us to select specimens of our choosing at a fair price, and we are currently doing so." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You seem to be in better shape than other Decanted I've met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That is because this one *is* better," it says, flicking a particle of dust from one gleaming shoulder. "This one has received an upgraded form for the selection and retention of prime candidates. Those of us who fail to achieve these *simple* parameters are punished with flawed or faulty components."
+
+You notice the severed head is sneering.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tell me more about the Chimaera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You can't tell me anything else about the Chimaera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"This one has told you all it knows. We have never met him, but would certainly enjoy the opportunity to thank him for his generous invitation. Others have not been so welcoming," it says, waving a dismissive hand in the direction of the distant caravaners. "They spread rumors. Fear us. *Hate* us. It is tiresome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"We cannot. Any further information would be needless fabrication."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"How did the Chimaera invite you here if you've never met him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We met with his agent, a graying, hirsute, overbuilt specimen with unsightly slashes of scar tissue across his brutish cheekbones." 
+
+The automaton shakes its metal head in distaste, contrasting somewhat oddly with the fixed gaze of the severed head below. "Apologies. We find it odd that such an illustrious personage would use so unsuitable a specimen as their respresentative."
+
+{ADAM: This node will need to be updated with Tash's description. Sharepoint doesn't have a whole lot on the guy besides "stocky", and I couldn't get anything from either version of the Kholn Village Mere.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>An indrawn hiss pulls your attention to Matkina. 
+
+"That sounds like Tash," she says, folding her arms across her belly. "But he's dead. He *has* to be." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"The caravan leader thinks the Giash invited you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The grille crackles irritably. 
+
+"We are often the subject of baseless speculation, so this one will elucidate: we have had absolutely no contact with the Giash. The caravan leader should concern herself less with gossip and more with reaching her destination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can I help you find your 'candidates'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"We prefer to select our own candidates," the Decanted says, with a careful bow. "This one does, however, appreciate your kind offer. Another time, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I've heard of you. Your 'recruits' are butchered and killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I know what you creatures do with your 'candidates'. Leave this place, or you'll answer to me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Zenia told me what you creatures do. I think you should go." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Decanted straightens to its full height, armor plates clicking into place. 
+
+"Your 'knowledge' is founded on unfounded rumors and superstition. We are here under the authority of the Chimaera, and here we will stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>::hhhk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The Decanted's armored body tenses as you approach, and both heads turn toward you warily.  
+
+"Leave this one in peace. Any further attempts to harm us will fail as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I thought I told you to leave the Oasis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Don't make me chase you off again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Static sputters through the creature's grille. 
+
+"And we believe we told *you* that the Chimaera granted us permission to gather specimens as we will. You have no authority here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The Chimaera has invited us here," it says, touching the frozen dome on its chest uneasily. "We will not go."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Attack the Decanted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Try to attack the Decanted again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You lunge at the Decanted. Its hand darts to a series of rounded buttons on the front of its armored shell. 
+
+A radiant pulse of light staggers you. When your vision clears, the creature is gone. 
+
+{SCRIPT: B-priority, this will start a Tussle (and the RanItOff flag will get set only if the player wins).} 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The Decanted's fingers blur across the buttons on its shell. You shield your eyes against the resulting flash of light, but the creature is gone when you lower your arm. 
+
+{SCRIPT: B-priority, this will start a Tussle (and the RanItOff flag will get set only if the player wins).} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I've never heard of Decanted being welcome *anywhere*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText> Addend. 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The automaton nods.
+
+"The offer is nearly unprecendented. We are gratified by the Chimaera's recognition of our noble goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You hear the faintest note of pride behind the Decanted's emotionless voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText> Follow-up PQ. 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"How do your upgrades make you superior to other Decanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Tell me about your upgrades again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText> Follow-up T. 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Thank you for asking," it says, clearly pleased you have given it an opportunity to brag. "This one's upgrades are too numerous to name, but include quadruple joints, silk-ribbed vocal filters, a carapace rated for peak operational efficiency in over 200 known biomes, and-" 
+
+It pauses, then leans towards you conspiratorially. "Chocolate-scented pacification gas. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"This one is stronger, faster, more durable, and better-smelling."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

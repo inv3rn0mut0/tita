@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_endless_horror</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Endless Horror</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Get into the Necropolis tombs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the Endless Gate inside the Necropolis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Inifere and convince him to close the Gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>I killed Inifere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>I convinced Inifere to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>I convinced Inifere to kill himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Inifere sacrificed himself in the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Marcysa killed Inifere in the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>I left the Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Inform the Memorialists the Gate is closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Inform the Memorialists the Gate is closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Inform the Memorialists the Gate is closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Inform the Memorialists the Gate is closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Inform the Memorialists the Gate is closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Find Ronos Cai'sul for a reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Closed the Endless Gate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Left the Valley</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Enter the Endless Gate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Children of the Endless Gate have made a slaughterhouse of the Valley. The only way they'll leave is if I can close their Gate in the Necropolis, somehow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>If the Gate's in the Necropolis, then the first step will be to find a way into the Necropolis tombs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The cultists have opened the Endless Gate somewhere in the Necropolis. I need to find it and figure out a way to close it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The cult's leader Inifere is somewhere beyond the Endless Gate itself. There's no way for me to leave, now that I'm here. I need to find Inifere and convince him to close the Gate... or else *force* him to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>One sure way to close the Gate is to kill the man that opened it. Inifere is dead now, and the Gate is closed for good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>It wasn't easy, but I convinced Inifere to close the Gate and leave the Valley. I doubt he'll open it again any time soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Knowing how Inifere felt about the death of Choi and all the others, I convinced him to kill himself. Cruel, perhaps, but also necessary as there was no other way to ensure the Gate will stay closed.
+
+Nor was there any other way for him to atone for all of his sins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>While I was in Inifere's body, I convinced him it would be better to sacrifice himself - not only to save his cultists, but also to save all those his cultists have killed in the intervening years.
+
+I don't know if reality changed *that* drastically, but Inifere is gone now, and so is the Gate he brought with him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>While I was in Inifere's body, Marcysa betrayed and killed Inifere. She then became the new leader of the Children of the Endless Gate. The cultists continued their work, I suppose, but at least the Gate is gone from the Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>The Sorrow forced me to leave the Valley before I could stop the cultists. Hopefully I'll have a chance to come back for them, but right now I'm stuck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I killed Inifere, closing the Gate for good. I should return to the Memorialists to tell them what I've done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>It wasn't easy, but I convinced Inifere to close the Gate and leave the Valley. I doubt he'll open it again any time soon.
+
+I should return to the Memorialists to tell them what I've done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Knowing how Inifere felt about the death of Choi and all the others, I convinced him to kill himself. Cruel, perhaps, but also necessary as there was no other way to ensure the Gate will stay closed.
+
+I should return to the Memorialists to tell them what I've done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>While I was in Inifere's body, I convinced him it would be better to sacrifice himself - not only to save his cultists, but also to save all those his cultists have killed in the intervening years.
+
+I don't know if reality changed *that* drastically, but Inifere is gone now, and so is the Gate he brought with him. I should return to the Memorialists to tell them what I've done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>While I was in Inifere's body, Marcysa betrayed and killed Inifere. She then became the new leader of the Children of the Endless Gate. The cultists continued their work, I suppose, but at least the Gate is gone from the Valley.
+
+I should return to the Memorialists to tell them what I've done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>I told Talira in the Necropolis that the Gate is now closed. She was very grateful and said I should talk to Ronos in the Valley about a reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>The Memorialists were grateful for my help in closing the Endless Gate and saving their Valley. They even put together a reward for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>The Sorrow forced me to leave the Valley before I could talk to the Memorialists. At least the Gate is closed and their Valley is saved. That's good enough for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>I've found the Endless Gate's entrance in the Necropolis. Several cultists were sucked into it shrieking, "It's time!"
+
+I don't know what that means, but I'm pretty sure the only way to close the Gate is to follow them in there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>In an effort to stop the cultists, the Memorialists have placed a whisperlock prohibiting anyone from accessing the tombs in the Necropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I've learned a clue to the whisperlock's passcode: it's the name of the ceturl prince.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've learned the passcode. It's "Guni."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>The cultists have already killed Talira Kyo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>You convinced Talira to give up the solution to the lock before the cultists were dealt with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>You got the solution to the lock by eating Talira's corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>You have unlocked the teleporter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The entrance to the Gate is in the tomb with the code 1-2-5-4.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

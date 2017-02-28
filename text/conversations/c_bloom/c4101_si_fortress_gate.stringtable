@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_si_fortress_gate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[A large fortress made of a stone-like material dominates the courtyard. The gate is one of the few places the Bloom-flesh that creeps up the walls hasn't engulfed yet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Listen at the gate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[You hear nothing at first, then the increasingly loud clomp of booted heels on stone approaching. The men pause by the door, and you overhear the following snatches of conversation...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[The first guard complains that they don't have enough men to handle all the flareups that are occurring.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The second guard agrees and hopes that more men are recruited soon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[The first guard laughs mirthlessly and says he doubt there will be many volunteers, things being the way they are.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[The first guard comments to the other that someone named Artaglio has been pretty cheeky lately to patrols that visit the Slump.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[The second guard says it isn't just Artalgio's men. The mutants and the cultists are both starting to get rowdy as well. He says it's only a matter of time before someone does something stupid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[The first guard whispers that the disappearance of the Trade Post has got him and a few others spooked.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[The second guard assures him that the Bloom changes things up every now and then, just to keep everyone on their toes, and that it's nothing to worry about.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[The first guard asks why witnesses near the entrance of the Trade Post swore they heard screaming coming from within when the place was cut off.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[The guards' voices get too quiet to hear as they make their way to the next stop on their patrol.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

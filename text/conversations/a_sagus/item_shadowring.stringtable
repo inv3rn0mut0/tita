@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_shadowring</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You pluck Vareth from your bag, and nearly drop it. The edges of it *feel* sharp - but thankfully, not sharp enough to cut.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You pull both rings from your bags and hold them in opposing palms. Even at this distance, the force repelling them from each other is extraordinary. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>With a grunt, you pull Areph from your bag. It feels monstrously heavy for such a small, plain thing.  
+{SCRIPT: Node displays if player has ITM_RINGA_ShadowRingAreph}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You retrieve the ring from your bags again. 
+{SCRIPT: Player has one of the rings but not both.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""
+{GAVIN: Not for Beta. Marked as Should Not Play for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""
+{GAVIN: Not for Beta. Marked as Should Not Play for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Put the ring away.
+{SCRIPT: Only displays if PC only has one of the rings}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""
+{GAVIN: Not for Beta. Marked as Should Not Play for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""
+{SCRIPT: Player gets item Shadow Ring.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Pinching the rings between thumbs and forefingers, you struggle to bring them together. The force repelling them is not magnetism - it's almost as if someone is holding your hands apart with impossible, contemptuous strength. 
+
+Nevertheless, there must be a way to join these rings. You just haven't found it yet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Examine Vareth. 
+{SCRIPT: Node 13 displays if player has ITM_RINGA_ShadowRingVareth}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Examine Vareth again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText> Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Examine Areph. 
+{SCRIPT: Node 16 displays if player has ITM_RINGA_ShadowRingAreph}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Examine Areph again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Put the rings away.
+{SCRIPT: Only displays if PC has both of the ring pieces.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Combine Areph and Vareth. 
+{SCRIPT: Node only displays if player has both rings.}
+{SCRIPT: Temporary node. Putting the rings together is not possible in Beta. Up to you whether we tell the player this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Pinching the rings between thumbs and forefinger, you struggle to bring them together. The force repelling them is not magnetism - it's almost as if someone is holding your hands apart with impossible, contemptuous strength. 
+
+Nevertheless, there must be a way to join these rings. You just haven't found it yet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You hold Vareth to your eye. Upon close inspection, you see the minute twinkles of light upon tiny, incredibly sharp teeth along the rim. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You gingerly lift Vareth to your eye again. The tiny teeth along the rim glitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You hold the ring in one hand, though it seems like this should be impossible. The small thing is incredibly heavy. 
+
+Small indentations trace the edge of the band. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Small indentations - like bite marks - line the edge of this incredibly heavy ring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Put the ring away.
+{SCRIPT: Only displays if PC only has one of the rings}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You pull the first ring fragment from your bags. At first, it looks like you've misplaced the second. Then, you find it pressed into a fold at the exact opposite end from where you found the first one. 
+
+You reach down to grab it, but find that you can't - the fragments reject each other with a force beyond magnetism alone. You pick up the second one with your other hand, and hold them in opposing palms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You pull the first ring fragment from your bags. At first, it looks like you've misplaced the second. Then, you find it pressed into a fold at the exact opposite end from where you found the first one. 
+
+You reach down to grab it, but find that you can't - the fragments reject each other with a force beyond magnetism alone. You pick up the second one with your other hand, and hold them in opposing palms. 
+
+{SCRIPT: Player has both rings, but hasn't combined them. Node 1, 3, and 4 are disabled once player has both rings.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You weigh the other ring fragment in your hand, teeth grazing your lip. The fragments feel like they should match somehow. That they should be joined.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You retrieve the ring fragment from your bags again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You pull both ring fragments from your bags and hold them in opposing palms. Even at this distance, the force repelling them from each other is extraordinary. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Reforge the ring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ever so slowly, you force the ring fragments together, pushing your way through the massive force repelling them. The closer you bring Areph and Vareth together, the more they seem to resist. Beads of sweat form on your forehead and your muscles scream in agony, but then finally the moment you force the rings to touch, the repelling force completely dissipates and the two fragments eagerly latch on to each other.
+
+The complete Shadow Ring lies in the palm of your hand, simmering with barely restrained power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Pinching the fragments between thumb and forefinger again, you struggle to force them together. Your hands tremble as you push with all your might. For a few seconds it seems like you're bringing your hands closer together, but perhaps this is only imagination. Finally, your energy expelled, you are forced to cease your attempt, the fragments' repelling force simply too strong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Push the fragments together by brute force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Attempt to push the fragments together again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Combine Areph and Vareth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Pinching the fragments between thumbs and forefinger, you struggle to bring them together. The force repelling them is not magnetism - it's almost as if someone is holding your hands apart with impossible, contemptuous strength. 
+
+Nevertheless, there must be a way to join Areph and Vareth. You just haven't found it yet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText> Follow-up PQ. 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You hold the ring fragment to your eye. The fragment's edges are rough, as if sundered by a mighty strike, but on one end you can still see a socket that might have fit a gemstone or something else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You weigh the other ring fragment in your hand. The fragments feel like they should match somehow, the protrusion and socket clearly fit. It is almost as if they cry out to you to be joined.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You gingerly lift the fragment to your eye again. Other than the socket you noticed before, there doesn't appear to be anything worth noting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Examine Vareth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Examine Vareth again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText> Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You hold the ring fragment in one hand, though it seems like this should be impossible. The small thing is incredibly heavy. 
+
+A small protrusion extrudes from one end of this fragment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>This ring fragment is marked by the protrusion coming out of one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Examine Areph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Examine Areph again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Put the ring fragments away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Put the ring away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You direct a powerful surge of the Tides at the unseen force holding the ring fragments apart, picturing it in your mind as a physical presence, a hostile if nameless entity.
+
+The moment the force is pushed back, the fragments lurch towards each other and the ring willingly reforms before your eyes. It is now obvious why it was not reforged previously, as only a castoff or a nearly superhuman effort could have done so. The complete Shadow Ring lies in the palm of your hand, simmering with barely restrained power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Pocket the ring.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

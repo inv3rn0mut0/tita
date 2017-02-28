@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_tols_death</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>105</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You stand over Tol's body, and you can already see her flesh knitting itself back together. She's a castoff just like you, and she's going to come back to life. That is, unless you do something about it.
+
+You could send her a message, maybe, scar her flesh... but unless you destroy her body utterly, she's going to revive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Going to get rid of the corpse, eh? Need a hand? Far as I'm concerned, you can't be too careful with an enemy like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Earlier, I spoke to you of how to destroy a castoff body utterly. Do you remember?" She looks at Tol's body and nudges it with a toe. 
+
+"Sadly, we have none of those avenues available to us. If you hope for a permanent solution, fire is likely your best bet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He frowns. "I'm trying to remember if heroes ever destroy the bodies of their enemies." He rubs his chin. "I can't think of any, but maybe the story will come to me. I don't like this, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You want to do some damage to a castoff, you need to make it permanent. Wounds alone won't do it. Neither will crushing. If we want to get rid of Tol, we'll need to cut her to pieces. If we want to be safe, we should burn the pieces in a fire. Sadly, I can't see any wood we can use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You can't... you can't do that. Even if she was a slaver, she was still a person." Her hands are on her hips. "I'm free now. She won't come back for me. Just... leave her alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I really must object. She was a handsome woman, in her own way. Surely we can treat her with some respect now that we've beaten her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You could also choose to leave her here. Perhaps she'll be in a forgiving mood when she wakes up.
+
+But whatever you decide, you should do it quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Throw her body into the nearby ravine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Try to burn it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Carve an insulting message into her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Carve a threatening message into her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>
+
+{SCRIPT: Can we check for cyphers in the PC's inventory with destruction effects?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Hack her into tiny pieces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Leave her alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You hook her under the armpits, and start dragging her to the ravine's edge. It's a long way down, and maybe the creatures down there will pick at her flesh. Whatever happens, it'll keep her off your back for the immediate future. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You tip the corpse into the ravine, and watch it bounce down the rocks. The echoes of bones cracking makes some interesting sounds, punctuated by a wet splat at the end. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Reconsider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Throw the body in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You step back to consider your options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"In the Reef, I told you how to destroy a castoff body. Molecular decomposition, disintegration, the Iron Wind... unfortunately, we have none of those means to hand. If you truly wish to destroy your foe, you'll have to cut her to pieces. Any other choice will simply inconvenience her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You gather some nearby wood and set it ablaze. You haul Tol's body to the edge of the fire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Throw her body into the nearby ravine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Push Tol's body over the edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Burn the body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Continue burning Tol's body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Hack the body into pieces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Continue hacking the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You throw her corpse in, and the flames dance merrily around it. Her flesh pops and sizzles, and the aroma of burning flesh rises with the smoke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You pause to make sure you want to do this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I can't believe you did that..." She looks at you as though she has no idea who - or what - you are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>His face is grim, but he does not disapprove. "It's a hard thing, but you made the right choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I suppose this will have to do. It's a pity that the sisters I perceive are all in approximately the same timeframe - I should like to know if this approach is successful ahead of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Hmm. No, that didn't feel very heroic to me. That's too bad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She gives you a faint nod of approval. "If nothing else, that'll send a message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He frowns. "I hope we're not planning on this sort of thing for every foe we encounter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You step back. If Tol revives from this death, she'll have received your message. Whether she heeds it or not is another matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I couldn't take the risk that she'd come after us. I want to keep us safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Your opinions are noted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You pull out a blade, lift her left arm at the shoulder. and set edge to flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>With a hard swing and a grunt, you manage to work your way through most of her arm just below the shoulder. With some judicious sawing and some well-applied leverage, you manage to sever her arm. You get to work on the rest of the body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You stop a moment, considering your course of action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Carve an insult into her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Keep carving the insult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Carve a threat into her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Keep carving the threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You tap your blade on your lips as you craft the perfect insult. Then you kneel down next to Tol's body and prepare to cut some words into her forearm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You carve an exquisite insult in her skin, making sure that the cuts are deep. You take a handful of dirt and smear it across the wounds, ensuring that she'll have lifelong scars.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You pull a blade, and consider the message you want to send.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You carve your threat in her skin, making sure that the cuts are deep. You take a handful of dirt and smear it across the wounds, ensuring that she'll have lifelong scars.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You come to a decision, and turn to walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I wish you hadn't killed, but... at least she'll live... right? That's good. I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You're going to leave that woman here?  Who knows what revenge she'll plot? You should reconsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>He nods happily. "Good. We already beat her. No need to beat her again. A good hero doesn't need to humiliate people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She frowns. "You know she's going to come back after you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You're just going to leave her there? Not the choice I'd have made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A pity we had to fight. She is certainly an attractive specimen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Leave the body alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Walk away from the body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>You crouch down next to Tol's body, watching the flesh grow and heal from its wounds. It's a fascinating process. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You turn away from Tol's body. It is already starting to knit itself together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I wish you hadn't killed her. But she's not dead... right? Better to leave her alone then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I've tried mercy in the past, dear. It didn't work. Do you think I was always this hard-hearted?" A multitude of Callisteges shrug. "But have it your way, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Yes, let's go! We have an adventure waiting for us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Doubt she'll extend the same consideration to you, but it's your life. Ours too." She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I'm not in the habit of leaving enemies at my back. But you do what you need to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Yes. Let's keep moving." He sketches a small bow to Tol. "Farewell, madam. I hope we can meet again under more auspicious circumstances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"If Tol is going to come after me, I'll reason with her then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I think she's learned her lesson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I don't want to set that kind of example."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I don't want people to think I'm that kind of person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You walk briskly away from Tol's corpse. She'll be back... and maybe she'll remember that you chose to let her live.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>You push the corpse into the ravine, and watch it bounce down the rocks. The echoes of bones cracking makes some interesting sounds, punctuated by a wet splat at the end.
+
+If Tol revives from this death, she'll have received your message. Whether she heeds it or not is another matter. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You throw her corpse in, and the flames dance merrily around it. Her flesh pops and sizzles, and the aroma of burning flesh rises with the smoke. You step back. If Tol somehow revives from this death, she'll have received your message. Whether she heeds it or not is another matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>With a hard swing and a grunt, you manage to work your way through most of her arm, just below the shoulder. With some judicious sawing and some well-applied leverage, you manage to sever her arm. You get to work on the rest of the body.  If Tol somehow revives from this death, she'll have received your message. Whether she heeds it or not is another matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You carve your insult in her skin, making sure that the cuts are deep. You take a handful of dirt and smear it across the wounds, ensuring that she'll have lifelong scars.
+
+If she comes after you now, it'll be because you provoked her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You carve your threat in her skin, making sure that the cuts are deep. You take a handful of dirt and smear it across the wounds, ensuring that she'll have lifelong scars.
+
+If she comes after you now, she'll have only herself to blame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I wanted everyone to know not to trifle with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I want people to think about their actions, and to realize that rash acts have consequences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Rhin darts toward Tol's body and grabs a small satchel hidden underneath her coat. She opens it, then hugs it to her chest with a sigh of relief.
+
+She sees you watching and a guilty look flits across her face. "What?" she says, standing straighter. "It's mine."
+
+{LOOT: Give the satchel to Rhin.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Loot the body first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You find a small, mundane satchel inside her coat. You take it with you.
+
+{LOOT: Would give the Satchel item to Rhin, but quest is cut.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Script Node 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Your opinion is noted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The blob makes an inquisitive squishing noise, but you feel no emotion or judgment from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

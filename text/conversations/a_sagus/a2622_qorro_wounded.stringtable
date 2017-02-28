@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2622_qorro_wounded</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The corpses of murdens - hunched, birdlike abhumans - litter the floor. Their wounds are fresh, left by blade and beam. The air smells of rust and blood. 
+
+Qorro awaits you on the other end of the room with a hireling. He's clutching his bandaged side with a shaking hand. Even now, he manages a cocky grin.  
+
+"Took you long enough," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Qorro is still here, hand clenched to his wound.
+
+"Well. You made it back. I expect murderous drones were no match for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We made a slight miscalculation in assuming the murdens here were the architects of Salimeri's troubles."
+
+He coughs and continues. "After we punished them for trespassing, we descended to the next level to look for stragglers. But instead, we found what drove the murdens up here - heavily-armed and hostile drones." His hand tightens on his side. 
+
+"As you can see, we had a rough time of it. We left two dead down there." His face is solemn. "I should have been more careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"In your case," Callistege says. "Practically everything, I'm afraid."
+
+With a pained chuckle, Qorro turns back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"And Cal!" he says to your companion, his grin half a grimace. "I was hoping you'd make your appearance earlier. What kept you? Following our falling star around the city?"
+
+He sighs. "What could have possibly been more important than lending an old friend a hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You rushed to beat me here. You deserve what you got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can I help with those wounds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I was hoping you'd get yourself killed when you volunteered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I can't deny it," he says. "It's a shame that my team had to suffer for the sake of my lesson." 
+
+He smiles, but his heart isn't in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"These?" he says, eyebrows climbing in surprise. "They're nothing I can't treat myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I delight in defying all expectations!" he says, smiling, but his heart clearly isn't in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Now, if you still intend on reclaiming this place for Salimeri, the drones are still down there. I *believe* they're infecting the systems with their minds. And they will defend their territory without mercy. Believe me."
+
+He turns his attention back to his wounds. "Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm not interested in blame. Tell me about these drones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Not much to tell. Floating orbs. Deadly beams. Damnably fast, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Script Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>::coughs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Damnable constructs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Mind yourself down there. Salimeri will find some way to blame me if you don't come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Not at all. I expected more of a challenge after what they did to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I barely beat them. How did you survive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"No, they weren't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ah, but I'm far more fragile and mortal than you," he says bitterly. "I depend on luck and dead friends, it seems."
+
+He looks away. "Never mind that. I have a favor to ask." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Oh, luck and a handful of dead friends," he says bitterly, looking away. "But never mind that. I have a favor to ask."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Of course not," Qorro says bitterly, looking away. "But never mind that. I have a favor to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Tell Salimeri I helped you. I did, after all. These murdens would have attacked you. I killed them first. We even destroyed a few of the drones before we fled."
+
+He meets your eyes again. "She wants to dismiss me. Help me change her mind, and I'll tell you something I know about the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'll tell her you helped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You don't deserve credit for the work done here today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You seem awfully concerned about Salimeri's opinion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"A good employer's hard to find, these days," he says, studying the air above your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I deserve more than secrets for doing your dirty work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Fine," Qorro says without hesitation. "I'll give you something from my private collection, but only after you tell her. Will you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Excellent. I'll hold you to that. Now, the secret, as promised." He winces, hand moving to his side. 
+
+"Lan Uring," he says. "The boy is a spy for the Memovira. I'm not sure why - he loves the Order well enough. I was going to blackmail him, but..." 
+
+He grins. "Priorities change, I suppose. I'll see you back at the Order, falling star."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>::sigh::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"But not impossible. Tell the truth, Qorro. Why do you care about her opinion so much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Her opinion?" He laughs nervously. "No, I..." he trails off under your stare. 
+
+"Fine," he says. "I love her. There, I've said it. And I don't want to leave her side, even if she doesn't feel the same way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Her opinion?" He laughs nervously. "No. Her pay? Absolutely. Drinks can be found for free, but they're hardly ever worth the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Tybir palms his face. 
+
+"Oh, for the love of... I know at least thirty shape-shifters who charge *reasonable* hourly rates," he says. "And that's just off the top of my head. You don't need to stumble after a woman who has no interest in you. Have some pride, son."
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oh, Qorro," she sighs. "She is utterly beyond your reach, my dear."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Oh," Rhin says. "I think it's worse than that. She, um, doesn't seem to like you very much. At all."
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Of course she is," Qorro says sharply. "That doesn't change a thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Pride," says Qorro, "is like free liquor. Hardly ever worth the cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"That may be putting it too lightly, sweetness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I saw the way you looked at her. And me, when you learned she... knew me. You love her, don't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>His eyes widen. Then his mouth firms. 
+
+"Fine," he says. "I love her. There, I've said it. And I don't want to leave her side, even if she doesn't feel the same way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Good," he says. "Will you tell her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I expected as much," Qorro says with a heavy sigh. "Give Salimeri my... my regards."
+
+And without another word, he leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Take care of our falling star, Cal."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

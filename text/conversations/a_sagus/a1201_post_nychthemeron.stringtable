@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_post_nychthemeron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You step cautiously around the nychthemeron's limp tendrils, working your way towards the creature's rubbery head. 
+
+There. A vein-speckled organ is visible through a charred and soggy rift in the creature's flesh. You reach in and tear it out with as much care as you can. Tickly fibers of electricity snap harmlessly between your fingers.
+
+{SOUND: Fleshy ripping sounds, intercut with faint electrical snaps.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bank 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"A fine trophy," Quijano confides hoarsely. "You've earned it, good knight. That and more!" The elderly glaive smashes his gauntlet against his breastplate in a tearful salute. 
+
+"Thank you," he whispers. "Such a grand battle! I will... I will  now return to my lonely perch atop yonder mountain." He points a quivering finger at the high outline of Caravanserai. "Perhaps we will meet again." 
+
+He totters away, clanking and sniffling. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"WE SHALL FEAST WELL TONIGHT! That was her. I don't want to eat it." Varrenoth waves both arms in a frantic farewell. It seems likely that she only meant to wave one. "I should go back to the Underbelly. Maybe I'll see you there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"It is done," he says, and sighs. "Another impossibility accomplished." 
+
+Despite his disappointed tone, he inclines his head. "I will now return to my training in Cliff's Edge. Thank you for this challenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>::zzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>::zzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

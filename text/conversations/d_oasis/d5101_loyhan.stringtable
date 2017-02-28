@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5101_loyhan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The wiry young man still loiters near the mouth of a dark alley. Again, he gives you a friendly smile as you approach. Again it falters. "Are you a returning customer? You don't look like a returning customer. Wait. Let me check."
+
+He opens the journal, which seems to be some sort of index, and flips through it, muttering to himself. Finally he nods and closes it again. "Yes, we have met before." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A wiry young man loiters near the mouth of a dark alley. He appears relaxed, except for his left hand, which nervously clutches a tattered leather journal. He gives you a friendly smile as you approach, then it falters. "Are you a returning customer? You don't look like a returning customer. Wait. Let me check."
+
+He opens the journal, which seems to be some sort of index, and flips through it, muttering to himself. Finally he shakes his head and closes it again. "No. Never seen you before." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He raises his head and smiles. "Welcome, new customer. I'm Loyhan the medicine man. How can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He raises his head and smiles. "Welcome, returning customer. How can Loyhan the medicine man help you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Yes. Let me have some."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Let me ask you about a different medicine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Do you know anyone named Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Did you say you knew someone named Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I hear a man named Auvigne used to buy from you. Do you know where I can find him?"
+
+{SCRIPT: Only plays if other merchants have mentioned Auvigne buying from Loyhan.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me again about Auvigne, who used to buy from you."
+
+{SCRIPT: Only plays if other merchants have mentioned Auvigne buying from Loyhan.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What's with the book?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tell me about your book again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What are you selling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tell me again what you're selling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I sell medicine. Nature's remedies. Grow it and pick it all myself, and test it for quality too. I've got ___, ___, ___, and Gianche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I sell nature's remedies. I've got ___, ___, ___, and Gianche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Are you asking about a customer? My customer list is strictly confidential. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Uh, well, I quality test all my medicine and sometimes the quality isn't so good. I got a bad batch once and now I don't remember things so well."
+
+He taps the book. "So I write everything down. Customers, what they like, what's going on in the Marina, what's running low, stuff to watch out for. It's my brain now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It's my brain. I keep notes on my customers and my supplies in it. Stuff like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Be well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Interested?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me again about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tell me about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tell me again about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tell me about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Tell me again about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tell me about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me again about ___."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Sure. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Of course. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Fine. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Yeah. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Uh-huh. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"My pleasure. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"All right. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I can do that. It's..."
+
+"Would you like some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I'll do my best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Good choice. You won't be disappointed."
+
+{SCRIPT: Opens Loyhan's store.}
+
+{SCRIPT: Need to set a global if the player actually purchases Gianche in the store.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I am asking, *politely*. If you make me ask again, I won't be so polite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"It's not what you think. I'm trying to reunite him with his lost love. Please don't stand in the way of a happy ending."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What if I bought something first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Sure, that might help. I've got ___, ___, ___, and Gianche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Right, I bought something from you. Now will you tell me what you know about Auvigne?"
+
+{SCRIPT: Only plays if PC purchased something from Loyhan's store.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You bought something from me? Are you sure?" He checks his book. "Sorry. I don't have any record of that purchase. Can't help you."
+
+He smiles blandly. "Anything else you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Attempt to steal Loyhan's book. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Okay, okay! Don't hurt me! I don't like violence! Let me check the book!" He flips rapidly through the pages, then raises his head. "I have here that Auvigne used to buy Gianche for a woman named Misha, who lives in the Morphling Grotto. He stopped coming about a year ago, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Okay, okay! Don't hurt me! I don't like violence! Let me check the book!"
+
+He flips rapidly through his book, then raises his head. "I have here that somebody named Auvigne visited me a year ago, but that's all I've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Okay, okay! Don't hurt me! I don't like violence! Let me check the book!" He flips rapidly through the pages. "I have here that Auvigne used to buy Gianche for a woman named Misha, who lives in the Morphling Grotto. He stopped coming about a year ago though."
+
+He glares at you. "And if you're thinking of muscling her like you did me, don't. She's tough. Try bringing her some Gianche instead. She takes it for the pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The young man shrieks as you menace him, then turns and flees down the alley, disappearing before you can catch him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Welllll, okay. Let me check the book." He flips rapidly through the pages. "Oh, him. Yeah, he did have a kind of forlorn look about him. He used to buy Gianche for a woman named Misha, who lives in the Morphling Grotto. He stopped coming about a year ago though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Welllll, okay. Let me check the book." He flips rapidly through the pages, then raises his head. "I have here that somebody named Auvigne visited me a year ago, but that's all I've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Welllll, okay. Let me check the book." He flips rapidly through the pages. "Oh, him. Yeah, he did have a kind of forlorn look about him. He used to buy Gianche for a woman named Misha, who lives in the Morphling Grotto. He stopped coming about a year ago though."
+
+He thinks for a second. "If you're thinking of giving her a sob story, don't. She's not a soft touch, like me. Try bringing her some Gianche instead. She takes it for the pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He shakes his head. "Sorry, if I broke my rules for every sob story I heard, I won't have any rules left to break."
+
+He clears his throat. "So, unless you're buying. We're done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You grab the book and rip it from his hands. He backs into the alley, screaming, "Don't kill me!" Then turns and sprints away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You make a grab for his book, but miss so badly he doesn't even notice.
+
+{SCRIPT: Can try again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You point behind him into the alley. "Hey, somebody just stole your stash!"
+
+As he turns, you bump shoulders with him and his book falls from his grasp, but he's too busy running down the alley to notice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>He flinches back as you make a grab for the book, then turns and runs screaming into the alley. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Bandits! Thieves! Assassins! Help!"
+
+{SCRIPT: Ends conversation, Loyhan vanishes and never returns to his place.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You're asking about a customer? Sorry. My customer list is strictly confidential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Come back here!"
+
+{SCRIPT: Ends conversation, Loyhan vanishes and never returns to his place.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Don't kill me!"
+
+{SCRIPT: Ends conversation, Loyhan vanishes and never returns to his place.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_mazzof_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mazzof doesn't even look up at you as he fiddles with the resonance chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Switch to Chamber]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Switch to Console]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Leave him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Remind Mazzof that he knows the resonance chamber better than anyone. Surely *he* knows the First's plan will kill all the castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Suggest that the neural lock might break if he were to be killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He scoffs. "That's ridiculous. We're just severing the Tidal connections - the thing that draws the Sorrow to us in the first place. How could that possibly..."
+
+He trails off, gazing into space. His lips continue to move as he does calculations in his head. He blurts out, "Skist. *Skist!* You might be right. Even if you're not, that's a heavy chance to take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Trigger Conv Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Trigger Conv Node 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ridiculous." He scoffs. "You're just trying to distract me from my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Well, yeah, it wou..." His eyes widen as realization dawns. "Oh. Oh, no, that won't be necessary."
+
+He takes two steps back from the chamber. "Here, see? I'm done fiddling with it. Just leave me out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ha! Go ahead and try." He looks around anxiously. "I mean, they'll kill you first, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Get back! I've put a neural lock on the chamber. It won't work for anyone but me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The more I think about it, the more I think you're right. Ugh, I can't believe I ever thought this machine was a good idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Script Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"This ain't my fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'm just the tinkerer. Why does everyone have to threaten me for it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Oh, that's interesting. Why's the chamber doing... Oh, right. Won't touch it. Not worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Script Node 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"She *had* to reveal herself now. Couldn't wait until I'd finished my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Aha! That explains where the singing noises were coming from. Now to couple the flux inhibitors..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It probably shouldn't be smoking like that. Ah! There's the problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Aaaand depolarized. Just one more bug to knock out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"There... I... I did it. It works. Ha! It works!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He holds his hands up in the air, palms out. "I'm not doing anything, see? Just leave me out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Stay away from the chamber. I put a neural lock on it. It won't work for anyone but me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"We'll be free soon, you realize that?" He looks at the chamber, then back at you suddenly. "I told you about the neural lock, right? Good. Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'll remove the neural lock. You should be able to activate the chamber yourself." He wipes a hand over his face. "This thing's been nothing but trouble since our sire started it. I wish it had never been built."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'll remove the neural lock. Your friend should be able to activate the chamber himself." He wipes a hand over his face. "This thing's been nothing but trouble since the Changing God started it. I wish it had never been built."</DefaultText>
+      <FemaleText>"I'll remove the neural lock. Your friend should be able to activate the chamber herself." He wipes a hand over his face. "This thing's been nothing but trouble since the Changing God started it. I wish it had never been built."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"That's enough from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Script Node 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"That won't keep *her* down. Don't know what would, in fact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Oh, hells. Now we're in for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"It... it works? Ha! It works!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

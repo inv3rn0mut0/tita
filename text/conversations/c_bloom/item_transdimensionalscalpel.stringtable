@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_transdimensionalscalpel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This device resembles the hilt of a weapon. It rests easily in your hand, but there is no blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Inspect the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Inspect the device again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The device is made of azure steel. It appears to be inert and has no obvious function.
+
+A stylized name is inscribed into the steel: "IOXU".
+
+Behind a stronglass plate, you find a compartment that contains an old, depleted power core. It's blackened and drained, so you toss it aside. You could place another power source inside the compartment, but it may require a particular type of energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The device lies inert in your hand. On its side is a compartment where you could insert a power source, if you could find the right kind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The transdimensional power source you found in the crashed catena looks like it would fit inside the compartment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Attempt to insert the transdimensional power source into the handle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try to insert the transdimensional power source  into the handle again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Put the device away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You take out the cylinder that you found in the crashed catena and try to slide it into the compartment on the hilt. Initially, it looks as though it won't quite fit, but you discover that if you press the cylinder gently against the opening, it gradually re-sizes itself and fits neatly inside. 
+
+A small, fine blade of pure transdimensional energy sprouts from the hilt. You realize that this device is a scalpel. With a twist of the hand, the blade can quickly be switched on or off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>There is a small compartment on the hilt, and it seems like it should contain the power source, but it's a little too small. You try a number of ways to fit your power source inside, but nothing seems to work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Pocket the weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Based on your understanding of the technology, it seems as though the device would require a transdimensional power source... something that harnesses the energy of singularities or parallel universes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You turn the cylindrical power source this way and that, but you still can't find a way to fit it into the compartment.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_heart_matkina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"So I've been giving this some thought. If the Bloom is psychically attuned, it should be vulnerable to psychic attacks, yes? And our sire's uninentional *gift* to us - the ability to focus the Tides - it's both a physical and a psychic curse."
+
+She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>
+"Look, your control of the Tides is about as good as mine, but it's more *effective*. Especially against something like this."
+
+{SCRIPT: Tidal Affinity is Trained}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Matkina calls you over. "I need to speak to you privately." 
+
+{SCRIPT: Addendum node should have Bloom favor is high and player avoided the Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Matkina beckons you. On her normally impassive face, you can see the tiniest hint of concern."The Bloom is a predator, yes? And ultimately, it feeds on pain. We give pain, you and I, but your paincasting is more effective in a situation like this. Unfortunately, you haven't learned even the slightest control over it. That presents a problem, in a number of ways."
+
+{SCRIPT: Is Paincasting Control Uncontrolled}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She looks at Erritis and adds: "I said *privately.*"
+
+{SCRIPT: check to see if Erritis is in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She leans in close to you: "My point is, it was too easy to get here. We're in the guts of the Bloom now, and we're going to walk into these innermost ... tongues... without a fight? So you need to be on your guard. Mentally. You need to plan this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Fine. Don't screw it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Thanks. So what do you recommend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I have this under control, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I will. Thanks for the warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"If you could channel your Tides into those tongues, you might be able to bend them to your will. But it's going to take a lot of focus, and a lot of fortitude to resist what they're going to do to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>She says nothing, but her eyes betray her doubts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>She pauses. "I'll be there to back you up, if you need me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She smirks a bit. "That will have to suffice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So what are you saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Just... rest up. Rest up, and be careful, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"The problem is that you're badly wounded, and anything that hurts you now might cause you to fall unconscious, and that might be the doom of us all."
+
+{SCRIPT:  is Health 25% or less}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You've taken a pretty serious beating. I've seen worse, but these wounds aren't a joke. Maybe you should rest."
+
+{SCRIPT: is Health 25-50%?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have this under control, Matkina. Don't interfere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fine. Don't screw it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"We didn't go through all of this for you to get your mind destroyed now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'll be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She says nothing, but her eyes betray her doubts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"If you can get in those tongues and bend them to your will, turn the Tides on them... maybe you can force the Bloom to submit to you."
+
+{SCRIPT: is Health 50%?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Thanks for the suggestion, Matkina. I'll keep it in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>
+"Look, you're better at directing it than I ever was. Hard to admit, but you're pretty talented."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

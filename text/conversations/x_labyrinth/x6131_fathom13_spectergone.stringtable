@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_spectergone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I guess this means we're enemies now." Her voice has a familiar irony to it. She might even be joking, though it's hard to tell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sire. It is an honor to serve you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I don't know if you're him or not." He waves a hand dismissively. "Not sure I care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"So. You're the Changing God. I said so from the very start. Callistege tried to dissuade me." He snorts. "Pity she's not here to see how right I was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>She raises her eyebrows. "So... you're *him* now, are you? Or are you?" She shakes her head. "I'll say this - traveling with you has been both entertaining and confusing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm impressed! *Very* impressed. Now let us end this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"So... are you the villain now or... Oh, look! The final door awaits us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"That was strange, lad, and don't deny it. Come on. Let's have an end to this."</DefaultText>
+      <FemaleText>"That was strange, lass, and don't deny it. Come on. Let's have an end to this."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"This place just keeps getting weirder... And so do you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'm the same person I always was, Aligern. I've just gained... perspective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You were right. And I didn't know how right you were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"For what it's worth, I'm sorry for what he... I did to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I suppose it doesn't matter. Traveling with you has been instructive. You're all right, no matter who you are." He looks away from you and clears his throat. "Don't we have something to take care of? Come on. We'll do it... together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He eyes you warily. "The truth always reveals itself. One way or another." 
+
+He hitches at his coat. "Let's go. We're almost done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let's finish this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I've been imagining this day for years. It was everything I thought it'd be. And more. My thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You did it. He's gone." She barks a short laugh. "You've accomplished something I could never achieve. I suppose I owe you my gratitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You may not be as bad as I thought. But I reserve judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Is it true, then? Has our sire been gone all this time?" He studies you for a moment. "It would seem you and I no longer have a quarrel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I never... I never imagined that he'd truly die. And now I don't know how to feel about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The foe is vanquished! ...Right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Does it really make a difference, Aligern? Do we need to go over this again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Trigger Conv Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Script Node 34</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

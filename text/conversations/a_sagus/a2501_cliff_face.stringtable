@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_cliff_face</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A sheer cliff rises above the ledge. Its surface is rough and jagged. There are enough handholds that it looks climbable, but it wouldn't be easy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Try to climb the cliff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Try to climb the cliff again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The cliff face is deceptive. Holds that look like they'll crumble in your hands stay firm, while solid-looking protrusions crumble like they were made of sand. With careful planning, though, you make it all the way to the top.
+
+{SOUND: PC climbing, maybe a little extra wind whipping by him.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The climb feels easy. You're halfway up when suddenly both of your footholds crumble simultaneously. You grab a jutting rock in panic, but it snaps away. You land with a sickening *thwack* onto the ledge below.
+
+It could've been worse. On the plus side, you think you've figured out how to read the cliff to find better footholds.
+
+{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Your rope makes the climb easy. It's as if the rope can tell which handholds are most solid, and it bites into those as though it had teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A welcome blast of wind caresses your face at the cliff top.
+
+{SOUND: If there was wind SFX from node 5, then they should change here to be more open since the PC has reached the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Again, the climb feels easy until your handhold slips, knocking you off-balance. You crack your head on the ledge yet again. At least it wasn't as bad as the first time.
+
+{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below. Same sound as node 6.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The sheer cliff looks more frightening from above than it did from below. The ledge at the bottom looks miniscule, dwarfed by the immensity of the ocean, which lies a thousand meters straight down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try to climb back down the cliff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Try to climb down the cliff again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Back away from the edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It takes enormous effort not to look down. You manage to scale the cliff one hold at a time. Before you know it, you've reached the ledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You lower yourself over the edge and begin the steep climb. As you look to see how much farther you have to go, a sense of vertigo suddenly overwhelms you. The ocean and the ledge beneath sway back and forth. Before you know it, your hand has slipped from its hold...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Script Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Script Node 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your companion follows the path you blazed for them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Your companions follow the path you blazed for them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You slam painfully onto the ledge. At least you made it down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Jump down to the ledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

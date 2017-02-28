@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_broken_tidal_arm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A mechanical arm lies on the floor, presumably broken during your fall. Sparks pour from the arm's shattered housing, filling the air with a greasy stench.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the housing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The arm remains on the ground, its base angrily spitting white-hot sparks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The sharply-pointed apparatus that formerly topped the device appears burnt out and useless, but the equipment in the base remains at least somewhat operational, as the constant stream of sizzling motes can attest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Attempt to scavenge what you can from the arm's housing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Try to scavenge more from the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave the device alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A quick examination of the device's interior reveals that it has nothing but sparks to offer now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Taking care to avoid the sparks, you extract several handfuls of shiny trinkets and coin-like objects. 
+
+You recognize their value at once. Such objects would be accepted as shins - the informal currency in most regions of the world - so you gather them up and take them with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Inside the broken machine, you notice some little trinkets and small, coin-like objects. You recognize their value at once. Such objects would be accepted as shins, the informal currency in most regions of the world.
+
+Unfortunately, you're only able to retrieve a few of them. You can't seem to dislodge the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You deftly manage to avoid burning yourself and extract a relatively intact portion of the machine's innards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Your hand wraps around a small pile of valuable parts just as a shower of sparks unceremoniously falls on it. Biting back a scathing retort, you withdraw your prize, burnt but the richer for it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Examine the housing again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sparks angrily leap to and fro amidst severed cables and other broken components.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>A quick scan of the base reveals that there is nothing of value left inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>While attempting once more to extract the useful-looking component, you accidentally snap it in half, rendering it permanently inoperable. Since delicacy is no longer necessary, you break down what's left and collect the shattered pieces, which may still have some value.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

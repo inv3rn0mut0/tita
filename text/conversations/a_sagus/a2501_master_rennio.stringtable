@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_master_rennio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>270</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This airship's master is keeping a close eye on his vessel. He is a short and wiry man, dressed in travel-stained but well-kept clothing. He is chewing on his impeccably groomed mustache in frustration. His fingers are in constant motion, as if he wanted to take part in the work he's supervising. 
+
+As you approach, he turns away from his vessel. "Welcome to Master Rennio's Aerophile Adventures. How may I be of assistance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'd like to fly somewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The tiniest smile creases his face. "I am the proprietor of this business, and a ship's captain. In happier times, I ran a fleet of vessels to various ports of call." He shrugs. "These are not happier times, and my fleet has been reduced. Now I have but a single vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I am Master Rennio, former ship captain, and proprietor of Master Rennio's Aerophile Adventures. Thank you most kindly for your interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>
+{COLIN: Remove these start nodes after 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>
+
+{COLIN: Remove these start nodes after 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He turns from his observation of the laborers and asks, "How may I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>This airship-master is keeping a nervous eye on his vessel. He is a short and wiry man, dressed in travel-stained but well-kept clothing. He is chewing on his impeccably groomed mustache in frustration.
+
+As you approach, he turns away from his vessel. "Welcome to Master Rennio's Aerophile Adventures. I'm afraid that I will not be departing any time soon. Not since the *theft*."
+
+He says the word carefully, as if holding it at bay. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"My vessel will remain grounded until the thief responsible for stealing my other airship has made me whole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I've always taken pains to see the best in people," he confides, swallowing hard. "But that was before that runty, glowing, straw-haired idiot stole the Coronet - my prized airship!"
+
+He shakes his head, genuinely distraught. "Until that thief is caught, my ship remains in dock, safely shuttered and chained."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He breaks off when he sees Erritis standing near you. "Him! That's the thief!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Thief? I've never stolen a thing in my life! I have borrowed, certainly, but always with the intention of returning the item to its proper owner... though I must admit that I haven't always been entirely successful."
+
+{CHRIS: Update for voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"In the meantime, is there some other service I can provide to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Rennio owns and operates the airships that run back and forth between the Caravanserai and the Valley of Dead Heroes. He is a stern, meticulously fair businessman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText> His price for the airship journey is sizable (enough that the player may need to accumulate more shins if he hasn't completed any side content). If asked for the reason, Rennio explains that the skies in that region are dangerous, thanks to the expansion of the Endless Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I demand compensation! My vessel, my source of livelihood, snatched by this... this... this vagrant!" He stares hard at the oblivious glaive. "I require justice. I will take it in the form of service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Let's be blunt. Erritis can't be held responsible for his actions. I mean, look at him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Erritis, you owe Master Rennio a debt. You should work with him until you have cleared it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You provide a service to Sagus Cliffs. Maybe the government can compensate you somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"A local cult believes I'm their god. I might be able to convince them to work off the debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What if I refuse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Then my vessel will not leave these docks. And neither will any other captain serve your needs. Until we reach a settlement, my ship remains here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pay Rennio for the damages, though this is expensive (if Erritis has a powerful or expensive item, the player might be able to trade the item for his freedom).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Can I pay off his debt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"How much is the debt Erritis owes again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"In the meantime, what can Master Rennio's Aerophile Adventures do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I am ready to depart to the Valley of Dead Heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The merchant's hair is frazzled, and his eyes have a haunted look. "Please. Your friend has paid his debt in full. I release him from service." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The merchant's arms are folded across his chest. His face is grim, his mouth downturned. "The boy's a menace," he mutters. "I'm not sure if he cost me more when he crashed the ship or when he started working off his debt. At this rate..." He trails off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The merchant watches Erritis carry heavy boxes and dance over ropes. "The lad's a bit of a menace, but we'll make a stevedore of him yet, I reckon," he chuckles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He shoots a furtive glance toward Erritis, who is happily rampaging through Rennio's cargo. "I have told him that he is free to go, but... he refuses to leave. He claims that he's *helping* me. The only aid he has rendered is in pushing me toward my grave!"
+
+He grasps your shoulders. "Please... take him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Please," he whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Rennio appears to have recovered from his stint as Erritis's master, but he retains a distant, slightly shocked look in his eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Erritis, you're free to go. I'll find you when I need you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Erritis, would you rejoin me on my travels?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'm ready to travel to the Valley of Dead Heroes now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We'll figure something out later. In the meantime, I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Important: If Tybir is in the party and the player hasn't saved Ris yet (and Ris is still alive), Tybir insists upon saving Ris before he leaves the city. If the player insists upon leaving, Tybir will exit the party and will not accompany the player to zone B.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Before leaving for the Valley of Dead Heroes, Rennio should warn the party that it'll likely be a while before they're able to return. His airships don't make regular journeys back and forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>If the player failed the Stay of Execution quest (Ris was executed) but met Tybir in the Caravanserai and agreed that Tybir would join the party when they left town, then Tybir should approach the party at the end of this dialogue, right before they transition to the Valley of Dead Heroes. He'll ask if the player wants him to come along, and if the player says yes, he'll be a party member when the player arrives in the Valley. (The player may need to choose someone to leave behind if the party is already full.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>If the player asks Rennio to leave aboard the ship AND saved Ris from execution AND Tybir is in the party, then Ris and a few thugs confront the party before they're able to leave. (This starts on node 45 of the a2101_ris dialogue.) We may need followup dialogue from Rennio after this confrontation. Rennio MUST NOT be harmed in this confrontation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Let's talk about ways to clear Erritis's debt to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Are you ready to discuss terms for your thieving friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What will you offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He bows slightly. "I regret that my vessel is currently not air-worthy. The expansion of the Endless Battle has had the unfortunate side effect of damaging civilian vessels. Perhaps when our repairs are complete I'll have a different answer."
+{GAVIN: George says: Basically, the player is allowed to ask if he can fly somewhere before he has the quest to go to the Valley, and Rennio is like, "Oh, sorry, my airship is under repair."  Then when the player has the quest, conveniently, the airship is ready to go.
+I'd rather get rid of that entirely - the player can't even ask to fly anywhere until he actually has an objective to leave the city.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He shrugs. "Such is life. You build for your family, and the vicissitudes of fate drive your plans into the rocks. But my struggling enterprise is the least of the gifts I hope to bequeath to my heirs. I try to teach them dedication, endurance, fairness in all dealings."
+
+He shoves his hands into his pockets. "What good would it do them to see me take unfair advantage? I would rather be ruined than teach them that falsity is the route to success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He laughs softly. "My apologies. This has been much on my mind of late. You did not ask about my philosophy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Aye, farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Where do you travel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Can you tell me where you travel again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Once I flew as far as Augur-Kala, soaring above Arvrin Wood and the unmeasured depths of Ornu Lake, above the lava fields of Ossiphagan and the plains beyond. I flew south over the ruins of the Tabaht homelands and east to the Oasis of M'ra Jolios."
+
+He gestures at his single vessel. "Now I fly solely to the Valley of Dead Heroes, conveying mourners and memorialists to the unchanging tombs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>He barks a short, not-quite-bitter laugh. "In these times, only to the Valley of Dead Heroes. The Endless Battle has seen to that, and my poor vessel has seen better days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What can you tell me about the Caravanserai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Can you tell me more about the Caravanserai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Steeped in history, my friend, and you've come to the right man to ask about it. Ahem."
+
+He adjusts his clothes and stands taller. "This was once a staging ground against our foes, the Tabaht. Our ancestors could observe the approaching enemy from here and direct their forces to meet them. They say that the defense was commanded from up there." He points toward a rocky outcrop on the far side of the plateau. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Friend, this is the best place in the city if you're a merchant. You can look out over Garravia Sound and see the ships roll in. Over there, the Bloom. You can watch the ebb and flow of commerce, hear the clinking of shins, and you know that the world is functioning as it should - for the benefit of us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Now, instead of a place of war, it serves as a place of commerce, built for the good of all - both ourselves and our foreign guests. Sagus Cliffs sits atop a great hoard of numenera and does a thriving business in the stuff. We import foods, spices, textiles, and visitors from far-off lands! They arrive from Augur-Kala, Astaria, and Hayrest, among many, many others. My friend, this is a focal point of commerce in the Sagus Protectorate." He smiles. "I play a small but proud part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Then I have nothing to say to you. My reputation is built on integrity and fairness, and I cannot in good conscience treat with someone who refuses to operate by basic decency."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Good day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I need to fly to the Valley of Dead Heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Excellent timing," he says, bowing. "My vessel will be departing shortly. Board at your leisure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"How... how can I assist you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Have you completed your business in the city? Say the word, and we will leave port."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"My deepest apologies, friend. The Endless Battle weighs upon us all. In particular, it has weighed upon my skyfaring vessels. They've been brought down by stray ordnance, commandeered, shifted into other worlds..."
+
+Tears well up, and he turns away to dash them from his face before you can see. "I apologize, friend. Without this rate, I cannot remain in business, and cannot provide for my heirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Forget it. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Why does it cost so much?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Not right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Farewell, sir."</DefaultText>
+      <FemaleText>"Farewell, madam."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I await, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Let me know when you are ready to depart, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I am ready to depart now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I should warn that we won't be able to retrieve you from the Valley. We never tarry there. Its energies are not good for our ship's engines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Have you completed your business in the city, sir? Say the word, and we will leave port."</DefaultText>
+      <FemaleText>"Have you completed your business in the city, madam? Say the word, and we will leave port."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I'm ready. Let's depart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Not just yet. I had more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Not just yet. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Very well, my friend. The air is freshening, and we shall sail on the backs of the clouds this day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Very well, my friend, we will be on our way momentarily!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>He smiles broadly, and the tension seems to drain from him. "My favorite words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>{post-fight scene from 2501_Ris}
+
+{SCRIPT: Please attach the end states of Ris's dialogue to the following Talk Node}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"As you wish, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I look forward to our journey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ahem. Yes. Be that as it may, my friend has been falsely accused, and I may need to testify on his behalf. A true gentleman does not leave his friends to suffer alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'm leaving Sagus Cliffs, Tybir - with or without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Fair enough. Let's go find Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>He frowns. "Leaving a man's friend enchained is no great thing. That is, unless that friend is in the hands of the authorities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Does your friend have knowledge that might implicate you, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Do you truly fear your honor being impugned, Tybir? Flight might be your best option, if your reputation is any guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>His frown deepens, and he turns to you. "We can leave on your word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I see the route this conversation takes, and I don't much care for it. I'm off to save my friend."
+
+He stalks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Absolutely true. So true." He pounds his fist into his palm. "We should find a true gentleman and tell him what's happening to your friend!"
+
+He looks around keenly. "Maybe if they become friends, the true gentleman will save Ris for you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Rennio watches Tybir leave and says, "I've watched him lurking about here for the past several days, and it gives me comfort to know that you don't consort with his like. We'll travel lighter now, and with a stronger purpose. We'll have you to your destination in no time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Not so fast. I won't leave my friend Ris behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"We haven't saved Ris yet. We can't go now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I'll be here when you need me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Still willing to help out an old soldier as you promised?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Yes, come along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Yes, come along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Sorry, Tybir. Looks like that's not in the cards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>He looks at your assembled companions. "You've got quite an army here, my friend." He forces a chuckle. "Not sure there's enough room for me here."
+
+{GEORGE/COLIN: Every Companion has their own reactions to being asked to leave. I think the player should have to back out of this conversation first, ask someone to leave, then ask Tybir to join. - AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Aligern, I'll need you to leave to make some room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Callistege, I'll need you to leave to make some room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Erritis, you'll have to stay behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Matkina, you can stay here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Oom... stay!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Rhin, can you wait here, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Riastrad, you and Satsada should remain here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Tybir, I don't need your services right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"You're right - there's not. In fact, I've changed my mind. I don't want you coming with us after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"For *him*? Fine. I've work to do anyway." He gives you a cold stare before he walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Really? And I thought we were making such progress, too. Very well. I can catch up on my researches anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I'll have to find danger on my own!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Really. You're cutting me for this one? Fine. I've other matters to attend to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>::bloop::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"By... by myself? All right. I hope I'll be fine. I'm sure I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Mmmf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Nonsense! But I can tell when I'm not wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You won't regret this, lad!"</DefaultText>
+      <FemaleText>"You won't regret this, lass!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>He begins shouting commands to his crew, and they cast off the mooring lines. The airship pushes away from the spire, and the city of your 'birth' falls away below you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"All here, then? The wind is right for us. Let's sail, friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"So you're breaking your word, eh? That's fine. I've dealt with your kind before." He turns on his heel and strides away without a backwards glance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"... err. As I was saying. We should be on our way." He looks nervously around. "I hope you have no other surprises for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Trigger Conv Node 165</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Script Node 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[You have reached the end of our Beta content. While you're waiting for the rest of the game to be completed, we encourage you to try our Beta content again... but make different choices this time. Torment is a game that is shaped by your choices, and we hope you'll get to see how things might have turned out differently.
+
+Thanks for playing!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[DEBUG] Start the Ris intro cutscene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[DEBUG] Test the cutscene of Tybir leaving the party to help Ris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Master Rennio watches Erritis totter happily off, and breathes a deep, shuddering sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[DEBUG] I need to travel to the Valley of Dead Heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"You said you'd free Rhin. If we're not coming back, then you need to make that right. Otherwise, I'm going to try to do it without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"We haven't freed Rhin. We get her, or I walk right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Time's up. I'm leaving now, with or without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Right. Let's go find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Can you tell me how your ship was stolen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I'll help you find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Of course," he says, looking grateful that you've taken an interest in his plight. "The vagrant asked to 'borrow' my airship first, if you can believe that. I refused, of course, and as politely as possible."
+
+He shakes his head slowly, sorrow stealing into his face. "I only looked away for a moment to sign some paperwork, and when I turned back, he was already in the air! Waving from the railing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"That would be a great relief," he says, sighing. "If you do stumble over him, bring him to me. I want to look the thief in the eyes and ask why he did this to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"What a pity," he says, sighing heavily. "If you happen to stumble over the thief, however... bring him back to me. I want to look him in the eyes and ask him why he did this to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"At last. At long last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Happily and gratefully!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Rennio breathes a deep, shuddering sigh of relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>He does so. Erritis is staring suspiciously at a passing mote of dust, as though it intends to ambush him. 
+
+"You have a point," Rennio grunts at last. "He crashed my airship minutes after we first met. I can't imagine what would happen if I *employed* him."
+
+He scowls at your companion. "Just keep him away from me and my livelihood. I'll be resuming flights to the Valley of Dead Heroes shortly. Good day to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>He does so. Erritis is staring suspiciously at a passing mote of dust, as though it intends to ambush him. 
+
+"No. He may be..." Master Rennio lowers his voice to a whisper, "a complete scatterwit, but he has caused me grievous damage. Grievous! I demand compensation!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Go on, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Certainly, though you'd be responsible for the cost of the airship's current value, filing fees, and assorted labor." He raises his chin. "[Global: a2501_Rennio_ErritisDebt] shins. And not one less."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"[Global: a2501_Rennio_ErritisDebt] shins. Will you pay it?"
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Here it is."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Maybe we can settle on another option."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"This is going nowhere. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"If we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"What, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"That's far too much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Maybe we can settle on another option."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"No," he says, his nostrils flaring, "and I must say that I dislike the implication. I do not overcharge. Ever. My costs are high and my prices fairly measured."
+
+He makes a visible attempt to swallow his anger. "This portion of our discussion is *over*. Perhaps you'd like to discuss other options?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Perhaps." But he does not sound convinced. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>He accepts your payment with raised eyebrows. Clearly, he did not expect you to have this kind of money on hand. 
+
+"Very well," he says, after counting it carefully. "The debt is paid. Flights to the Valley of Dead Heroes will resume shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Work?" Erritis says, looking doubtful. "I've done work. I never liked it much. It's too worky."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"It's the right thing to do. You'll feel good about it later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Are you telling me that you can't turn working at an *airship dock* into an adventure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Of *course* I can," he says, offended at the very notion. He spins round, all determination, and offers his hand to the suddenly wary Rennio. "I accept your offer. We will adventure together!" 
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Let's get started, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"I will? Well, I do like feeling good about things."
+
+He spins round, offering his hand to Rennio. "I accept your offer. We will *work* together. Share ideas! Cooperate!"
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>You pass the certificate of indemnity you got from the Council Clerk to Rennio. He takes the document gingerly, as though expecting it to bite, and reads it, lips moving silently. 
+
+They freeze mid-word. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Do you think so?" he says, flattered. "I would have tried such a tactic already, but the Council Clerk and I have never gotten along. 
+
+He eyes you carefully. "Would you... perhaps..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I'll speak with him. Wait here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"You're probably right. Let's discuss something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Of course," he says, straightening his clothes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Really?" he says, his eyebrows climbing. "Well. Good luck. The gentleman is somewhat difficult to work with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I... I suppose so," he says, frowning. "The thief should be held responsible for his crimes, but if you can convince them to help, then..." 
+
+He gives you a curt nod. "Yes, that'll do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"No," he says, after a moment's thought. "This thief should account for his own crimes, not depend on the labor or others. We will need to come to another resolution, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"If they are not willing, we will need to discuss other terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"'Compensation for any and all damages?'" he quotes. "How in the world did you... never mind." He waves his hands. "This is *magic*. I don't want to know how the trick was done."
+
+He eyes you with a great tenderness. "Thank you. You've saved my family's business, and with *that* uncertainty out of the way, I'll be resuming flights to the Valley of Dead Heroes shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>He steals a nervous glance at your companion. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>He leans in closer. "I do hope you will be taking your thieving friend with you to the Valley. And beyond that, if you can. Far beyond that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Master Rennio!" he says, waving. "Remember me? I saved your family business!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Rennio shudders and turns back to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>He leans in closer. "I should also warn you that we won't be able to retrieve you from the Valley. We never tarry there. Its energies are not good for our ship's engines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Was it really all that bad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Are you sure you don't want to keep him any longer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Everything the boy touches breaks or bursts into flame! He's ruining me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"No. Absolutely not! Not one second longer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Enough!" the airship master says, hands clenched before him as though he means to seize Erritis by his doublet and toss him from the launch platform. "You stole my airship! It's too late for apologies!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Erritis stares between the two of you, utterly puzzled. He was either expecting more arguing or an outright fight.  This civil discussion has apparently baffled him. 
+
+"I'll go back to Cliff's Edge," he says at last, almost angrily. "Things were more exciting there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>["You know what. This isn't my problem. Figure it out for yourselves."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>["There's nothing to figure out. This man has wronged me, and must pay for his crime. It is the right thing to do."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[Erritis latches onto the idea of working off his debt being the right thing to do and is uncomfortably zealous about making amends.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Master Rennio is still glaring at Erritis. "Apologies will not settle this matter. I demand compensation for the airship you destroyed, and failing that, service!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>::grumbling::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Hand Rennio the certificate of indemnity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>He raises a friendly hand in greeting, but his attention is on the cultists you assigned to his service. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Oh," Erritis says, blinking. "So you don't need me to pay off my debt anymore?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I've said as much," he says, with a degree of forced calm. "Several times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Oh," Erritis says again, wilting slightly. "Well, you should have kept telling me until it sunk in. I have a very busy head." 
+
+Then, he perks up, his glow intensifying. "I'll be going back to Cliff's Edge. Everyone there must be wondering where my adventures have taken me!"
+
+He dashes off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>::whistling::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Is there any other way we can resolve this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I would prefer that the guilty party make amends, but I would accept monetary compensation for the losses." He shakes his head. "I doubt the young thief has the money at hand, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>He pries at the bridge of his nose with ink-smudged fingers. "I'd *consider* bringing the matter of compensation before the Council Clerk, but we've had a number of... arguments in the recent past. I doubt he'll help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Are you satisfied with their work so far?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Does Erritis owe you anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I would complain if I could," he says with a shrug, "but in fairness, they've thrown themselves into every task I've given them with a will. Thanks to your, uh... followers... we will be resuming our flights to the Valley of Dead Heroes shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"I should think not," he says with a shrug. "Your, er, followers have leapt to every task I've given them. I couldn't be more satisfied. We will be resuming our flights to the Valley of Dead Heroes shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"You will?" Erritis says, amazed. "I hardly know where I'll find myself most days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Are you sure?" Erritis says, cocking his head. "I could make up at least three more if it will help."
+
+But Master Rennio isn't listening. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Purple, you say? I cannot say that I have, but I've also been preoccupied of late, as you might imagine. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Have you seen a beautiful woman with purple hair in the area recently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Can you remind me what the airship thief looked like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Can you remind me what the airship thief looked like again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"He was a shorter fellow with blonde hair and a thin build. He was also glowing." Master Rennio scowls. "I should have known what he was planning. Oh, I've seen his type before! Reckless. Thrill seekers! I've never understood them."
+
+He nibbles at his thinning mustache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"A short, glowing fellow with blond hair and a thin build."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"You'll find the Clerk outside Council Tower... in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Wonderful," Rennio says, after a moment's silence, as though he's trying to convince himself. "Good."
+
+He turns to you with a small bow. "We will resume flights to the Valley of Dead Heroes soon. Thank you again for your help in this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Of course, I'm not flying *anywhere* at the moment. Not while the *thief* who stole my other airship walks free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Script Node 280</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"You know, I had my doubts before, but now I know. You castoffs aren't human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"So long, filth."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Let me sort some things out with my companions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Of course! Take all the time you need." He winks. "Just... not too much time, I hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Script Node 287</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Ahem," says Tybir, with a touch of worried cheer. "We're still leaving together, aren't we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Perhaps you'd like to sort things out with the gentleman here before we continue?" Rennio says, stepping aside. "Have no fear. The ship isn't leaving yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

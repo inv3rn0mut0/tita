@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_murder_scene_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Blood dribbles from the symbol on the wall, dripping from cracks into the pool below. It's as if the wall is weeping. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Investigate the bloody mess on the floor.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Investigate the bloody mess on the wall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[The ensignia of the Children of the Endless Gate is a nice design, actually. Well balanced design motifs. Minus the blood, of course.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[You know that symbol! The symbol on the wall is the ensignia of the Children of the Endless Gate, a breakaway sect of the Dendra O'Hur.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[I know that symbol! It's the ensignia of the Children of the Endless Gate, a breakaway sect of the Dendra O'Hur. We should investigate their chapel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[It's an ensignia of some sort. Painted in blood. Ew.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[walk away]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Eat part of the hand to determine who the murderer was. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Only thin, nearly transparent slivers of flesh cling to the glistening tendons of the skinned hand. They taste of...
+
+*Agony. Screams that strip a throat raw. A blurred figure, cutting quickly. Teeth, bound by a joyful grin.*
+
+The memory falls apart, leaving you panting. Whoever the murderer is, they took great care to peel all the flesh from the hand, leaving too little to contain any clear memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A flayed, severed fist lies knuckles down in the vast pool of blood, aligned with the center of the red, dripping circle painted on the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"We won't learn anything from this mess," she says. "Let's take a look at the circle on the wall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText> Follow-up PQ. 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Inspect the hand in the pool of blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Inspect the hand in the pool of blood again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The fist stands at the center of the still pool, as though it is punching the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Examine the bloody circle on the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>This is the symbol of the Children of the Endless Gate, a splinter sect of the Dendra O'Hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText> Follow-up PQ. 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You step toward the circle. Something about it seems familiar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Haven't seen this is a while," she says softly, coming up beside you. "That's no simple circle. That's the symbol of the Children of the Endless Gate."
+
+She snorts. "They're a sect of the Dendra O'Hur that kills people instead of eating them. They call it 'opening the cages'. The Dendra chased them out of the city a long time ago, but it doesn't look like they took the hint. Either that or..." She pauses, thinking. "One of the Dendra O'Hur got tired of waiting for people to die on their own."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You are about to respond when a memory *bulges* painfully through your thoughts - and the memory isn't yours. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Surrender to the memory, no matter how much it hurts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Fresh blood streams over the circle, yanking you through the hollow at its center into the world beyond. 
+
+A strip of blistered land coils through a void as black as a gaping mouth. The air is thick, foul, and textured with the slickness of maggots. Nausea slams into you, filling your head. Infecting your thoughts. 
+
+And through it all, you sense a mind in that fathomless darkness, spilling towards yours, seeking, tasting. Joyful. Hungry. 
+{SOUND: Wind with soft, gross slobbering behind it. Could be the same as the sounds the player hears in the Endless Gate scene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You shove the horrific memory away from you, slamming your mind shut like a door, and swallowing the knot of nausea in your throat. 
+
+After seeing that world, the bloody pool at your feet seems almost mundane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Fresh blood streams over the circle, yanking you through the hollow at its center into the world beyond. 
+
+A strip of blistered land coils through a void as black as a gaping mouth. The air is thick, foul, and textured with the slickness of maggots. Nausea slams into you, filling your head. Infecting your thoughts...
+{SOUND: Wind with soft, gross slobbering behind it. Could be the same as the sounds the player hears in the Endless Gate scene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Push it away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You slam your mind shut like a door. The memory claws at you, and for a moment, you see a world beyond the bloody circle - a blistered strip of land winding through a hungry void...
+
+And then, the vision collapses, leaving you breathless and weary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You recognize the shapes slashed on the wall. It is both a transdimensional doorway and the symbol of the Children of the Endless Gate, a breakaway sect of the Dendra O'Hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>This leads to an inescapable conclusion - one of the Dendra O'Hur may be the killer... or at least know who the killer is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Before you can look away from the circle, a memory *bulges* painfully through your thoughts - and the memory isn't yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Your hand reaches toward the streaks and bubbles of blood of its own accord, and an iron spike drives through your temples. 
+
+You stand before a blank wall. Sickening purple-black light spills around the corner behind you. This is *your* temple and you have been driven into a dead end. By *her*.
+
+Blood seeps through the wall from the other side, drawing the familiar shape. Frightened, confused, you trace the line... and a gate opens with a wet *crunch*...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You study the dashes and bleeding pinpricks decorating - *binding* - the circle. They aren't symbols in any known human tongue, but you sense their purpose. 
+
+The circle was almost inconsequential. These sigils *gripped* the shape of it and *pushed* it through time and space. This was, however briefly, a transdimensional portal to another place. Now it is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>If anything, the circle on the wall - the transdimensional gate - seems dimmer than it was before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>It is immediately clear that the dashes and bleeding pinpricks decorating this circle are not random. This is a symbol, drawn with careful intent. 
+
+Unfortunately, it means nothing to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The array of circles and lines blur the longer you stare at them. Their arrangement still means nothing to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Examine the bloody circle on the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Examine the bloody circle on the wall again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText> Addend. 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The long-fingered fist in the center of the pool was in poor shape before someone ripped off all the skin. Lumps of crooked bone imply that the former owner broke his hand more than once. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The long-fingered fist in the center of the pool was in poor shape before someone ripped off all the skin. Lumps of crooked bone imply that the former owner broke his hand more than once. 
+
+You also spot fresh cuts along the back of the hand. Manth Pa fought for his life. For all the good it did him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The long-fingered fist in the center of the pool was in poor shape before someone ripped off all the skin. Lumps of crooked bone imply that the former owner broke his hand more than once. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Manth Pa," Tybir says, sighing. "Poor lad. I suspect that mouth of his finally drew the wrong kind of attention."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"We should talk to a man called Fulsome about this. He... runs things down here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The vision collapses... but the memories are not done with you yet, it seems. Another bulges painfully through your thoughts, closing around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You step away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ah, poor Manth. He was always up for anything, but just never had that 'hairs on the back of your neck' sense that you need on the street. Not a born reader of signs, if you get me."
+
+"You can bet I wouldn't have been caught unawares by... whatever it was that done for him. At least I hope not."
+{COLIN/NATHAN: This also feels like it should maybe be a forced interjection, or if it's otherwise, then it should be reworded to assume the player might hear about it long after the event in question. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I'm sorry for your loss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I didn't know the boy that well," he says, shrugging. "But... but thanks all the same. Wish I knew his people. I'd let 'em know."
+
+You turn your attention back to the murder scene. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Who - or what - do you think killed him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Looks like cult nonsense to me. Too elaborate - and grisly - for a simple killing."
+
+He shrugs. "But there's dozens of cults in Sagus Cliffs, so I wouldn't like to hazard a guess which was responsible."
+
+You turn your attention back to the murder scene. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Don't worry. You have friends to watch your back now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"That's..." he begins, taken aback by your words. "That's a comfort. Thank you. Wish I'd been there to do the same for poor Manth."
+
+You turn your attention back to the murder scene. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The vision collapses, leaving you panting. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

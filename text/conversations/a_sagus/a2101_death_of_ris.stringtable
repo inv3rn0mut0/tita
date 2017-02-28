@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_death_of_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The strange homunculus pays no attention to you. It seems to be made of the unnatural entrails that spill from Ris's mouth, wound together to form the shape of a man. As you watch, it winds more of those entrails around Ris's torso, almost as if trying to make him a copy of itself.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Step in its way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The weird homunculus continues its task, seemingly unaware of you or anything else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The doppleganger does not reply. It does not seem to have heard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you try to take the entrails out of its hands, it grips your wrist, and a jolt of unbearable agony drops you flat on your back on the platform.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your head swims and suddenly you are deep in the mines of some place called Haref, watching your servants dig out an ancient machine the locals were too stupid to see the value of. As Zorus and Naal finally get the left articulator free, the world starts to go black at the edges and you hear the sound you most dread - the rushing whispers of the Sorrow. How in the Nine Worlds did it find you here?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>As your head clears, you find Overseer Yeen looking down at you, shaking his head. "You're a tough one, I'll give you that. I've seen men twice your size die from a Death's caress. But I wouldn't do it again if I were you. Now, hurry up. I'm risking my neck allowing you up here." 
+
+He stumps back to his post.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>This time Death-of-Ris only lays a finger on you, but the pain is the same, dropping you like a stone. Your heart is too stunned by the agony to remember its purpose. It forgets to beat. 
+
+The world goes dark...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Step in its way again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Overseer Yeen chuckles. "Wise choice, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Very wise indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Can you hear me? I'm talking to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Once again the Death-of-Ris does not respond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Can you hear me? I'm talking to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The doppelganger does not reply. It does not seem to have heard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Once again, the homunculus does not respond. It may not even be able to perceive sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to stop it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to stop the Death-of-Ris again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The homunculus continues its work, paying no heed as you step away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He shudders and turns away. "They say that's his nightmares coming out of him. I say it's giving me nightmares standing so close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He shakes his head, disgusted. "The authorities say he is speaking his nightmares. Really, they have no idea what that stuff is, or what he's talking about. They just know it scares people to see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She curls her lip. "Dream stuff made flesh? I wonder. Or do his words come from somewhere else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Black tendrils snake from the darkness, and you flee into the tunnels, ignoring the others' shouts. You have to get back to the base camp, back to the failsafe. It's the only way to save your *self*. As long as you can reach it, touch it, you're safe. The shell might die, but your mind will live on.
+
+The tendrils gain on you. The whispers fill your head. You slam into a wall and stagger off again, dazed. Was this the way? Have you gone wrong? 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>A light ahead. Yes! The camp! You sprint for it as the tendrils caress your back and legs with screaming agony. 
+
+The pack! The box! The lock! You tear them all open in a frenzy and slap the device just as the tendrils penetrate you, soft as mist, sharp as knives, tearing you apart fiber by fiber.
+
+And then you are gone. The shell is screaming, but you are free.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Try to wake from the vision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Let the vision continue, though you know it will bring more pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

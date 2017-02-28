@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\test_fake_tranquility</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>138</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Tranquility welcomes you to her establishment and introduces herself. She is inhumanly tall and lithe and graceful (a mutant... but an attractive one). You feel unnaturally calm around her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Tranquility greets you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[You notice yourself relaxing almost immediately in Tranquility's presence. After puzzling over this phenomenon for a moment, you surmise that the rather pleasant scent she's giving off is more than perfume, and must contain pheromones of some sort.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[As Tranquility speaks you also notice that she's doing something odd with her voice. She's modulating it ever so slightly, but the effect is quite profound, calming and soothing your mind as you listen.]
+
+{GEORGE: Her phermones and vocal technique feel like they double up conceptually - they both help her to calm to people.  I'd recommend cutting one of them to keep this conversation cleaner. The vocal technique would be my choice to cut due to current design of being able to learn it, which potentially has a bunch of issues.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[As Tranquility speaks you notice that she's doing something odd with her voice. She's modulating it ever so slightly, but the effect is quite profound, calming and soothing your mind as you listen.]
+
+{GEORGE: Her phermones and vocal technique feel like they double up conceptually - they both help her to calm to people.  I'd recommend cutting one of them to keep this conversation cleaner. The vocal technique would be my choice to cut due to current design of being able to learn it, which potentially has a bunch of issues.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText> Follow-up PQ. 142</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText> Follow-up T. 145</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Tranquility tells you about herself (where she grew up, how she ended up in Sagus Cliffs, how she came to manage the hostel, etc.).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Tranquility briefly talks about herself again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Ask her about herself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Ask her about herself again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Comment that you feel extremely relaxed around her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Tranquility says she just has that effect on people. Most people tend to find her voice very soothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Ask her about her abilities, noting that you can tell she's emitting pheromones of some sort.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Tranquility admits it's true, she does give off pheromones that allow her to relax people, which comes in handy in her line of work.]
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Ask Tranquility what she's doing with her voice.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Tranquility is impressed that you noticed, saying it's a technique she learned somewhere suitably exotic. She offers to teach it to you, for a price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Ask Tranquility to teach you how to manipulate your voice the way she does.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Tranquility reiterates that she's decided to not teach you the technique.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Tranquility says she'd be glad to give you a lesson for [GLOBAL: lower_whatever] shins, as previously agreed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Pay her.]
+
+{SCRIPT: Requires that the party have [GLOBAL: lower_whatever] shins on hand.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Tranquility teaches you how to modulate your voice the way she does. This provides a TBD bonus.]
+
+{SCRIPT: Apply bonus to PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Tranquility says she'd be glad to give you a quick lesson for [GLOBAL: whatever] shins.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Pay her.]
+
+{SCRIPT: Requires the party have [GLOBAL: whatever] shins on hand.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Try to get her to lower her price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[She agrees to lower her price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[She refuses to lower her price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[She agrees to teach you for free.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Somewhat Insulted, she refuses to teach you the technique at all. She doesn't seem to take it personally, but her mind concerning this matter appears to be made up. All cool professionalism, she asks if there was anything else you wanted.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Say you want to talk about something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Tranquility tells you to ask what you will.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Ask Tranquility to use her voice to lull you into a trance.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Tranquility cheerfully agrees to do so once more, and begins doing that thing with her voice again. Before you know it, you find yourself in the Calm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Script Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Tranquility says this isn't normally something she'd do on request, but for some reason she feels comfortable enough with you that it doesn't bother her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Tranquility remarks that that's an unusual request, and politely refuses.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Attempt to convince her to accede to your request.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Tranquility agrees to do it, and quickly uses her voice to lull you into a trancelike state, sending you straight to the Calm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Tranquility gently refuses, and apologizes that she cannot help you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Tranquility enthusiastically agrees to your request, and immediately begins to use her voice to lull you into a trancelike state, sending you straight to the Calm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Tranquility reigns in a sudden flash of anger and asks to change the subject.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Ask to rest at the hostel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Tranquility says it will cost [GLOBAL: a2501_TranquilityPissedHostelPrice] shins per person.]
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Pay [GLOBAL: a2501_TranquilityPissedHostelPrice] shins.]
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Ask why it costs more to stay than it did before.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Tranquility says it's her place, and she sets the prices. If you wanted fair rates, you shouldn't have pissed her off.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Tranquility says that the going rate is [GLOBAL: a2501_TranquilityHostelPrice] shins per person.]
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Pay [GLOBAL: a2501_TranquilityHostelPrice] shins.]
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Tranquility says to enjoy your stay.]
+
+{SCRIPT:  Rest}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[On second thought, maybe you won't rest here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Tranquility says she understands, and asks if there is anything else she can do for you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Ask her if she's seen Omahdon's one true love.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> Addend. 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[She recalls that he visited recently with the same questions, and says she'll tell you exactly what she told him, that she doesn't recall hosting anyone of that description.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Addendum:  You can tell she's lying by some tell or other.]
+
+{SCRIPT: Sets a global that unlocks an option to confront her about lying to you.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Tell her you saw a recording of her helping the woman escape (PC used the Omniscope).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Tranquility is momentarily at a loss for words, but she collects herself and admits that she did in fact help the woman. She apologizes for lying to you, but says she hopes you'll understand why she felt the need to do so when you hear the full story.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Show Tranquility the comb you found and ask if it belonged to Omahdon's lost love.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText> Addend. 98</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Tranquility insists that the comb must have belonged to one of her guests, and repeats that she hasn't seen anyone matching the description you gave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[You can totally tell she's lying.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Confront Tranquility about the hair comb you found in her hostel, revealing that Omahdon confirmed it belonged to his one true love.]
+
+{GEORGE/NATHAN: This could be split into two nodes if you want to differentiate between bringing up the comb for the first time after showing it to Omahdon vs bringing it up after showing Omahdon given that you asked her about it prior to showing Omahdon.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Tranquility sighs and acknowledges that the comb does belong to Omahdon's lost love. She says she regets lying to you, but hopes that you might understand if you knew the whole story.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Tranquility reveals that the woman was here at the hostel a short while ago.  She tells you the full story, including that the woman is actually running away from Omahdon, who raised her from the dead.
+
+She asks what you think of the situation now, knowing the whole story.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Say you think the woman owes Omahdon her life and is wrong in running from him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Tranquility is surprised at your response, but appears to be giving it some thought.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[She asks you what you want to do now that you know the whole story.]
+
+{NOTE: This node is bugged when reached directly from node 30. It causes the last option in the list to be unselectable and whatever option you do select actually causes the NEXT option in the list to fire.  Not sure why.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Tell her you want to try to throw Omahdon off the woman's trail.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Tranquility says that's probably for the best. Sending him off in the wrong direction would give the woman a chance to lose him for good.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Tybir points out that you should probably get your story straight as far as where the woman went, in case Omahdon tries to confirm what you tell him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[You and Tranquility work out the details.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText> Follow-up PQ. 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Tranquility agrees to bamboozle Omahdon if you send him her way.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Script Node 165</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Tranquility says she doesn't feel comfortable using her abilities in that manner, and politely asks if there was anything else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Tranquility is fired up about getting a chance to bamboozle Omahdon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Tranquility refuses to ever bamboozle Omahdon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Attempt to convince her to bamboozle Omahdon with her vocal powers.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Try again to convince her to bamboozle Omahdon with her vocal powers.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Tell her you want to reunite Omahdon and his love.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Tranquility has an adverse reaction to your statement. She asks why you think reuniting them is a good idea.]
+
+{GEORGE/NATHAN: As usual, more options could be added here. They'd all need their own tasks, though.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Remind her that the woman probably has no friends or family left, so Omahdon is the only support she has. He might not be her dream man, but he's probably her best chance of surviving in the strange world in which she finds herself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Tranquility chews on your words a few moments. You can tell your point has struck a chord, but she's not fully convinced yet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText> Follow-up PQ. 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Tranquility agrees with your reasoning and reveals where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Script Node 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Script Node 159</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Tranquility disagrees with you, and refuses to say where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[She agrees completely and tells you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[She strongly disagrees and refuses to tell you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Attempt to convince Tranquility that her best way of helping the woman is to tell you where she is, so you can send Omahdon after her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Attempt to convince Tranquility that reuniting Omahdon and the woman is her best way of helping the woman.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Tell her that if it weren't for Omahdon, the woman would still be a corpse. She owes him *something* for that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Tranquility appears slightly angry at the tact you've taken. She argues that the woman did not ask to be resurrected, and now you're arguing that another choice be taken from her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Bank 162</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Tranquility grudgingly admits you might have a point.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Tranquility disagrees with you, and refuses to say where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[She agrees completely and tells you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[She strongly disagrees and refuses to tell you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Attempt to convince her to tell you where the woman is, on the basis that the woman owes Omahdon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Attempt once more to convince her to tell you where the woman is, on the basis that the woman owes Omahdon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Tell her that Omahdon deserves a chance to prove his love, and nothing should stand in the way of that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Tranquility says she thinks reuniting the two will only give Omahdon another chance to terrify the poor girl.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Bank 163</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Tranquility agrees with your reasoning and reveals where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Tranquility disagrees with you, and refuses to say where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[She agrees completely and tells you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[She strongly disagrees and refuses to tell you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Attempt to convince her to tell you where the woman is, on the basis that Omahdon's love should not be denied.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Attempt once more to convince her to tell you where the woman is, on the basis that Omahdon's love should not be denied.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Tranquility rolls her eyes and says she still thinks reuniting them is a terrible idea.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Tell her you had a different idea.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Tell her you need to think about it more/aren't sure what you want to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[She says that's fine, since every moment he doesn't know where the woman went allows her to get further away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Say the woman's life is her own and if she chooses to stay away from Omahdon, that's her decision.]
+
+{GEORGE/NATHAN: The PC could have other options reflecting different tides or viewpoints here, but I'd be careful about needing unique feedback for each.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Tranquility breathes a sigh of relief and agrees with you. After chatting a bit about her own similar thoughts on the matter, she asks if there is anything else she can do for you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Tranquility sighs and acknowledges that the comb does belong to Omahdon's lost love. She asks that you not judge her too harshly for lying to Omahdon, and says it might help if you knew the whole story.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Demand to know why she lied to you.]
+
+{SCRIPT: Requires that the PC has detected her lying to him/her in at least one of several places.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Tranquility seems slightly taken aback, and asks what you mean. She insists she's been forthcoming with her replies to your questions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Confront Tranquility about her lying to you about not knowing anything about Omahdon's love.]
+
+{SCRIPT: Requires a global value that's set when asking her about the lost love with Deception of Trained or better.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Tranquility appears slightly embarrassed and acknowledges that she was lying to you. She apologizes, but says she felt it was necessary, and hopes you'll understand if you know the whole story.]
+
+{GEORGE/NATHAN: We can have unique responses to each of the lies you can confront her on. I'm using this same one for now for convenience.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Confront Tranquility about her lying to you about not knowing who the comb's owner is.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Tell her you have other questions for her about the woman.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Tranquility says she'll answer what she can.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Tell her not to worry about it, and that you wish to speak of other matters.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Tranquility says to ask away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Tell Tranquility you need her help resolving the situation between Omahdon and his love.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Tranquility asks what you had in mind.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Tell Tranquility you've changed your mind and want to resolve the situation with Omahdon differently.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText> Follow-up PQ. 169</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Tranquility says that's a good idea, and reveals where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Tranquility says the less people who know the woman's location, the better.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Tranquility heartily agrees and tells you where the woman went.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Tranquility eyes you suspiciously and refuses to disclose the woman's location.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Try to get her to tell you where the woman went, arguing that you need to make sure where *not* to send Omahdon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Try again to get her to tell you where the woman went, arguing that you need to make sure where *not* to send Omahdon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Bid Tranquility farewell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Tranquility says bye.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

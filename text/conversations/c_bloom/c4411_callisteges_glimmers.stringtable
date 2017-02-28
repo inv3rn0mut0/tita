@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_callisteges_glimmers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You could swear that the Secret Maw took only one of Callistege's reflections, but two of them stand here. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Both of the Callistege-shadows regard you glumly, without any apparent interest in you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"How is it that two of you are here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You're from the future? What happens there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Do you want to join us again? Walk away from this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>One of them - the one that is slightly more vibrant - says, "I was in the house of the Speck, and I chose to explore the experience of being devoured by the Bloom. When I awoke here, my sister waited at my side."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The second echo points to the closed Maw. "Soon I realize that there is no salvation for me. I cannot leave this place... I can only suffer. So I give in to despair, and the Maw devours me, and my suffering is at an end." She looks pityingly at her younger self. "There is no escape, my sister. Our road ends here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The first reflection seems hesitant. "My sister matrix is here, it's true, and I might join you again. But it seems clear that I'll come back here anyway. My older self - " she gestures to the other reflection, " - tells me that I'm coming here shortly anyway." She clutches her head. "But if I don't join you, I'm doomed to stay anyway." She fights panic back from her voice. "I don't. Know. What to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The other smiles, a thin twitch of her lips. "We are the same person. I was devoured in Speck's house, and will be eaten again here. I saw my older sister taken by the Gullet, and have waited for many days... months?... for my younger sister to arrive. Now that she has, I know that my time is near. No matter how persuasive your words, I know that I will enter the Maw, for it devours despair... and on my timeline, despair is all that remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The second reflection doesn't appear to see anyone else. "We can end this, younger sister. Touch the Maw, awaken its hunger, and save the agony of the wait. All you need to do is... stop wanting to survive. Don't make my mistake. Don't prolong our suffering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Echo 1 complains that either way her future is a relentless hell. She thinks she'll stay and let the Bloom consume her, putting an end to this.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What if you rejoin the original Callistege matrix? That would end this cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The older one shakes her head. "Your logic is flawed, as I recognized when I was younger. You ask her to join you, but she already knows she won't. Who knows better how reality and time are bent and shaped: you or I? She won't join you because she doesn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wait," says the younger reflection. "If you can open the Maw without my touch, somehow, then the reality where I open the Maw by feeding myself to it... it never happens. The reality of my older self will collapse. She will never have been. I might join you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Return, if you like. Or not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The other stands tall, imposing. "Have you opened the Maw? Have you found a way through? No. Until you do, you have no standing. My sister will wait with me until such time as you can provide evidence of your... outrageous claims."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vonetian says that this 'other' Callistege did not exist before you appeared here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Siowan told me that the Bloom is smarter here, and that it devises stratagems to devour morsels who have wandered here by mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The other looks at her with venom in her eyes. "Pah!" she says. "Someday you'll return to me."
+
+The older Callistege fades away, disappearing into the floor of the Bloom.
+
+{SCRIPT: make Echo 2 disappear.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The younger reflection turns to face the true Callistege. "Sisters. I have so much to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Approach Echo 1 and tell her the maw is open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I know. I saw the reality collapsing around her. Time travel is a strange and mysterious thing. When that happened, hope restored itself to my heart. Time is not always a fixed object."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"But wait. Observation served me well. Now that my mind has been freed, I don't believe that my sister was truly of my many realities. I think she was a construct of the Bloom, torn from my memories, and that this foul place sought to consume me utterly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Confusion - a rare emotion from Callistege - tinges her voice."Only one of us is gone. I don't know how this is possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Join you? How can I join you when I barely exist in this reality in the first place? I need my other echoes so that I might be complete. Bring my sisters back."
+
+She reconsiders. "But even if I did join you, I'll just become... that *me* there shortly. I'll be back here anyway. It's pointless." She clutches her head. "But if I don't join you, I'm doomed to stay here anyway." She fights panic back from her voice. "I don't. Know. What to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bring my sisters back to this place, and I'll rejoin her. I must return my knowledge to our collective."
+
+{SCRIPT: Should we have a Quest entry here for Callistege?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The Maw is open."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Young Callistege, you need to come with us. This place will kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Callistege's echo looks at you sharply. "I can come with you, but only within the matrix of my sisterhood. Return them to me and I will rejoin you. Not until then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She looks at Callistege. "Sisters! I have much to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"We are anxious to hear of your adventures. Join us again. We'll commune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The echo walks toward the shimmering realities of Callistege and her other reflections, and all of them briefly merge in a flash of non-light, an implosion of air.
+
+{SCRIPT: Despawn Echo 1. Restore Callistege pools, equal to what was taken away in c4121_Secret_Maw. She should also get some cool bonus information.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Go. Come back with my sister-matrix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"What's the matter with you? We can't feel you. Either of you. So listen to me, sisters: The Bloom has cut you off from us. It presses on your mind. *Think*." She is almost imploring, almost on the edge of tears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bank 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Young Callistege, you need to come with us. This place will kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Let me try to convince you to come with me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The first of Callistege's echoes looks at you quizzically. "What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I am listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The older echo scoffs. "Listen as you like. It won't change a thing."
+
+{SCRIPT: please check to make sure the assets in the following nodes apply properly to the DT in node 63}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Dakore told me he was lured into a Maw by someone who looked much like him. This is happening to you, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The older one snorts. "Is that all? That's what your evidence consists of?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"No. I have more to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She pauses. "I.. I had wondered." She turns to the other. "Take my hand, sister. Let us put this to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She shakes her head. "I hear you. But I don't know this. I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She looks around herself, her eyes brightening. "What am I doing? What pall lies across my mind? The Bloom would tear me apart!" She turns to the other echo, and says, "Whether or not you are my future self, I owe it to both of us to ensure our future moves forward. Despair doesn't serve our purpose, sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I have heard enough," the younger version says. "I don't believe you." Her voice is gray with despair as she turns toward the other echo. "Sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Bank 63</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"This other reflection of yourself is not truly part of your matrix. You know this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Think, Callistege. You would never feed yourself to a Maw. Resist her words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The older one says, "That's absurd. Everyone knows the Bloom is a distributed intelligence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The older echo's laughter is abrasive. "What do you know about bending time and reality? My reality formed when when she arrived because I was never here until she came through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The younger version of Callistege leans forward. "How is this possible? How can it focus its intelligence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I have heard enough," the younger version says. "I don't believe you." Her voice is gray with despair as she turns toward the other echo. "Sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Her voice is anguished. "No, sister! No! Come back to us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The older echo smiles cruelly, despairingly. "Take my hand."
+
+The younger echo does, and as their skin connects, the older echo vanishes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>What the younger echo holds is a tendril of the closed Maw... but her touch has sparked its hunger, and the ravening Maw draws a screaming Callistege into their depths, tearing her apart forever.
+
+{SCRIPT: Despawn Callistege echo 1, Callistege Echo 2, and open the Maw/passage to the secret chamber}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"... farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"But you just suggested that she give up and enter the Maw now. If that doesn't change your existence, how would rejoining your other selves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The older echo glares at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The younger one says, a hint of hope in her voice, "Perhaps you could discover more about this place. Uncover more knowledge. Maybe then we can riddle the key to this temporal lock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I have seen into the Maw itself. It has constructed this illusory self to lure you inside."
+
+{JOBY: This needs to be added to the ConvincingCallistegeList}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The older version's voice drips venom. "A pretty story, and unlikely. Have you any proof? Don't listen to him, child," she says, patting the younger version's hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>But the younger echo pulls her hand away, worry creeping into her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Although you can hear Callistege's thoughts as clearly as ever, the thoughts of her reflections are muffled, as though they are cut off from you somehow.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

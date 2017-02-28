@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3142_fleshachor3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Raw and unbridled horror]
+[the temp text pities you  and omits its description, for now]
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Kill and progress]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[initialize]
+[hidden]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave]
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[First intro: description of flesh anchor, it asks you to kill it for some reason (pain, joy, apathy) different from the other flesh anchors. Sense that doing so will help you in the short term by opening a path, but will also strengthen the Lurker.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Kill us," one of the skins mutters. "Free us from eternal torment!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kill them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It takes great effort to hack and saw through them. They scream and shriek with each cut of your blade, continuing long after they should have passed out from the pain. Blood sprays in every direction, covering you entirely.
+
+Then it's over. They are gone - truly released - and the path before you is clear.
+
+{SOUND: Horrible screams, preferably worse than the other two flesh anchors.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Leave them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The pressure around you becomes so great you clap your hands to your ears. Even through the flesh of your palms you hear cruel cackling and a single word.
+
+"Come..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Some pressure around you squeezes and loosens in bursts, until you realize it's the air itself... laughing. Whatever lives here has grown stronger still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The malevolent weight in the air increases. Whatever is watching has grown stronger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Several people have been flayed, their skins stretched into grotesque banners, faces contorted in a rictus of eternal pain. The skins flap back and forth in a wind you do not feel. Beyond them, you see a clear passage deeper into this hell.
+
+Suddenly a pair of eyes snaps open. These are not flayed skins, but living people!
+
+"Leave!" it rasps. "You cannot face what lies beyond here. Flee and save yourself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Fool!" The skin behind the first - partially obscured in the dark mist - shakes herself awake. Her face remains twisted in agony even as she speaks. "He is our chance at freedom. Who else will ever release us?"</DefaultText>
+      <FemaleText>"Fool!" The skin behind the first - partially obscured in the dark mist - shakes herself awake. Her face remains twisted in agony even as she speaks. "She is our chance at freedom. Who else will ever release us?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The first skin smacks its gnarled lips as though considering this. "Yes. Yes, kill us. And nothing at all foul will befall you. You will be *saving* us from eternal torment."
+
+The skins squeeze their eyes shut. Their mouths open in wordless screams as some new agony befalls them.
+
+A malevolent presence weighs down upon you. Something watches with eager anticipation. It almost *wants* you to kill them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>These skins are like the others, their faces warped in unspeakable agony. One of them snaps its eyes open as you approach. "You cannot face what lies beyond here. Flee and save yourself!"
+
+"Fool!" A second moans behind him. "He is our chance at freedom. Who else will ever release us?"
+
+The first skin smacks its gnarled lips as though considering this. "Yes. Yes, kill us. And nothing at all foul will befall you."</DefaultText>
+      <FemaleText>These skins are like the other you met - alive and in eternal pain. One of them snaps its eyes open as you approach. "Leave! You cannot face what lies beyond here. Flee and save yourself!"
+
+"Fool!" A second moans behind him. "She is our chance at freedom. Who else will ever release us?"
+
+The first skin smacks its gnarled lips as though considering this. "Yes. Yes, kill us. And nothing at all foul will befall you."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

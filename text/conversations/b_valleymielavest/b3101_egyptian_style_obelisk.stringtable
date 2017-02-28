@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_egyptian_style_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the stone head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Examine the statues. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The carved head mounted on top of the obelisk seems to be looking directly down at you when you stand before it, as if it was staring directly into your soul - as if it was trying to tell you something. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The four statues on the altar slab stand in a square. Each is identical, except for the collar. The back left one has a collar made of red triangles, the front left one has a collar made of blue squares, the front right one has a collar made of green circles, and the back right one has a collar made of yellow hexagons. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You turn and walk away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Pet the statue with the collar of red triangles. 
+
+{SCRIPT: This is the secondcollar in the code. It glows only when the yellow collar has been touched immediately before it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pet the statue with the collar of blue squares.
+
+{SCRIPT: This is the third collar in the code. It glows only when the yellow and red collars have been touched in that order immediately before it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Pet the statue with the collar of green circles.
+
+{SCRIPT: This is the last collar in the code. It glows only when the yellow, red and blue collars have been touched in that order immediately before it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Pet the statue with the collar of yellow hexagons.
+
+{SCRIPT: This is the first collar in the code. It glows every time you touch it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Stop touching the statues. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Nothing happens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Nothing happens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The collar glows slightly. 
+
+{SCRIPT: This is the third collar in the code. It glows only when the yellow and red collars have been touched in that order immediately before it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The collar glows slightly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You step back from the altar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>It glows lightly, and then all four collars glow. You look up and the head at the top of the obelisk, and it seems to be expanding to fill your entire vision. It is is everything. It is you. You are within it. 
+
+{SCRIPT: This is the last collar in the code. It glows only when the yellow, red and blue collars have been touched in that order immediately before it.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Examine the hieroglyphs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You watch from the undergrowth, terrified, as the followers of the bird god pull down the stone statues of the great ones and chase the monks from the burning temple.
+
+"Heathen!" cries their leader. "Worshippers of false gods! Kill them all!" 
+
+A bird man sees you. He shrieks. "A ceturl! We must kill it. The monks hide their souls in the little beasts. If we don't wipe them all out, the monks will return, as strong as ever!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You watch from a low branch as grave robbers tear up the stones of the ruined temple's nave, looking for the old catacombs. Their leader sits on the stone head of a fallen statue, patting it and stroking its pointed ears. He laughs. 
+
+"This is what the old monks worshipped before the Jarudi wiped them out. The prince of the ceturl. They say his big ears hear all the secrets ever whispered within earshot of any of those six-eyed pests."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You watch from under a gandu bush as a father and mother drop double armloads of springwood in the middle of the temple ruins, then sit and mop their brows as their three children begin stripping the stalks of their bark. 
+
+"Plenty to build with out here at least," says the father. 
+
+"And we'll need all we can get," says the mother. "Without a perimeter fence to keep out the bauls and the skull hounds we'd be dead in a week."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nothing happens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The collar glows slightly. 
+
+{SCRIPT: This is the secondcollar in the code. It glows only when the yellow collar has been touched immediately before it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A wave of dizziness overcomes you as you read, and you are no longer facing the obelisk. Indeed... you are no longer human. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You drop the laak at his feet and arch your back as he strokes your fur and adjusts your collar. 
+
+"But your work isn't done, sweet girl. There's laaks aplenty in the grain room. Bring me a dozen more before I finish these haos and I'll give you your favorite nibble."
+
+A dozen laaks is nothing to a hunter of your skill. You pad off to the granary, ready for battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You turn and bound into the jungle as a mob of angry men crash in after you, and the obelisk fills your vision again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You hiss at the insult. He looks up. "Hoy, there's one now. Hasn't been a monk alive around here to tame a ceturl in a hundred years."
+
+He chirps at you. "Come here, little one. Let me see that jeweled collar of yours, won't you? Looks like lovely workmanship."
+
+You give him a disdainful look and climb further up the tree as the obelisk returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What about the laaks?" one of the children cries.
+
+The father laughs. "Pray to Guni, daughter. Maybe he'll send one of his servants for us. He's the prince of all ceturl, you know!"
+
+Your ears prick up. At last, you are wanted. It's time to hunt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>That was part of the clue to the whisperlock's passcode in the Necropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>
+
+That must be the passcode for the whisperlock in the Necropolis: Guni.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Except for four stylized depictions of the same sharp eared animal that tops the obelisk, the pictographs make no sense to you, but you believe, with a little more study, you might be able to decipher them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The more you look at them, the more you feel that the engravings are struggling to be understood, as if they have a sentience of their own. You also notice that each of the animal pictographs is inlaid with a different color - yellow, red, blue, and green.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Examine the hieroglyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Examine the hieroglyphs a third time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Read the hieroglyphs that start with the yellow animal pictograph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Read the hieroglyphs that start with the red animal pictograph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Read the hieroglyphs that start with the pictograph of the blue ceturl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Read the hieroglyphs that start with the pictograph of the green ceturl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Finally, just as you are about to give up trying to decipher them, the pictograph of the yellow animal glows slightly, and the first line of the hieroglyphs is suddenly understandable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The tail of the dead laak in your mouth drags along the ground as you creep through the dense foliage to the temple. You peek out through the gandu fronds and see the old monk, Nimu, shucking hao pods on the weathered steps. You pad out to greet him, and he grins toothlessly at the sight of you.  
+
+"There she is," he says, chuckling. "There's my brave hunter, and with a gift. How thoughtful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Examine the stone head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Examine the stone head again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Examine the hieroglyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Examine the hieroglyphs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Examine the base of the obelisk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Examine the base of the obelisk again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The base of the obelisk is smooth, untouched by any weathering or other troubles that seem to have eroded much of the other ruins in this place.
+
+It sits in a pool of acrid liquid. The liquid smells foul and caustic, but the obelisk appears undamaged. It's unclear how much more of the obelisk lies beneath the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The base of the obelisk is smooth, untouched by weathering or the caustic-smelling pool it sits in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The carved head mounted on top of the obelisk stares out into the distance, its eyes empty and mournful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The carved head on top of the obelisk stares out into space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Except for four stylized depictions of the same, sharp-eared animal that tops the obelisk, the pictographs make no sense to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Four of the pictographs are stylized versions of the animal this obelisk was meant to depict, but you can make no sense of the hieroglyphs' meaning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The statue's head seems to move until its eyes stare directly into yours. They are still mournful, but no longer empty. A faint, beckoning glimmer shines within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>
+
+You turn to your companions, but they don't seem to notice that anything strange has happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>
+
+You turn to your companion, but they don't seem to notice that anything strange has happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Rising before you is a tall and tapering obelisk crowned with the carved, stone head of some elegant, sharp-eared animal with six eyes. Wrapping around the obelisk are bands of engraved hieroglyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Look into the statue's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Look into the statue's eyes to see what else it has to show you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>A wave of dizziness overcomes you as you gaze into the statue's eyes. You are no longer facing the obelisk. Indeed, you are no longer human...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Another wave of dizziness overcomes you as you succumb to the statue's memories...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The eyes of the statue fade, though they do not go out entirely, as though it has divested itself of a responsibility. Why it did so remains a mystery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Revisit the memories. Look into the statue's eyes again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The obelisk reappears, and you realize your joy was remembered only.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>This tall obelisk is crowned with the carved, stone head of some elegant, sharp-eared animal with six eyes. Bands of engraved hieroglyphs wrap around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>
+
+As you approach, the head seems to turn and stare at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Your companion doesn't seem to notice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Your companions don't seem to notice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The memory fades, and the obelisk returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>A ceturl. So that's what this creature is called.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_minnim_to_kholn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The dark tear in space beckons you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Walk into the darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You step into the darkness and it envelops you, then dissolves you into twinkling motes, drifting in a spear of light. The light carries you through a black void, weightless, bodiless, selfless, toward another patch of starry sky. Then suddenly... you are somewhere else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You step into the darkness and find yourself somewhere else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the darkness more closely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The cool air that sighs through it seems to follow you. The shadow does not change, no matter your perspective. 
+
+You have the discomfiting feeling that your attention on it has drawn its attention to you... that it is somehow examining, analyzing, and assessing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave the darkness alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You back away from the patch of shadow and move on. 
+
+{SCRIPT: End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>There is a tear in space here, like the sliver of light on the plateau in the middle of the valley. Here, a sliver of darkness hangs before you, like the entrance of a cave - except there is no cave. Within the darkness you see the glow of stars, and a cool night breeze wafts past you, carrying the scent of desert flowers and the echoes of sounds you are not hearing around you. 
+
+If you stepped through that darkness, you might go anywhere, or maybe nowhere. It could be nothing but a shadow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>A sliver of darkness hangs before you, like the entrance of a cave - except there is no cave, only a tear in space. Within the darkness you see the glow of stars, and a cool night breeze wafts past you, carrying the scent of desert flowers and the echoes of sounds you are not hearing around you. 
+
+If you stepped through that darkness, you might go anywhere, or maybe nowhere. It could be nothing but a shadow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

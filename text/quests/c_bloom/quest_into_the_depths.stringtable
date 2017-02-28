@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_into_the_depths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Into the Depths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find a Maw that leads to the Bloom's Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a way to open the Maw in the Shrine of Great Chila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enter the Bloom's Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Take control of the Bloom's Heart and command it to release Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Agreed to the First's Plan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Refused to let the First Kill the Castoffs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Handed Over Scorgil's Talisman But Had Doubts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Memovira told me that the First Castoff is alive. However, she will only reveal the First's whereabouts if I can rescue one of her people - a scholar named Ishen. Apparently Ishen was abducted by the Bloom and taken to its Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The Memovira no longer knows how to reach the Bloom's Heart, so I'll have to find the way myself. She suggested that I seek advice from someone who understands the Bloom well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've discovered a secret Maw in the Shrine of Chila that leads into the depths of the Bloom... but it won't open until I feed it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The secret Maw is open. It should take me into the depths of the Bloom. From there, I've got to find my way into the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>If the Heart is anything like the Bloom's Maws and tongues, I should be able to establish a mental link and seize control of it. Then I can command it to release the Memovira's missing scholar, Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I freed 'Ishen' from the Bloom's Heart. It turns out that he is actually Mazzof, a fellow castoff who I've encountered before... and the Memovira is really the First Castoff, who has been hiding in the Bloom for years. It's time to return to her fortress and confront her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>On returning to the Memovira, I spoke to the First and agreed that her plan was the better one. She began the process of activating the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>On returning to the Memovira, I spoke to the First and decided that her plan - which would end up killing all of the castoffs - had to be stopped. She didn't take my decision very well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>On returning to the Memovira, I handed over Scorgil's Talisman, but after questioning her intentions further regretted my decision. On demanding the talisman back, she and her comrades attacked me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I spoke to Dracogen, who reluctantly admitted that he doesn't know the way to reach the Bloom's Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Grisseler said that the Maw leading to the Heart can only be seen if it wants to be. He suggested asking someone at the Shrine of Chila for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>According to the Observant Speck, the secret Maw hungers for predators that are feared above all others. Such a predator might be a person or some other entity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I saw a memory when I found Mazzof. A ghibra castoff named Thom told the Changing God that both his plans *and* the First's would destroy all the castoffs. My sire also said the resonance chamber could be used to weaken the Sorrow - possibly enough to kill it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The First Castoff was the one behind the destruction of Miel Avest! She dropped the shields in an attempt to kill *me*.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

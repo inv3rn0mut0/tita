@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_fulsome_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The footsteps of Fulsome's messenger draw you from your sleep. Her clothes are disheveled, as though she was shoved from a comfortable bed to go looking for you.
+{SOUND: Footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You open your eyes to see the hooded face of Fulsome's messenger. Her eyes are bleary and slightly dazed. It seems possible that she hasn't slept since you last saw her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wake up," a woman says, and you do. She stands, arms folded, watching you with a grim expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The footsteps of Fulsome's messenger draw you from your sleep. Her clothes are disheveled, as though she was shoved from a comfortable bed to go looking for you.
+{SOUND: Footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Fulsome wants to see you," she mutters, rubbing her sleepy eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hey," a woman says, drawing you from your rest. She stands, arms folded, watching you with a grim expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fulsome wants to trade some words with you. I'd head down there now if I were you. There's been trouble. Somebody tried to kill that little mutant, Crooked Qeek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"There's been another murder in the Underbelly," she says. "A little mutant named Crooked Qeek. Fulsome wants *words* with you."
+
+She turns to walk away. "If I were you, I'd head down there now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Another murder in the Underbelly last night," she growls. "While you were *sleeping*." 
+
+She runs her fingers through her greasy hair. "It was an itinerant jack named Manth Pa. Fulsome wants to know if you've learned anything new. Wouldn't wait around, were I you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The big man wants t' see you," she mumbles. "There's been another murder and he's ver' unhappy. Looks like we hung the wrong cannibal, huh?"
+
+She stumbles away, yawning. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The old man wants to see you," she mumbles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>::grumbles::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>""
+
+{GAVIN: Write this for Stage 4. Blank global in place for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"There's been another murder. A couple of our boys spotted the killer, but she got away an' fled the city." 
+
+She rubs her eyes. "The big man wants t' see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[DIDNT FIRE]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[FIRED]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::grumbles::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

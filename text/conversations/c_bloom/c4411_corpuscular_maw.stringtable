@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_corpuscular_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This disgusting little creature looks like a walking organ, a sac of distended organs mounted on tendrils that it uses to walk and grasp. It looks like nothing so much as a miniature Maw, a walking mouth filled with vacuum, birthed and torn away from the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Observe the maw's behavior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the disgusting thing alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>As you watch, the tiny, mobile maw clambers on top of a dead aneen, wrapping its tentacles around the creature. You're not quite sure what it's doing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As the creature raises itself and drops atop the corpse, you realize that it is tearing off and devouring (or perhaps *disappearing*) strips of the aneen's flesh. 
+
+It seems that smaller maws eat dead flesh, rather than the psychic residue of living beings. You might be able to use this to your advantage.
+
+{COLIN/GEORGE: Could this just link to one of the existing Success nodes below?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Observe the maw's behavior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As the creature raises itself and drops atop the corpse, you realize that it is tearing off and devouring (or perhaps *disappearing*) strips of the aneen's flesh. 
+
+It seems that smaller maws eat dead flesh. You might be able to use this to your advantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your eyes are drawn to its writhing tendrils. You watch them closely as they adhere and release, adhere and release... they appear to be latching onto parts of the corpse and seeking some kind of purchase. You're not quite sure what they're truly after, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>As the creature raises itself and drops atop the corpse, you realize that it is tearing off and devouring (or perhaps *disappearing*) strips of the aneen's flesh. 
+
+It seems that smaller maws eat dead flesh, rather than the psychic residue of living beings. You surmise that it might be possible to remove strips of flesh from other corpses to distract larger mobile maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You lean in closely to try to figure out what this horrifying abortion is doing, and one of its writhing tendrils strikes you across the face. You stumble back, holding your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Try some different things to interact and observe it.]
+
+{Colin: please create as many as you see fit. Use global c4411_AneenAndMawReactions = 3 to be knowledgable in maw matters.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[You learn quite a lot about corpuscular maws.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The little maw continues to devour strips from the carcass. You doubt it will ever be fully sated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Observe the maw's behavior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Try to observe the Maw's behavior again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Observe the maw's behavior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Try to observe the Maw's behavior again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

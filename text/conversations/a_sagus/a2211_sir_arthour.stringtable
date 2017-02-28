@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_sir_arthour</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>119</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This man has leathered, dark brown skin and hair as white as the full moon. He peers at you from beneath long strips of eyebrows, sucking on a long pipe that has been made from either segmented wood or the leg of an enormous insect.
+
+His clothing is blue and formal, like a priest or a professor of some kind. All over him - on his belt, in every pocket, on both shoulders, even hovering in the air around his head - are glowing, chittering devices of all kinds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Well met again! Do you have more questions for me? Sit. Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Goodness, forgive me!" He stretches out his hand. "Sir Arthour Torein - traveler, explorer, and lifelong student of the numenera. I have seen everything between here and the Steadfast, and I have studied numenera of all kinds for decades. There is no man more knowledgeable about the Ninth World than he who sits before you, I assure you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sir Arthour Torein - traveler, explorer, and lifelong student of the numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Let me guess." He sucks from his pipe. A ball of green steam floats away from his mouth. "You're a traveler, that much is clear. An explorer. Yet you have the look of a farmer visiting a teeming metropolis for the first time."
+
+He taps various relics on his person. "Never seen the like, have you? Fortunately for you, I *adore* educating folks on the subject of the numenera. I've also traveled extensively and seen much of the world. Go ahead, ask me whatever you would like to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What are the numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'd like to ask some questions about numenera again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"How do you know so much about the numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Cypher gathering was always the main source of income for my family. Alas, no more, but I have extended that penchant into pure research. It is not arrogant to say that mine is one of the greatest laboratories in the Steadfast - why, an entire university has sprung up around my home. I specialize in research and experimentation. Prospective assistants apply almost daily... which is good considering how quickly we churn through them." He clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>His eyes light up - as, too, do a number of devices on his person, though you cannot see why. "The numenera are practically everything around you. We live among the detritus of *uncountable* civilizations, many of which were more powerful than you or even I can imagine. Everything they left us is the numenera - weapons, power sources, medicines, gels, plants, animals... why even the very drit in the ground and shins in your pocket are examples of numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ask away, friend. It's a subject I never tire of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What's the difference between oddities, cyphers, and artifacts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What are oddities, cyphers, and artifacts again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He takes a long puff on his pipe before answering. "For the most part," he says, "those terms refer to how useful a device is. It makes sense. As wonderful and powerful as the relics of the past are, nobody in *this* world gives a damn unless it can fix their problems."
+
+He sighs. "They don't care how it works or where it came from, eh? But if they can use it to feed themselves, fight off an erynth grask, or at least get them a few extra shins? Now they're interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He ticks them off on his fingers. "Oddities are anything that does something strange or magical, but not particularly useful. They're mostly good for making some shins."
+
+"Cyphers are powerful relics, but volatile. They'll only work once, and if you carelessly put too many together, you get what's called cypher sickness."
+
+"Artifacts are more stable and last longer. Some of the most famous weapons and armor in the Ninth World are actually artifacts from prior ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What's the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"It's what you might call an organized religion. Except it's not a religion. Oh, members of the Order call themselves priests, and their founder the Amber Pope, but they don't *worship* anything per se - except perhaps their own intellects. I understand this town has its own branch of the Order. They could answer your questions better than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What are esoteries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can you tell me about esoteries again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"'Esotery' is the common name for any of various powers or abilities that cannot be explained by our understanding of science. Nanos are capable of esoteries more than most, but other people, and even creatures sometimes, exhibit powers that we would call esoteries as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Esoteries are inexplicable powers and abilities some people have - most often performed by some connection to the numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What are shins exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can you tell me about shins again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He peers at you over his glasses. "Ah, you *are* new, aren't you? Shins are currency. The Aeon Priests believe that some very ancient prior worlds used specific metals or crystals as currency per their rarity. But of course *no* metal is truly rare anymore. Half the nanos I've met can transmute metal into crystal. Why, I once transmuted flesh into gold, though not entirely on purpose. Anyway, rarity is useless as a means of value. So the value of shins is necessarily a social construct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"It's just currency, and it only works so long as we all *agree* it works. A shin can be any coin-like object or interesting bit of material. You can sometimes scavenge shins from debris, but no one has ever become rich that way. A sheet of iron is worth far more than the shins you could make from it, for example."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Why are you here in this tavern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Knowledge, of course! I have traveled all over the Steadfast and the Beyond, but I had to know what was *beyond* the Beyond. Who knows how much time I have left on this world? I wanted to see for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Libations!" He lifts his glass enthusiastically. "I'm trying to determine the nature of these fantastic liquids. Also the people here are quite informative. No better place to learn about a city than its taverns." He takes a deep swig from his glass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'd like to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Of course! Ask away." He leans back and takes another pull from his pipe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'd like to know more about the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I'd like to ask some questions about the world again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Of course! Ask me anything you like. I've traveled all over the Ninth World, throughout the Steadfast and the Beyond. I even know a little about this part of the world - the so-called 'beyond the Beyond.' I've met explorers of all kinds and listened to countless stories. So. What is it you would like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ask away, friend! Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Why do they call this the Ninth World?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Why do we call it the Ninth World again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"An interesting question." He takes a preparatory swig from his cup. "One would *think* it is because eight worlds came before us, but even a cursory study of the numenera reveals far too much breadth and variation for there to have been a mere *eight* prior worlds that created it all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I believe it's because that is what we have decided to call it, and no other reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What can you tell me about the Steadfast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Can you tell me about the Steadfast again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Much, my friend! Much! Too much, in fact. The Steadfast is a collection of kingdoms and principalities far west of here - all the way at the end of the continent."
+
+He blows smoke from his mouth. It forms into a purple ball and drops to - and then *through* - the floor. "It is where the Order of Truth holds sway more than anywhere else. There are several different kingdoms, along with scattered villages and aldeias, but they all swear fealty to the Amber Pope and his Aeon Priests."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"A collection of kingdoms and principalities on the western end of the continent. It is the seat of the Amber Pope."
+
+He chuckles. "It is also the seat of the famous scholar Sir Arthour Torein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What can you tell me about the Beyond?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Can you tell me about the Beyond again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A wilderness between the Steadfast and here. *Highly* dangerous." His words seem meant to frighten, but he has an excited glimmer in his eye. "Some of the most interesting claves and villages can be found there. I found one village whose people hovered a meter off the ground from birth to death. The villagers of another would tell you the exact method of your future death. I can't say how accurate they were, though several of my assistants tendered their resignations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"A wild place where the numenera holds sway more than humanity. Some few communities find ways to survive, but most explorers find travel very difficult." He takes a contented puff of his pipe. "Most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What can you tell me about the areas beyond the Beyond?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Can you tell me about the Sagus Protectorate again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You're in it, friend! They call it the Sagus Protectorate, or at least this portion of it. There is Sagus Cliffs and the Bloom nearby. I've heard of places like Haref and M'ra Jolios far to the east. I'm *most* interested to explore this Valley of Dead Heroes I've heard so much about. A place to inter the dead? Bound to be some *very* interesting relics in a place like that."
+
+He sighs. "In truth, I am only a recent arrival to this place myself. You would do better speaking with the locals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Not much, I'm afraid. I'm looking forward to visiting parts of it myself. You would do better speaking with the locals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What can you tell me about different kinds of explorers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Can you tell me about the different kinds of explorers again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Brave and intrepid souls, my friend. Explorers come in all shapes and packages, but I think you will find that most people prefer to label the bravest explorers as glaives, nanos, or jacks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Well, it's unfair to put people into a box, but in truth that's what most people do. They prefer to think of the most fantastic explorers as either fighting glaives, esoteric nanos, or jacks of all trades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"That's all I wanted to know. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"And safe travels to you, good sir!"</DefaultText>
+      <FemaleText>"And safe travels to you, madam!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Why are you here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The Sagus Protectorate or the Fifth Eye? Ah. Either way, the answer is knowledge." He takes another swig from his cup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It's such a broad term that the Order of Truth has categorized the numenera with terms like oddities, cyphers, and artifacts. Of course, any *true* student of the numenera considers these categories too broad still. I have my own distinctions, but that is neither here nor there."
+
+He takes a puff from his pipe. "In any case, it is the numenera that power the wonders of the world, from an explorer's esoteries to the datasphere to the drinks in this very tavern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What is the datasphere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Can you tell me about the datasphere again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"It's difficult to say exactly. At a most basic level, the datasphere is information stored within the air itself, but it's much, much more than that. *Several* of the prior worlds created similar spheres of knowledge around or throughout our world. Our term 'datasphere' encompasses all of them, the connections between them, and the effects thereof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What we call the datasphere is actually several networks of information - possibly *more* than just information, but that's my own conjecture. Some ancient relics or even people are able to access it, or be accessed by it, giving them arcane knowledge or esoteries." He sucks on his pipe. "Or merely driving them insane. You never know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"How is drit part of the numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Run your hand through the soil, son, and you'll find it's hardly soil at all. It is filled with the microscopic remains of ancient, unknown technologies and structures - commonly known as drit. Why, in some places, the drit is even *alive*."
+
+He takes a sip from his mug. "I don't recommend sleeping on the ground in those places, by the way. Terribly unnerving for the survivors."</DefaultText>
+      <FemaleText>"Run your hand through the soil, girl, and you'll find it's hardly soil at all. It is filled with the microscopic remains of ancient, unknown technologies and structures - commonly known as drit. Why, in some places, the drit is even *alive*."
+
+He takes a sip from his mug. "I don't recommend sleeping on the ground in those places, by the way. Terribly unnerving for the survivors."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"How would *you* categorize the numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ah! A fascinating question!" He sets down his drink and leans forward. "I'll give you the brief version, because you obviously have places to be. Put simply, I am less interested in how *useful* a device is than in its means of function."
+
+He takes a quick puff from his pipe and sets that down as well. "Now, the technology of the prior worlds is far too incomprehensible and varied for us to truly understand which civilizations created what, but we can define some basic categories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He shows you the back of his fist and sticks out a thumb. "Oddities are the least useful. They *do* something all right - heat your drink, float in the air, make everything you say sound like music, whatever. But it's rarely something anyone can get any utility out of. Oddities are fascinating, but pragmatically they're only worth a few shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He sticks his pointer finger in the air next to his thumb. "Cyphers, now, those might do anything. Heal your body, shoot a blast of flame, teleport you somewhere safe, and so on. But they're volatile. Whatever they do, they'll do it just once. And if you don't know what you're doing, putting too many together can give you what's called cypher sickness."
+
+He puts up a third finger. "Artifacts won't do that. That term belongs to devices that *last*. Maybe not forever, but more than a one-shot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>He counts each one on his fingers. "Many devices deal with *fundamental forces* - gravity, magnetism, sound, light, even time itself. Automatons and created intelligences fall under *artificial life*. *Biotechnology* covers a wide variety of numenera - many plants and animals that we consider 'natural' were in fact created by prior worlds for some arcane purpose. The Bloom may fall under this category. Someday I'll hire a team to find out, if I can find anyone reckless enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"There are *chemical* devices, as well as those dealing in various forms of *matter* - metals, liquids, crystals, and conversions between the three."
+
+His eyes light up. "The most interesting are also the most esoteric. *Nanotechnology* - which covers much of what common folk consider 'magic' - *transdimensional tech*, and technology related to the *datasphere* itself."
+
+He leans back, reinserting his pipe. "But these are just the classifications *I* prefer. The numenera defy definition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"For example." He lifts a knobbed finger. "People talk about *glimmers*, visions from another place or time. These are actually some portion of the datasphere accessing human minds. Some cyphers - even some nanos - can access arcane knowledge from the datasphere. Why, even so-called 'telepathy' is sometimes two people communicating through the datasphere without realizing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The datasphere as a subject of research is far too large for several lifetimes. Alas, I have only been able to spend my time delving into devices that seem to use it, but not the datasphere itself - or rather, the various and incompatible networks that *comprise* the datasphere. Perhaps some day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Shins can be any coin-like object or jagged bit of interesting material, though I think you'll find there is remarkable agreement as to what does and does not constitute a true 'shin.' Many realms in the Steadfast actually mint their own money, but you'd be hard pressed to find a traveling merchant who didn't accept anything you had on you at the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"One then might ask what qualifies as a 'world'? We *could* say the First through Eighth Worlds are defined as the most powerful or influential civilizations of their eras, but even that fails under the most basic reasoning. If the previous eight worlds we refer to were the greatest of the ancients, then what qualifies this world - wherein we cannot even understand the most basic theories governing a time auger - to be the Ninth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"The truth, I'm afraid, is that we call this the Ninth World simply because that is what we have decided to call it. No more and no less."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>He utters a small growl. "The Order requires nobles of the Steadfast to fight against the Gaians - supposedly a cult to the north. I have never been there myself, so I don't know the truth, but it sounds like a waste of lives and resources if you ask me. That's why I keep my laboratory in the southern reaches, as far from the conflict as possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He sucks on his pipe thoughtfully. "Granted, the Order *did* ask me to leave after several 'incidents.' But I was planning on moving anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Further out is the realm of the most deadly creatures, landscapes, and weather. Oh yes!" he says, seeing your expression. "The land and weather itself will rip you apart in several locations in the Beyond. You've heard of the Iron Wind? It is but *one* of the cruel rulers of that land, though perhaps the most infamous. A cloud of invisible machines altering the physical structure of anything and anyone it touches." He grins widely as he brings his cup to his lips. "Truly terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Glaives are the elite warriors of the world. Nanos are those who study the numenera, using it to perform powerful esoteries."
+
+He taps a yellowish ash from his pipe. "'Jack' is something of a catch-all term. They're mostly pragmatic folk who know a little fighting and a little numenera - jacks-of-all-trades, as it were. But explorers of any stripe are useful to have around, especially if you're expecting trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>A metallic bug-like creature perched on the side of his head begins glowing. It crawls into his ear and he pauses as though listening. After a moment, the bug scuttles out and resumes its perch.
+
+He leans forward and lowers his voice. "So you're a mind reader, eh? Well, I won't hold it against you. But old Arthour wouldn't walk into a bar of *psychics* without mental protection, so don't expect to read much from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"How did you know I could read your thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nurmond told me." He points at the bug now burying itself in his shock of white hair. "He can detect that sort of thing. And then this one blocks it." He pulls a circular device from his pocket. "I don't like letting people know what I'm thinking. Too dangerous."
+
+He puts the device back into his vest. "That's the new disc, of course. My first psychic blocker used to melt brain matter. Provoked people to no end, especially those who didn't *know* their friends were psychic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What's cypher sickness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Can you tell me about cypher sickness again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Terrible, just terrible." He sets his pipe down. "Cyphers are volatile devices, as I told you. If you know what you're doing, you can separate, insulate, quarantine, thus carrying more cyphers than your average explorer without ill effects."
+
+Something on his person starts chirping. He taps his pocket to stop it, but otherwise pays it no mind. "But if you carry more than you can handle, those cyphers react in unpredictable ways, draining your energy, wearing you down, or worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"If you carry more cyphers than you know how to handle, they can make you sick, draining your energy or worse. It probably won't *kill* you, but... well that's what I said about the fanged neveri we stumbled upon in Cerdyn's Pass, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>He leans forward conspiratorially. "This one time, I saw a cluster of cyphers bond to each other and gain what I can only describe as sentience. Ripped my assistant to pieces before tearing off into the Cold Desert. Haven't seen it since."
+
+He picks up his pipe and sticks it back in his mouth. "It was completely unexpected. I felt bad about that assistant, but well... science and all that." He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Fortunately, *most* effects of cypher sickness are temporary - easily cured by simply getting rid of some cyphers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>She had been leaning in, listening intently, and leans back with disappointment etched across her features. 
+
+"It is a worthy field of study. I had hoped that we might share our knowledge. Perhaps when you've acquired 'several lifetimes' - as I have - we will speak further on the subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

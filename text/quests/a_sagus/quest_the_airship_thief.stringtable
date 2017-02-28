@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_airship_thief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Airship Thief</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the man who stole Master Rennio's airship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring Erritis back to Master Rennio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Settle the debt between Erritis and Master Rennio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Debt Forgiven</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Debt Paid In Shins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Debt Worked Off By Erritis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Erritis Absolved</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Debt Worked Off By Cultists</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Rennio with the certificate of indemnity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Rennio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Master Rennio, an airship captain at the Caravanserai, is looking for the man who stole one of his vessels. Until the thief is caught, he has grounded his remaining ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>According to Rennio, the thief was below average height and had straw-colored hair. He was also 'glowing.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The man who stole Master Rennio's airship can only be Erritis, the rather unique young man I met in Cliff's Edge. I should find a way to bring Erritis before Rennio to account for his actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Master Rennio insists that Erritis pay his debt in the form of service... unless I can convince him to accept some other solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I convinced Rennio to forgive Erritis's debt. Rennio seemed to recognize that Erritis's 'service' might prove more of a liability than an asset. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I paid Rennio for the full value of the crashed airship. He was surprised I had sufficient funds, but he accepted the payment without question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I convinced Erritis to work for Rennio in exchange for the damage he caused. This is exactly what Rennio demanded, but I have a feeling he may not know what he's in for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I presented Rennio with the certificate of indemnity from the Council, which guarantees that Rennio will be paid in full for his lost airship. This more than satisfied the airship captain. In fact, he seemed rather impressed with me. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>The cultists are working hard for Rennio, and he seems satisfied with our arrangement. Erritis has been freed from his debt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I managed to procure official paperwork from the Council Clerk that obligates the city to pay for all damages to Rennio's property. He'll be delighted to hear the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>The Changing God cultists happily agreed to work off Erritis's debt as a favor to me. Apparently it pays to be worshipped by a cult. Rennio seemed unsure of the idea when I first proposed it to him, so I should go and see if he's happy with the result.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Master Rennio refuses to fly Erritis - or anyone with him - to any destination until Erritis has paid his debt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Rennio would accept monetary compensation from the city authorities... assuming they're willing to provide them. If I want to pursue this, I'll have to petition the Council Clerk in Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You received a special dispensation from the city council, clearing Erritis of all wrongdoing. If you give it to Master Rennio, he won't have any choice but to forgive the debt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I convinced Rennio to let the Changing God cultists work off Erritis's debt. Now I just need to find a few cultists in Caravanserai and set them to work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The Changing God cultists happily agreed to work off the debt. If you return to Rennio and tell him, the deal will be struck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I convinced Erritis to go to Master Rennio and apologize. I should meet up with them and see if they've resolved their dispute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Erritis refused to go apologize to Master Rennio. I'll have to take him there myself and settle the situation between them. Fortunately, Erritis seems eager to join me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>The city will only pay for Rennio's damages if I have the backing of someone influential. If such a person owes me a favor, I should return to the Council Clerk and tell him.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

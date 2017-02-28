@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_arms_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The sign over this stall says, 'The Arming Room - Buy - Sell - Trade.' Under the awning, a skinny man with stooped shoulders and a concave chest is cleaning a filth-caked weapon of some kind. 
+
+He salutes you with a greasy hand. "Done in a moment. Have a look around. If you need anything, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The sign over this stall says, 'The Arming Room - Buy - Sell - Trade.' Under the awning, a skinny man with stooped shoulders and a concave chest is peeking out at the dark sky. 
+
+He shakes his head as you approach. "Strangest thing I've ever seen. Ah, well, can't let a little darkness stop the wheel of commerce can we? What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The merchant is repairing a broken weapon as you enter. "Welcome back. How can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The merchant is peeking out from under his awning at the dark sky. He shakes his head as you approach. "Strangest thing I've ever seen. Ah, well, can't let a little darkness stop the wheel of commerce can we? Welcome back. How can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Show me what you have for sale."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What can you tell me about Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me again what you know about Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"It doesn't trouble you that night fell so quickly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You seem awfully comfortable with strange events."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Good place for the arms trade. Not much call for weapons in the city proper, it's true... the levies keep things quiet." He shrugs. "I get most of my business from mercenary companies. The Endless Battle draws 'em by the dozens." 
+
+"Explorers, too. Plenty of carkers save up their shins and kit themselves out, all fancy-like. Then they wander down the Reef, or into the Bloom, and never come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Like I said, it's a good place for my trade. Plenty of mercenaries and explorers passing through. Last chance they'll have to kit themselves out, so most of 'em stop by here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"That's for the nanos to worry about. Me? I don't ask questions. Curious people get themselves killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"When weird things happen around here, the only question I ask is if they're dangerous. If the answer is no, I leave 'em be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Be careful out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I was hoping you'd say that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Don't think so. They don't come prowling around here much." He thinks for a moment. "You might try down by the grassy stair. They get a little more traffic than we do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Have you seen any Dendra O'Hur in the market lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Sorry, what you see has already been sold to others.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

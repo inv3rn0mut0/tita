@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_familiar_skies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Familiar Skies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bring the helmet to its owner's people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Use the Navigational Cortex to analyze the helmet's data.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Report Achilli's discovery to Captain Janur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lascars went home</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Caught stealing at the end (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fought lascars and died (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Entered Endgame Without Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bring the helmet to Captain Janur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Handed Over The Helmet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Stolen Cortex (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A recording I found in an old helmet suggests that its owner was on the verge of an important discovery. She had planned to check her data with something called the Navigational Cortex. The owner of the helmet was never able to complete her work... but maybe I can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In the recording, the helmet's owner spoke of returning to a place called the Anchorage. I should try to find this place and speak to her people. They might be able to tell me more about her and the Cortex she mentioned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Captain Janur told me that the owner of the helmet was named Achilli, but she wasn't particularly interested in Achilli's discovery. She did agree to let me keep the helmet. If I want to know what Achilli discovered, I'll have to access the Navigational Cortex myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The Cortex revealed Achilli's discovery - the Ninth World is actually the lascars' home. I should report this to Captain Janur right away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Though Captain Janur didn't believe me at first, she finally realized that Home - the world that her people have been seeking for millennia - is just on the other side of the Maw portal. The lascars have abandoned the Anchorage to seek a new life in the Ninth World.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I tried to report my findings to the lascars, but when they discovered that I stole the Cortex, they angrily kicked me off the Anchorage. Because of my actions, Achilli's discovery is lost to them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>A fight broke out with the lascars as I was trying to verify Achilli's research. Now they've sealed the door to the Anchorage to prevent me from getting inside again. As a result, Achilli's discovery is lost to them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I awakened in the Labyrinth when the Resonance Chamber was activated. Now I'll probably never be able to complete Achilli's work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Based on the recording I found in the helmet, its owner was a lascar who came from the Anchorage, which I found on the far side of the Maw in Little Nihliesh. Captain Janur, the leader of the lascars, may be able to tell me more about the person who owned the helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I gave the helmet to Captain Janur, as she requested. She erased all the recorded memories from the helmet, in accordance with some custom, so no one will ever know what its owner discovered. The helmet will be returned to the dead woman's family.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I tried to report my findings to the lascars but found the door to the Anchorage sealed on my return. They know I stole the Cortex, and they'll never let me back in now. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Unfortunately, it's forbidden for outsiders to access the Navigational Cortex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>One of the lascars, a man named Pilot-Major Genjes, is working near the door to the chamber where the Cortex lies. If I want to sneak inside, I'll have to distract him somehow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>In order to retrieve the data from the helmet, the Cortex needs to scan the helmet directly. I'll need to go through some sort of removal process to expose the Cortex in its housing in order to perform the scan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Each stage of the removal process requires verification from the recessed pit on the Observation Deck (the first room I saw when I entered the Anchorage). That means I'll have to send someone over to the controls in the pit so they can send the verification signals... without anyone noticing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've learned that when the Cortex is being removed for maintenance, someone in the pit area of the Anchorage needs to press buttons in response to a panel lighting up. If this isn't done, the Cortex can't be removed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

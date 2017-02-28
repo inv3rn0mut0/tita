@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_gold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Unvisited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Blue option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Red option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Indigo option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Gold option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Silver option]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText> Follow-up PQ. 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Some extra info.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Extra info simple]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Examine]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Examine again]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Unvisited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Visited if haven't done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Visited if have done DT]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[All done]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Trigger Conv Node 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The radiant humanoid within this tank - a fire wight, your memory whispers - stands calf-deep in a pool of water, motionless. As near as you can tell, it is unconscious, but its eyes - slivers of even-brighter light - are barely visible.
+
+They pulse, once, and its mind unfurls before you like a cloud of flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The fire wight stirs as you approach, and though it does not acknowledge your presence, its eyes flare, and its mind opens to you once more. You return to the cracked, desolate dreamscape where it stands over its fallen, dying companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The radiant humanoid within this tank - a fire wight, your memory whispers - stands calf-deep in a pool of water, motionless. As near as you can tell, it is unconscious, but its eyes - slivers of even-brighter light - are barely visible. 
+
+They pulse, once, and its mind unfurls before you like a cloud of flame, momentarily carrying you from the chamber and the creatures pursuing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The fire wight stirs as you approach, and though it does not acknowledge your presence, its eyes flare, and its mind opens to you once more. You return to the cracked, desolate dreamscape where it stands over its fallen, dying companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Only the insulated boundaries of the tank is keeping this burning creature intact. It hovers, crackling, above a thin, boiling layer of water. The creature's flames suck hungrily at the rising steam, and scour the floor for more in vain.  One of its eyes flickers, and goes out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>What will you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Inspire the wight to study its situation and environment for an alternative solution. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>An unfamiliar desire flickers into life in the wight's mind - curiosity. It kneels, sending flaming tendrils into the ashen soil, searching for something - anything - that will save its companion... and itself, if that's possible. 
+
+And there, far below the surface, ancient creatures sleep. Without a thought, the fire wight takes their life, and restores itself and its companion. The two rise together, and set off across the plain. 
+
+Heat envelops you, aligning you to the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Script Node 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Back in the strange laboratory, five hulking, smoky creatures bound onto the platform, sucking at the air with crackling snarls. The sour dread in your gut recognizes them for what they are: hands of the being that hunted you while you regained your memories. Fragments of the Sorrow. 
+
+Four of them lunge into the machines connected to the remaining tanks, wreaking chaos on their delicate innards. The fifth fragment focuses its eyeless gaze on you and your ally. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The fragment that was infesting this device emerges with a sizzling growl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>After returning to your own body, a dull heat settles in your gut, and an oily haze crowds your vision. You sense... no, you *know* that the Sorrow has focused its dire attention directly on you. 
+
+The remainder of the Sorrow fragments spill from the devices they were infesting, and join the hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>That was the last of the creatures. You steel yourself for the deadly race to the tank at the back of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You lean against a tank to catch your breath, eyeing the remaining creatures in the tanks. You will need to be swift to avoid the Sorrow fragments hunting for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Blue attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Blue attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Blue attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Save your host by forcing it to drain its companion's strength. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Before it can resist the unfamiliar, alien urge to survive at all costs, the fire wight rips the life from the fallen one, and devours it. New energy swells within its burning frame, but the fire wight grows cold nonetheless, watching in dismay as the wind claims the scattering ashes of its companion. 
+
+Heat envelops you, aligning you to the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Red attunement failure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Red attunement crit success.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Red attunement crit fail.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Convince the wight to wound - not sacrifice - itself to give both a chance at survival.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sacrifice is required, the wight knows, but perhaps mutual survival is possible... at a cost. It coils it flaming tendrils around its opposing limb, and tears it free with a *crump*. With a thought, it reduces the arm to a column of swarming sparks, and channels them into the fallen body of its companion. 
+
+After a moment, the other wight rises, and they continue their journey across the charred plain. 
+
+Heat envelops you, aligning you to the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Indigo attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Indigo attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Indigo attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Permit the wight to sacrifice itself for the other, to ensure the other survives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The wight kneels beside its companion, and you realize it is grateful - not to you, as it does not know you are in its mind, but at the chance to sacrifice itself for another of its kind. With a thought, it dissolves into a glorious cloud of blinding sparks, and flows into its companion. 
+
+Moments later, the companion rises, radiant with life, and continues its journey to the distant river. 
+
+Heat envelops you, aligning you to the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Gold attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Gold attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Gold attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Encourage the wight that its companion should be the one to make the sacrifice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Suddenly gripped with alien thoughts of self-preservation, your host communicates with the fallen wight. Its companion agrees gladly, offering its own energy so that your host may survive.
+
+Your host rips the life from the fallen one, and devours it. New energy swells within its burning frame, but the fire wight grows cold nonetheless, watching in dismay as the wind claims the scattering ashes of its companion. 
+
+As if in counterpoint, heat envelops you, aligning you to the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Silver attunement fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Silver attunement crit success]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Silver attunement crit fail]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Your own thoughts speak to you. 
+
+"Designate - Fire Wight. Humanoid beings, composed of light, with a strong affinity for the Gold Tide. They are so different from organic creatures that they do not recognize us as lifeforms. Among their own kind, they give freely. A dying wight will receive the last drops of water (which they catalyze for energy) from a healthier one, even if it puts the giver in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Your thoughts speak to you again.
+
+"Designate - Fire Wight. Humanoid beings, composed of light, with a strong affinity for the Gold Tide. They are so different from organic creatures that they do not recognize us as lifeforms. Among their own kind, they give freely. A dying wight will receive the last drops of water (which they catalyze for energy) from a healthier one, even if it puts the giver in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Examine the creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Examine the fire wight again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The radiant humanoid within this tank - a fire wight, your memory whispers - stands calf-deep in a pool of water, motionless. As near as you can tell, it is unconscious, but its eyes - slivers of even-brighter light - are barely visible. 
+
+They pulse, once, and its mind unfurls before you like a cloud of flame, momentarily carrying you from the chamber and the creatures pursuing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>This creature needs water before you can make contact with its mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The fire wight stirs as you approach, and though it does not acknowledge your presence, its eyes flare, and its mind opens to you once more. You return to the cracked, desolate dreamscape where it stands over its fallen, dying companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Water boils at the wight's motionless feet. You have attuned yourself to the creature's tide, and there is nothing more for you here. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The nearly empty water tubes lead to a rattling machine not far away. Unless you restore the water flow to the fire wight, you will never make contact with the creature's mind.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Two gaunt, dehydrated fire wights trudge under an ember-flecked sky, across a charred plain studded with the towering bones of monsters.
+
+In the shadow of a mountainous ribcage, the leading wight stumbles to its knees, arm tendrils deliriously seeking water in the ash and dust. The other wight, your host, is only slightly stronger, and wishes to give its power - and life - to the other so that it can reach the river a kilometer away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Two gaunt, dehydrated fire wights trudge under an ember-flecked sky, across a charred plain studded with the towering bones of monsters.
+
+In the shadow of a mountainous ribcage, the leading wight stumbles to its knees, arm tendrils deliriously seeking water in the ash and dust. The other wight, your host, is only slightly stronger, and wishes to give its power - and life - to the other so that it can reach the river a kilometer away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Two gaunt, dehydrated fire wights trudge under an ember-flecked sky, across a charred plain studded with the towering bones of monsters.
+
+In the shadow of a mountainous ribcage, the leading wight stumbles to its knees, arm tendrils deliriously seeking water in the ash and dust. The other wight, your host, is only slightly stronger, and wishes to give its power - and life - to the other so that it can reach the river a kilometer away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText> Follow-up PQ. 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Examine the fire wight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Examine the fire wight again. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

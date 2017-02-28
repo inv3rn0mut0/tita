@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_caravan_merchant_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The two merchants turn toward you. One is a heavyset human with a large head and a wide, bony face. The other is a particularly thin and sickly-looking varjellen. Its head crest is decorated with symbols that are unknown to you. Both are dressed in rich clothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We're packing up for the Ascension, friend. We'll see you in the Trade Post when we return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As you approach the two merchants, you notice that the human is red-faced and fuming. The veins all over his large head look ready to burst. 
+
+"The Bloom..." he sputters. "Now it's devouring our wagon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The Bloom is *eating* our wagon! I don't suppose you could lend us a hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ha! I never thought we'd free that wagon!" The human merchant grins like a madman and does a little jig, his massive head lolling back and forth like a pendulum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I hope you weren't planning to visit the Ascension, friend," says the human, whose face is set in a permanent frown. "The only road was in there." He gestures toward the massive jaw that has closed over the far end of the platform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You were headed for the Trade Post?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'm trying to get to the Ascension. What can you tell me about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What do you think of your guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about the Ascension again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Do you have anything to trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Are you sure you have nothing to trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Fare well? In this place? I doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"As we approach, the entrance grows teeth," says the emaciated varjellen. It speaks with a strange, halting accent, as if the Truth is not its native tongue. "The teeth get big and turn into a great jaw. Down it comes, swift and cruel. All this happens fast, in time it takes to walk five steps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The human grimaces. "The Bloom's good for three things, friend. Farting up smoke to burn our eyes, pissing foul water for us to drink, and eating whoever and whatever it likes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Where else? The Ascension has its own perils, but it's blessed with a bounty of useful things. Unlike this place. Try getting anyone to pay for a hunk of quivering Bloom-flesh." The merchant scowls and spits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"We trade in crystals from Ascension-place. Good business there. Bad business here." The varjellen attempts to scowl and spit in the same manner as its friend, but it only manages to spray the front of its garment with a bluish fluid from its nose-slits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"A world made of crystal. Like this." The varjellen plucks a finger-sized gemstone from its pocket. It seems to quiver of its own accord, as if it's alive. "All things in Ascension made of crystal. Living creatures too. It is a cold and dark place. The sun is too small in the sky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"We don't venture far from the gate," adds the human. "Nobody does, if they're smart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"All things in Ascension made of crystal. Even living creatures, they too are crystal. It is cold and dark and the sun is small." The varjellen bobs its head. "Very dangerous if you walk too far from the gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You mean Grisseler?" The human gives you a sour look. "He brought us safely through the well-traveled courtyard and across the many perilous meters of this platform. A gifted explorer indeed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Many speak well of the Grissel-man," the varjellen points out. "They say the Bloom *likes* him, if such a thing can be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You seemed frightened when Grisseler rebuked you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The merchant eyes Grisseler. "I've *heard* things about him. They say he can walk wherever he pleases in the Bloom... that doors will open for him if he really wants to go somewhere. And if you get him angry, he'll just *appear* when you're lost or alone and tear open your throat for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He snorts derisively, but you notice that he keeps his voice low. "Probably nonsense. He hasn't opened any doors for *us*." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Not yet. We offer salts and dyes and alchemical powders to our 'contact' in the Ascension. He... it... whatever it is... absorbs what it likes and gives us crystalline artifacts in return. If we ever manage to get there, *then* I might have something to trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You could try that flesh merchant on the next platform." He turns to his companion. "What's his name again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sunder-mun. His name is Sunder-mun." The varjellen bobs its head each time it speaks the name. "Two men he is, but also one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He shakes his ponderous head. "If we ever reach the Ascension, we'll have something of value to sell. Crystalline numenera of all shapes and sizes. Never the same things twice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"So what are you going to do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The Grissel-man asks us to go with him into depths of the Bloom, seek out other mouths... jaws...  maws that lead to Trade Post. We are not stupid. We say no." The varjellen twists its face into a deep frown in a remarkable imitation of its companion. Clearly it has been practicing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Better to search for another way than stay here and do nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Send your guide by himself. He knows the Bloom better than you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"If I find another way, I'll come and tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I guess you'll just be staying here, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The merchant snorts. "Better for you, perhaps, if you're young and poor and eager to die. We are none of those things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Yes. He also hears its voice in his head and brags of being devoured three times. He's not going anywhere unless *we're* there to watch him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The merchant raises a bushy eyebrow. "That's charitable of you... which makes me assume you have some nefarious motive. But pay it no mind, I have a pessimistic nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The merchant scowls. "Until we have a better plan... or the Bloom eats the whole damn platform." He suddenly appears uneasy, as if the mere suggestion of such a thing has made it possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I found a back way into the Trade Post through a Maw in Chiurgeon Slump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hrmm. Maws are unpredictable at best. And getting our wagon over to the Slump - without being robbed by murdens - seems a questionable prospect." The merchants glance at each other. "We'll... think on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The human merchant nods a greeting, though he looks just as unhappy as before. A moment later, his varjellen companion does the same, imitating him as precisely as it can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The human merchant grinds his teeth in fury as the wagon sinks deeper into the Bloom-flesh. "Isn't the Memovira supposed to *prevent* things like this? Why else do we pay her for trading rights?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Surprised, the merchant sizes you up with a glance. "Maybe you can. We've been trying to pull the wagon free and getting nowhere, but another pair of arms might make the difference."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Maybe I can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Surprised, the merchant sizes you up with a glance. "I doubt it. We've been pulling with all our might, and you don't look like you have the strength to do better. But you're welcome to try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I have some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText> "What did *I* ever do to the Bloom..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText> "What *else* can the Bloom take from me? Eh... don't answer that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Stupid wagon! Stupid Bloom!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The merchant glares at you. "That's mighty selfless of you. How about I answer them some other time, when my whole livelihood *isn't* being eaten by the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I have some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Well, your Majesty, perhaps you'll forgive me if I'm not in the mood right now. Like I told you already!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Gone," spits the merchant, throwing his hands into the air. "All gone. Our whole wagon. The Bloom *ate* the damned thing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>His varjellen companion nods its head sadly. Its head crest sags, giving an impression of supreme dejection. "We save a few things. Only as much as we carry with hands." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Can I ask you a few questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Do you have anything left to trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Do you have anything else to trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The human tosses you a little clay jar. "You can have that, if you like. It's some kind of worthless powder, but the floating megalith... or whatever it was... that we met in the Ascension always liked it. We're finished with this trade, so it's no use to us." 
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The merchant shakes his head. "No. Nothing. Leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"He is not in right mood for questionings," says the varjellen, nodding at the other merchant. "Apologies. Neither am I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Mark me, we're never coming back to this stinking gut-bag again..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The merchants are cataloguing the last of their trade goods - whatever they could scavenge from their wagon before it sank. They glance up as you approach, then go back to their work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Here," he tosses you a purse of shins. "That's the same as I pay the Memovira for our passage into the Bloom, and you're a lot more deserving than she is. You hear that, you great greedy wench?" He shouts in the direction of the Memovira's courtyard and spits derisively.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The merchants greet you with friendly nods. "Door to Trade Post still shut," says the varjellen. "But at least we have our wagon and goods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"We met with our 'contact' in the Ascension, and it gave us a new set of baubles." The human opens a wooden display case that contains an array of crystalline artifacts, each of which appears unique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"It's less of a partner, and more of a... a..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Let's trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'll be back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Can you tell me a little more about your trading partner in the Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Tell me about your trading partner again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"And we'll be here. Assuming the Bloom doesn't *eat* this place again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Normally we sell them for ridiculous prices to the wealthiest families of Sagus, but for you, a discounted rate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Floating megalith," finishes the varjellen. "Ponderous stone and glittering scales. But all one being, a single intelligence. We pass through gate, search for the familiar form." The varjellen puts its hands around its eyes and mimes a slow and careful scan, right and left. "Hard to find... never exactly the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The human nods. "Once we find the thing, we try offering it a variety of chemicals and powders. Sometimes it accepts them. Or absorbs them, anyway. In return, it, uh... excretes interesting things. With useful properties! Most of the time." He snorts dismissively. "It's a strange business we're in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Our 'trading partner' is a floating megalith of sorts. We're not even sure it's alive, but we offer it various chemicals and powders. Sometimes it absorbs them, and in return, it, uh... 'gives' us useful things." He gestures at his display case, filled with weird crystalline objects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Here's the man who saved our business! Have a look at our Ascension crystals. We'll only charge a quarter of what our regular customers pay."</DefaultText>
+      <FemaleText>"Here's the woman who saved our business! Have a look at our Ascension crystals. We'll only charge a quarter of what our usual customers pay."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

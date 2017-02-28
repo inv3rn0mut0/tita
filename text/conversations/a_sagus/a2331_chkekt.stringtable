@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_chkekt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ch'kekt's chittering rumbles deep in its thorax, like metal plates scraping against each other. Its digging claw opens and closes slowly. 
+
+"Humans invaded our home. Violated sanctuary." A smothering scent of honey-sweet pollen makes it hard to breathe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ch'kekt's chittering rumbles deep in its thorax, like metal plates scraping against each other. Its digging claw opens and closes slowly. 
+
+"Humans. Invade." A smothering scent of honey-sweet pollen makes it hard to breathe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We took back future you stole." You notice that the eggs you managed to steal are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sticha leave this place forever. Take future with us. You never touch again." Ch'kekt's claw clamps with a sense of finality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You stole. We take." You notice that the eggs you managed to steal are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sticha leave. Take future. Never again." Ch'kekt's claw clamps with a sense of finality.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

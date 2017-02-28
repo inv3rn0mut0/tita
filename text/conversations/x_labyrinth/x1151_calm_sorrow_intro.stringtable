@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_calm_sorrow_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You stagger as you step into this new chamber. The great pressure that had been bearing down on you has vanished. No, not vanished - reversed, like a mighty intake of breath.
+
+A clamor like a flurry of wings explodes around you. A great exhalation of psychic force batters you to your knees.
+
+{SOUND: A great flurry of wings, like a million pigeons taking off at once}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A malevolence grips you, a cancer, eating away at your defenseless mind. A lancet of pain strikes you, probing your defenses. You grip your skull, and through tear-filled eyes you feel its presence manifesting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It is hunger. It is night. It is... eternity. Oblivion. The grinding dust of the years, wearing you away to a nub, scouring your name from history. It is a night-black plane of perfect glass.
+
+It means to devour you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[DEBUG] Skip the combat for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[DEBUG] Play this out normally.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Trigger Conv Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

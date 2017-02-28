@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_red_infoobject1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Two rows of interlocking synth teeth hold a flexible surface closed across the front panel of this console. The bottom few teeth seem to have disconnected, and a faint light glimmers through the crack they leave open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The synth teeth remain stubbornly interlocked, and light continues to bleed through at their base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Shattered crystal blocks the opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Pull the teeth apart to reveal the source of the light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You pull apart the bonded synth and push the flexible surface back to reveal a view onto another world. 
+
+Crystal spires rise into the dark sky, lit from within. No more than a few meters from the opening, a creature very similar to the one in the nearest tank meanders, with no method or pattern to its movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The entity seems to be made of a cloud of crystals, breaking apart and re-forming as it skims over the crystal terrain. It leaves a carved trail of subtle geometric forms. The images almost seem like writing, but you can make no sense of them. 
+
+As you watch, a somber voice intones, "I have observed the quishamis's capability for creating great beauty. In turn, I have learned that its capacity for creation can easily be turned to destruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A high-frequency tone whines out of the opening, and as you pull back you see the quishamis begin to move in winding, agitated curves, cutting against the grain of the crystals around it. The nearest spire begins to crack and shatter, pieces falling around it. Enormous chunks tumble in front of the opening, and a few small pieces scatter on this side of the panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

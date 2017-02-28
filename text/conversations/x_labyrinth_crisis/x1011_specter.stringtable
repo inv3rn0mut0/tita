@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_specter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>143</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Adahn stands before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The specter of the Changing God stands before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The nameless specter stands before you once again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>A rush of air, a sudden pop, and then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Before you enter these rooms, I must tell you something of what you are about to face. You will see five rooms, in five colors, approximating the Tides. Each of these rooms is a symbolic representation, a figurative embodiment of these forces. Like a puzzlebox, you must find the way to unlock the answers from each room in the strictures of each specific Tide. Are you with me so far?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Can you refresh me on what the Tides are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Yes. What else do I need to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Thanks, but I think I can figure this out. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He sighs. "What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What are the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why do I need to be attuned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Can you tell me again why I need to be attuned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"So what do I need to do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Never mind. I think I can figure this out myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Let's talk about what you'll see in each of the rooms. Remember, what you see is a construct of your own mind, interacting with the remnants of the Sorrow's strike at you. It is imperative that you not lose your nerve. Successfully completing these puzzles will help you drive the Sorrow's residue from your mind and will also attune you to the Tides. Which room would you like to talk about first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"The Tides are a measurable physical and psychic force, like gravity or magnetism, except they respond to actions and outcomes. Five facets define them, so it's easier to refer to the Tides by their facets than as a singular thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Can you tell me about the Tides again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"They're a metaphysical force that allows you to understand and possibly shape the world better. I'm not sure I can explain it any more simply than that. Just start the process of attunement, and you'll see for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Bank 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can we talk about the Blue Tide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Can we talk about the RedTide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can we talk about the IndigoTide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Can we talk about the GoldTide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can we talk about the SilverTide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Sure! Here's everything you need to know about that part of the Crisis!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"The Tides draw energy to you. This energy keeps you alive. If you don't attune yourself to them, your body and mind will fall apart... and you *will* die, irrevocably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Because if you don't then your life will be wasted. When you awaken, you will dissolve into a pile of organic slurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The Blue Tide is about reason, insight, wisdom, and mental clarity. The Red Tide responds to passion, action, and living in the moment. The Indigo Tide reacts to community, justice, and order, while the Gold Tide is more personal, empathetic, and caring. The Silver Tide responds to great deeds, to those who seek reknown and admiration - to those who *want* to change the world."
+
+He gives a kind smile. "I realize that's a lot to take in. It will make more sense as you experience them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"No, I had more questions about the Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Time is wasting, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What you'll see in that chamber is likely to be some sort of storehouse of knowledge and wisdom. The Sorrow will be attempting to destroy it. You should save as much of it as possible, and bear in mind that you won't be able to save everything. Do what you can, and it should provide you with insight on how to drive the Sorrow's residue from your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'd like to talk more about what I'll see in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"All right. I think I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Best of luck, child. You can't imagine what rides on your success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ask your questions, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>His voice is rich and smooth, but urgency fills his tone. "My apologies for that. It was the only way to get you here quickly. Was it painful?" He hurries on before you can answer. "We haven't much time, so I'll explain what I can." 
+
+{SCRIPT: Force this conversation; Specter should communicate with x1011_Specter_barks after this}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'll answer what I can, but we must be quick here."
+
+{SCRIPT: This only plays before the Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"As you know, you survived your fall from the sky. When you awoke - wherever you awoke - I called to you, and you reclaimed some of our memories. Your body is knitting itself together, but your mind needs to heal. I'm going to guide you through that process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Your spectral acquaintance appraises this new chamber. "It hasn't found us yet. Good." His voice is rich and smooth, but filled with urgency. "My apologies for any pain I might have caused. It was the only way to get you here. We haven't much time, so I'll explain what I can. This place is a mental construct to help you attune yourself to the Tides... necessary if you are to complete the healing process."
+
+"Our time runs shorter by the moment. I will answer what questions I can."
+
+
+
+{SCRIPT: Force this conversation; Specter should communicate with x1011_Specter_barks after this}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bank 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"This is all in my mind? None of this is real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Can you explain how this mental construct works again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"In a sense, this is very real. Your body is repairing itself from the damage it took in that tremendous fall. This is like a dream in which you are fully aware. Nothing you see or feel here necessarily translates to the real world - it's a metaphorical reflection of the real world and hidden memories. But it is no less dangerous for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"It is like a dream where you are fully aware. In the real world, your body lies lifeless and inanimate. But here, you move and live - your mind builds itself. What you do here will shape your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Those five tanks there hold creatures that provide examples of the Tides. Go and study them and the machines that control their habitats, and then interact with the tank. Your mind will connect to the beast, and you'll attune to that Tide. I'll be with you to guide you. It should be easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"All right. I'm ready."
+
+{SCRIPT: This node is only opened by node 70, when the PC asks what to do next}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You should get started. Best of luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Script Node 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What is the Sorrow doing here? It's in your mind!"
+
+{when Sorrow first appears}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"It's breaking the machines - you need to repair those devices!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Don't try to fight the Sorrow, child! Attune yourself to the Tides!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"More Sorrow fragments? I'll try to hold them off."
+
+{after 3rd attunement, the remaining 2 Sorrow Fragments emerge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"How am I supposed to attune to the Tides?"
+
+{SCRIPT: This question opens the Farewell node, #61.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Can you tell me how to attune to the Tides again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Script Node 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Script Node 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You said a creature called the Sorrow is hunting me. What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Fear registers briefly in his eyes, and then he collects himself. "It's part of the reason you need to attune yourself to the Tides. It will destroy you if you fail. But we can talk more about that more later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bank 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Five tanks in this place hold creatures that provide examples of the Tides. Interact with one, and your mind will connect to the beast within. In fact, it should perceive your thoughts as its own. Once thus connected, you'll experience a part of the creature's imagined life, and you'll attune to its Tide. I'll be with you to guide you. It should be easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"The five tanks in this place each hold a creature that represents one of the five Tides. Just interact with the tank and you'll enter the mind of its inhabitant. Let your nature do the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Don't worry about *me*, child. Do your part!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"You've done it! Head to the top of the platform!"
+
+{after 5th attunement}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"You must reach the top platform, or all this is for nothing!"
+
+{after 5th attunement}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Just do the attunement thing. I don't know how much time we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[DEBUG: Start Crisis.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Each of these imprisoned beasts is in a temporal loop, held at the moment of their desire for something in keeping with its Tidal nature. You don't need to assuage its desire - in fact, it's better if you enter their minds in accordance with your *own* desire, your *own* nature. Don't let yourself be polluted by their wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What if I *want* to give the creatures what they want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Then do so, if that is your nature. Know, however, that fulfilling their desires will not make their lives better or worse. This process is about who *you* are. They are merely instruments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He glances around, in expectation and dread. "You will have to wait, child, until you have attuned yourself to the Tides. When we are *safe*, I will answer what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"When you have attuned to all five creatures, you will automatically activate the chamber at the top to complete the process. I will direct you when the time comes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[DEBUG: Skip the Crisis.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Script Node 92</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Everything about the specter seems dreamlike. He is a hazy silhouette of green-glass smoke, wearing stylish, well-cut clothes. His jade eyes are fixed on you.
+
+His handsome, bearded face seems hauntingly familiar, though to the best of your recollection you've never seen him before.
+
+He claps you warmly on the shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Skist, you made it! Listen, I know you've got a dozen questions, but we're not through the worst yet. You must have heard that thing digging in your mind by now, yeah? Well, it's on its way. I think we have a chance at surviving using these machines - that's why we're here. But you have to *attune* yourself to the Tides. It's a process that... well, it's hard to explain, but I'll walk you through it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What's hunting us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Earlier, did you say we were in my mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"They're in stasis, in kind of a temporal loop. I *think* all you need to do is join them - hook your mind up with theirs - and make a decision for them that ends the loop. You should do what *you* want, by the way, not what they want. That's the whole point of this thing. To define *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"When you have attuned to all five creatures, you will need to activate the chamber at the top to complete the process. I will direct you when the time comes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You see all those tanks in here? Each one's got a creature in it that's attuned to one of the Tides. *You* need to attune to *them*, and that'll attune you to each Tide. Heh, I tried it myself while I was waiting for you, but I couldn't do anything except watch them. I suppose that means this is your show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Join your mind with the five creatures in stasis. Don't worry - as long as you follow your instincts, I'm pretty sure you can't mess this up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"All right, so how do I get attuned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Can you tell me how to attune to the Tides again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"There's the Blue Tide, that's about reason and wisdom and stuff. Red responds to passion and action. Indigo - that one's about community and the greater good, and then Gold is like an *individual* good, like compassion and sacrifice. There was one more... Ah! Silver. That one's about admiration and power, changing the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"That's... that's a jar of memory ants you're opening there. The Tides are a force, all right? Like gravity or magnetism or something, except they respond to people's actions. There are five of them, just like the five creatures here. Let's see..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Think of them like a magnetic force - or five forces, I guess - that responds differently to different people and actions. You'll get it when you hook your brain up to those comatose animals there. {To self}Hm, that didn't sound as encouraging as I thought it would..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What are the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Can you tell me about the Tides again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"The Tides draw energy to you. This energy keeps you alive. If you don't attune yourself to them, your body and mind will fall apart... and you *will* die, irrevocably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Because if you don't then your life will be wasted. *If* you awaken, it will be as a pile of organic slurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Why do I need to be attuned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Can you tell me again why I need to be attuned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"What if I *want* to give the creatures what they want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Then do so, if that is your nature. Know, however, that fulfilling their desires will not make their lives better or worse. This process is about who *you* are. They are merely instruments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"All right. I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Great. Let's do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"If you were dead, we wouldn't be talking, right? Your body's out in the real world, knitting itself together... I hope. But if you don't finish this attunement process soon, then yes, we'll be dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"We're in your mind, and you can change things here. You *need* to change things, or else we'll just be a forgotten splotch in some history book. {muttering}Probably not even *that*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"So am I dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Can you tell me about where we are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I'm a... you might call me a composite. Like a mishmash of your thoughts and memories and everything. I remember some things you don't, just like you know some things *I* don't remember. You made me when you hit the ground. Of course you didn't *mean* to make me, but... here I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"It is the Sorrow." The specter shudders. "A creature both ancient and powerful. It defies analysis and experimentation, though it seems designed to eradicate your creator and all his works. I will speak of it no more until we are safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I don't know what else to call it. This isn't the real world, obviously, but everything you do here seems to change things. I *think* you can change the real world too, but you'll have to get there to find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[DEBUG] Skip both the Crisis and the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"*There* you are. When I couldn't see you - or even hear you - I thought we were lost for certain. We haven't much time. You must attune yourself to the Tides quickly if you are to complete the healing process."
+
+"I realize you must have many questions. I will answer what I can, but we must move before that creature finds us again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"What's after us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"What's after us again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"The fall didn't kill you, right? But there's something *else* after us, something way more deadly than a high-velocity fall to the ground, if you can believe that. You have to wake up so we can stop it. {mutters}Or at least get away from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>{Suddenly serious}"It's called the Sorrow. Look, can we talk about that later? This attunement is important. For both of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>{slightly embarrassed}"Look, you don't need to know all this to make it work. Just do what comes naturally, and you'll be fine. {beat, emphasis on "we"}We'll be fine..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>The pinprick of light you followed in the dark passage suddenly opens wide. There was no sense of transition - one step you were in the dark, the next you were... here.
+
+You're in some kind of mystic laboratory. Machines gleam all around you, seemingly incomprehensible data swirling around them like motes of light. Five large tanks stand out, each one containing a different shadowy form... none of them human.
+
+A spectral figure stands in front of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[DEBUG] Skip the Crisis and enter a random Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

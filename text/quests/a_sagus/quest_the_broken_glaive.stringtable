@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_broken_glaive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Broken Glaive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Inquire after Riastrad in the Cliff's Edge district.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a way inside the fortified house in Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Help Riastrad and Satsada escape from the Memovira's thugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Successful rescue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A Small Mercy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Learned about Mazzof and Miel Avest from Satsada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Skipped Riastrad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Casmeen and Mimeon told you that they don't know how to fix the resonance chamber, but they know it was built by a castoff. One of the two castoffs known to be in the city, a glaive named Riastrad, might be able to lead you to the chamber's builder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The only direction Casmeen and Mimeon could give in finding Riastrad was that he's been known to hang around in the Cliff's Edge district.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Riastrad was seized by followers of a crime boss called the Memovira, and he's now in a fortified house in Cliff's Edge. If you want to speak to him, you'll have to find a way inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Having gained entrance to the House Where Secrets Die, you must free Riastrad and facilitate his and Satsada's escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>You rescued Riastrad and Satsada from the House Where Secrets Die, and in gratitude shared what information they had. The resonance chamber was built by a man named Mazzof, and he can most likely be found in Miel Avest, a secret compound where castoffs gather.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>When you finally found Riastrad, both he and his ghostly companion were raving mad, and needed to be put down. Whatever knowledge of the resonance chamber's builder they might have had, died with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>You spoke to Satsada, the ghostly companion of Riastrad, and convinced her to reveal the information you needed. The resonance chamber was built by a castoff named Mazzof, and the most likely place to find him is Miel Avest, a secret compound where castoffs gather.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>You left Sagus Cliffs for the Valley of Dead Heroes without attempting to find Riastrad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Riastrad apparently keeps company with a woman - or perhaps a ghost - called Satsada, who never leaves his side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The fortified house is apparently known as the House Where Secrets Die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Access to the house is controlled by a strange numenera bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>You can bypass the front entrance of the fortified house by digging in from below, but this will require help from a stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Riastrad and his companion, Satsada, appear to have lost their minds and are now trying to kill everyone in the House.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

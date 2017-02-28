@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_bloom_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You are pulled through the feretory... and the world goes dark. Your sense of sight has suddenly failed. You try to move your limbs and find that you cannot. You're alone, cut off from everyone else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You sense the terrifying presence of the Sorrow as it surges through the portal behind you. Knowing you are trapped, it reaches out... 
+
+{SOUND: Could play a Sorrow sound effect here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Then, without warning, it stops. You feel a sudden sense of recognition... and perhaps surprise. The chittering fades, and you slowly wake...
+
+{SOUND: Bloom voice effects fade out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>...and is hurled back, shrieking in fury. Its cries vanish at once, as if an impermeable wall has suddenly been raised between you. 
+
+{SOUND: Could play faint shrieks of Sorrow (or equivalent sound effect)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A terrible new sound fills your ears, a chittering, whispering cacophony.  Something probes at the edges of your mind... something vast and incomprehensible. 
+
+{SOUND: Start Bloom voice sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Focus on the chittering sound and try to understand it.
+
+{TIDE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Give in to panic.
+
+{TIDE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Call out for your companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You concentrate upon the chittering, whispering sound, trying to discern what it wants. With a start, you realize that you are being studied... poked and prodded... and it's about to get a lot worse. 
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The probing of your consciousness grows more insistent. Thoughts and emotions rise unbidden, only to be pushed aside in quick succession.
+
+{SOUND: Continue Bloom voice sound effects.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>With a searing pain, something forces deep into your mind. You scream in agony. Memories flash past your eyes, beyond your control, *tearing* from one to the next.
+
+{SOUND: Continue Bloom voice sound effects.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>It lingers most on memories of fear and cruelty, playing and replaying them, searing them into the tortured pathways of your brain. There are *many* such memories in your mind.
+
+{SOUND: Continue Bloom voice sound effects.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Resist with all your might.
+
+{CRITICAL}
+
+{TIDE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your shouts go unanswered, but they echo all around you, each sounding more fearful and desperate than the last. 
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Gradually the echoes change, resolving into the cries of a thousand men and women, calling out to friends, allies, loved ones.  You hear the voices of countless beings, alone and in danger... the voices of prey.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>As the echoes recede, the chittering and whispering return. Something pushes deep into your mind, brushing aside your conscious thoughts. Memories flash past your eyes, beyond your control, *tearing* from one to the next.
+
+{SOUND: Continue Bloom voice sound effects.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Deprived of movement and sight, you can feel the instinctive terror of your animal ancestors take hold. Your mind races, imagining the invisible horror that has you trapped.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You try to scream but have no voice. You thrash about... or at least you would be thrashing about if you weren't paralyzed.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Suddenly you realize that the chittering, whispering voice has receded, replaced by an erratic clicking sound.  It suggests... surprise? Or perhaps irritation. 
+
+{SOUND: Continue Bloom voice sound effects}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You try to focus your thoughts and drive the intruder out of your mind, but it's no use. With that chittering, whispering sound in your head, you find it impossible to concentrate. 
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You don't know what sort of alien consciousness is examining you, but apparently, you are not what it expected. The voice fades completely, as if losing interest in you, and you slowly wake...
+
+{SOUND: Bloom voice effect fade out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You breathe deeply, channeling your instinctive fear into anger, allowing it to drown out your conscious thoughts. Then you focus your anger against the *thing* that is probing your mind.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>At once, the chittering sound recedes, replaced by a bone-jarring hum, like the buzzing of insect wings the size of mountains. It grows stronger and louder. 
+
+{SOUND: If doing Bloom sound effects, they should add the bone-jarring hum (but still include the usual "voice" in background),}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The sound becomes a dull ache that spreads throughout your body. The ache becomes pain... hot and searing. You grind your teeth, straining to concentrate, to keep the intruder *out* of your mind...
+
+{SOUND: Continue effects from previous node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You breathe deeply, channeling your instinctive fear into cold fury. Then you focus that fury against the *thing* that is probing your mind.
+
+At once, the chittering sound ceases, and you sense the vast presence regarding you more carefully... perhaps even *respectfully*.
+
+{SOUND: Cut the Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>A new sound replaces the chittering... a bone-jarring hum, like the buzzing of insects' wings the size of mountains. It grows stronger and louder.
+
+{SOUND: If doing Bloom sound effects, they should add the bone-jarring hum (but still include the usual "voice" in background),}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Debug] Skip this dialog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Tendrils of force caress your mind, almost possessive in their gentleness. A welcome, perhaps, recognition of a kindred spirit.
+
+{ADAM: I have changed the ordering of the Tide nodes here to reflect what the Bloom probably cares about - cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

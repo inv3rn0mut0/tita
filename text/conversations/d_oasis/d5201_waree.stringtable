@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5201_waree</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Waree likes playing with you, but you don't learn anything from it. Uh, not that you should.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Waree plays in the market. You notice her eyes are a striking shade of violet - something you haven't seen in human or ghibra.
+
+In playing with Waree, she eventually admits her name. You realize her mother died in the destruction of the Atolyu Cay, and she doesn't know where her father is.
+
+For some reason, you want to help her find her father.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Waree is still playing. Again, you're struck by her odd, violet eyes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Waree is happy with her father. Basically.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Is your mother named Amaht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I found your father, Waree. He lives in Jerboa town and wants to see you. Will you come?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>(Reconsider) "I found your father in Jerboa Town, Waree. Would you like to see him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Leave her alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[She shrugs. Her mother was probably named "Mommy.']</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[She nods ecstatically and comes with you.]
+
+{SCRIPT: Fade to black. Scene transition to Jerboa Town where Waree and Aatani are reunited. Start dialogue with Aatani.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_siowan_at_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Siowan is fainter than he was before. His eyeless expression is hard to read. There is resignation in it, a measure of peace, and...
+
+...confusion. Not at the Maw before him, but at some mental puzzle. 
+
+"Thank you for coming," he says, without looking your way. "I didn't think I could wait much longer." He takes a small, resolute step forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The tongues slip eagerly into his spectral body, pulsing. Drinking. He flinches, looking past you, through you, and a smile, wide and joyous, splits his face. 
+
+"I can see them! Hear them! I... " he hesitates, worry pinching his brow. "Are you still there? Are you with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Yes, I'm here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Remain silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The eyeless man waits a moment longer for your response, then nods to himself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Script Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Yeah," Aligern says with an irritated look your way. "Yeah, we're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Yes, dearest," Callistege says, with an unreadable glance your direction. "Yes, we're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Of course we're still here," Erritis says, with a hurt look in your direction. "We wouldn't miss you getting eaten for anything!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Matkina stares at you a moment, curious, but likewise remains silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Yes," Rhin says, with a hurt look in your direction. "Of course we are. We *promised*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tybir frowns at your silence, but follows your lead, and does not answer the fading man. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Matkina chuckles softly under her breath but follows your lead and says nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Script Node 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Thank you," the eyeless man says. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Good," he says, looking carefully in your direction. "This doesn't feel... feel bad. I'm breaking apart, I *feel* it, but I'm remembering things I thought I'd lost. Things the despair was hiding."
+
+His smile returns. "I died the moment I came here. But I was loved. I remember that. They must have grieved. Even while I was standing here, eyeless and despairing, they were singing the Songs for me in the village. Hand in hand, singing the Songs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What are the Songs you're speaking of? Maybe I can sing them for you now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm glad you feel better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tell me the name of your people. I'll find a way to tell them how you died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Remain silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He doesn't respond to your offer. In fact, he doesn't speak again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Taking a deep, steady breath, he steps forward...
+
+... and gives himself fully to the Maw. 
+
+{SCRIPT: Siowan despawns. Maw opens.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He doesn't seem to notice your silence. In fact, he doesn't speak again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He doesn't respond to your words. In fact, he doesn't speak again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He takes a deep, steady breath...
+
+...and gives himself fully to the Maw, disintegrating along the lengths of the probing tongues.
+
+Fed by Siowan's despair, the Maw opens.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

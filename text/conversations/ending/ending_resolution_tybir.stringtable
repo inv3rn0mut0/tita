@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_resolution_tybir</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Seeking a way to atone for his failures, Tybir left Sagus and the Bloom behind, and traveled to the nameless village where he and Auvigne had once broken each other's hearts. To his surprise, he found that the villagers were still there - the noble that had tried to drive them away had been killed by a large, masked man many years ago. 
+
+To his credit, Tybir did not lie to them. He told them who he was, and what he had done. And he swore to protect them until the end of his days. 
+
+He did, and the villagers forgave him in time. Later, they respected him. And when he died in his sleep decades later, they mourned him as one of their own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Seeking a way to atone for his part in the death of Auvigne, Tybir left Sagus and the Bloom in the company of a band of mercenaries with a noble reputation. Well, nobler than most. 
+
+Eventually, he saved enough to fund a mercenary band of his own. Comprised of idealists, selfless lunatics, poets, prostitutes, and wealthy runaways, Tybir and his tribe of Penniless Sellswords roved about the land for many, many years, protecting the innocent by picking suicidal fights with tyrants and bandits alike, all in the name of protecting the innocent. 
+
+Tybir died on the wall of a village under siege by a veritable army. And he died smiling. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tybir returned to Sagus Cliffs, bowed beneath the weight of his guilt and the loss of his lover Auvigne. Bereft of any greater purpose, he rededicated himself to the myriad of schemes that had once sustained him.
+
+But they no longer did. Desperate to forget his failures, he buried himself in pleasure and took dangerous - and despicable - jobs to support his extravagant lifestyle. 
+
+Near the end, he had no less than five contracts on his head - but the levies found him first. Guilty of crimes that would have once made him shudder, Tybir at last found himself before a jeering crowd and the executioner he had once feared: Death-of-Tybir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Cold-eyed, Tybir returned to the Bloom, his mercy buried alongside his grief for the loss of his lover, Auvigne. In those dark and twisting tunnels, Tybir took any work that would pay for drink and pleasure. He rarely smiled. And he had too many nightmares. 
+
+One day, he simply disappeared. No one cared enough about him to wonder whether the Bloom had claimed him or one of his former enemies. No one loved him enough to go looking for him. 
+
+Nevertheless, he was never seen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

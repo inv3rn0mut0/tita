@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_crisis43_overwatchslayer02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A patchwork metal sphere is mounted on some sort of tripod. Some of the metal panels are obviously prior world metal, but many of them have been cobbled on more recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The Sorrow's flames dance in and out of its structure, restoring the power it had lost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Sorrow's flames dance in and out of its structure, controlling its systems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>It's pretty severely damaged.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Study the device to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>With a bit of work, you pry off one of the rustier panels and peer inside. It's not immediately obvious, but after studying it for a little bit, you think you understand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>There's a black octahedron floating in the center with various wires and connectors leading to the outer shell. Although you have no idea what the octahedron is for, or how it stays in the air like that, you're pretty sure you could disable it if you had to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>There's a black octahedron at the bottom of the sphere with various wires and connectors around it, leading to the outer shell. Although you have no idea what the octahedron is for, you think you know how to fix this thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Within the sphere, you reconnect a number of wires that had fallen off. As soon as the last one touches the octahedron, it glows and rises to its place in the center of the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Try to repair the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Try again to repair the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Maybe you're not finding the right wires, but the octahedron remains stubbornly inert at the bottom of the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You reconnect all the wires. Not only does the octahedron rise to its place in the center of the sphere, but the device glows with even more power than it had before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Connecting a few wires does nothing, and one of them zaps your finger. The octahedron remains stubbornly inert at the bottom of the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Try to re-enable the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try again to re-enable the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to disable the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to disable the device again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>By disconnecting the correct wires inside the sphere, you are able to shut the device down. The octahedron in the center dims and clatters to the bottom of the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You pull out a number of wires, but the octahedron remains stubbornly powered and you have no idea why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>By disconnecting the correct wires inside the sphere, you are able to shut the device down. The octahedron in the center dims and clatters to the bottom of the sphere. You even scavenge a few shins out of the thing for your trouble.
+
+{SCRIPT: Give PC some shins}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You pull out a number of wires, but the octahedron remains stubbornly in the air. The last of the wires zaps your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>See if you can increase the device's power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Try again to increase the device's power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You connect some extra wires inside the sphere, and pull out a few that seemed extraneous. The octahedron glows with more power than before and even begins to spin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You try connecting more wires, but they don't seem to do anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You connect some extra wires inside the sphere, and pull out a few that seemed extraneous. The octahedron glows and spins with greatly increased power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You fiddle with the wiring inside the sphere and it zaps you for your trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>It is glowing with increased power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Though it is quiet and inert since you disabled it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Try to remove whatever sway the Sorrow has over the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try again to remove the Sorrow's influence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>By tracking the Sorrow's flames across the wires, you are able to isolate it, disconnecting the right wires at the right time, then reconnecting them once the flames disperse. The device returns to its previous state.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>No matter how many wires you fiddle with, the Sorrow's flames dance across to still more, keeping the device active even when you're certain it shouldn't work at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>By tracking the Sorrow's flames across the wires, you are able to isolate it, disconnecting the right wires at the right time, then reconnecting them once the flames disperse. With a little extra fiddling, you figure out how to repair and strengthen the device as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>No matter how many wires you fiddle with, the Sorrow's flames dance across to still more, keeping the device active even when you're certain it shouldn't work at all.
+
+A finger of flame leaps out and strikes you between the eyes, giving you a nasty headache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Try to remove whatever sway the Sorrow has over the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Try again to remove the Sorrow's influence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Being familiar with this specific device, it isn't hard for you to track the Sorrow's flames as they dance across its connectors. You isolate the flames, disconnecting the right wires at the right time, then reconnecting them after the flames disperse.  The Sorrow no longer controls this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Being familiar with this specific device, it isn't hard for you to track the Sorrow's flames as they dance across its connectors. You isolate the flames, disconnecting the right wires at the right time, then reconnecting them after the flames disperse.  The Sorrow no longer controls this device. With a little extra fiddling, you're able to make the device even stronger than it was before the flames took it over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You feel as though the sphere is aware of your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>This sphere looks like the others around the room. It probably works the same, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

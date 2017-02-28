@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_circulatingmerecaster_goldmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You withdraw the coiled merecaster from your belongings and weigh it in your hands. It is lighter than it appears. The liquid within calms at your touch. 
+
+The mere contained within the device does *not* calm. It hisses and boils, filling your mind with small, clawed shadows. A headache builds behind your eyes, but despite that - even because of it - you feel compelled to sink into it, to let it wash over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The moment you touch the device again, the mere within pours into your mind, clawing at your defenses, urging you to succumb to it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Inspect the merecaster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The liquid within the tubes lies utterly still, no matter which way you tilt the contraption. Occasionally, a bubble pops against the glass, and something within the device shudders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Enter the mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Put the merecaster away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

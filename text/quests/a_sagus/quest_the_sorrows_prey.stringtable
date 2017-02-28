@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_sorrows_prey</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Sorrow's Prey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for the Sorrow's latest victim at the Dendra O'Hur Chapel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Investigate the victim's house in Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Zaofi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Partial Info Solution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Full Info Solution</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Full Info, Lied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Partial Info, Lied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Full Info Solution, Later</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Find a way to communicate with the shadowy Reflection that has appeared in the Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Find a way to communicate with the shadowy Reflection that appeared in your Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Learn more about the Sorrow's victim from the young woman's Reflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Learn more about the Sorrow's victim from the young woman's Reflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Left Sagus after discovering full info but before telling Zaofi (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Zaofi, a sculptor in Circus Minor, witnessed the murder of a man by the Sorrow, the same creature that is hunting me. Now he's obsessed with sculpting the moment of the killing, but all his attempts have been failures - he cannot immortalize the victim until he learns more about him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Zaofi told me that the victim's body was taken away by the Dendra O'Hur - probably to their chapel in the Underbelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The leader of the Dendra O'Hur informed me that the Sorrow's victim lived in Cliff's Edge. His house was near the chiurgical parlor. Perhaps a clue to his identity can be found there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've learned that the murdered man was named Orseolo, and he was a castoff like me. He adopted a daughter and kept to himself, but when his house collapsed and the girl was killed, he went looking for a way to die. Apparently, he drew the attention of the Sorrow, and it gave him what he wanted. 
+
+This story should be enough to satisfy Zaofi. I should return to his workshop in Circus Minor and tell him what I've learned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I discovered that the murdered man was a castoff who kept to himself and lived with an adoptive daughter, but couldn't find any further details.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I told Zaofi the truth about the Sorrow's victim. He seemed inspired by my words, and he set to work immediately on his next sculpture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I decided to hide the truth about the Sorrow's victim from Zaofi. That's probably what Orseolo would have wanted anyway - according to the Reflection of his adopted daughter, he was a private and secretive man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I discovered a few pieces of information about the murdered man, but decided to hide what I found from Zaofi and made up a story instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I discovered new details about the murdered man and informed Zaofi, who was grateful for the info.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>When I discovered the body of a young woman in the ruined house, a new Reflection began to take shape in my mind. In order to interact with it, I'll need to form a stronger connection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>The body of the young woman that I found in Cliff's Edge is apparently connected to the Sorrow's victim. In order to speak to her Reflection, I'll have to form a stronger connection with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Now that I can communicate with the Reflection, I should question her and learn what she knows about the owner of the ruined house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>The body of the young woman that I found in Cliff's Edge is apparently connected to the Sorrow's victim. Since her Reflection is already in my Labyrinth, I should be able to learn more about the dead man from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I've left Sagus Cliffs and doubt I'll return soon, if ever. Zaofi will likely never discover the true story of the Sorrow's victim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I discovered the identity of the Sorrow's victim, but didn't manage to speak with Zaofi before leaving Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I found the victim's corpse on a bier in the Dendra O'Hur chapel. He bore a familiar-looking tattoo that had been scorched away, suggesting that he was a castoff like me. Perhaps one of the Dendra O'Hur can tell me more about him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I found a collapsed house in Cliff's Edge that evoked a strong memory in me. I'm certain this house belonged to a castoff - the very man Zaofi is trying to portray in his sculpture. 
+
+If I search the ruins further, I might find out more about him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>In the rubble of the house, I found the body of a young woman who must have lived there with the castoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Some cultists of the Changing God were loitering near the collapsed house. They claim that a man lived there, but he pointedly avoided the cultists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The cultists suggest asking "the little girl with the flute" or Mother Temaz about the residents of the collapsed house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The cultists suggest asking "the little girl with the flute" about the residents of the collapsed house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Avina says that the dead castoff kept to himself and lived with an adopted daughter, but she never learned his name. This may be enough information to satisfy Zaofi's curiosity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The Reflection seems to have lost something - perhaps an object in the real world that was taken from the ruined house. If I can find it and bring it to her, I might be able to draw her fully into the Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>A few cultists of the Changing God are loitering near the collapsed house. They saw some dirty children foraging through the debris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Avina gave me a puzzle-box that may have belonged to the dead girl in the house. I may be able to use it to form a stronger connection with the half-formed Reflection, but I'll need to re-enter the Labyrinth and talk to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>The Reflection seems to have lost something - perhaps an object in the real world that was taken from the ruined house. If I can find it and bring it to her, I might be able to draw her fully into the Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>A few cultists of the Changing God are loitering near the collapsed house. They saw some dirty children foraging through the debris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Avina gave me a puzzle-box that may have belonged to the dead girl in the house. I may be able to use it to form a stronger connection with the half-formed Reflection, but I'll need to re-enter the Labyrinth and talk to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>A little girl named Avina may have taken the object that belonged to the Reflection. I should find a way to get it back from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Scavengers picked the castoff's house clean. Someone near the house might be able to tell me if they spotted anyone digging through the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>A little girl named Avina may have taken the object that belonged to the Reflection. I should find a way to get it back from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

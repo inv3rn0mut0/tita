@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c_haref_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Enter the mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Put the merecaster away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Disorientation takes hold of you as you remove this merecaster from your belongings. Everything that you *see* indicates that this device is very similar to the others. Your other senses, however, tell a different story. 
+
+They say you are holding a heavy book with a pebbled binding. You smell the dusty, perfumed odor of old pages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You remove the merecaster from your bags and hold it before you. Once again, your hands tell you that you're holding a book, and a heavy one. 
+
+The mere within tugs at you, eager to fill your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Inspect the merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The disorientation you felt earlier doubles now. Every time you blink, you smell the pleasant mustiness of an old library. You hear the flutter of pages and the murmurs of scholars, and feel the warmth of sunlight on the side of your face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The mere within the device/pages urges you to act - to activate the merecaster/open the book. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5111_myrl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He flips his appendage over his shoulder. "It only costs [Global: d5111_MyrlHeadCost] shins a go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>An excitable man in a faded kaftan waves you down. He looks perfectly ordinary except for the massive tentacle growing just above his left ear. The thing is so heavy it pulls at his head and he looks at you sideways. Nor does it seem to be under his control. As he talks it probes around blindly and he has to swat it occasionally to keep it from going up his nose. 
+
+"Hey! Hi!" he pipes. "I''m Myrl. I make things - *get out of there, damn you* - disappear. Wanna try?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The tentacled man waves manically at you. "Hey! Hey, you're back. Wanna try disappearing something again?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"How do you make things disappear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me again how you make things disappear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Why would anyone want to make something disappear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Explain again why someone would use your service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Here's [Global: d5111_MyrlHeadCost] shins. Let me try it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I want to try it again. Here's [Global: d5111_MyrlHeadCost] more shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"[Global: d5111_MyrlHeadCost] shins is a lot for what basically amounts to garbage disposal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"It's simple. I - " Myrl's tentacle reaches around the other side of his head and starts investigating his right ear. He bats at it. "Stop it! Stop!"
+
+"I - I throw stuff into the mouth of this head. Sometimes it disappears, sometimes it doesn't. Sometimes you get something different back. It costs you ten shins no matter which."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I put things in the mouth. Sometimes they go, sometimes they stay. Sometimes something else shows up."
+
+Myrl rubs his thumb and forefinger together. "Either way, it's ten shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Myrl shrugs. "All kinds of reasons. Getting rid of evidence, dangerous numenera, really stinky trash. Some folks make a gambling game out of it, because - " He catches his tentacle before it can get up his nose again. "Gotcha!" 
+
+"Because every now and then you get back something worth way more than ten shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Who wouldn't want some things to disappear? If you know what I mean."
+
+He points an accusing finger at you. "But I don't do bodies! I got some standards, you know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Myrl groans. "Aw, come on, man. You really gonna haggle when I'm only trying to make a living?"
+
+He struggles to keep his tentacle from examining his wisdom teeth. "My life's hard enough already. Know what I mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He waves you off, bored. His tentacle waves too. "Sure, fine. The head's not going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Myrl smiles greedily. "Sure. Gimme the thing you want to disappear and I'll - " His tentacle covers his eyes like it wants to play 'guess who?'. He tears it way. "Not now, dammit! Not now!"
+
+"I-I'll throw it in the mouth. Boom. Problem solved. Uh, usually."
+
+{SCRIPT: Add a counter variable that counts how many times the player successfully uses the head. Myrl should react to that.}
+
+{SCRIPT: Add more items to throw in, some that do stuff and some that don't (using the Anamnesis check to lock/unlock things as necessary).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"[Global: d5111_MyrlHeadCost] shins is too much. I'll give you [Global: d5111_MyrlHeadCost_Cheaper]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Fine. [Global: d5111_MyrlHeadCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can I try it once for free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Myrl looks hurt. "Free? No way. I gotta make a living."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Huh? Do you think you're special or something? Everyone pays the same, pal. Kings, crime lords, gods, everyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Myrl grunts. "Fine, whatever. Take food outta my mouths. See what I care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Great. Let me know when you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Looking at the head gives you a strange sense of deja-vu. Like you might have seen it before - maybe even put things in its mouth before. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bank 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What's the history of the head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me again what you know of the head's history?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Bank 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"No idea. It's always been here, not doing nothing. Then one day I was eatin' crabs next to it and the mouth opened. I threw my crab shells in there and..." He makes a 'poof!' motion with his hands. "Astute business man that I am, I espied myself an opportunity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I don't know nothing. Why would I? It was like this when I found it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Give Myrl Elia's Anguish. "Here. I want to get rid of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Give Myrl exactly 1,123 shins. "Put all this in there. See what happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Sure, pal." He throws the necklace into the head. Then he pulls the necklace back out along with a cypher and gives both to you.
+
+"Huh. It didn't take it, but it still gave something back. That almost never happens. Oh well, I don't take the stuff that doesn't go, so you get both. Congratulations."
+
+{SCRIPT: Add cypher.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"A gambler, eh? Fair enough." He cocks his head at the odd number of shins but throws them in anyway. They vanish and he pulls out a severed human arm with a tattoo on it.
+
+"Whoa! Looks like one arm of a bandit."
+
+{SCRIPT: Give player tattooed arm.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Actually, I'm not sure what to throw in. Let me think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Sure. Whenever you're ready." Myrl hands you your shins back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Attack him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Myrl yelps in alarm and leaps back, tentacle flailing. Before you can advance again he dives into the mouth of the giant head and its great stone teeth slam shut. Myrl is gone.
+
+{SCRIPT: Add animation for this event, or at a minimum, fade to black, Myrl disappears, the mouth of the head closes, fade back up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Try to remember why the head looks familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>A memory comes to you of the Changing God spending weeks patiently putting different objects into the head's mouth. Eventually, he realized that the head used the atoms of whatever went into it as fuel to open a portal to other worlds, and sometimes it displaced something in that world. He thought of it as "the Vault," and he soon figured out which items would get him a return on his investment most times.
+
+For example, right now you have an inkling that 1,123 shins would get you something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>All that comes to mind is a vague memory of taking a bunch of useless junk out of the mouth and burying it somewhere near by. At least, it seemed useless at the time...
+
+{ADAM or SCRIPT: Find a place nearby to bury some low level cyphers etc.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You are one lucky son of a sathosh! What's your secret?"
+
+{SCRIPT: Add conditional based on counter variable. When the player has had X successful tries, Myrl reacts to it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Give Myrl 20 shins to throw in the head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Myrl throws the coins into the mouth and they vanish, but nothing else appears. 
+
+Myrl shrugs. "Sorry, pal. Nothing came back."
+
+{SCRIPT: Maybe subtract one from the counter variable.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>As you stretch out your hand with the twenty shins, a memory comes to you of doing that exact thing before and losing your twenty shins for no reward. You take them back.
+
+Myrl shrugs. "It's your money. Anything else you want to throw in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sure. Whenever you're ready." Myrl hands you your shins back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText> Follow-up PQ. 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Here's [Global: d5111_MyrlHeadCost_Cheaper] shins. Let me try it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I want to try it again. Here's [Global: d5111_MyrlHeadCost_Cheaper] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"How about you cut me a deal and I won't cut your face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Myrl cowers back, tentacle trembling. "Whoa whoa whoa! I like my face! [Global: d5111_MyrlHeadCost_Cheaper] shins it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Myrl sneers. "I've had better than you threaten worse. You can't scare me. Now, do you want to try, or do you want to go bite yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Give Myrl SECRET X item.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Player gets something].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Myrl smiles. "Sure. What do you want to try this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Do you know a man named Auvigne?"
+
+{SCRIPT: Only plays if Tybir has asked PC to search for Auvigne.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Do you know someone named Misha?"
+
+{SCRIPT: Only plays if PC knows Misha's name.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Who? Is he missing? I didn't put him in the head, I swear. I don't do that. Mostly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"The chiurgeon? She's up the road."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

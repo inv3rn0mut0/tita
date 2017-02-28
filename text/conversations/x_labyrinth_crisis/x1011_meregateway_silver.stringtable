@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_meregateway_silver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Forged of blinding chrome, this statue depicts a monstrous woman covered in scales. Each tile of her armor flashes and gleams, forcing you to pay heed. Pinned in place by the spectacle, you see her eyeless face is screaming in triumph. In one hand, she holds a magnificent hammer high above her head. You feel overwhelmed by a desire to follow her to victory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The hammer itself is nearly transparent, except for a glimmer where her hand grips the weapon. Inside the handle, a thousand - a million? - miniscule motes of light flutter, seeming to awaken at your arrival. They wait for you to lead them, to guide them. They want to admire you, cherish you, adore you, sing your story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Demand that the motes climb to the head of the hammer or face your wrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The motes dash momentarily away from your imperious presence before slowly, hesitantly, gliding upwards. They seem to understand that you will destroy them before you allow them to ignore you. As the twinkling sparks collect at the apex of the weapon they form into a single, solid source of light, seeming to give the hammer irresistible weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Offer honeyed words to guide them up the length of the hammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The motes dance upwards, swirling and frolicking to the sound of your voice. As the twinkling sparks collect at the apex of the weapon they form into a single, solid source of light, seeming to give the hammer irresistible weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Offer the motes freedom, power, wealth, anything that will convince them to come to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The motes rush straight up the length of the crystal. Their movement is hungry, greedy. They believe your promises. As the twinkling sparks collect at the apex of the weapon they form into a single, solid source of light, seeming to give the hammer irresistible weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You walk away from the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A gateway now stands where the statue once was, but it remains locked. You'll need to finish aligning the other 4 gateways before you can enter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A gateways stands unlocked before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Focus your mind on recognizing the figure depicted in the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Though you cannot claim the knowledge as your own, you find the name of the depicted woman. You stand before the Great Chila the Liberator, who freed the slaves of the Bloom and led them in revolution against the cruel masters of Sagus Cliffs. Her revolt overthrew the corrupt government of that time and ushered in a new era of freedom.
+
+{JEREMY: You might want to add flags to these, like "Knows_Chila_History" or something like that}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Words and images flutter through your mind, but you cannot collect them into a clear memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The statue's arm swings down. The hammer smashes into the ground with a resounding ring and a blinding flash. As your eyes refocus, you see that the statue has been replaced by a round silver gateway. In its mirrored plating, you see the etched image of the woman. She stands atop a hill, shouting to a crowd of cowering figures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The statue's arm swings down. The hammer smashes into the ground with a resounding ring and a blinding flash. As your eyes refocus, you see that the statue has been replaced by a round silver gateway. In its mirrored plating, you see the etched image of the woman. She stands atop a hill, calling to a crowd of cheering figures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The statue's arm swings down. The hammer smashes into the ground with a resounding ring and a blinding flash. As your eyes refocus, you see that the statue has been replaced by a round silver gateway. In its mirrored plating, you see the etched image of the woman. She stands atop a hill, tossing shins and jewels to a crowd of grasping figures below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The statue of this fearsome beast-woman remains unchanged.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_rumblings_of_discontent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rumblings of Discontent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the missing patrols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Report back to Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rescued both patrols</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rescued Nihliesh patrol, but Slave Block patrol slain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rescued Slave Block patrol, but Nihliesh patrol slain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Found both patrols dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Entered Endgame (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Entered Endgame (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Brusca, one of the Memovira's lieutenants, has asked me to look for two patrols that have gone missing in the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Brusca told me that the two missing patrols are equipped like the rest of the Memovira's thugs, in studded leather armor. If I find them, I should inform Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I've found both patrols, I should return to Brusca and tell her what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I prevented one of Brusca's patrols from being massacred by mutants in Little Nihliesh, and I rescued the survivors of the other patrol from the Old Slave Block. Brusca was pleased and rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I prevented one of Brusca's patrols from being massacred by mutants in Little Nihliesh, but the other patrol was killed and partially eaten by murdens. Brusca was angry at the murdens for killing her people, but she still rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I rescued the survivors of one patrol from the Old Slave Block, but the other patrol died in Little Nihliesh. Brusca was angry at the mutants for killing her people, but she still rewarded me for my help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Both of Brusca's patrols were slaughtered. She wasn't pleased to hear the news, but she rewarded me anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. As I have no idea of when I'll be able to return to the Bloom, Brusca will have to discover the fate of her patrols on her own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. With no idea when I'll be able to return to the Bloom, Brusca may have a long wait ahead before she hears what I discovered about her patrols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I encountered one of Brusca's missing patrols in Little Nihliesh, but they got into trouble with some mutants and ended up dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I encountered one of Brusca's missing patrols in Little Nihliesh. They got into trouble with some mutants, but I helped them escape. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I found the remains of one patrol in the Old Slave Block. It looks like they were captured and partially eaten by the murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I found the survivors of one patrol held captive by murdens in the Old Slave Block.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I freed the patrol that was being held captive in the Old Slave Block, and they fled to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I freed the patrol that was being held captive in the Old Slave Block, but they were killed while attempting to escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Artaglio told me that a patrol recently passed through Chiurgeon Slump. They were headed for the Old Slave Block.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Brusca said that the missing patrols should be somewhere in the Vast Interior or the surrounding slums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I encountered one of Brusca's missing patrols in Little Nihliesh, but they got into a fight with some mutants. I helped the mutants kill them.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

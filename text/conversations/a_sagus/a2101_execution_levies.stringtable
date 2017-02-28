@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_execution_levies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The levy stares straight ahead as you approach him. He is an ordinary looking man, but something about his glazed eyes and fixed smile make you wonder if he's entirely human - or entirely alive. "Greetings, newcomer. How can I help you?"</DefaultText>
+      <FemaleText>The levy stares straight ahead as you approach her. She is an ordinary looking woman, but something about her glazed eyes and fixed smile make you wonder of she's entirely human - or entirely alive. "Greetings, newcomer. How can I help you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The levy continues to stare straight ahead. He doesn't seem to remember that he's met you before. "Greetings, citizen. How can I help you?"</DefaultText>
+      <FemaleText>The levy continues to stare straight ahead. She doesn't seem to remember that she's met you before. "Greetings, citizen. How can I help you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's happening here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Can I talk to the condemned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"How do his own words destroy him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The condemned, Ris of Flatwater, is being executed for treason. As is our tradition, his own words will destroy him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What's your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No one may speak to the condemned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I am a levy of Sagus Cliffs, raised to protect its lands, property and citizens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The levy's blank expression goes blanker still, and he seems to shiver. "I... I..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Hearing the levy's distress, the overseer of the execution hisses at you. "Simpleton! Never ask them that! Never!"
+
+{SCRIPT: This should be the execution official talking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I can answer no more of your questions. My duties come first. If you have further questions, please talk to Overseer Yeen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>This levy has the same fixed smile as all the others. His eyes don't quite focus as he addresses you. "Greetings, citizen. How can I help you?"
+
+{SCRIPT: Have not spoken to this particular levy before.}</DefaultText>
+      <FemaleText>This levy has the same fixed smile as all the others. Her eyes don't quite focus as she addresses you. "Greetings, citizen. How can I help you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Who's in charge of the execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"When you say you were raised, what do you mean, exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What was the crime of the condemned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"They form ropes as they leave his mouth, and crush him to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"He was convicted of selling state secrets to the enemies of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Overseen Yeen is in charge here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"All citizens are required to raise a levy for the protection of the city. I am such a levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Remain safe, citizen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Yes, but how were you raised?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I was raised by order of the Counsil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I.. I am a levy of Sagus Cliffs. I am a levy of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

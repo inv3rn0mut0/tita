@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_endgame_quishamis_corpse_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You trace your fingers over this crooked jumble of crystalline spikes. It's a quishamis, and has been dead for some time.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The quishamis lies in a broken tangle of crystal limbs, cold and still. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring the Magmatic Annulet closer to the corpse.
+{SCRIPT: Is this related to Node 239 of c4211_demeray_and_obervich? If so, we should probably talk about some changes to one of these conversations.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>When you open your eyes again, the quishamis is in a heap beside you, motionless once more. You rise, wincing in anticipation of pain. 
+
+There is none. The creature didn't hurt you. Instead, the blood from its wounds seems to have seeped into your skin, toughening it. 
+{SCRIPT: Quishamis is dead again. Player gets back up.}
+{SCRIPT: This path disables the SI.}
+{SCRIPT: Player gets "crystalline armor fettle"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Search the body for anything useful. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You dig into the moist, frozen innards of the quishamis, and find the rough edges of a foreign object. With a grunt, you pull it free, and something *snaps* within the creature's corpse. 
+{LOOT}
+{SCRIPT: Player gets item from corpse.}
+{SCRIPT: This path disables the SI.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The quishamis lies silent, broken, and still. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You cautiously extend the Annulet towards the quishamis's broken body. It flares in your hand, heatless and brilliant. 
+
+The quishamis lunges off the floor, shining blood pouring from its wounds, and knocks you to the ground. You stare up into the pulsing body of the creature. Spheres of dizzying cyclonic patterns hurtle beneath its crystalline skin, colliding, merging, exploding... 
+
+Your vision goes dark. 
+{SCRIPT: Quishamis gets up, player gets knocked down, quishamis stands over supine player.} 
+{SCRIPT: Fade out, fade in}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Something stirs within your belongings. The Magmatic Annulet is glowing, ever so slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The Magmatic Annulet stirs within your bags as you draw closer to the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

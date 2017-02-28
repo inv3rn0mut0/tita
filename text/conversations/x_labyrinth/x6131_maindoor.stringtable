@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_maindoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pulsing waves of heat roll down the stairs, and you hear a low, continuous whirring that's somewhere between a sigh and a melody. The door is *singing*, as though welcoming you back.
+
+Even in this low light, the wheel at the bottom of the door fairly *glows*. You feel your palms tingle at the sight of it. 
+{SOUND: Melodious humming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Something *clicks * in your mind, and the door answers. Hidden gears spin behind the cage. The door is opening for you and you alone. 
+
+{SOUND: Hum continues, smooth clockwork whirring.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>::click-clack::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

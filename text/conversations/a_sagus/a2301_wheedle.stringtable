@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_wheedle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This young man has a bruised cheek and a number of nasty-looking daggers tucked into sheaths along his belt. Despite his rough appearance, he nods at you with weary good humor.
+
+"Don't know you. What tunnel you from?" Then his eyes find your tattoo. "Ah, never mind. Your kind doesn't live down here, do you? No offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Grinning, he shakes his head at the sight of you. 
+
+"You're back! No offense, but we don't get your kind down here, not for any length of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText> Follow-up PQ. 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Who are you looking for again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What do you mean, 'my kind'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Have you seen a woman named Matkina down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Yeah, take care."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You know," he says, shrugging. "Castoffs. Godlings. Children of the Changing God. Tattoo's a bit of a giveaway. Like I said, no offense."
+
+He shakes his head. "Can't be easy, though, can it? Living in *that* shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Name's Wheedle. I work for Fulsome, the man who runs things down here. He has us patrol the place, keep an ear out for problems." 
+
+He spreads his hands. "And that's why we're chatting. Some muttering, hooded carker in robes has been following people home. So here I am, glaring at everyone wearing anything longer than a skirt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"People in robes, acting suspicious." He snorts. "Way I see it, everyone in robes has got something to hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Looking for the White Death?" He whistles. "Hope you got a good reason. And sure, she comes down here all the time, but I haven't seen her for a few days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I wish I knew. Guess I'll find out when they show up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[DEBUG: Assign Cold Calc Jack Quest to start Circles in Red... exit scene and reenter after.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_borrowed_and_lost</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Borrowed and Lost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the book Falinda claims I borrowed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return the book to Falinda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Book Returned</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Left Sagus Without Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Falinda, a bookseller in Circus Minor, has accused me of borrowing a very rare book and never returning it. I have no memory of such a thing, so it seems likely that the Changing God was the real culprit, perhaps when he was wearing the body that is now mine.
+
+It seemed important to Falinda that I find and return the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I need to find the book that "I" supposedly borrowed. Falinda didn't provide any clues about its whereabouts but did mention that the book has a five-colored sigil on its cover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found the missing book in the Changing God's Sanctuary. It's called the Tome of Singing Thorns, though it doesn't appear to be an ordinary book. 
+
+Falinda should still be at her stall in Circus Minor when I'm ready to return the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I gave the tome back to Falinda. Oddly enough, she offered me a chance to borrow another of her books. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Sagus Cliffs is now behind me and it's doubtful that I'll be returning. I suppose Falinda will just have to wait a little longer to get her book back.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_mutant_glowglobe_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This mutant has scaly skin and fingers that bear an extra joint or two - you're not about to get an accurate count on them. His eyes protrude on tendrils, and he calls out to you as you approach. "Human! Are you venturing deeper into the Bloom? I have lights to guide your way! ... though it looks as if you won't be able to see the delightful spectra they cast, they can still help your feeble eyes in dark places!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What do you have for sale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Take a look at my wares, will you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Do you have glowglobes that approximate sunlight? I need to wake a quishamis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A quishamis? What's that?" He pauses and mutters to himself, "No, no. No reason to ask." He turns back to you: "Not in stock, my human friend, for these are tailored for a specific clientele. I could certainly make some modifications to an existing globe, though the cost in labor and materials would naturally be extra. Say... [Global: c4301_GlowglobeMerchantPrice] shins?""
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'd like to buy a globe that mimics the sun's light. You said it was [Global: c4301_GlowglobeMerchantPrice] shins?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Of course! Give me a moment, please." He turns back to his stock and his nimble fingers begin to dance across a globe. Small tools appear and disappear with dazzling speed, and at last he makes a final adjustment. 
+
+He turns and holds out his hand expectantly. When you place your money into his palm, he hands you the glowglobe. "May it light the way to a prosperous tomorrow!"
+
+{SCRIPT:  Need to give out the item here.}
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He smiles regretfully, revealing a row of perfectly square teeth. "Alas, I don't believe you can afford my expertise. Perhaps when you come into some funds."
+
+{COLIN:  Not quite a fan of this structure, since it leaves the player with no idea how many shins they'll need.  The price is currently so low that almost no one will run into this, but that may change.}
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Come again soon, my friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

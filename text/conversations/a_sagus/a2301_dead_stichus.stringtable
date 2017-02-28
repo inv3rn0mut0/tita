@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_dead_stichus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You find a jumbled pile of large rocks at the end of this roughly-hewn tunnel. The motionless limbs of a stichus protrude from the mound, the rents in its carapace painted with dried ichor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The dead stichus lies where you left it, surrounded by ichor-stained rocks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Step away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""
+
+{GAVIN: Gateway to Dendra content. Add later if time. Blocked by blank global.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Move the rocks to uncover the corpse. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Try moving the rocks again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The first rock is the hardest to shift. Once you warm to the task, you are nearly flinging them aside until you have fully exposed the corpse beneath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You try to dislodge one large rock, then another, pulling and pushing until the blood roars in your head... but they don't budge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Examine the uncovered corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Examine the corpse again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Clearly, the creature was digging this tunnel when the roof collapsed and killed it. Its smaller claw is mangled and smashed, but apart from the crushed thorax and a few gashes in its carapace, the body itself is surprisingly intact. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Other than the crushed thorax and mangled claw, the corpse is surprisingly intact. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The creature's claws left furious gouges in the fallen rocks and surrounding walls. You realize that it *intentionally* collapsed the tunnel.
+
+It wanted to die. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You look around at the walls and ceiling. 
+
+The phenomenon of the "death tunnel" is not a well-known aspect of sticha lore, but this is a perfect example. The creature was presumably growing old or sick and determined that it would rather die on its own than become a burden to its broodmates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>This rough tunnel ends in a pile of large rocks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>It may be your imagination, but several of the rocks seems to be vibrating, as though something is moving - or twitching - under the pile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The fallen rocks are too heavy and packed too tight. You strain against them, but you still can't dislodge them.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

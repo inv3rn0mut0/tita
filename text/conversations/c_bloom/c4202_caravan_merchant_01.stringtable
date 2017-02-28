@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4202_caravan_merchant_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"We met with our 'contact' in the Ascension, and it gave us a new set of baubles." The human opens a wooden display case that contains an array of crystalline artifacts, each of which appears unique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Normally we sell them for ridiculous prices to the wealthiest families of Sagus, but for you, a discounted rate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Let's trade."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText> Follow-up PQ. 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It's less of a partner, and more of a... a..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Floating megalith," finishes the varjellen. "Ponderous stone and glittering scales. But all one being, a single intelligence. We pass through gate, search for familiar form." The varjellen puts its hands around its eyes and mimes a slow and careful scan, right and left. "Hard to find... never exactly the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The human nods. "Once we find the thing, we try offering it a variety of chemicals and powders. Sometimes it accepts them. Or absorbs them, anyway. In return, it, uh... excretes interesting things. With useful properties! Most of the time." He snorts dismissively. "It's a strange business we're in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Our 'trading partner' is a floating megalith of sorts. We're not even sure it's alive, but we offer it various chemicals and powders. Sometimes it absorbs them, and in return, it, uh... 'gives' us useful things." He gestures at his display case, filled with weird crystalline objects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can you tell me a little more about your trading partner in the Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me about your trading partner again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'll be back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"And we'll be here. Assuming the Bloom doesn't *eat* this place again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Here's the man who saved our business! Have a look at our Ascension crystals. We'll only charge a quarter of what our regular customers pay."</DefaultText>
+      <FemaleText>"Here's the woman who saved our business! Have a look at our Ascension crystals. We'll only charge a quarter of what our usual customers pay."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

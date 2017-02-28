@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\ksaunexperiment03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{Testting to see}Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Hi there Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala
+{SCRIPT Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 
+
+COLIN: Hi
+
+AUDIO: Read this.
+
+8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.}</DefaultText>
+      <FemaleText>{Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.Test 8. Here is a lot of text lalalala.}Text*</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

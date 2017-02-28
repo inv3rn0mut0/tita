@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_hidden_enemy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hidden Enemy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search for the rogue stichus in Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tell Lord Vuntgen where the stichus is hiding... or find a way to help it escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tell Lord Vuntgen that the stichus has escaped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tell Lord Vuntgen that the stichus is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mob Justice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Saved by the Sticha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Saved by the Cultists</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Saved by the Stichus Automaton</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Blackmailed Vuntgen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>It's There, But...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Killed It Myself</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tell Lord Vuntgen that the stichus has escaped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tell Lord Vuntgen that the stichus has escaped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Left Sagus Before Completing Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Left Sagus after helping the stichus escape but before telling Vuntgen (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Left Sagus after killing stichus but before telling Vuntgen (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A rogue stichus is lurking in the district of Cliff's Edge. Lord Vuntgen has promised a reward to anyone who finds the creature and tells him where it is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The stichus is probably hiding someplace out of the way, or the people of Cliff's Edge would have found it by now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found the stichus behind the Fifth Eye, amidst heaps of garbage. Its fate is now in my hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I convinced the other sticha to dig an escape tunnel, allowing the outcast stichus to flee Cliff's Edge. Lord Vuntgen is bound to be unhappy when he hears the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I killed the rogue stichus myself. Lord Vuntgen should be pleased to hear the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I told Lord Vuntgen where to find the stichus, and he announced its hiding place to the assembled crowd, who promptly ran off and murdered the creature. Vuntgen commended them for making their district a safer place. Then he offered me a reward, as promised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>The stichus escaped with the help of its kin. Lord Vuntgen left Cliff's Edge, clearly disappointed, and the angry crowd dispersed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The stichus escaped with the help of the Changing God cultists. Lord Vuntgen left Cliff's Edge, clearly disappointed, and the angry crowd dispersed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>The outcast stichus escaped with the help of my stichus automaton. Lord Vuntgen left Cliff's Edge, clearly disappointed, and the angry crowd dispersed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I blackmailed Lord Vuntgen by threatening to reveal his yovoki heritage. Believing that the crowd might kill him if his secret was revealed, he agreed to call off the hunt for the stichus. The crowd dispersed, and Vuntgen left the district. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I told Lord Vuntgen where to find the stichus and it was murdered by the crowd, but I was angry at this outcome and made an enemy of Vuntgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>The rogue stichus is dead, slain by my hand. After confirming the creature's demise, Lord Vuntgen commended me in front of the crowd and offered me a reward, as promised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>At my request, the cultists of the Changing God smuggled the stichus out of Cliff's Edge. Apparently they dressed it in the robes of a tall cultist. Lord Vuntgen is bound to be unhappy when he hears the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I ordered my stichus automaton to dig an escape tunnel for the outcast stichus, and it has fled to safety. Lord Vuntgen is bound to be unhappy when he hears the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>I've left Sagus Cliffs and won't be back soon. Someone else will have to deal with the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>I helped the stichus escape, but left Sagus Cliffs before I got a chance to speak to Vuntgen again. I doubt he would have been happy to hear the news anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>I killed the stichus but didn't get a chance to inform Vuntgen before leaving Sagus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The stichus seems to be harmless. Its chitin is thin and soft, and its claws are small and malformed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>According to the stichus, Lord Vuntgen found it in a tunnel and brought it to Cliff's Edge. This suggests that Vuntgen himself is responsible for the creature's presence in the district.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>A boy named Zebb seems to have befriended the outcast stichus, and he implored me not to tell Lord Vuntgen where the creature is hiding. He suggested that the other sticha might be convinced to dig an escape tunnel. I can find the other sticha in Underbelly. Of course, there might be other ways to sneak the creature out of the district as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I asked Ch'kekt, one of the sticha in Underbelly, to rescue the outcast stichus, but it refused. Instead, it asked me to kill the outcast stichus because the creature will never be able to fend for itself. If I do this, Ch'kekt may even give me a reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I asked the Changing God cultists in Cliff's Edge if they could smuggle the stichus to safety, and they agreed to try. They are ready whenever I give them the command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Mother Temaz told me that Lord Vuntgen's family has abhuman blood. According to her, one of his ancestors was a yovok. This is a shameful secret that would ruin the family's reputation and end Vuntgen's political career if it was ever revealed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Lord Vuntgen is addressing a crowd in the western part of Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

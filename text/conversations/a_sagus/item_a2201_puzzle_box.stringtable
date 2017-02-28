@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_a2201_puzzle_box</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>At first glance, this metallic cube seems simple enough. Then you see light reflecting off a myriad of tiny, silvery panels within. Behind them is an intricate network of coils and springs. 
+
+Something rattles within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The box shudders against your palm, as though one of the mechanisms within is stretched to the snapping point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine it again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You raise the cube to eye level and shake it again. Nothing moves within, but once again, you hear the rattle of an object trapped inside. 
+
+Something rough grazes the edge of your thumb. Turning the cube sideways, you see a finely-etched diagram - a labyrinthine network of circuits. 
+
+It means nothing to you. Perhaps one of the experts in machinery lore in the city may be able to make sense of it.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You study the diagram on the side of the box further, but can still make no sense of it. Perhaps showing this to someone more skilled in machinery lore will help. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The inscription on the box reads, "To my daughter. Let this gift occupy your time until I return - and I will return. That is a promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You raise the cube to eye level and shake it again. Nothing moves within, but once again, you hear the rattle of an object trapped inside. 
+
+Something rough grazes the edge of your thumb. Turning the cube sideways, you see a finely-etched diagram - a labyrinthine network of circuits. 
+
+No... it's an ancient machine language you recognize from your studies of old technology. It says, "To my daughter. Let this gift occupy your time until I return - and I will return. That is a promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Smell it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Press down on the sigils representing joined hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Press down on the sigils representing joined hands again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Beneath the expected, greasy stench of metal, you detect... salt. The mingled aroma of heated metal and stone. A fearsome sense of nostalgia grips you for a moment, tied to absolutely nothing that you can recall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Put the puzzle box away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The button resists at first - it clearly hasn't been pushed in years, if it ever has been at all. But when it gives way with a somewhat worrying *snap*, a chorus of mechanical clicks begins inside, like the beating of many distant wings. 
+
+They fall silent, and one of the sides slides away - not into a socket, but into nonexistence. On the inner face is a dark hole surrounded by more words - in Truth this time. Four numbered buttons surround the circle like the points of a compass. 
+{SOUND: 1. SNAP.  2. A soft series of many precise clicks. 3. A camera shutter opening}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Gears whir within the cube once more, and the panel slips aside, revealing the eyehole ringed by an inscription and the four numbered buttons. 
+{SOUND: 1. SNAP.  2. A soft series of many precise clicks. 3. A camera shutter opening}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Read the inscription. 
+{GAVIN: Iteration task: Add inscription and image to the root node after the puzzle is solved.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Read the inscription again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The words spiral away from the hole in a thin, engraved script. 
+
+"I enclose a memory of happier days along with your gift. See it as I do. Cradle it in your hands. And hear me when I say that I am proud of you, and I hope you are not still angry with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I enclose a memory of happier days along with your gift. See it as I do. Cradle it in your hands. And hear me when I say that I am proud of you, and I hope you are not still angry with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Look through the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Look through the eyehole again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A vast scene is depicted through the small hole in the tiny cube, rendered by multicolored metallic panels.
+
+A young woman - surely no more than fifteen - stands at a parapet overlooking a sunset sea. She has turned to regard you with a single raised eyebrow. Bronze light shines on the quartet of golden rings encircling her delicate ear. Your hand is on her shoulder, and she has laid her hand over yours. 
+
+She is afraid, but the sight of you makes her smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>A young woman - surely no more than fifteen - stands at a parapet overlooking a sunset sea. She has turned to regard you with a single raised eyebrow. Bronze light shines on the quartet of golden rings encircling her delicate ear. Your hand is on her shoulder, and she has laid her hand over yours. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Perhaps it is a trick of the light on an imperfect medium, but the hand on her shoulder - your hand - seems to be gripping her shoulder rather than holding it, as if the person behind the lens is afraid as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You look closer. Near the word 'promise' are two identical, interlocking sigils. Two 'hands', joined together. They look slightly more pronounced than the rest of the words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Squeeze it between your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You press the box between your palms, and it collapses with a satisfying, hissing series of clicks. When you let go, it immediately springs back into seemingly-rigid shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>::click-clack-click::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Press the first button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Press the second button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Press the third button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Press the fourth button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Something clicks within the box. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Press the second button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Press the third button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Press the fourth button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Press the first button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Another click sounds from the center of the cube. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Press the first button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Press the second button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Press the third button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Press the fourth button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>::Clack::.
+
+The top of the cube folds away, revealing the gift within - a ring, loosed from its cradle. Perhaps it got loose on its own. Or perhaps the daughter solved the puzzle long ago... and rejected the gift. 
+
+You lift the ring from its cradle, tuck it away, and snap the cube closed. 
+
+{LOOT: Should be a small item a father would give his daughter who he's fought alongside in battle. Shouldn't be something that would actually harm her. May be a ring (and I've included that above for now).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The box is now empty. All that remains are the messages from a father to his daughter. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>::clunk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_parsim_flint</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>132</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Parsim Flint is my name, and the disbursement of so-called 'slaves' to so-called 'owners' - for the betterment of both parties - is my trade. What sort of slave are you looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Maybe you'd better explain how slavery works around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Certainly. These slaves," Flint nods at the bedraggled men and women in the pit, "are convicts of the foulest sort. They are the very dregs of Sagus Cliffs and her surrounding communities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'd like to buy a slave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The fat little man turns toward you, a wide smile already on his face. Indeed, his smile is unnaturally wide, reaching almost to his ears. You notice that his mouth contains *two* rows of white, well-manicured teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You catch me in the midst of an auction, sir, but no need to beg pardon, my clients will wait." He leans forward, conspiratorially. "I find that a short delay in the proceedings gets them talking amongst themselves and sparks their competitive natures. Good for prices." The smile gets even wider, if that's possible.</DefaultText>
+      <FemaleText>"You catch me in the midst of an auction, madam, but no need to beg pardon, my clients will wait." He leans forward, conspiratorially. "I find that a short delay in the proceedings gets them talking amongst themselves and sparks their competitive natures. Good for prices." The smile gets even wider, if that's possible.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Why would I want a slave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What are my options?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I think I'm in the wrong place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What you're doing here is wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Flint blinks in surprise, but his smile doesn't falter. "To feed Maws, of course. Unless you're planning to let them feed on *you*, but I wouldn't advise that." The little man shudders dramatically to emphasize his point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Naturally, it helps to know what a Maw wants before you go buying a slave. Not much point in buying a slave who isn't appetizing to the Maw in question."
+
+Then he adds in a whisper, "You'd be surprised how many people make *that* mistake." Flint gives you a knowing wink, as if to emphasize the silliness of *those* people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Well!" Flint puffs himself up, which makes him look a good deal fatter, but not a bit taller. "I have all the major crimes represented here. Murder of course, that's a given. But also graft, assault, treason, burglary, and conspiracy to commit all of those crimes. The foulest sort of predators, that's my guarantee to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"They come with all manner of emotional disorders, if that's what you're seeking. I'll find you a slave who caters to the needs of your Maw, *whatever* it wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Nonsense! You're in exactly the *right* place, if you want to get anywhere in the Bloom. How do you expect to open a Maw if you don't have any *food*," he jabs an elbow in the direction of the slaves, "to provide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Now see here." Flint's smile vanishes. "We are not living in the dark days of Chila the Great. I do not sell these slaves into lives of hard labor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Indeed sir, for many of these wretched criminals, slavery is a chance for redemption. They are *glad* to offer themselves to the Bloom."</DefaultText>
+      <FemaleText>"Indeed madam, for many of these wretched criminals, slavery is a chance for redemption. They are *glad* to offer themselves to the Bloom."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So! Shall we conduct some business?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Rhin tugs urgently at your garment, and you glance down at her. "You have to buy one. Buy all of them, if you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Flint notices the little girl for the first time. "Ah! What a darling child you have there, and *smart* too! Are you looking forward to feeding your slaves to a Maw, my dear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Not for a Maw," Rhin whispers, ignoring the little man. "We have to set them *free*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText> "Now back to my clients..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Tell me again how slavery works in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText> Follow-up PQ. 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"In order to pay their debt to society, many choose Bloom-slavery instead of prison or execution. These individuals are given to me, and I sell them to the enterprising merchants who ply the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Usually my clients come to me with specific requirements. Every Maw has its own unique tastes, you see, and it won't open unless it gets precisely what it wants. So I offer an appropriate slave, and they *feed* that slave to the Maw. And everyone is happy." Flint grins, both rows of teeth shining whitely from inside his enormous mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The slaves *volunteer* to be eaten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Flint blinks, apparently taken aback. "They're desperate people! And being fed to the Bloom is *not* a death sentence. Well, not always."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sometimes the Bloom only devours certain aspects of a person, and they're entirely changed for the better. Or it takes a small, trivial part of them - an eye, or half a stomach, or their ability to feel love - and spits them out into another world, where they can start their lives anew." Flint beams at the thought of it all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Once a Maw feeds on a slave, that slave is free. That's the law, mind you. Unless the *murdens* get hold of you." Flint crinkles his nose in disgust. "They don't give a bird's turd about such things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"So these slaves are all criminals?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"How do you know what a Maw wants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Indeed? Ask them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Of varying sorts, yes. The more vicious, the better, at least as far as my clients are concerned." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Flint leans toward you again, his voice falling to a theatrical whisper. "The Bloom has a taste for the criminal element. Dangerous, predatory sorts of people draw its attention... sometimes for better, sometimes for worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ah, but that *is* the question. Sometimes you can puzzle it out on your own by *watching* the Maw... observing the behavior of its tongues." He wrinkles his nose. "A disgusting business altogether."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Better to ask someone who's been here for a long time. They're barking mad, most of them, but they have an uncanny sense of the Bloom's desires. Some of them claim to *hear* the voice of the Bloom in their minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Hearing the voice of the Bloom, ha!" Flint whistles and waggles his finger at his head. "That's when you *know* you're in trouble!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Flint's eyes light up. If his smile got any wider, it would tear itself off his face and go scampering away.
+
+"So you're a registered merchant, are you? Got all the proper documents, signed and stamped in all the right places?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Uhh... no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Sorry, I must have left them in my mansion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"We don't need official documents to make a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The upturned ends of Flint's mouth sag like deflated balloons. "Oh. Well that's terrible news. I'm afraid I can only do business with merchants who are registered at the Sagus Guild of Trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Suddenly Flint glances around in such an exaggerated caricature of stealth that you aren't sure whether he is serious. "On the other hand," he whispers, "perhaps we *can* make a deal... beneath the purview of the relevant authorities, as it were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Flint shakes his head sadly, in exactly the manner of a melodramatic actor. "Then I'm afraid we cannot do business. I am under strict regulations, enforced at the point of a blade, you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>One of Flint's eyebrows rises absurdly high. "Ridiculous!" he exclaims. "Of course I need official documentation - do you take me for a scofflaw, sir?"</DefaultText>
+      <FemaleText>One of Flint's eyebrows rises absurdly high. "Ridiculous!" he exclaims. "Of course I need official documentation - do you take me for a scofflaw, madam?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Suddenly Flint lowers his voice and leans toward you. "Sorry, have to keep up appearances. In truth, I would be *happy* to make a deal, so long as the relevant authorities are none the wiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The little man sighs in an exaggerated fashion. "So be it, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"One of my slaves is not attracting any buyers. He's a young fellow, fresh from the streets of Sagus, but I fear he's only a thief, not a murderer or a sadist at all. You can imagine how that's gone over with my clients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Since I cannot sell him in a legitimate manner, I am forced to go under the proverbial table. You may have him for a mere... oh... [Global: c4101_CotyPriceOriginal] shins. No returns, refunds, or restitution." Flint flashes a disturbingly wide and toothy grin.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Can I see the man first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Do you know how he ended up here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What about the other slaves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Certainly. He's just over there."
+
+Flint gestures toward one of the bedraggled slaves in the pit - a young man, well-built, with a surprisingly sober expression, given his condition. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Hrmm..." Flint produces a sheaf of papers from a voluminous pocket and shuffles through them, finally settling upon one. His eyes scan the page. "Let's see here. Third time arrested for thievery... minimal resistance to arresting levy..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Curious. Non-violent offenders aren't usually considered for Bloom-slavery, but he volunteered anyway. Some of them do, you know, if they're *running* from something. Or if they're barking mad."
+
+The little man shrugs, stuffing the papers back into his pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Not for sale. Not under any circumstances, I'm afraid." The little man shakes his head sorrowfully, and with such a regretful expression that you could *almost* believe he cares. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I am willing to bend the rules in the case of this one slave only. The Memovira will feed *me* to a Maw if I start selling all the slaves to unregistered clients. And I mean that quite literally." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"All right, I'll take him."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"No thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I don't have enough shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"A pity." Flint wipes his stubby hands together, as if washing them of the whole affair. "But I shall be happy to resume our discussion if you manage to claw your way out of penury." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"As you wish. But if you change your mind, my offer remains open - lying on the floor beneath the proverbial table, where we are forced to do business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Flint turns from his clients and greets you with a hopeful smile. His double rows of teeth glint unsettlingly in the murky light."You've come to make a purchase, have you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Flint turns from his clients, his smile apologetic, but unnaturally wide as ever. "I'm afraid I have no more illicit, under-the-table deals for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Where can I find a Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Out there." Flint waves a stubby hand toward the large opening on the far side of the chamber. "In the corners and crannies of the Bloom. Look for dark, shadowy places, surrounded by clusters of Bloom-tongues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I daresay you'll know a Maw when you see one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Dracogen told me that the Maws have been closing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Erm, yes, they are. Closing, disappearing, changing destinations, and behaving badly all around."
+
+Flint glances over at the guards, his smile faltering.  "That sort of thing is better to say in a *low* voice, preferably far away from the Memovira's lugs. Or they might get the idea that you're blaming *her* for the problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"And she *is* supposed to have some sort of influence over this giant sack of angry flesh, so who knows, maybe it *is* her fault. But I would never say such a thing." He smiles beatifically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"How do you know what a Maw wants again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Flint waves a stubby hand. "As I said, you ask around. Some of these destitute folk have been here for a long time, and they know what the local Maw wants. Others claim to hear the voice of the Bloom." The little man chuckles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Again?" Flint shrugs. "Very well. You'll recall that our slaves are convicts and criminals of the basest kind, culled from the streets of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Flint lowers his voice. "Allow me to offer a proposition, then. It is not entirely *legal*, you understand, but the Memovira permits me the occasional indiscretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Since you are not *legally* a merchant, I have only one slave available... the young fellow we discussed earlier. The price is [Global: c4101_CotyPriceOriginal] shins. No returns, refunds, or restitution."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I'll give you [Global: c4101_CotyPriceSuperCheap]. That slave isn't a hardened criminal - nobody is going to give you a better offer."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Hrm. You have a professional manner about you, sir, and *that* I like. I will accept *[Global: c4101_CotyPriceCheap]* shins, and not a single shin less. Moreover," Flint draws himself up, "this offer is conditional upon your immediate acceptance. Walk away from it now, and it's gone for good."
+
+{MONEY}</DefaultText>
+      <FemaleText>"Hrm. You have a professional manner about you, madam, and *that* I like. I will accept *[Global: c4101_CotyPriceCheap]* shins, and not a single shin less. Moreover," Flint draws himself up, "this offer is conditional upon your immediate acceptance. Walk away from it now, and it's gone for good."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Eventually someone might. There are Maws that only want blood, you know, and they don't care *who* they eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Something like surprise - or maybe even pride - ripples across the little man's face. Flint straightens, and his features seem softer and brighter. For the first time, his smile seems genuine.
+
+"All right," he says quietly. "[Global: c4101_CotyPriceSuperCheap] shins it is. But that offer is conditional upon your *immediate* acceptance. Walk away from this deal, sir, and it is gone for good."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I don't think that's what you really want. Underneath all that bluster, you believe you're *helping* these people. You're giving them a second chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Fine. I'll pay [Global: c4101_CotyPriceOriginal]."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Done. I'll pay [Global: c4101_CotyPriceSuperCheap]."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Done. I'll pay [Global: c4101_CotyPriceCheap]."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Very good! Very good indeed!" Flint grabs your hand with both of his, shakes it vigorously, and gathers up your shins, shoving them into various pockets and purses. Then he shakes your hands again - both of them, this time. "And the deal is struck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Your property shall be extricated from the pit momentarily. I believe his name is Coty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"A great pleasure doing business!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Flint spreads his hands. "So be it. The deal is off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bank 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"What are you exactly? An auctioneer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"So... basically you're an auctioneer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Indeed not, sir! I am a public servant. My work is *indispensable* to the fair city of Sagus Cliffs."</DefaultText>
+      <FemaleText>"Indeed not, madam! I am a public servant. My work is *indispensable* to the fair city of Sagus Cliffs."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I help these unfortunate wretches," he gestures at the slaves in the pit, "pay their debt to society, as it were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Flint bristles, but he keeps smiling. "As I *said*, I am a public servant, sir. If not for my work, the criminal elements of Sagus Cliffs would have no choice but to rot in prison or die by the axe, as in the days of our uncivilized ancestors."</DefaultText>
+      <FemaleText>Flint bristles, but he keeps smiling. "As I *said*, I am a public servant, madam. If not for my work, the criminal elements of Sagus Cliffs would have no choice but to rot in prison or die by the axe, as in the days of our uncivilized ancestors."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Flint's smile appears to be struggling to stay in place. "Public *servant*... *not* an auctioneer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Instead of prison or execution, they have chosen a sentence of Bloom-slavery. I sell the poor wretches to my distinguished clients, who use them to open Maws. To be precise, my clients *feed* them to a Maw, and if its hunger is satisfied, the Maw opens."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Bank 130</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I still can't believe that a slave would volunteer to be eaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Look at it from *their* point of view. They're choosing between life in the dungeons - or worse, execution - and a chance at redemption. Oh, I know it's a roll of the proverbial dice... but a Maw won't *always* kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"It's my responsibility to sell him to a *legal* buyer. We are already in questionable territory, sir - invoking the law to support your case is hardly appropriate."
+
+Flint's smile grows a bit wider. "Indeed, I shall entertain no further haggling on the matter. My offer is a fair one, considering that a man's *fate* is at stake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"You claim to be a public servant, acting for the good of Sagus Cliffs. It's your *responsibility* to sell that man to a willing buyer, is it not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"No, but I'm sure you've heard my name. I have plenty of friends in Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Flint shakes his head firmly. "Despite my worldly demeanor, I know little of what goes on outside the Bloom. You seem a respectable sort, I will admit, but *official* business requires the proper documentation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Parsim Flint is my name, and the disbursement of so-called 'slaves' to so-called 'owners' - for the betterment of both parties - is my trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"'Lo, Flint. Still dealing in human misery, I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Listen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Quiet, Tybir. I'm trying to talk to this man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Flint smirks to see Tybir put in his place this way, then turns back to you. "So, straight to business then. What sort of slave are you looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Why if it isn't old Tybir, and another school of fish on the hook, eh? Watch out for this one, friends. He couldn't play it straight on a tightrope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"That's nice, coming from a swindler like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>He winks at you. "Never mind that 'school of fish' line, lad. We're only pulling each other's legs."</DefaultText>
+      <FemaleText>He winks at you. "Never mind that 'school of fish' line, lass. We're only pulling each other's legs."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Are we? Doesn't matter. Any friend of Tybir's is a welcome customer of mine." He raises his eyebrows expectantly. "What sort of slave are you looking for?"  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I don't have enough shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I don't have enough shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I spoke to a construct near the slave pit. It says you refuse to do business with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Eh? What construct?" Flint turns and peers toward the slave pit. Then his eyes narrow, and his enormous mouth twists like a serpent. "That is no mere construct, I assure you. It was once a creature of flesh and blood, like you and me... and it will be again, if it fills its 'quota.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He lowers his voice. "I presume you saw the withered *head* in the middle of its chest? Well, they say that those creatures are always on the prowl for young men and women of unusual beauty. When they acquire such people, they spirit them away, slice off their heads, and replace them with their own. A ghoulish practice, but it allows them to live as humans for a time." 
+
+Flint shudders, "That is not the sort of business we do *here*." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>His mouth turns in an enormous frown. "You, sir, are too perceptive for my own good. Very well, I will accept [Global: c4101_CotyPriceCheap] shins for the boy. Moreover," Flint draws himself up, "this offer is conditional upon your immediate acceptance. Walk away from it now, and it's gone for good."
+
+{MONEY}</DefaultText>
+      <FemaleText>His mouth turns in an enormous frown. "You, madam, are too perceptive for my own good. Very well, I will accept [Global: c4101_CotyPriceCheap] shins for the boy. Moreover," Flint draws himself up, "this offer is conditional upon your immediate acceptance. Walk away from it now, and it's gone for good."
+
+{MONEY}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You know very little of my business then, sir. There are a wealth of Maws and a wealth of customers. I'll find a buyer eventually. My original offer stands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[DEBUG] Test Coty being purchased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Next to you, Rhin is bouncing on the balls of her feet, doing a poor job of containing her smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"What is a Maw, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Maws are the mouths of the Bloom, my friend. Sometimes they lead to other worlds... or to hidden pockets elsewhere in the Bloom. One never knows! But that's part of the fun, you see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>She leans in to you. "These slaves are lucky, frankly. Consignments of the condemned have been known to go missing... usually when vivisectionists are flush with shins and require more advanced subjects than mere animals. This is practically humane."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

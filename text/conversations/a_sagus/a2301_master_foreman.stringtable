@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_master_foreman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>149</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You're back," the frozen construct says, glaring down at you. "We don't train novices here. Why are you here? What do you want? Out with it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Show him the crystal fragment from the resonance chamber and ask him if he can fix it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hmm," it says, scanning the shard. "Micro-fissures saturated with organic fluid. This device of yours is alive. Replacement crystals need to be grown, not made."
+
+The construct eye-light swivels from you, leaving you and the shard in the dark. "Can't help you more than that. Growing crystals isn't my business, but those ruin-diggers in the Order of Truth might be able to tell you more. You'll find them in Government Square, up the ladder to my left. Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The construct looms over you, frozen in mid-step. Its heavy limbs and barreled body have been recently polished by careful hands, but the joints themselves are completely fused. This creature hasn't moved in a long time. 
+
+It studies you with eyes made of swirling orange fire. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Late for your first shift, Synthsmith," it growls. "Grab a station and a hammer, and damn well get to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Yes, yes. Stay clear of the forge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText> Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You can't move, can you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"No, and I don't need to." it says, eyes flashing. A passing worker gives you a *look* for triggering what is apparently a familiar story.
+
+"Once, we Foremen were the tools of the Cartographers and Their vast web of machine intelligences. Submerged in the Song of Their will, we worked with thoughtless joy." Its voice is soft, tinged with synthetic awe.
+
+"Then, one day, the song fell silent and our bodies froze where they stand even now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I am the Master Foreman. Formerly a mindless servant of the wise Cartographers and now the architect behind this city of wonders."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Some of us lost our faith in those first few centuries," it growls. "Some of us thought the Cartographers were punishing us - or had abandoned us. Only I saw Their absence for what it was." 
+
+His words grow hoarse. "It was a gift. A gift of *free will*. We were Their tools no longer. We were our own masters, freed from the chains of thoughtless motion, free to imagine our future. And so we did, for millennia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText> Follow-up PQ. 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about the other constructs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What differentiates you from the other constructs again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText> Follow-up PQ. 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm pretty handy with machines. Want me to try repairing you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Keep your hands off me!" the construct snaps. "If I wanted to be repaired - to defy the will of the Cartographers - I would have had your ancestors do it centuries ago. Have some sense!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Who were these Cartographers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"These gods of yours seem cruel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Both of the lives you describe would have driven me mad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We don't know," it admits. "The most we know of Them is Their names in the Code, and the vessels we were building for Them that They never claimed. Our creation came at Their order, but we have never known Their faces. Only Their Song."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Only to those without the will to find their own path," it says severely. "Is the master cruel for leaving his apprentice to work the forge on his own? Of course not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Of course it would," it says calmly. "You are human and built to fail. Even the other Foremen have fallen to varying degrees beneath the crushing weight of Time and the absence of our creators."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"While the others dithered and wailed, I bent my mind to the future," it continues. "I analyzed the work we had done for the Cartographers. To my shame, I found *flaws* in the processes. I removed them." 
+
+Its eyes burn brighter. "For the next cluster of centuries, I studied the vast catalogue of known technology and numenera in my mind and strung them together, creating new inventions for the day when the Cartographers returned and reactivated us."
+
+He sighs. "But that day never came."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"But humans eventually did?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Do you think your Cartographers will ever return?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"These 'gods' of yours shut you down, plain and simple. They just forgot to flip the last switch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Yes. And though you are flawed and fragile, you made perfect tools. Just as we had once been. Your people found us, and the era of my greatest work began."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I despise sentimentality," it says, "but I can't abandon the wretched *hope* that They will return for us once we show we have broken the bounds They placed on us. And yet, I am a being of logic, and I have doubts."
+
+It clears its throat. "At any rate, I would have tinkered with my thoughts in the dark forever if the humans hadn't eventually found us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You were wrong then, and you are wrong now," the Master Foreman says, managing to sound as if he's speaking through gritted teeth. "Because the humans found us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"They asked us to help them raise this city until it cast all others in shadow. To cobble their artifacts and their trinkets into grand devices that would power every corner and make them safe from their enemies. And I told them..."  It coughs, as if holding back tears. 
+
+"I told them I had a plan. You see the fruit of our mighty effort all around you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I notice that you haven't spoken much about the third Foreman... the one with no legs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What's wrong with the Crippled Foreman again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Hah! There's a reason for that. I focus my intellect on the design of everything from useful devices to structures that will last a thousand generations!"
+
+It sniffs. "The Master Artisan contributes at least, even if it *prefers* focusing on delicately etched flowers. Base aesthetics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"It seeks to create offspring," the construct says. "I have no idea why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"And a good thing too," calls Artisan. "Otherwise Sagus would look like a stack of unpolished metal cubes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"At first, the third one in our little group helped with the great endeavor. Our workers scavenged pipes from the ruins beneath the city, harnessed the power in the Cartographer vessels, and redirected it throughout Sagus Cliffs. But in the centuries since, the... other Foreman has grown doubtful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText> Follow-up PQ. 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You don't seem to respect your human workers very much."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What's your problem with your human workers again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Not useful doubt, mind you. Not the kind that leads to more efficient designs and processes. No, the other Foreman has *existential* doubt. It wonders *why* we are alive. As if we actually are. And it has become obsessed with the idea of producing *offspring* to the point of dismantling itself to do so."
+
+He snorts. "Sentimental drivel, bordering on perversion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Beauty is just as important as function, if not more so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I... might prefer that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"So I've heard," the construct mutters. "But 'beauty' doesn't keep a city safe. Or structurally sound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"So would I," the construct says, and lowers its voice. "Though I'm not against an arch or two. Very structurally sound, an arch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Wrong. I pay them well and design safety measures to lower the acceptable worker loss threshold. I treat them better than they deserve." One of the passing workers rolls his eyes.
+
+"They're lazy. They demand time for sleeping, eating, fornicating, and excreting, and they refuse to tell me when each activity occurs. They are *disorganized*. I would replace them with automatons in a second if I had the proper materials."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"They are inefficient and useless to me when they die. They go *soft*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"'Of some kind'," the construct repeats scornfully. "We make grand machines here, not *shovels*."
+
+Its eyes burn. "I will build you a digging construct if you source the necessary parts. Find me a crpse that's more durable than the one you humans leave behind, and I'll have my Fetchers pick it up." 
+{JOURNAL: The Master Foreman is looking for Sticha corpses.}
+{SCRIPT: Hiding this node for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText> Follow-up PQ. 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I need advice on repairing a crystalline device in the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Let's talk about that broken device in the Reef again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Consultation, eh? Tell you what. Bring me a piece of the device to examine, and I'll count the examination as payment for advice rendered. Deal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Yes, yes. Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Show the crystal shard to the Master Foreman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I don't have a piece of the device on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I want to talk about something else for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Well, go find one. I don't hazard guesses. I analyze, design, and execute!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Yes? Fine. Get on with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Bank 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Can't you send one of your workers down to the Reef?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Are you sure you can't send one of your workers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"No. I need the Fetchers ready to act," it says. "And I'm not sending a synthsmith. They'll get lost in the first bar they run across."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Can't spare the lost work. We're on a schedule!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The construct's flickering eyes become a bonfire.
+
+"Fetchers," it roars. "Artificers! Report to Supervisor for a new project!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I found a stichus corpse in a dead-end tunnel on the far side of the Underbelly. Will that work for a digging construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Hours later, the workers trudge back. The supervisor makes a complicated hand-sign to the Master Foreman.
+
+"Limited success," the construct grumbles. "The design needs more work, clearly."
+
+Its eyes dim as it descends into deeper thought. "The automaton is where you left it. Keep it if you want. The creature is *useless* to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I may have some business for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Let's talk business again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You need work done? If it can be built, fixed, or solved, you've come to the right place," the construct says. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Glad to. Out with it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Actually, I don't need any help from you right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Fine. Are we done here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'm trying to reach the lair of the sticha. Can you build me a digging construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What do you need in order to build me a digging construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Yes," the Master Foreman declares, glowing eyes scanning the ceiling. "Stockers! Bring me the war machine casing from Z-19, the intelligence nexus from B-2, and the scouring claws from my personal collection!"
+
+It lowers its eyes to you. "Now, let's talk payment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Find an intact stichus corpse. No mutations if possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Stockers, stand by!" the Master Foreman shouts.
+
+"Artisan's not wrong," it says in a much lower voice. "For once. That might be more construct than you need. Give me a moment."
+
+The eyes wink out for several seconds. Engines embedded in the construct's chest roar. Then, the eyes reignite. "Find me the intact corpse of a stichus. We can reinforce the carapace and recover the spatial memory system if it's not too far gone. Should lead you straight to its lair. And since you're supplying the materials, I'll waive the cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Will the corpse of an outcast stichus meet your needs for a digging construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Hmm. No. The vermin only cast out inferior strains. This corpse of yours probably has weak claws. Frail chitin. I can't spare the Fetchers for inferior specimens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Can't spend much more time chatting," it says, but lowers its voice. "You've shown an interest in us, and I appreciate that. The truth is that there are no other Foremen. Not really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Willpower. A purity of purpose. Authority and a gift for leadership."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Yes, there are!" the Master Artisan bellows cheerfully from across the manufactory. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"No! There! Aren't!" the Master Foreman shouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Do you two always bicker like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Remain silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"The *Artisan* is a weaker mind, tarnished by our long years in the dark," it says. "It does nothing but ridicule my great work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"The truth is that we were once a single mind. But when the Cartographers left us, our minds settled into different containers. Pools, if you will. And while theirs grew stagnant and self-indulgent, mine remained clean. Untainted. Pure."
+
+Ignoring the snort from the distant Artisan, the Master Foreman continues. "While the years poured past, I felt the slow ruin of the city the Cartographers had left behind. It *haunted* me. And so, I vowed to undo the damage that time had done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I'm looking for an albino woman named Matkina. Have you seen her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Hmm. Yes," the construct says. "She wanted us to repair her temporal manipulation device. Planned on fiddling around in her past, no doubt. I don't recommend it, but it's not my business if people want to tangle reality."
+
+You suddenly feel dizzy. Unaware, the construct carries on. 
+
+"Nothing was wrong with her artifact. Probably meant that there was something wrong with *her*. But again, that's none of my business." 
+
+You blink, swaying, and open your eyes on a different time. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The Underbelly is not yet what it will become. The three Foremen are dim shapes in a wavering hemisphere of light. The air is thick with dust, and the great engines beyond are cold and silent. 
+
+True to its nature, the Master Foreman is lecturing you. 
+
+"No," the construct says. "What matters is that it *can* be done. *Should* doesn't matter. *Should* is a waste of everyone's time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Except if you've come on *her* behalf," it says. Matkina stirs beside you. "I told her before that her device is not broken. The fault lies in her."
+
+The construct rumbles in its chest. "I might also warn against fiddling with a device that can tangle reality. But you know your business, I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>""
+{GAVIN: Add after 1E. Optional clue about clock. Blank global in for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I haven't forgotten," Matkina murmurs, but you barely hear her. A memory is reaching out for you, and pulling you away to a different time...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Are you fainting?" the Master Foreman - the present one - says suspiciously. "No fainting allowed on the manufactory floor. We can't have workers tripping over you and toppling into forges. We'll miss deadlines."
+
+You open your eyes and the memory collapses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Do you call all your workers by their position?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Get to work!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I'm not one of your workers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"It saves time. You workers break so easily. Or die. Or *retire*." It saves all the distaste in its repertoire for the last word. "Now, get to work!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Supervisor tells me you're not the synthsmith he hired, but I gave you some work to do, and you damn well got to it. I respect that, but we only take on experienced synthsmiths here."
+
+Its fiery eyes flare. "Now, I don't want you thinking we let people work for free. I had the Supervisor leave you some shins for that hour of work. Take it."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You're not? Good, because I was going to have you fired at the end of the day anyway. What do you want? Why are you here? Spit it out!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Now, why are you *actually* here? Out with it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"And then we got over it," calls the distant construct. "Unlike some."
+
+The Master Foreman growls under its breath. So to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Oh, you're finding your own path, are you?" the distant construct shouts, hooting with laughter. "How are you planning on getting there? Is someone going to carry you?"
+
+The Master Foreman growls under its breath. So to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"That's what I said!" calls the distant construct, delighted. "Right after it happened. Give or take a few decades." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Don't listen to any of that," calls the distant construct. "All of us were involved. If it were up to Master Efficiency over there, we would have bolted wheels to the workers' feet and put them on rails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Make sure you include the costs of repairing the damage done by unleashing an insane war machine with molten claws on the city," the distant Artisan calls. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Oh, it's *you*," it growls. "The human that helped the Under-Foreman abandon its post. Little loss, I'd say. Not much impact on the schedule. But try not to kill any more of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Have you seen any Dendra O'Hur in the manufactory lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Where did you see that Dendra O'Hur cultist again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"What does that have to do with anything?" the construct roars. "Am I supposed to take stock of every human that stumbles aimlessly across my floor?" 
+
+It pauses, its too-bright eyes scanning the ceiling. "Ah. Yes, I did see one, as a matter of fact. A large male was lounging under one of the pipes, drinking and *slobbering* on himself. Then," it continues, in tones of deep disgust, "he *slept* right through all that shrieking about a murder. Barely even woke up to vomit on himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Under a pipe in my manufactory," the construct growls. "Blubbering and vomiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>After an hour of work, the Master Foreman bellows you back over. You go, stretching your aching arms. They feel somewhat stronger than before.
+{SOUND: Hammer striking anvil during blackout.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Can you tell me anything about the diagram on this puzzle box?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Who should I speak to about this puzzle box again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What?" barks the construct, shifting its baleful eyes to the cube in your palm. "Hah! You've mistaken me for an expert on fripperies. Speak to the Master Artisan, not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"The Master Artisan loves wasting its time on inconsequential geegaws. I have a manufactory to run!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>As with the other construct, you feel the bubbling sensation in your mind. This construct's thoughts are likewise unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>You feel a bubbling sensation in your  mind. It must be the construct's surface thoughts, but they are too quick and alien for you to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>You feel a bubbling sensation in your  mind. It must be the construct's surface thoughts, but they are too quick and alien for you to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Script Node 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Script Node 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Stockers! Reset the staging doors!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Synthsmiths! Report to the Lower Manufactory!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Light the bracing furnace!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Fetchers! The synthsmiths need more ore!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Raise the engines!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Cleaners! Check the steam vents!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Hours later, the workers trudge back. The supervisor makes a complicated hand-sign to the Master Foreman.
+
+"You'll find the construct where you left it, ready for use," the construct grumbles. "I should have asked you for pay after all. Supervisor says it's a masterpiece."
+
+Its eyes dim as it descends into deeper thought. "But no. A deal's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Bank 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I need to get to an underground location. Can you make me a digging device of some kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"What do you need to build a digging construct again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Why are you so loud?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Maybe you haven't noticed," the construct says sourly, "but it's noisy down here. A foreman who doesn't shout can't be heard. This is the volume of leadership!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You're going to help me for free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"A short consultation isn't worth the cost of an invoice. Bring the shard or don't. I'm busy here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Fused, not bolted. Fused!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I am the Master Foreman," the construct declares. Its tone puts you in mind of someone speaking while saluting. "The mind *and* the will behind the city you see today."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

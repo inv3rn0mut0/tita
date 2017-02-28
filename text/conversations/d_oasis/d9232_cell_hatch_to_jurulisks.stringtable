@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d9232_cell_hatch_to_jurulisks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Try to ascertain what's causing the sensation.
+
+{SCRIPT: Use Intelligent Interface ability, which costs 3 Intellect minus player's Intellect Edge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Contact the Demon again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Listen at the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A strange creaking comes through the air-exchange vent, a sound similar to ice on a frozen pond. You can also make out the buzz of some device, probably in the walls, but connected to this cell.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Three indigo rectangles form a line above the tiny air-exchange vent in the center of this sealed hatch. Years of salt have stained its edges.
+
+The tingling sensation returns as you approach it, thrumming against the back of your neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Three indigo rectangles form a line above the tiny air-exchange vent in the center of this sealed hatch. Years of salt have stained its edges.
+
+Your neck prickles, as if something were gently drilling a hole in the base of your skull. You can't tell whether you are feeling a sound, or hearing a touch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A ::click:: vibrates your being, and reality loses all form, becoming an endless murmur, as if a million hushed conversations were going on around you. With some effort, you're able to distinguish individual voices - the intelligences that operate the Menagerie, all talking at once.
+
+One of them is very different from the others. It stands apart, exerting a pull that becoms irresistable once the weight of its notice falls on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Jurulisks are thought to be one-dimensional beings, merged into a form compatible with this universe. They absorb energy to maintain themselves, either from living things or power sources.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Try to break through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>One good slam is enough to convince you not to try another. Mazzof probably still needs his bones, and this door would break them all before it opened.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_the_newborn_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Newborn Maw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Open the Newborn Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Gar-koto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Paid For Your Efforts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Price of Freedom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find out what the Newborn Maw wants to eat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Pro Bono</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Prison Was Better</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Enter the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Entered Endgame (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A new Maw has appeared in Little Nihliesh. Gar-koto is offering a reward to the first person who opens the Maw and tells him what lies in the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I've learned that the newborn Maw feeds on guilt. I'll have to find someone or something that feels a powerful sense of guilt and offer them to the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>On the far side of the Maw, I found myself inside a highly advanced, artificial structure - some kind of terminal or port. The technology was far beyond the capacity of anything in the Ninth World.  I should report my findings to Gar-koto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Gar-koto was disappointed that the Maw didn't lead back to his home city of Nihliesh, but he still rewarded me for my efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Gar-koto was disappointed that the Maw didn't lead back to his home city of Nihliesh. As a reward for my efforts, I asked him to release the warrior woman, Herja, and he reluctantly agreed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Every Maw hungers for something in particular, and it will only open after it's been fed. If I want to open the newborn Maw, I'll need to discover what it wants to eat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Gar-koto was disappointed that the Maw didn't lead back to his home city of Nihliesh, but he still offered me my choice of rewards. I refused to accept any payment, which surprised and impressed him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Gar-koto was disappointed that the Maw didn't lead back to his home city of Nihliesh. As a reward for my efforts, I asked him to release Herja into the custody of the Decanted, and he agreed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I've opened the Maw, but I still need to find out what's on the other side. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. With no idea when or if I'll be able to return to the Bloom, it looks like Gar-koto will have to find someone else to explore what lies on the other side of the new Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The Maw's tongues were drawn to Aligern, who seems to carry a great deal of guilt. However, I doubt he'd offer himself to the Maw unless I can convince him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Coty, the young slave I purchased from Parsim Flint, feels terrible guilt about the death of his sister... probably enough to feed the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Herja, a warrior I met in Little Nihliesh, has been imprisoned for trying to poison a whole community of mutants. She claims to feel no remorse, but if she's lying, the Maw might draw out her guilt. I'll need Gar-koto's permission if I want to try this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>The machine intelligence I met aboard the crashed catena is afflicted by guilt over the death of its passengers. It might be enough to feed the Maw... if I can find a way to get it there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>The Maw's tongues were drawn to Aligern. Perhaps I can find out why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Gar-koto has given me permission to release Herja... on the condition that she offers herself to the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Delny, the young mutant woman who I freed from Vrung, is a psychic with strong empathic abilities. She might be able to sense what the Maw wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_specter_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hello? Oh, skist. You're dead, aren't you? {muttering to himself}No, that can't be right. If he were dead, I would be too. {beat}Can you hear me?"</DefaultText>
+      <FemaleText>"Hello? Oh, skist. You're dead, aren't you? {muttering to himself}No, that can't be right. If she were dead, I would be too. {beat}Can you hear me?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I can't hear anything. Are you even there? Well, if you can hear me, it means you're still alive. {muttering to himself}But you'd already know that, wouldn't you? {louder, to the PC}Look, I'm just going to assume we're both alive and want to stay that way, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"So here's what you have to do. I can't get to you, so you need to build a way up to me... I don't know how you're going to do that. I mean, this is your mind. It's not like I have a map."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah! This is *your* mind! I bet your memories are down there. Find them, and you'll repair the path up to where I am. {beat} Are... are you there? Ugh, I'm talking to myself here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What was that? I can't tell what's real here. Look, build a path *up*. Then we can face this mess together, and you won't be alone. *I* won't be alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hello? Are you still alive down there? We're up here. Build a path up to us and *be careful*." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

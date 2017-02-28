@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6051_specterfathom_endgame_corpse_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This ghostly corpse is the man you met earlier - the father of the ghostly woman, the one who had activated the machine that created copies of her. But why is it here?
+
+Something catches your eye within the corpse - a dark mass, filled with tiny points of brilliant light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You don't recognize this ghostly corpse, although it looks familiar - then again, *everything* looks familiar here.
+
+Something catches your eye within the corpse - a dark mass, filled with tiny points of brilliant light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Pick up the dark mass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The ghostly corpse offers no resistance as you reach inside it. The mass feels like nothing more than a pocket of warm air, but you are able to lift it out of the corpse and put it in your pack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The ghostly corpse has nothing more to offer you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

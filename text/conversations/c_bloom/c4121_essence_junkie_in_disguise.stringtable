@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4121_essence_junkie_in_disguise</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The cultist nods to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hey, you look familiar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave him to his duties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The cultist says he's never seen you before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The Cultist says the Bloom blesses you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Attempt to pull back his hood and get a look at his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You manage to pull back the cultist's hood, revealing none other than the essence junkie from the Slump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Your clumsy attempt to pull back the cultist's hood causes him to utter a muffled curse, and he bolts for the door.
+
+{SCRIPT:  Need to make him run for the door.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You easily manage to pull back the cultist's hood, revealing none other than the essence junkie from the Slump. Additionally, you accidentally grab a cypher he had clipped to the edge of the hood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Your clumsy attempt to pull back the cultist's hood sends you careening into him, and he bolts for the door, but not before lightening your purse a little.
+
+{SCRIPT:  Need to make him run for the door.}
+
+{SCRIPT:  Need to make this guy steal some of the party's money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

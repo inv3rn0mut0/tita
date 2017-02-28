@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_dracogen_intro_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>133</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>He studies you briefly, his eyes roving across your body with practiced ease. "Do you have questions? Perhaps I can answer them for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"How did I get here? All I did was touch the feretory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"What were those voices?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I have business to take care of. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Don't be so hasty, my friend. I understand business, and unless I miss my guess, our interests coincide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"The Bloom is a living creature, with a reach across dimensions. Its consciousness - if I may use that term - is unlike anything we know. So unless I miss my guess, what you heard were some of the many voices of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I trade in information, favors, and numenera, and it so happens I know about you and your kind. You're a castoff of the Changing God, an old acquaintance of mine. Indeed, I have known a number of your brethren. I even know about Miel Avest, your secret refuge. So ask. Ask, and I will do what I can to provide an answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Why do you think I'm a castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Why do you think I'm searching for Merecasters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Who is the Memovira, and why would I need an introduction to her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"What do you know about castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Tell me about the item you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I once had claim to an artifact, but it was spirited away to a place called the Ascension of Kex-Lianish - a realm of crystalline beauty. I need that artifact back. It's called the Magmatic Annulet, a circlet of dark, hyaline material. It is of great interest to me. *Great* interest. I believe that you may be uniquely suited to retrieve it."
+
+He bows. "Find it, bring it to me, and I guarantee you an audience with the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>He looks pointedly at your tattoo. "I'm hardly an idiot. Your tattoo gives you away, at least to one who knows of your kind. As I do. I have dealt with your siblings before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I have met your sire. I know that he makes and discards you. I know that the Sorrow pursues the Changing God and destroys his castoffs as a consequence." He smiles. "I know more, but my trade is information. We'll speak more of what I know later, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"What's a Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"What is this? What new treasure is here for me to find?" a friendly voice booms. Opening your bleary eyes, you see an earnest, gray-skinned non-human with a toothy smile. He is tall and wide across the shoulders and exudes great strength. His hands terminate in long claws. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText> Addend. 201</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"But where are my manners? My name is Dracogen, and you are in the Bloom, though I dare say you didn't expect to arrive here quite like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>His voice is warm and welcoming, but there is something about his tone that suggests something more predatory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"What do you imagine I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"How do I get to this Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Follow the caravan road to the Trade Post. You'll find a Maw there, and it will take you to the Ascension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Remember - the Magmatic Annulet from the Ascension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"What if I decline?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>He shrugs. "You won't get into the Memovira's fortress, and most likely you'll be devoured by the Bloom, with nothing left of you but memories of what could have been. But as with all things, this is your choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>He gestures toward the large, open chamber behind him. "Ask around. You'll find that I trade fairly. You'll also find that I brook no deceit." He stifles a yawn. "But I have other business to attend to. If you wish to gain access to the Memovira, you had best go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"You don't remember? A pity. It must have been something to experience. If you'd come down from the Memovira's fortress or along one of the roadways, you'd know the path you took. The pathways of the Bloom are strange, and not all its roads are pleasant." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"A Maw is one of the many mouths of the Bloom, reaching its tendrils through the dimensions. Some enterprising individuals travel these tendrils, exploring new worlds and bringing back strange and wondrous items for trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>He swells with momentary pride. "I am Dracogen. I'm the man who can find what you need, even if you don't know you need it. I deal in information, and I pay those who work for me handsomely. Ask anyone here, and they'll tell you I trade fairly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Most castoffs prefer not to come to the Bloom. It is a great predator, you know, and something about the psychic energies of your kind seems to have a great appeal to it. Perhaps some residue of your sire's life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>He glances sidelong at Riastrad. "Though some, of course, have no choice. Even if they cannot overcome their fears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>He gives Matkina a slight ironic bow. "Matkina is an exception, of course, for she has had some extensive experience here. Milady, I have not seen your face in some time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Bank 222</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>He shakes his head. "No, there is little here for you but the three Merecasters your brethren hid away in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"You might find other Merecasters throughout the great beast, but the devices your compatriots hid away... those require the participation of the Memovira - and me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Your compatriots in Miel Avest wanted to keep the Merecasters away from the Sorrow, and what better place to do it than the Bloom? As a hyperdimensional creature of incredible psychic energy, it's completely capable of holding the Sorrow at bay. For a time, anyway. I arranged a meeting with the Memovira, who was eager for the influx of funds, and she agreed to lock the Merecasters away." He stops speaking for a moment. "You will have some work in retrieving them from her, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"A hard, ruthless woman. She holds control of the Bloom because it favors her. She uses this advantage to dominate the trade routes and control access to the Maws that lead to other worlds. But the Maws are closing, and thus her funds are dwindling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>He glances at Matkina. "I believe your friend here can tell you more about her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>He spares a glance for Riastrad. "Could your friend speak, he might have some words as well."
+
+{COLIN: Same comment as the other cascade node: (1) This node might not flow as well if Matkina's node also plays and (2) could these be an addendum rather than three separate cascaded nodes?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Bank 232</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Dracogen smiles thinly and inclines his head. "I hoped you might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I agree to your terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>He points to the passage leading away from the courtyard. "Follow the caravan route to the Trade Post. You'll find a Maw there, and it will take you to the Ascension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText> Addend. 237</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Bank 238</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>
+He points to the passage leading away from the courtyard. "Follow the caravan route to the Trade Post. You'll find a Maw there, and it will take you to the Ascension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"And I see you travel with Tybir. Watch your purse, and watch your back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>He whispers in your ear. "Don't do it, lad. He's never friendly 'less he wants something from you. And you *do not* want him to want anything from you."
+
+{TYBIR}</DefaultText>
+      <FemaleText>He whispers in your ear. "Don't do it, lass. He's never friendly 'less he wants something from you. And you *do not* want him to want anything from you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"You could also ask your friend Tybir there what happens to those who try to cross me. But I don't think that a relationship starts best with threats. We should work from a common interest - perhaps you can do something for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"You might also ask them what happens to those who try to cross me. But I don't think that a relationship starts best with threats. We should work from a common interest - perhaps you can do something for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>He flinches back, and manages a weak smile. "Crossing Dracogen. A bad idea, yes."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>He squawks. "What? Don't listen to him! I would never steal from my friends! Never!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>He groans. "Make no deal, lad. Getting cross-ways with Dracogen is a quick way to an early grave. And it don't matter if you're on the up and up or not. One honest mistake, a simple misunderstanding of the terms of the agreement, and you're vanished. Walk away, boy. Walk away."
+
+{TYBIR}</DefaultText>
+      <FemaleText>He groans. "Make no deal, lass. Getting cross-ways with Dracogen is a quick way to an early grave. And it don't matter if you're on the up and up or not. One honest mistake, a simple misunderstanding of the terms of the agreement, and you're vanished. Walk away, girl. Walk away."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>He massages his temples. "Moon of Strife. You little fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>He studies you briefly, his eyes roving across your body with practiced ease. "The cast of your face tells me you have questions. Let me answer them for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I trade in information, favors, and numenera. It so happens that I'm looking for one item in particular right now - something that I think you, as a castoff of the Changing God,  might be uniquely suited to find. For your help, I'll trade you a Merecaster, *and* I'll arrange an introduction to the Memovira, who rules this place. Her gates may be locked to others... but they are not necessarily locked to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"I am not a courier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>He smiles, his sharp teeth glinting. "Be that as it may, you'll listen to this. It's the only way you'll get what you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Tybir! Old friend!" The tone of his voice is avuncular, his smile wide. "How *are* you?"
+
+He holds up a finger. "Actually, we should wait a moment to catch up. I must first engage your compatriot. I have some pressing business that simply cannot wait. I'm sure you'll understand."
+
+He turns back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I really couldn't say," Dracogen says, all concern. "He found me through that ring you gave me in reparation for the *incident*. I had turned it off, and he came running, assuming you were dead." A gentle smile creases his face. 
+
+"I told him I would help him find you in exchange for his services." He arches an eyebrow. "But then, he vanished. Frankly, I had assumed that Auvigne found you and reneged on our deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Tybir, who's Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"We don't really have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I haven't seen him in years," Tybir manages at last, staring at Dracogen with a mixture of fear... and helpless rage. "How do you know him?" His fist clenches. "Where *is* he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Auvigne would never do that!" Tybir says hotly, then flushes. "He's... he's a man of his word, and... well, you have to admit that you *do* have a fearsome reputation, and Auvigne wouldn't want to cross you. As I was telling my friend here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>He taps his chin. "This does present a problem, then. Auvigne pledged a year of service to me for certain services, and... well, now he's vanished."
+
+"I thought of using the paired mind-link ring you gave me as collateral in order to track him down, but then realized that *anything* could have befallen the poor man here in the Bloom... and besides, who am I to stand between two long-lost lovers? Perhaps you might be more inclined to seek him out than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>He turns to Tybir. "And now, old friend - let us resume our acquaintance, shall we? How is Auvigne? Did you have a joyful reunion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Ahh, but we do. Your friend here had a partner named Auvigne." He pauses, considering. "No. Not a partner. A lover. And theirs was truly a great love. For years they traveled together, working great deeds, and they were inseparable. Inseparable! But somehow they were parted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Tybir, is there something more you need to tell me about Auvigne? What was he doing in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"So here. You can have your ring back. May it be useful to you."
+
+He smiles to you and bows. "My apologies, but I simply *had* to make sure of Tybir and Auvigne. I do look forward to hearing of the successful resolution of our arrangement."
+
+{SCRIPT: set Quest_Tybir_LostLoves=2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Former lover. Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"I don't...  I don't know," Tybir says, and beneath his obvious terror in the presence of Dracogen, you see anger. And guilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Come now, don't sell your epic short, Tybir! This was a love for the ages!" He claps your companion on the shoulder and turns to you.
+
+"Let me tell you, the two of them were inseparable. Inseparable! But somehow they parted, lost track of one another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText> "Auvigne came to me a year ago, asking me about Tybir. He came to me, you see, because the two of them shared - let's call them *mind-link rings.* Well! Tybir gave his ring to me for... legal and moral considerations. Shortly afterward, he hoofed it for the city above. Foolishly, I turned the device off as I was examining it, and this brought poor Auvigne running. He thought his lover dead, you see."
+
+"And all this time, I thought that perhaps Auvigne had broken his word to me. Tsk tsk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Now, now, Tybir, I thought *our* arrangement worked out nicely. You certainly came out ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"I am here looking for the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"She has been dead for over a century. Have you tried her tomb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"I see. So what do you want in exchange for an introduction to the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Why do you think I'm a castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Tell me again why you think I'm a castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>He looks pointedly at your tattoo. "I'm hardly an idiot. Your tattoo gives you away, at least to one who knows of your kind. As I do. I have dealt with your siblings before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"I see your tattoo. I know your kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"What do you know about castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Tell me again what you know about castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"You are creations. You are hunted. And nearly all of you suffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"She's alive and she's here, in the Bloom. Mazzof told me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Fine. If I were looking for a random castoff in the Bloom, where would I start?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Then I guess you have nothing to tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Not so, my friend. Please, accept my apologies. I only speak of common knowledge, but common knowledge is sometimes wrong. If the First *were* here, there is one who would know - the ruler of the Bloom. The Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Very good. Very good indeed. You declare one thing, I declare another, and so you find a way to sidestep my denial. I concede, in the face of your surety, that my information may be incorrect. I do not have your answer. But I know one who might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Miel Avest has been destroyed by the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Shock flashes across his features, and he wipes it clear quickly. "I am truly sorry to hear that. I never had the honor of a visit, though I longed to go. Such accumulated knowledge! So many artifacts lost! The value of the pieces would have been worth... well, no matter. No matter. What's done is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"If you wanted to know anything about the Bloom, you should speak to its ruler. The Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Mazzof? How interesting. In any case, you seem to believe what you have said. I concede that common knowledge is not always correct, and I bow to your surety. I do not have your answer, but I know one who might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Dracogen. I'm surprised you're still here." She is cool and distant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"The Bloom brings me many things, and I find that no matter who rules, the flow of information and numenera never changes."
+
+He turns back to you. "But let us continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"All right. Where can I find the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Inside her fortress. But she has locked her gates to outsiders while she considers the problems that face her. Only those who can provide something of value to her get in now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Anyone can claim that title. Question is how well she holds it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>He raises an eyebrow. "Well enough, so far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Tell me about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Tell me about the Memovira again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"It would be better for you to find out yourself, my friend. It is an ugly place, the Bloom, and one should make one's own judgments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"I'll find the First myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Tell me again why I can't find the First myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"I am compelled to remind you of my surprise when you told me she was alive. That is likely to be the most charitable reaction you will find here. The denizens of the Bloom do not tolerate fools, and you will most assuredly be treated as one. *If* she is alive, as you believe, the Memovira is your best chance of learning the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"I did not say that you *can't*, only that it will be easier if you speak to the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Tybir's jaw drops. His face goes pale. 
+
+"I... I don't... how do *you* know... "
+
+His eyes seek yours in mute appeal as his tangled questions take his breath from him and leave him, for once, speechless. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Oh," Dracogen says, clucking his tongue. "I've confused you both. Let me connect some of these dangling threads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Oh! And if you happen to see our mutual friend Tybir, please let him know I'd like a word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>
+
+He raises a slender finger. "Oh, before we part. You have the... scent... of an old friend on you. Tybir. If you should happen to come across him again, please tell him that I would love to see him again. He and I have matters to discuss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Best of luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"What do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"A business proposition, my friend. I wish to prove my value to you, and then you can provide value in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>[DEBUG] Skip this conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>He bows. "Like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"I felt others pulled into the feretory with me. Where are they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Who knows? The Bloom's motivations are inscrutable, and its tendrils pass through countless worlds and dimensions. If you were brought here by the Bloom itself, then these others you speak of could literally be anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

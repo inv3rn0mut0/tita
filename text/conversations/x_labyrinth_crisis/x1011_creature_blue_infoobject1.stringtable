@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_blue_infoobject1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This is a smooth synth basin, shaped to match the contours of a human head. Lights pulse along the inside surface accompanied by an energetic hum.
+
+A heavy cable connects it to the nearby monitoring station.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The pulsing helmet lies on the console in front of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You have already learned the most relevant data from this device: the nevajin is a knowledge seeker, possessed of a deep calm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Place the helmet on your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The moment the helmet touches your head, your vision tunnels and blurs. An instant later, you regain your sight in a dark, domed room. A frozen image of the beast in the nearest tank appears in the center of the chamber with the word "Nevajin" under it. 
+
+It is a humanoid with a skull-like head attached to a bulky body by fibrous tendrils. According to these records, the head is a different being than the body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A voice speaks aloud: "Despite its insatiable curiosity, the nevajin displays an uncanny calm and serenity. It will exchange knowledge for new cyphers or artifacts to examine, but without any indication of greed or goal. They seem single- minded, but so at peace with their pursuits that failure never angers them."
+
+After a pause, the voice adds, "Mass-melody synchronization is necessary to make contact with the nevajin's joint minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The image of the dome in your mind narrows and the lab blinks back into view.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

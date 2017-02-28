@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_freedman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Freedman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find Coty a job.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Speak to Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Got Coty a job with Brusca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Got Coty a job with the Sundermuns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Got Coty a job at the Shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Speak to Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Find something for Coty to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sleep</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Got Coty a "job" with the Decanted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>What happened?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Entered Endgame (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Entered the endgame after getting Coty a job but before telling him (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I purchased a young Bloom-slave named Coty and decided to set him free. Instead of rushing off to enjoy his newfound freedom, he didn't seem to know what to do, so I offered to find him a suitable job.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I should keep an eye out for job opportunities that might suit Coty. He's a sober and healthy young man, but he doesn't have many skills... besides stealing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I've found something for Coty to do, I should return to him and share the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Coty reported to Brusca as the newest recruit in the Memovira's guard. His new life will probably be a little more rough-and-tumble than he's used to, but at least he won't be bored.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Coty is now an apprentice to Sundermun the Elder. If he keeps at it, he'll learn a lucrative skill that's highly in demand in the Bloom.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Coty is the new caretaker at the Shrine of Chila. He won't earn much coin - in fact, he probably won't earn anything besides food and a place to sleep. The Speck promised to look out for him, though, which means that he might be safer than anyone else in the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>My new slave is waiting for my directions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Coty has requested that I give him some work.
+
+Addendum: Coty has revealed that he has some experience as a thief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I gave Coty something to do.  Now I need to wait for him to finish and come back.  This is lame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Coty left with the Decanted. Somehow, I doubt he's going to enjoy what this path has in store for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I must have gotten confused, as for some reason I thought I had already gotten Coty a job, but that's obviously not the case.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>I awakened in the Labyrinth when the Resonance Chamber was activated. Coty will have to find his own way now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I awakened in the Labyrinth after the Resonance Chamber was activated. With no idea when or if I'll be returning to the Bloom, it looks like I may never be able to tell Coty about the work I found for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sundermun the Elder is willing to accept Coty as an apprentice, but only if I pay up front for his room and board.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I paid Sundermun the required sum for Coty's room and board. If I send Coty to his shop, he'll put the boy to work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I convinced the Elder Sundermun to accept Coty as an apprentice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Brusca, one of the Memovira's lieutenants, refused to enlist Coty as a guard, saying that he looked too young and inexperienced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I convinced Brusca to enlist Coty as one of the Memovira's thugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>The Observant Speck will let Coty work as a caretaker at the Shrine of Great Chila. She can't pay him, but she'd offer food and a place to stay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>The Decanted that I met in the Memovira's Courtyard is interested in Coty. It will pay me if I deliver him into its custody.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Strangely, I feel as if I already found Coty a job, but that is clearly not the case. The Bloom must be getting to me.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_crisis_sorrowintroduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The fortress trembles as you regain consciousness, dust and stones falling from the ceiling above.
+
+"What was that?" The First sniffs the air. Her body glows with new power from the resonance chamber. "The Sorrow. It's here, but too soon! The resonance chamber hasn't finished its activation cycle."
+
+She readjusts her grip on the hilt of her blade. "We'll have to face our enemy. Take heart! We need only survive a few more minutes before we are forever free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tremendous power courses through your body, building in wave upon wave. The resonance chamber has not even fully activated, yet you feel as though you could take on the Sorrow by yourself.
+
+None too soon, either. As reality comes back into focus, you sense something has changed. The Sorrow is breaking into the fortress!
+
+The power of the chamber might protect you, but not the others. You'll have to help them survive until the chamber can fully charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Sorrow has built up an alarming amount of power. It turns its attention to the resonance chamber...
+
+Suddenly, the chamber explodes in shafts of light, touching everyone and everything in the fortress. It has activated at last!
+
+But it doesn't feel like you expected. An intense pain explodes in your skull and a wrenching tug in your gut. The chamber is pulling you *inside* it, forcibly ripping your mind from your body.
+
+And if the screams are any indication, you aren't the only one...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The entire fortress shakes, dust and stones falling from the ceiling above.
+
+"What was that?" The First sniffs the air, her body glowing with new power from the resonance chamber. "The Sorrow. It's here, but too soon! The resonance chamber hasn't finished its activation cycle."
+
+She readjusts her grip on the hilt of her blade. "We'll have to face our enemy. Take heart! We need only survive a few more minutes before we are forever free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Just then, the Sorrow breaks into the chamber and all hell breaks loose. If the Sorrow kills you before the chamber can power up, everything will have been for naught.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As she turns to fight, you notice the resonance chamber's console is still functional. Perhaps there's still a chance to redirect its power before it has fully charged.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

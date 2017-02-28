@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_catena_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the compartment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the compartment alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Most of the machinery in the compartment is smashed and unrecognizable, hanging by wires and strips of torn synth. In the open spaces between the machines, tiny vortices of light and energy occasionally spring into being, obliterate everything they happen to touch, and then vanish again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Try to recover the canister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You reach into the compartment, fingers scrabbling at the smooth synth of the canister, trying to work it loose. A tiny vortex flares to life near your arm, but you snatch it away, and the vortex misses you by a few centimeters. With a final twist, you pull the canister free.
+
+{AUDIO: Sound of metal canister - appx. 2 feet long - popping free from the machinery.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You reach your hand into the compartment and start working the canister free, but you're not quick enough. A vortex opens close to your arm, searing your flesh. You lose your grip on the canister, and it snaps back into place.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You reach into the compartment and get a solid grip on the synth canister. It pops free with a single twist, and you pull it from the compartment before any new vortices appear.
+
+{AUDIO: Sound of metal canister - appx. 2 feet long - popping free from the machinery.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You reach into the compartment and manage to get a grip on the slippery canister, twisting this way and that to work it free. Suddenly a tiny vortex springs into being... right next to your arm! In an instant, it carves a hemisphere of empty space into your flesh and bone, and you scream in agony, wrenching your arm from the compartment.
+
+{AUDIO: Sound of a microscopic black hole opening for a second (right next to the player's arm).}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Most of the machinery is smashed and unrecognizable, hanging by wires and strips of torn synth. You notice a synth canister near the back of the compartment that appears to be intact. If you stretched out your arm, you're certain you could retrieve it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Take the canister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You reach into the compartment and detach the canister. It releases from its housing with a faint hiss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>All the machinery inside is broken or smashed. You don't see anything else of interest in the compartment. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>As your eyes grow accustomed to the weird, blurry haze, you notice a synth canister near the back of the compartment. It appears to be intact. If you stretch out your arm, you might be able to reach it... but if a vortex opens at the wrong time, you could be seriously hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She leans forward in at least five realities. "If these vortices remain functional and relatively stable - yes. The catena's power source is still working. Look to the rear. It's not accessible from here, but its transdimensional properties might be... helpful. You should acquire it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He touches your arm and says urgently, "Don't touch *anything*." He pushes you aside and leans his face in. "Look. You see those vortices? They're still spawning. We might be able to salvage the power source." He peers more closely. "Not from here, though. Maybe at the back end of this catena, if we can find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A panel has fallen away from the side of the crashed catena, exposing a compartment that is filled with machinery. Waves of energy radiate from it like heat haze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A panel has fallen away from the side of the crashed catena, exposing a compartment that is filled with machinery. 
+
+Because you removed the power source at the back of the catena, the interior of the compartment is silent and still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText> Follow-up PQ. 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Examine the compartment again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>A panel has fallen away from the side of the crashed catena, exposing a compartment that is filled with machinery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Try to recover the canister again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You recognize the vortices as miniscule singularities in space-time. Their presence suggests that this catena is powered by a transdimensional power source, which might be accessible from its aft section.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Peer more carefully at the canister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>If the interior of the catena is anything like a mechanical engine, you'd guess that the canister is some kind of coolant... though given the size of the catena's engine, it's probably much more powerful than anything you've seen before. 
+
+You suspect that the canister could be repurposed as a single-use device that could freeze anything - or anyone - in a matter of seconds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The canister is icy cold to the touch. On one end, you find a release valve - if you opened it all the way, the coolant could be sprayed out, freezing anything it touches.
+
+{DP}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You reach into the compartment and manage to get a grip on the slippery canister, twisting this way and that to work it free. Suddenly a tiny vortex springs into being... right next to your arm! In an instant, it carves a hemisphere of empty space into your flesh and bone, and you scream in agony.
+
+Blood gushes from the wound, and you collapse, falling into darkness...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Most of the machinery inside is smashed and broken. Every so often, tiny vortices of light and energy appear somewhere in the compartment, obliterate everything they touch, and then vanish.
+
+Toward the back of the compartment, you see an intact synth canister.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

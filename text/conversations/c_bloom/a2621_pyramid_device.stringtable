@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\a2621_pyramid_device</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>On the table is a small pyramid-shaped object that lies on a base of polished wood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The pyramid remains on the table, its mysteries yet uncovered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Examine the pyramid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The base is about an inch tall, and extends past the bottom of the pyramid's sides by about two inches. In the space between the pyramid side facing you and the edge is an inscription of some sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the inscription.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Touch the inscription.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The inscription is in an alien script. It appears to have been burned into the wood and then filled with a luminous substance to provide better contrast for the characters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>No sooner do you touch the inscription than the pyramid dissolves, leaving behind a skeletal framework composed of thin rods in a pyramidal configuration. Within the frame, caged, lies a dull metallic gray sphere. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try to recall where you've heard the language before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try again to recall why the language seems familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A distant memory comes back to you, of being in a place with complicated equipment, perhaps a lab. Standing next to you is an upright elliptical object made of a transparent glasslike substance. Within the object floats a person. No, not a human, you recall, not by any definition that matters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Tatters of memory tickle your mind, tantalizing but just beyond reach. You see a figure floating in a transparent enclosure. The vision zooms on their face, and for an instant their eyes open. As the memory falls away to darkness, you find yourself thinking you've never quite seen eyes that color before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>These people sought to be more than they were, manipulating the very fabric of life to become stronger, smarter, better than normal in all ways. Success brought its own adversity, and now all that remains of a grand ambition are a few preserved corpses and some ancient machines that can alter pre-natal life using a technology whose core principles still elude you.
+
+It was for this reason you studied all you could find about them. For this purpose that you learned to read their long-dead script and-</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>...and you shake off the memory, look down at the script, and realize that its meaning is as clear to you as the title of your favorite book:
+
+"This is the beginning. See as we do, and the path will be clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Leave the device alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>As you step away from the device, the sphere disappears, immediately reappearing within the frame. A moment later, the opaque orange material forms around the frame, leaving the device exactly as you originally found it.
+
+{SCRIPT: Isn't it possible that the player is not holding the sphere (but has already revealed it) when he leaves the device alone?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The pyramid appears to be approximately a foot and a half on each side and is constructed of an orangish material you can't identify.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Examine the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The sphere is almost perfectly sized to fit in your palm. Its diameter is smaller than the opening presented by each side of the frame, so it should be possible to retrieve the sphere from the frame's confines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Take the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You pull the sphere out of the frame through the opening facing you, and it immediately begins to glow a scintillating blue. You pause a moment to make sure there are no other effects, then move to secure it with the rest of your belongings. At some point during this motion the sphere simply vanishes, only to reappear within the frame, once again a dull gray.
+
+Apparently, taking the sphere will not be quite so easy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Take the sphere again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You pull the sphere out again and once again it illuminates to a brilliant blue before disappearing and returning to the frame. After a few repetitions of this with a little experimentation added in, you discover that the sphere's position seems to reset whenever it moves beyond a particular distance from the device.
+
+As long as you keep it within that distance, as you are now, you can manage to hold onto it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Take the entire device with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The device is far too bulky to carry around with you. As if reading your thoughts, Min looks over and shakes his head sadly while muttering something under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Put the sphere back in the frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>As you place the sphere back in the frame, it changes to a vibrant orange color. It occurs to you that the sphere seems to respond to moving through the frame boundaries. Perhaps moving it through the other sides will produce additional results.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Examine the frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The frame is constructed of small rods no more than a finger's width in diameter. They're somewhat uneven, appearing to possibly have been grown in a manner similar to bone or coral.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Examine the frame again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Try as you might, you fail to discern anything new about the frame until you accidentially nudge it. When you do so, it jostles in a most peculiar manner. Your efforts to move the frame that follow reveal that it resists any attempts to move it laterally, but can be easily lifted straight up off the base and lowered back down onto it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Despite additional poking and prodding, the frame reveals no further secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Remove the sphere from the frame via the front opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The sphere's glow changes to a brilliant blue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Remove the sphere from the frame via the left opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The sphere's glow changes to a lurid red.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Remove the sphere from the frame via the back opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Remove the sphere from the frame via the right opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Lift the frame and remove the sphere via the bottom opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Return the sphere to the frame via the front opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Return the sphere to the frame via the left opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Return the sphere to the frame via the back opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Return the sphere to the frame via the right opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Lift the frame and return the sphere to it via the bottom opening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The sphere changes to a cool green.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The sphere changes to a bright orange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The sphere changes to a sickly yellow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>There sphere changes to an unusual color that's part yellow, and part something you have trouble describing.
+
+{SCRIPT: This node requires a conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The sphere changes to a bright orange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The sphere changes to an unusual color that's somewhat like orange but also completely different than any color you've seen before.
+
+{SCRIPT: This node requires a conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The sphere changes to a sickly yellow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The sphere changes color to indigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The sphere changes to a bright orange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The sphere changes to a color unlike any you've ever seen before.
+
+{SCRIPT: This node requires a conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The sphere deepens to deep violet hue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Upon being placed back in the frame, the sphere trembles slightly and begins oscillating through the various colors over and over, faster and faster. When your eyes can barely keep up with the color shifts, a bright flash erupts from it, blinding you temporarily.
+
+When your vision returns, the sphere is gone, and in its place is an item of alien design.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You take the item and, just to be sure, test moving it away from device beyond the point where the sphere would reset. It remains in your grasp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>As you approach the pyramid, you gently tap the inscription, causing it to dissolve and revealing the sphere and frame beneath once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The empty frame rests on the wooden base. It seems incomplete somehow without the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The device quietly hums as you step away from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The memory still flickers just out of your mind's reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Examine the frame more closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

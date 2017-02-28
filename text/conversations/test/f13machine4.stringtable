@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\test\f13machine4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This is a vaguely humanoid statue with an almost-familiar face on its dreadlocked head. No matter where you stand, its marble eyes seem to follow you. Its mouth is partially open, as if in anticipation.
+
+The statue is made of smooth stone.
+
+It's the last statue in this room... well, apart from the one that's across the small fissure in the floor here, anyway. Scratches on the floor tell you that this statue has been moved (though 'dragged' might be the better term) from its original spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The statue remains far from its original position. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You can't help but recall how difficult it was to push this statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Who builds rollers into the bottom of a statue, anyway?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Push it back into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the statue for mechanisms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Statue, move back to your original position."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave the statue alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>As you step away from it, you can feel its eyes on you. They seem... disappointed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You throw your back into the effort, heaving and straining as you force the statue back into its original position. Once you get it back into place, hidden catches in the base of the statue seem to fasten the statue to the ground and it settles deeper into the ground. Light spills across the chasm, creating a bridge between this statue and its partner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You throw yourself into it, but your efforts do nothing but leave you panting at the base of the statue. It's really heavy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>::hmmmmmmmmmmmmm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Search the statue for hidden mechanisms more carefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The statue seems to smile secretly at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Though the statue looks smooth, your lightly questing fingers discover a small latch at each of the statue's heels. Lifting it, you discover a small button. When you depress the button, nearly-invisible rollers push out from the statue's feet, allowing you to push it into place with no trouble.
+
+The statue's face seems to grin in satisfaction, and a stately carpet of pulsing  energy rolls across the fissure to meet the statue's partner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your fingers can find no sign that anything is out of place. But maybe you didn't look hard enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>To your great surprise, the statue's legs click, and it rolls back into place without any further prompting on your part. You could swear that the expression on its face is almost smug.
+
+As it locks into its original position, a wave of energy pours from it to create a bridge across the fissure. The statue on the other side seems to settle, almost as if it were relieved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Did you think talking to a statue was going to work? Nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>THIS NODE SHOULD NOT BE PLAYED BECAUSE THIS IS AN AUTO SUCCESS SKILL</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Statue, I don't have time to figure this out. I even hurried to the ground as I fell to the sky. Show me your secrets!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

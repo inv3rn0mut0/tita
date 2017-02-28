@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\d_oasis\d5121_water_pump</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText> Follow-up T. 89</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>A massive bio-mechanical machine sits with its intake valve inside the bubble of the Oasis, and its snail-like back end sticking out into the marina. Large pipes snake out from under it and across to the fountain in the center of the square, and several guards keep an eye on it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Examine the pump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Discretely use the Magmatic Annulet to determine the cause of its distress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Looking closer, you realize that the machine is in fact a living thing - half mollusk, half mechanical.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[You fail to understand how this thing works.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You put an ear to the machine's side, and hear an aryhthmic thumping with each inhalation. The pump shudders and groans like a living thing every time it happens. Indeed, you realize now that it is in fact a living thing, and know there is distress. The tension is affecting the creature's desire to filter the water properly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[You fail to understand how this thing works.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText> Addend. 103</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Indeed, you realize now that it is in fact a living thing, and know there is distress. The tension is affecting the creature's desire to filter the water properly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>As you focus on the annulet, you become aware of the pump's presence in your mind, and sense that the source of it's pain is a foreign object lodged in its upper intestinal tract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Try to discover what's wrong with the pump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Examining the outside of the pump tells you nothing. Nor does touching it, but when you put an ear to its side, you hear a thumping and gurgling with each of its inhalations. It sounds like there's a blockage in its upper intestinal tract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Examining the outside of the pump tells you nothing. Nor does touching it, but when you put an ear to its side, you hear a thumping and gurgling with each of its inhalations. Sadly, you're not sure what that means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Persuade the guards to let you help dislodge the fallen part.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Guards, listen. There is a foreign object lodged in the beast's upper intestine, and it is damaging its insides with every breath. If you know how to remove it, do so now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Attempt to remove the foreign object when the guards aren't looking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Waiting until the guards are distracted by a passing seller of spiced meats, you give the pump a swift kick in the side. It grunts with pain, but then you hear the blockage thudding and clunking down the pipe toward the fountain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Waiting until the guards are distracted by a passing seller of spiced meats, you draw back your foot to give the pump a swift kick in the side, but you're not quick enough. 
+
+"Hoy!" shouts the sergeant. "What are you playing at? Do you know how many people would die of thirst if this pump fails? Get away from there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The guard hesitates. "We're not supposed to touch the machinery. The Gibbers do all the fixing. But, well, I've been standing here listening to the poor thing moan for two days. It isn't right to just do nothing."
+
+He steps to the pump. "Right. I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The guard shakes his head. "Sorry. We're not supposed to touch the machinery. The Gibbers do all the fixing. I'm not going to get into trouble because some outsider says so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>The pump gives an audible sigh of relief and the water begins to pass smoothly through it again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[The guards refuse to help you and tell you to get along, but allude to resolving the PeaceMaker quest?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>You approach the pump again. Nothing has changed. It is still shaky and struggling. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Tell the guards you think there's something wrong with the pump, and ask to have a look at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The guard shrugs. "Look? Sure. You can even pet it if you like that sort of thing. But only the Gibbers are allowed to open it up, so keep it polite, understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The guard shrugs. "Look? Sure. You can - " He stops, frowning at you. "Wait a minute. Scar... bald head... Hey! You're on the undesirables list! The Gibbers kicked you out of the Oasis for not having a stone!"
+
+He grips his spear, and the other guards fall in behind him. "You're not getting near that pump, miscreant. Keep moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>You approach the still groaning pump. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>It is clear that the foreign object remains within its innards, causing it terrible discomfort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Attempt to fish out the blockage yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>The sergeant blocks your way, shouting. "Hoy! What are playing at? Do you know how many people would die of thirst if this pump fails? Get away from there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Use your Push ability to try to dislodge the object.
+
+{SCRIPT: PC or CNPC has Push}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The pump is inhaling and exhaling easily. All is well and the water is clean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Guards, listen. There is a foreign object lodged in the beast's upper intestine, and it is damaging its insides with every breath. I know how to get it out. Let me try." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>The guard hesitates. "Nobody's supposed to touch the machinery except the Gibbers. They're the ones who do all the fixing. But, well, I've been standing here listening to the poor thing moan for two days. It isn't right to just do nothing."
+
+He looks around, nervous, then nods. "Fine. You knew what you were doing outside the Giash Chamber, maybe you know what you're doing here. Do it. Just hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The guard shakes his head. "Sorry. Nobody's supposed to touch the machinery except the Gibbers, and if you think I'm going to let some outsider tinker it just because he asked nice, you're buggy. I'd get the sack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Use Telekinesis to try to dislodge the object.
+
+{SCRIPT: PC or CNPC has Telekinesis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Feeling with your mind, you locate the foreign object within the pump and give it a mental push. It dislodges itself and you hear it thudding and clunking down the pipe toward the fountain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Peering into the Oasis, you see that the machine is sucking in prodigous amounts of water. But all is not well with it. It seems to be groaning and shaking with each inhalation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Reach out to examine the pump. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The sergeant of the guards steps in your way. "Hey! What are you doing? That's city property!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Sorry, but I noticed that there's something wrong with this pump. Can I have a look and see if I can figure out what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText> "Well you might have asked first." The guard shrugs. "Go on. Have a look. You can even pet it if you like that sort of thing. But only the Gibbers are allowed to open it up, so keep it polite, understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText> "Well you might have asked first. Go on. Have a - " The guard stops, frowning at you. "Wait a minute. Scar... bald head... Hey! You're on the undesirables list! The Gibbers kicked you out of the Oasis for not having a stone!"
+
+He grips his spear, and the other guards fall in behind him. "You're not getting near that pump, miscreant. Keep moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Off you go, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>You watch as the guard closes a pressure valve, then removes the metal plate from the pump's shell, rolls up his sleeve, and reaches into its fleshy intestines. After a tense moment of fishing around, he pulls out a piece of flanged machinery, bristling with sharp and broken edges. It looks like it was sheered off at the base. He tosses it to you. 
+
+"Here you are. A souvenir. And thanks for the help."
+
+{SCRIPT: Add item to player inventory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The guards watch uneasily as you close a pressure valve, then remove the metal plate from the snail's shell and reach into its fleshy intestines. 
+
+After a tense moment of fishing around, you pull out a piece of flanged machinery, bristling with sharp and broken edges. It looks like it had been sheered off at the base. You start to hand it to the guard, but he waves you off. 
+
+"Keep it. A souvenir. And thanks for the help."
+
+{SCRIPT: Add item to player inventory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
